@@ -1,0 +1,12 @@
+[Event "Dutch League 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ris"]
+[Black "Ten Hertog"]
+[Result "*"]
+[Puzzle "245"]
+[FEN "2kr1b1r/pp3p1p/2p2p2/7P/1nqN4/2PpB2P/PP3PB1/R3KQ1R b KQ - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Rxd4 $1 2. Bxd4 Nc2+ 3. Kd2 Nxd4 4. Be4 { The white king is caught in a mating-net after 19 cxd4 Bh6+ 20 f4 Bxf4+ 21 Ke1 (21 Qxf4 Qc2+ 22 Ke3 Qe2#) 21...Qb4+ 22 Kf2 Qxd4+ 23 Kf3 Qe3+ 24 Kg4 Rg8+ 25 Kf5 Qe5#. } 4... Nf3+ 5. Ke3 { 20 Bxf3 Bh6+ 21 Kd1 Qf4 22 Qxd3 Rd8 23 Qxd8+ Kxd8–+ gives Black a decisive material advantage. } 5... Ne5 6. Bf5+ Kb8 7. f4 Qc5+ 8. Kd2 Nc4+ 9. Kxd3 Qxf5+ { 25 Ke2 Bc5 leads to mate. } 10. Kxc4 Qd5# *

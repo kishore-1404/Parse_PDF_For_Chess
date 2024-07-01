@@ -1,0 +1,12 @@
+[Event "Belgrade 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A. Petrović"]
+[Black "M. Krstić"]
+[Result "*"]
+[Puzzle "549"]
+[FEN "r4r2/1bq2pk1/pp1pp1p1/4n3/P1PN4/1P2QPP1/1B4K1/3B3R w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Rh5 $1 { White is the exchange and a pawn down, but can save the game. But not by 28 Kg1? Rh8 29 Rh4 Rxh4 30 gxh4 Rh8–+, as played in the game, when White’s attack petered out. The same can be said for 28 Qh6+? Kf6 29 Qh4+ g5 30 Qh6+ Ke7 31 Qxg5+ Kd7–+. The computer indicates that 28 c5 also keeps the game level, though this is only because after 28...bxc5 White can still play 29 Rh5!. } 1... gxh5 { 28...Rh8?? loses to 29 Nxe6+! fxe6 30 Rxe5+–, while 28...Qd7 29 Qh6+ Kf6 30 Qg5+ Kg7 31 Qh6+ = is another path to a repetition. } 2. Qg5+ Kh7 3. Qxh5+ Kg8 4. Qg5+ Kh7 5. Qh5+ { with a draw by repetition. } *

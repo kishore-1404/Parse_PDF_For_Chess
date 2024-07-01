@@ -1,0 +1,12 @@
+[Event "British Knockout Ch, London 2017"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Short"]
+[Black "McShane"]
+[Result "*"]
+[Puzzle "523"]
+[FEN "2k1r3/ppp2ppp/3b4/3P4/3n1P1q/3PB3/PPP2PKP/R2Q1R2 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Nxc2 $1 { 16...g5?? allows White to eliminate Black’s kingside threats: 17 Bxd4 Qxf4 18 Qh5 Qxd4 19 Rae1+– Spasić-Duduković, Pozarevac 2022. } 2. Qxc2 { White has very little to gain by avoiding the draw with 17 Qf3 Nxa1 18 Rxa1 b6 as the position slightly favours Black due to his superior pawn-structure. } 2... Qg4+ 3. Kh1 Qf3+ 4. Kg1 Qg4+ 5. Kh1 Qf3+ { with a draw by repetition. } *

@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vachier-Lagrave"]
+[Black "Wei Yi"]
+[Result "*"]
+[Puzzle "914"]
+[FEN "r2q2r1/1b3p2/pbpp1k2/1p1B4/P2nP3/5R2/1P3PPP/RN1Q2K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Nxf3+ $1 { In the game, 20...Ke5?? 21 Rxf7+– left the black king in too precarious a position. } 2. Qxf3+ Kg7 3. Qxf7+ Kh6 4. Ra3 { Or 23 Qxg8 Qxg8 24 Bxg8 Rxg8–+. } 4... Qh4 $1 5. Rg3 Raf8 6. Rg6+ { 25 Qe6+ Rf6 26 Qxg8 Bxf2+ 27 Kh1 Bxg3–+. } 6... Rxg6 7. Qxf8+ Kh7 8. Qf7+ Rg7 9. Qf5+ Kh6 *

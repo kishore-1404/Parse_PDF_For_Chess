@@ -1,0 +1,12 @@
+[Event "Obninsk 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "I. Grigoriev"]
+[Black "D. Shapiro"]
+[Result "0-1"]
+[Puzzle "372"]
+[FEN "r2q1rk1/p1bn1ppp/B3p3/3pPb2/1P1P4/8/5PPP/RNBQ1RK1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Nxe5 $1 2. dxe5 { 16 Bf4 Nc4–+. } 2... Bxe5 3. Qa4 { 17 Ra3 Bxb1–+. } 3... Qf6 0-1

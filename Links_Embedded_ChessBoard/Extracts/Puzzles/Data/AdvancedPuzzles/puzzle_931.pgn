@@ -1,0 +1,12 @@
+[Event "World Ch (5), Astana 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nepomniashchy"]
+[Black "Ding Liren"]
+[Result "*"]
+[Puzzle "931"]
+[FEN "1r1q1k2/6p1/3p1p2/1pbQ1PpP/2p3R1/2P2N2/1P3P2/5K2 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Nh4 $3 gxh4 { (variation) } 2. h6 $1 g5 { Or 39...Ke8 40 Re4+ Kd7 41 Ng6 Kc7 42 Re7+ Kb6 43 Rxg7+–. } 3. fxg6 Qd7 4. g7+ Ke7 5. g8=Q Rxg8 6. Qxg8 { After 40...Qe7 41 h7+– White’s h-pawn will promote. } *

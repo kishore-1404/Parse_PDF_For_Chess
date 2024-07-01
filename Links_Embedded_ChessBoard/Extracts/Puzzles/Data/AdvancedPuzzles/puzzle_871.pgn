@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Aronian"]
+[Black "Erigaisi"]
+[Result "*"]
+[Puzzle "871"]
+[FEN "3Q4/8/2N2p2/8/4P2p/1P2kb2/6r1/4b2K w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Qb6+ $1 { White must keep the d4-square free for a possible knight check; the game continuation was 58 Qd4+?? Ke2 59 Qc4+ Kf2 60 Qc5+ Kf1 0-1. } 1... Kd2 { 58...Kd3 59 Qd8+ Kxe4 (59...Ke3 60 Qb6+ repeats) 60 Qe7+ (60 Qd4+ also draws) 60...Kf4 61 Qxf6+ Kg3 62 Qe5+ Kf2 63 Qd4+ Kg3 64 Qe5+ with perpetual check. } 2. Qd8+ Kc1 { 59...Ke3 60 Qb6+ repeats. } 3. Qxf6 Rg3+ 4. Kh2 Rg2+ 5. Kh1 { 62 Kh3 Rg3+ 63 Kh2 Rg2+ repeats. } 5... Rg3+ { Again we have a perpetual check. } *

@@ -1,0 +1,12 @@
+[Event "Benidorm 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ibañez Aullana"]
+[Black "M. van Foreest"]
+[Result "*"]
+[Puzzle "273"]
+[FEN "2r3rk/pq4pp/1pb5/1P2BB1Q/3P1P2/4b3/P6P/3R1K2 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Bxb5+ $1 { Black must avoid 32...Bg2+?? 33 Ke1 Bf2+ 34 Kxf2 Qf3+ 35 Qxf3 Bxf3 36 Kxf3+–. } 2. Bd3 { White played 33 Rd3 in the game and was quickly mated: 33...Rc1+ 34 Ke2 Qg2+ 35 Kxe3 Re1+ 0-1. } 2... Qh1+ 3. Ke2 Qe4 4. Ke1 Rc2 { White is mated in a few moves. } *

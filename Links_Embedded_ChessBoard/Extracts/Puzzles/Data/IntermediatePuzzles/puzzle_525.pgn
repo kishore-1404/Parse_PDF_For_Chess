@@ -1,0 +1,12 @@
+[Event "Bosnian Team Ch, Bihać 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Buljubasić"]
+[Black "S. Milanović"]
+[Result "*"]
+[Puzzle "525"]
+[FEN "r1bq2k1/ppp3pN/2n1p3/1B3r2/3P3n/P2QP3/1PP3P1/2KR3R b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Rh5 $1 { White has a strong attack after 15...Bd7? 16 g4! Nb4 17 axb4 Bxb5 18 c4 +/–. } 2. g3 Rxh7 3. gxh4 Qe7 { Black has good chances to win as White has insufficient compensation for the piece. } *

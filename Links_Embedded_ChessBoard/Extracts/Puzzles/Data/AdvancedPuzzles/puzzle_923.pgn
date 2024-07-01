@@ -1,0 +1,12 @@
+[Event "Novi Banovci 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "I. Martić"]
+[Black "A. Petrović"]
+[Result "*"]
+[Puzzle "923"]
+[FEN "r1r1k3/1bqn3R/3pp3/6B1/1p1bP1P1/1P3P2/N6Q/1K1R4 b q - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Qc2+ $1 { The only move to counter White’s kingside mating threats. } 2. Qxc2 Rxc2 3. Kxc2 Rxa2+ 4. Kb1 { 34 Kd3?? Bc5 (or 34...Bb6) leads to mate as White cannot defend against the dual threats of ...Ba6# and ...Ne5#. } 4... Ra1+ 5. Kc2 { Now Black’s safest option is 35...Ra2+ with a draw by repetition. Instead 35...Rxd1 (as played in the game) 36 Kxd1 may give White a slight edge thanks to his active rook. } *

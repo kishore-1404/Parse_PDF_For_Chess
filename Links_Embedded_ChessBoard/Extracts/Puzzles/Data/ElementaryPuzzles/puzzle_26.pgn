@@ -1,0 +1,12 @@
+[Event "Croatian Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "N. Cabarkapa"]
+[Black "Makaj"]
+[Result "1-0"]
+[Puzzle "26"]
+[FEN "1k1n4/2N5/QPqp2p1/4p3/4n1P1/1N6/1K6/8 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Qa7+ Kc8 2. Nd5 $1 Qb7 { 52...Qxd5 allows 53 Qc7#. } 3. Na5 { Or 53 Ne7+ Kd7 54 Na5+–. } 1-0

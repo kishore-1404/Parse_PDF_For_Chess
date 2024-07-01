@@ -1,0 +1,12 @@
+[Event "Jermuk 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Yakubboev"]
+[Black "Tabatabaei"]
+[Result "*"]
+[Puzzle "580"]
+[FEN "r4N1k/1b3qbp/1p6/3p1p2/1P2nQpN/6P1/P4PP1/3RR1K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Rxe4 $1 dxe4 2. Rd7 Qxa2 { 33...Qxf8 34 Rxb7+– is an easy win for White as the f5-pawn will drop off. Now (after 33...Qxa2), White’s eventual aim is still to take the f5- pawn, after which Black’s game will disintegrate. But not by 34 Nxf5? Rxf8 35 Rxb7 e3!? as in the game (objectively equal only if White plays accurately). Instead 34 Nhg6+ (34 Nfg6+ and 34 Nxh7 are strong too) 34...hxg6 35 Nxg6+ Kg8 36 Rxb7+– wins as f5 falls. } *

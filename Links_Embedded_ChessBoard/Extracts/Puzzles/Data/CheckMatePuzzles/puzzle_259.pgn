@@ -1,0 +1,12 @@
+[Event "Budapest 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fiedorek"]
+[Black "Daroczi"]
+[Result "1-0"]
+[Puzzle "259"]
+[FEN "4r2k/6p1/ppq4p/2n1p3/P5Q1/3PP1P1/2B2R1P/6K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. d4 $1 { White opens the diagonal for his light-squared bishop. } 1... exd4 { Or 38...Qe6 39 Bf5+–. } 2. Rf7 Ne6 { After 39...Rg8 40 exd4 Qe6 41 Qxe6 Nxe6 42 d5 Nd4 43 Bg6+– White’s passed d-pawn is too strong. } 3. Qg6 d3 4. Bxd3 Kg8 5. Rf1 1-0

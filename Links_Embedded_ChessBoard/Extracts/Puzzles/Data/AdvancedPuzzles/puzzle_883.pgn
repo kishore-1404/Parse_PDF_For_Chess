@@ -1,0 +1,12 @@
+[Event "Abu Dhabi 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Jobava"]
+[Black "M. Pranesh"]
+[Result "1-0"]
+[Puzzle "883"]
+[FEN "3kb3/p5bR/4ppB1/3p2P1/n2P1B2/2r1PN2/1p3PK1/8 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Rxg7 Bxg6 2. gxf6 $1 Bh5 { 34...b1Q 35 Rg8+ Kd7 (35...Be8 36 f7 Qg6+ 37 Bg5++–) 36 Ne5+ Kc7 37 Nxg6+ Kc6 38 f7 Rc1 39 Bh2 Qe4+ 40 Kg3+–. } 3. Rg8+ Kd7 4. Ne5+ Kc7 5. Nc4+ Kd7 { 37...Kb7 38 Nxb2 Nxb2 39 Rb8+ Ka6 40 Rxb2+–. } 6. Rg7+ Kd8 { 38...Kc6 39 Nxb2 Nxb2 40 Rc7+ Kb5 41 Rxc3+–. } 7. Bc7+ Ke8 8. Ne5 Bf7 9. Rh7 { 41...Bg8 42 Re7+ Kf8 43 Ng6#. } 1-0

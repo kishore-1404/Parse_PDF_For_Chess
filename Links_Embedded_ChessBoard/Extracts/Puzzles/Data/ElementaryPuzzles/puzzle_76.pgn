@@ -1,0 +1,12 @@
+[Event "Mersin 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Yurtseven"]
+[Black "Aydincelebi"]
+[Result "1-0"]
+[Puzzle "76"]
+[FEN "r5k1/1q3pp1/4p2p/p3Q1N1/2B5/1P2P1PK/7P/8 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Nxf7 $1 Qf3 { The knight is immune from capture: 38...Qxf7 39 Bxe6+– or 38...Kxf7 39 Qxe6+ Kf8 40 Qg8+ Ke7 41 Qxg7+ Kd6 42 Qxb7+–. } 2. Qxe6 { Black runs out of checks after 39...Qh5+ 40 Kg2+–. } 1-0

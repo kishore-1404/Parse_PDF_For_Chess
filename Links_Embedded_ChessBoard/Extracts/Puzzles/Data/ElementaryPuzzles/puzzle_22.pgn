@@ -1,0 +1,12 @@
+[Event "Eberstadt 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Krassowizkij"]
+[Black "Rogić"]
+[Result "*"]
+[Puzzle "22"]
+[FEN "r1bqr1k1/ppp2pp1/1b1p1n1p/4n3/2PNP3/N6P/PPB2PP1/R1BQR1K1 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Bxh3 $1 2. Ba4 { 15 gxh3 Bxd4 16 Kg2 (16 Qxd4 Nf3+–+) 16...Bc5–+. } 2... c6 { Black has a clear extra pawn. } *

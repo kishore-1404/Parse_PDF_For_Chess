@@ -1,0 +1,12 @@
+[Event "Germany (team event) 2021/2"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Max. Müller"]
+[Black "Gottschalk"]
+[Result "*"]
+[Puzzle "951"]
+[FEN "r4rk1/1p2p2p/p1np2p1/3N1p2/2PbP1n1/1P2N3/PB1Q1PBq/R2R1K2 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Bxb2 2. Qxb2 Nxf2 $1 { Black exploits the line-up of his rook and the white king along the f- file. } 3. exf5 Ne4 $1 { After 22...Nxd1? 23 Rxd1 Qg3 (as played in the game) White could have safeguarded his king by 24 Qf2 Qxf2+ 25 Kxf2 gxf5, with roughly equal chances. } 4. Rab1 gxf5 { Black retains his knight and has a decisive attack. For example, 24 Ke2 f4 25 Rh1 f3+ 26 Kd3 Qg3–+. } *

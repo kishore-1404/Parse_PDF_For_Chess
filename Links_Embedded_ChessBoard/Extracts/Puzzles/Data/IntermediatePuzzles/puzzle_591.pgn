@@ -1,0 +1,12 @@
+[Event "Warsaw rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Duda"]
+[Black "Wojtaszek"]
+[Result "*"]
+[Puzzle "591"]
+[FEN "8/p5p1/5p1k/2P3p1/3B2QP/P3P3/3n1qPK/8 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Nf1+ $1 { In the game Black allowed an exchange of queens and lost after 38...gxh4?? 39 Qf4+! Qxf4+ 40 exf4 Ne4 41 c6 a6 (41...Nd6 42 Bxa7 Nc8 43 Bc5+–) 42 Bc5 1-0. } 2. Kh1 { 39 Kh3 Nxe3 40 hxg5+ fxg5 41 Bxg7+ (41 Qe6+?? g6 42 Qxe3 Qh4#) 41...Kxg7 (41...Kg6 42 Qe6+ Kxg7 43 Qe7+ Kg6 44 Qe6+ Kg7 =) 42 Qd7+ Kf6 43 Qd6+ Kf7 44 Qd7+ Kf6 = with a draw by repetition. } 2... Ng3+ { Black loses his knight after 39...Nxe3?? 40 hxg5+ fxg5 (40...Kg6 41 Qe4++–) 41 Qe6+ Kh5 42 Qxe3+–. } 3. Kh2 Nf1+ { with a draw by repetition. } *

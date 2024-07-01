@@ -1,0 +1,12 @@
+[Event "Chinese Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lu Shanglei"]
+[Black "Zhang Zhong"]
+[Result "*"]
+[Puzzle "594"]
+[FEN "r2n1rk1/pp2qbp1/1bp4p/1B1pPp1P/3PnN1N/P3B1P1/1P3P2/R2QK2R b KQ - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... cxb5 $1 { In the game White obtained good counterplay after 17...Ba5+? 18 b4 Bxb4+ 19 Kf1! cxb5 20 Nxf5+=. } 2. Nxf5 { 18 Nhg6 Bxg6 19 Nxg6 Qf7 20 Nxf8 Kxf8–+. } 2... Qe8 3. Qg4 Ng5 $1 { White has nothing for his missing piece. } *

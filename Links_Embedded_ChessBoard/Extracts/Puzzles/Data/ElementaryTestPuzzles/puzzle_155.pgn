@@ -1,0 +1,12 @@
+[Event "Chennai Olympiad 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dobrovoljc"]
+[Black "Diamant"]
+[Result "0-1"]
+[Puzzle "155"]
+[FEN "r1b2rk1/1pq1bppp/p1n1p3/6B1/2P1N1n1/5N1P/PPQ2PP1/R3RBK1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Nd4 $1 { 16 Qd1 (16 Nxd4 Qh2#) 16...Nxf3+ 17 Qxf3 Qh2#. } 0-1

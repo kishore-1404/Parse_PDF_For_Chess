@@ -1,0 +1,12 @@
+[Event "Catalonian Team Ch, Barcelona 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Arias Boo"]
+[Black "Alonso Moyano"]
+[Result "0-1"]
+[Puzzle "348"]
+[FEN "8/4nk2/1R1Qbb1q/5p2/p1P1pP1r/PP4pP/4N1B1/2R4K b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Rxh3+ 2. Kg1 { White is also mated after 33 Bxh3 Qxh3+ 34 Kg1 Qh2+ 35 Kf1 Qf2#. } 2... Rh1+ $1 { The rook sacrifice gives Black access to the f2-square to deliver mate: 34 Bxh1 Qh2+ 35 Kf1 Qf2#. } 0-1

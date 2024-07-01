@@ -1,0 +1,12 @@
+[Event "Havana 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sadhwani"]
+[Black "Fier"]
+[Result "0-1"]
+[Puzzle "967"]
+[FEN "5r2/5k2/4p1R1/3p1r2/2nP1N2/p1PQ4/1q4P1/1R4K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Rxf4 $1 2. Rxb2 axb2 { White’s queen is tied down by Black’s b2-pawn. } 3. Rh6 Ke7 4. Kh2 R4f6 5. Rh5 { 36 Rh7+ R8f7–+. } 5... Nd2 6. c4 b1=Q 7. Qa3+ Kf7 0-1

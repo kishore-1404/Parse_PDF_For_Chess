@@ -1,0 +1,12 @@
+[Event "Pirot 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "M. Ivanović"]
+[Black "M. Mitrović"]
+[Result "*"]
+[Puzzle "944"]
+[FEN "r1r5/p2bpkbp/3p2p1/3q4/1p1N2P1/4BP2/PPP4Q/1K1R3R w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Nf5 $1 { White must avoid trapping his own queen after 21 Qxh7?? Rh8–+. } 1... Qe5 2. Qxe5 Bxe5 3. Rxh7+ Kg8 4. Rxe7 { The greater activity of White’s rooks makes all the difference here. } 4... Ba4 { White has a clear extra pawn after 24...Bxf5 25 gxf5 gxf5 26 f4 Bf6 27 Re6 Rf8 28 Rexd6+–. } 5. Nh6+ Kf8 6. Rf7+ Ke8 7. b3 *

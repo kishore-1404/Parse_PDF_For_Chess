@@ -1,0 +1,12 @@
+[Event "European Rapid Ch, Katowice 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Khuzman"]
+[Black "Lagarde"]
+[Result "*"]
+[Puzzle "129"]
+[FEN "2r1r1k1/p2q2bp/bpn1p1p1/1N1p1p2/2PPnN2/1P4P1/PB2QPBP/2RR2K1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Bxb5 2. cxb5 Nxd4 $1 3. Bxd4 Rxc1 4. Rxc1 Bxd4 *

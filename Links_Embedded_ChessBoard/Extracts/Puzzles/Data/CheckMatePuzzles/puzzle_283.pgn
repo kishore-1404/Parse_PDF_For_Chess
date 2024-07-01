@@ -1,0 +1,12 @@
+[Event "New York 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Poliannikov"]
+[Black "Sa. Sethuraman"]
+[Result "*"]
+[Puzzle "283"]
+[FEN "2r3k1/3nB2p/p2P2p1/8/1p5P/6P1/PP1r2B1/5RK1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Bh3 $1 Rcc2 { White wins a piece after 31...Rf8 32 Be6+ Kg7 33 Bxf8+ Nxf8 34 Rf7+ Kh6 (34...Kg8 35 Rf2+ Nxe6 36 Rxd2+–) 35 Rxf8 Rxd6 36 Bc4+–. } 2. Be6+ Kh8 { 32...Kg7 33 Rf7+ Kh8 34 Rf8+! transposes to the game. } 3. Rf8+ $1 Kg7 { The game ended 33...Nxf8 34 Bf6# (1-0). } 4. Rg8+ Kh6 5. Bg5+ Kh5 6. g4# { A good example of the attacking strength of the bishop-pair. } *

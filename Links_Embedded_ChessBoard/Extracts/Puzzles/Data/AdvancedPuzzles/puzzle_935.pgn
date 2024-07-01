@@ -1,0 +1,12 @@
+[Event "Ciutadella de Menorca 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "T. Sosa"]
+[Black "Santos Ruiz"]
+[Result "1-0"]
+[Puzzle "935"]
+[FEN "r3k2r/1bqp1n2/p2bp3/2p3Bn/Pp1PP3/2P1N1P1/1P2Q1BP/R4RK1 w kq - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Rxf7 $1 Kxf7 2. Rf1+ Kg8 { White has a decisive material advantage after 21...Ke8 22 Qg4 cxd4 23 Bf6 Nxf6 24 Qg6+ Kd8 25 Qxf6+ Kc8 26 Qxh8+ Qd8 27 Qxd4+–. } 3. Qg4 Ng7 4. Bf6 Bf8 { 23...Rh7 24 Qg6 (intending Ng4) 24...Bf8 transposes to the game. } 5. Qg6 Rh7 { 24...d6 opens a line for the black queen to participate in the defence, but this does not really help: 25 Bxg7 Qxg7 (or 25...Bxg7 26 Qxe6+ Kh7 27 Rf5, mating) 26 Qxe6+ Kh7 27 Rf7+–. } 6. Ng4 { 25...Kh8 26 Be5 Qd8 27 Nf6+–. } 1-0

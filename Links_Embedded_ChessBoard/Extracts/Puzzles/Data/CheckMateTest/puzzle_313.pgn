@@ -1,0 +1,12 @@
+[Event "World Junior Ch, Cala Gonone 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Prraneeth"]
+[Black "Murzin"]
+[Result "1-0"]
+[Puzzle "313"]
+[FEN "2r2rk1/1q2bp1p/p1bpp1p1/8/1pPBnP2/4R2Q/PPB1N1PP/5R1K w - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1. Qxh7+ $1 { 23...Kxh7 24 Rh3+ Bh4 25 Rxh4+ Kg8 26 Rh8#. } 1-0

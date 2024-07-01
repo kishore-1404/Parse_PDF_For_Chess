@@ -1,0 +1,12 @@
+[Event "Sant Ferran de ses Roques 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Asis Gargatagli"]
+[Black "Pranav"]
+[Result "0-1"]
+[Puzzle "573"]
+[FEN "r3kb1r/1bqp1pPp/8/1p2p3/1p1QP3/4B3/PPPR1P1P/2K2B1R b kq - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... exd4 $1 { 14...Bxg7? 15 Qxb4 Rxa2 16 Kb1+=. } 2. gxh8=Q dxe3 3. fxe3 Bxe4 4. Bxb5 { 17 Qd4 Bxh1 18 Bxb5 0-0-0–+. } 4... Rxa2 { 18 Kb1 b3–+. } 0-1

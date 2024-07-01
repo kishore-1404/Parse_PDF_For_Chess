@@ -1,0 +1,12 @@
+[Event "Bošnjaci 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ljikar"]
+[Black "Ef. Muratović"]
+[Result "0-1"]
+[Puzzle "124"]
+[FEN "r4rk1/p2npp1p/2pp1np1/7q/1p1PPP2/3BQ3/PPPN2PP/3R1RK1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Qxh2+ $1 { White loses the exchange and a pawn after 16 Kxh2 Ng4+ 17 Kh3 Nxe3–+. } 0-1

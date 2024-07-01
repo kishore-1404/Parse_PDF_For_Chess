@@ -1,0 +1,12 @@
+[Event "Mar del Plata 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ocampos"]
+[Black "Slipak"]
+[Result "0-1"]
+[Puzzle "266"]
+[FEN "8/6pk/7p/5R2/1q1PpP2/r6P/2Q3PK/8 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Qe1 $1 { White has an extra pawn, but his advanced rook is unable to assist with defence. } 2. Rb5 Rc3 $1 { The key move: White’s queen is driven to a bad square. } 3. Qb2 { White is unable to defend his first rank after 43 Qb1 Qg3+ 44 Kh1 Re3–+. } 3... Qg3+ 4. Kg1 Re3 { White must sacrifice his queen for the black rook to avoid mate. } 0-1

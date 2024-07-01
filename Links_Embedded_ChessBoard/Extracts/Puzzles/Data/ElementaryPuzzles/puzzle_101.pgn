@@ -1,0 +1,12 @@
+[Event "Ayvalik 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Erdogmus"]
+[Black "Nikčević"]
+[Result "1-0"]
+[Puzzle "101"]
+[FEN "2rr4/2p1Nbpk/p6p/P1Q1p3/B3q3/BP5P/2n2PP1/R5K1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Bc6 $1 Qe2 2. Bf3 { White has too many threats after 33...Qd3 34 Qxe5 Kh8 35 Bb2+–. } 1-0

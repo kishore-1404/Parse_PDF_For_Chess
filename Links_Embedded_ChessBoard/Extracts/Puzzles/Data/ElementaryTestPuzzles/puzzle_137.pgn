@@ -1,0 +1,12 @@
+[Event "Delhi (women) 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Padmini"]
+[Black "Yakubbaeva"]
+[Result "*"]
+[Puzzle "137"]
+[FEN "2r1r1k1/p4pb1/5Pp1/4q3/2B5/1P1Q4/P7/1K1R1R2 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Rxc4 $1 { The game ended 31...Bxf6?? 32 Qxg6+ 1-0. } 2. Qxc4 { 32 fxg7 Rf4–+. } 2... Bxf6 3. Rxf6 { 33 Kc2 Qb2+ 34 Kd3 Qe2#. } 3... Qxf6 *

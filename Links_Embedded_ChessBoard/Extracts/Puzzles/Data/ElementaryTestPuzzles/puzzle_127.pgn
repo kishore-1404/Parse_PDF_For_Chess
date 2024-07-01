@@ -1,0 +1,12 @@
+[Event "Romanian Rapid Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "T. Anton"]
+[Black "Grecescu"]
+[Result "0-1"]
+[Puzzle "127"]
+[FEN "4r1k1/1R4p1/3p4/2pP4/P1P5/2q4P/5QP1/6K1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Re1+ 2. Kh2 Qe5+ 3. Qg3 { 35 g3 Re2–+. } 3... Rh1+ 4. Kxh1 Qxg3 5. Rd7 Qa3 0-1

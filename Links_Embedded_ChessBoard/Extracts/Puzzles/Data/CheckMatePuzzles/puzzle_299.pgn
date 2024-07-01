@@ -1,0 +1,12 @@
+[Event "Baku 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Erdogmus"]
+[Black "N. Dixit"]
+[Result "*"]
+[Puzzle "299"]
+[FEN "8/1q3n2/4NQpk/3P4/5P1P/6p1/6P1/6K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Qg7+ Kh5 2. Qh7+ Kg4 { 43...Nh6 44 Qxb7+– costs Black his queen without delaying mate for long. } 3. Qxg6+ Kxh4 4. Qh7+ Kg4 5. Qh3# *

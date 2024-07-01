@@ -1,0 +1,12 @@
+[Event "Finnish Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ronka"]
+[Black "Luukkonen"]
+[Result "0-1"]
+[Puzzle "270"]
+[FEN "5Q2/1k5p/2q2p2/1p6/p1nP4/P2p2P1/r6P/1K1RR3 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Nxa3+ $1 { Black is able to sacrifice his rook to force mate. } 2. Kxa2 Qc2+ { 38...Qc4+ 39 Ka1 Qc3+ reaches the same position. Black has a slightly longer mate with 38...Qd5+ 39 Ka1 Qxd4+ 40 Ka2 Qc4+ 41 Ka1 Qc3+ 42 Ka2 Qb3+ 43 Ka1 Nc2#. } 3. Ka1 { 39 Kxa3 Qb3#. } 3... Qc3+ 4. Ka2 Qb3+ { 41 Ka1 Nc2#. } 0-1

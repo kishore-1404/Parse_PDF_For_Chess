@@ -1,0 +1,12 @@
+[Event "Chennai Olympiad 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nisipeanu"]
+[Black "Sipilä"]
+[Result "*"]
+[Puzzle "190"]
+[FEN "r3r1k1/pb3pp1/qp2pn1p/4N3/P2R4/B1P1P2P/2Q2PP1/3R2K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Nxf7 $1 { The combination works because the black queen is out of play on a6. } 1... Kxf7 { 22...Be4 23 Nxh6+ gxh6 24 Rxe4+–. } 2. Rd7+ Nxd7 3. Rxd7+ Kf6 { 24...Kg8 25 Qg6 mates. } 4. Qh7 Rg8 5. Be7+ Kf7 { 26...Ke5 27 f4#. } 6. Bh4+ Kf8 { 27...Ke8 28 Re7+ Kf8 29 Qg6 and mate follows. } 7. Qg6 Qxa4 8. Be7# *

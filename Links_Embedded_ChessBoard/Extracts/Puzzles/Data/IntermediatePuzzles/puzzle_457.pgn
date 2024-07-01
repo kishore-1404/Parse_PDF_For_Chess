@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L. Johansson"]
+[Black "J. Kramer"]
+[Result "*"]
+[Puzzle "457"]
+[FEN "r2q1rk1/pb3pbp/1p6/2ppP2p/2B1QB2/5N2/P4PP1/1R3RK1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Qc2 $1 { After 19 Qf5? (as played in the game) Black was able to defend his h7-pawn: 19...dxc4 20 Rbd1 (20 Ng5 Qd3! defends h7) 20...Qc8 21 Qxh5, and now Black should have played 21...f6–+. } 1... dxc4 2. Rfd1 Qe7 3. Ng5 f5 4. Qxc4+ Kh8 5. Rd6 Rae8 { The idea of Rh3 gives White a decisive attack. } 6. Rb3 *

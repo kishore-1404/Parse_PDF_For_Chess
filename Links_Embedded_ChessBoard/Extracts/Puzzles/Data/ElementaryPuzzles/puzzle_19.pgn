@@ -1,0 +1,12 @@
+[Event "Abu Dhabi 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mullick"]
+[Black "A. Gupta"]
+[Result "*"]
+[Puzzle "19"]
+[FEN "3qr3/5pk1/1p1p2p1/pNnPp1r1/2P2n1Q/1P3P1P/P5P1/3RRB1K b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Nxh3 $1 2. gxh3 { White runs into trouble along the h-file after 33 Qxh3 Rh8–+ or 33 Nxd6 Rh8–+. } 2... Rg1+ 3. Kxg1 Qxh4 4. Nxd6 Rh8 { The queen is dominant. } *

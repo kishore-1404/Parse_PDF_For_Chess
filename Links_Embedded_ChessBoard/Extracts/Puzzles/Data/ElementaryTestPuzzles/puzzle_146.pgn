@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mikaelyan"]
+[Black "Perez Ponsa"]
+[Result "0-1"]
+[Puzzle "146"]
+[FEN "3r4/3P2k1/p5p1/2pq2Nn/P2b4/8/6QP/3R1R1K b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Ng3+ $1 { 33 hxg3 Rh8+ 34 Nh3 Rxh3#. } 0-1

@@ -1,0 +1,12 @@
+[Event "German Ch, Magdeburg 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bethke"]
+[Black "Parvanyan"]
+[Result "*"]
+[Puzzle "842"]
+[FEN "r2q1rk1/bp3ppp/2p1b1n1/p3N3/P3Pn2/2PB1N1P/1P3PP1/R1BQR1K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... Nxe5 2. Nxe5 Qh4 $1 { White can defend after 17...Qg5? 18 Qf3! Nxh3+ 19 Qxh3 Qxe5 20 Qh4, with equal chances. } 3. Qf3 { Or: 18 Bxf4 Bxf2+ 19 Kh1 Bxe1–+; 18 Be3 Bxe3 19 fxe3 (19 Rxe3 Qg5 20 Ng4 h5–+) 19...Nxh3+ 20 gxh3 Qg3+ 21 Kh1 Qxh3+ 22 Kg1 Qg3+ 23 Kh1 Qxe5–+. } 3... Ng6 $1 { This knight retreat is easy to miss. } 4. Nxc6 { Or: 19 Nxg6 fxg6!–+; 19 Nc4 Bxc4 20 Bxc4 Ne5 21 Qe2 Nxc4–+. } 4... bxc6 *

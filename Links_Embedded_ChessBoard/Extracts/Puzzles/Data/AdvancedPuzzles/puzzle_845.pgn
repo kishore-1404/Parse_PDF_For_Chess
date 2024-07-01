@@ -1,0 +1,12 @@
+[Event "New York 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "J. Williams"]
+[Black "G. Nagy"]
+[Result "0-1"]
+[Puzzle "845"]
+[FEN "qr4k1/2p3pp/3bpn2/1P1pP3/2n2B2/1Q3P2/1PP3PP/1K1RR3 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Ba3 $1 2. Bc1 { 24 bxa3 Rxb5–+. } 2... Nd7 3. bxa3 Qa5 4. Ka2 Rxb5 { 27 Qd3 Nc5 28 Qe2 Qc3–+. } 0-1

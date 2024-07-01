@@ -1,0 +1,12 @@
+[Event "Belgian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Harff"]
+[Black "B. Decrop"]
+[Result "*"]
+[Puzzle "778"]
+[FEN "8/5p2/8/2Rp2k1/3P1b2/5Qp1/PP2KP1q/8 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... g2 $1 { Black has a large material disadvantage, but the pawn on his seventh rank enables him to hold the balance. } 2. Qxd5+ { The game ended 43 Rc8?? g1N+! 0-1. } 2... Kh6 3. Qxf7 { White has a few ways to force a perpetual check. Another is 44 Qf5 g1Q 45 Qf6+ Qg6 46 Qh8+ Qh7 47 Qf6+ Qg6 48 Qh8+ =. } 3... g1=Q 4. Qf6+ Qg6 5. Qh8+ Qh7 6. Qf6+ { Not 47 Rc6+?? Bd6 48 Qf8+ Kg5 49 Qd8+ Kg4–+. } 6... Qg6 7. Qh8+ { with a draw by repetition. } *

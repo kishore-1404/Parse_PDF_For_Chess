@@ -1,0 +1,12 @@
+[Event "Tashkent 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vakhidov"]
+[Black "D. Fridman"]
+[Result "1-0"]
+[Puzzle "150"]
+[FEN "r4rk1/1p3p1p/p3bQq1/2RB4/8/6P1/5P1P/4R1K1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. Rxe6 $1 fxe6 { 27...Qxf6 28 Rxf6+–. } 2. Bxe6+ Rf7 3. Bxf7+ Qxf7 4. Rg5+ Kf8 5. Qh8+ { White wins the loose rook on a8 after 31...Ke7 32 Qxa8+–. } 1-0

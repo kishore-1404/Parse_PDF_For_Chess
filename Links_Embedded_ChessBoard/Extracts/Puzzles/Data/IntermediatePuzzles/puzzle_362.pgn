@@ -1,0 +1,12 @@
+[Event "Charlotte 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Schitco"]
+[Black "Escalante Ramirez"]
+[Result "1-0"]
+[Puzzle "362"]
+[FEN "2r2nk1/1RP4p/1p2bBr1/8/8/6P1/P4P1P/4R1K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Rxe6 $1 Kf7 { 35...Rxc7 36 Rxc7 Nxe6 37 Rc8+ Kf7 38 Be5+–. } 2. Rd6 Rxf6 3. Rd8 1-0

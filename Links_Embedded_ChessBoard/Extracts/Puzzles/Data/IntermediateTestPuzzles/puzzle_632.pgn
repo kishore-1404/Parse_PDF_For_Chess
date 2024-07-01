@@ -1,0 +1,12 @@
+[Event "Copenhagen 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "K. Schmidt"]
+[Black "Thuesen"]
+[Result "*"]
+[Puzzle "632"]
+[FEN "r2r2k1/pbq2pp1/1p3P1p/2p2B1Q/2Pn4/8/P4PPP/1RB2RK1 w - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1. Bxh6 $1 { White is able to develop a piece and capture a pawn at the same time. White’s attack is very strong because Black has no pieces on the kingside. } 1... g6 { The game ended 20...Nxf5 21 Bxg7 1-0 in view of 21...Nxg7 22 Qg5 Kf8 23 Qxg7+ Ke8 24 Rbd1+–. } 2. Bxg6 Ne2+ 3. Kh1 fxg6 4. Qxg6+ Kh8 5. Rbe1 *

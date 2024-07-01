@@ -1,0 +1,12 @@
+[Event "New Delhi 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Aleksandrov"]
+[Black "Nitin"]
+[Result "1-0"]
+[Puzzle "722"]
+[FEN "r3r1k1/p4pbp/4b1p1/Q1BNp3/2Pnq3/3R4/P4PPP/1R3BK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Nc7 $1 Bxc4 2. Re1 $1 Ne2+ { Black has too many pieces under attack after 24...Qc6 25 Rc3 Bxf1 26 Kxf1+–. } 3. Bxe2 Bxd3 4. Bf3 $1 1-0

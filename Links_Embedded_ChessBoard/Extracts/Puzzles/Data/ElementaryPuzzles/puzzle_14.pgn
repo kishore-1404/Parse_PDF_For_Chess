@@ -1,0 +1,12 @@
+[Event "Portuguese Team Ch, Ovar 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fier"]
+[Black "Kuzubov"]
+[Result "*"]
+[Puzzle "14"]
+[FEN "r3r1k1/p4p1p/2p1bbp1/qp6/4pP2/P1P1B3/1PP1BQPP/1K1RR3 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Bxc3 $1 2. f5 { White’s king comes under a fierce attack after 22 bxc3 Qxa3 23 Bc5 Qa2+ 24 Kc1 b4 25 Bxb4 (25 Bd4 Qa3+ 26 Kd2 Rad8–+) 25...e3 26 Qxe3 Bf5–+. } 2... Bxe1 3. Rxe1 Bxf5 { Black has a decisive material advantage. } *

@@ -1,0 +1,12 @@
+[Event "Turkish Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dudin"]
+[Black "Abdusattorov"]
+[Result "*"]
+[Puzzle "616"]
+[FEN "r4rk1/1bqnb1pp/2p1p3/p2P3Q/PpR1B3/6P1/1B2PP1P/R5K1 b - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... Nf6 $1 2. Bxf6 g6 $1 { A nice defensive idea along Black’s second rank. } 3. Bxg6 Bxf6 4. Rg4 { 23 dxc6 Bxa1 24 cxb7 Qxb7–+. } 4... hxg6 5. Rxg6+ Bg7 *

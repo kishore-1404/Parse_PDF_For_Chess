@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mareco"]
+[Black "Rasulov"]
+[Result "*"]
+[Puzzle "450"]
+[FEN "1r3rk1/2n4p/p2p2p1/2pPb1q1/2P5/4PpBP/RN3PPK/2Q1R3 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... h5 $1 2. Rg1 { The game ended abruptly after 29 Nd3? h4 0-1. } 2... Bxg3+ 3. fxg3 h4 4. gxh4 Qe5+ 5. Kh1 fxg2+ 6. Rxg2 Rf3 { 34 Rxg6+ Kf7 35 Nd3 Qf5–+. } 7. Nd3 { Black is a pawn up with a decisive attack. } 7... Qf5 8. Qc2 Rxh3+ 9. Kg1 Rxe3 *

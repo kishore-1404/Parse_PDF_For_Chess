@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A. Braun"]
+[Black "F. Svane"]
+[Result "*"]
+[Puzzle "462"]
+[FEN "5rk1/pp2n1p1/3b2q1/5p2/3Pp3/1P2N1PQ/PB3PK1/7R b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... f4 $1 { White is unable to make productive use of the open h-file because his bishop on b2 is out of play and Black’s pieces are perfectly situated for an attack on the white king. } 2. Nc4 fxg3 3. fxg3 { The game ended 32 Ba3? Rxf2+ 33 Kg1 Rh2 0-1. } 3... Rf5 4. g4 { Or: 33 Nxd6?! Qxd6 34 Qh7+ Kf7 35 Rh5 Rd5 36 Rxd5 Qxd5–+; 33 d5 Bxg3! 34 Qh8+ Kf7 35 Qxg7+ Qxg7 36 Bxg7 Rg5 37 Bh6 Rg6 38 Kf1 Nxd5 –/+ with an extra pawn and reasonable chances to win. } 4... Rf4 { Black has a strong initiative and good winning prospects. } *

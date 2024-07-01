@@ -1,0 +1,12 @@
+[Event "Dubai 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "H.A. Nezad"]
+[Black "Aravindh"]
+[Result "0-1"]
+[Puzzle "887"]
+[FEN "r4rk1/4b1pp/p3pn2/1Pqpp3/4P3/NP5Q/P3RPPP/R1B3K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Nxe4 2. Qxe6+ { 20 Rc2 Qd6–+. } 2... Kh8 3. Rc2 Rxf2 $1 4. Rxc5 Bxc5 5. Be3 { 23 h4 Rf6+–+. } 5... Bxe3 6. Kh1 Rf6 { 25 Qxd5 (25 Qxe5 Nf2+ 26 Kg1 Ng4+ 27 Qxe3 Nxe3–+) 25...Ng3+ 26 hxg3 Rh6#. } 0-1

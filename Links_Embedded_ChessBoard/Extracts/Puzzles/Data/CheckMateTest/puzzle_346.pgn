@@ -1,0 +1,12 @@
+[Event "Reykjavik 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sidhant"]
+[Black "Korley"]
+[Result "*"]
+[Puzzle "346"]
+[FEN "r1b2rk1/pp2qppp/4pb2/1Q6/3pB2P/2P2N2/PP3PP1/R3K2R w KQ - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1. Bxh7+ $1 Kxh7 { (variation) } 2. Qh5+ { 14...Kh8 15 Qh5 leads to mate. } 2... Kg8 3. Ng5 Bxg5 4. hxg5 f5 5. g6 { The unusual motif here is the white queen swinging over to the kingside from the queenside. } *

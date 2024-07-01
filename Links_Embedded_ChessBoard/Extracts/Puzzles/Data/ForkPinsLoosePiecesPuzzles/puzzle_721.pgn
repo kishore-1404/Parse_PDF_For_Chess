@@ -1,0 +1,12 @@
+[Event "Fagernes 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hagner"]
+[Black "Kaasen"]
+[Result "0-1"]
+[Puzzle "721"]
+[FEN "r3r1k1/1b1q2pp/p2p1b2/2pPpp2/P1P5/R2P1N2/QP1B1PPP/4R1K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... e4 $1 { The white knight is short of squares. } 2. dxe4 fxe4 3. Ng5 e3 $1 4. Nxh7 { 24 Bxe3 Bxg5–+ costs White his knight because of the pin along the e-file, while Black wins after 24 Raxe3 Bxg5 25 Rxe8+ Rxe8–+ because of White’s weak back rank. } 4... exf2+ 5. Kxf2 Bd4+ 0-1

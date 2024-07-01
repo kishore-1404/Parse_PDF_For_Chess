@@ -1,0 +1,12 @@
+[Event "Charlotte 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Zaloznyy"]
+[Black "Vigorito"]
+[Result "1-0"]
+[Puzzle "496"]
+[FEN "6k1/3r2p1/3p4/2q1pP1p/1pb1P1p1/rP4QB/7P/2R3RK w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Bf1 $1 { Diagonal retreating moves are easy to miss. White must avoid 33 Bxg4? Rxb3! 34 Bf3 Be2! 35 Rxc5 Bxf3+ 36 Qxf3 Rxf3–+. } 1... Bf7 { Or 33...d5 34 Qxe5! Re7 35 Qb8+ Kh7 36 bxc4+–. } 2. Rxc5 dxc5 3. Qxe5 1-0

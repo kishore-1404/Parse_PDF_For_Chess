@@ -1,0 +1,12 @@
+[Event "Sant Ferran de ses Roques 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sahithi Varshini"]
+[Black "Vaishali"]
+[Result "0-1"]
+[Puzzle "571"]
+[FEN "1rb3k1/p1qp2pp/4pr2/3p4/1b3PN1/8/PP2K1PP/R1BQ1B1R b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Rxf4 $1 2. Bxf4 Qxf4 3. Nf6+ { White’s king is too exposed in the centre of the board; for example, 17 Nf2 Ba6+ 18 Nd3 Rf8 leads to mate, while 17 Qc2 is met by 17...Qxg4+ 18 Kf2 Qf4+ 19 Ke2 Ba6+ 20 Kd1 Bxf1–+. } 3... Qxf6 4. Qc2 Ba6+ 5. Kd1 Qd4+ 6. Kc1 Rc8 0-1

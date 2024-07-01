@@ -1,0 +1,12 @@
+[Event "Sochi (women) rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B. Kovanova"]
+[Black "Charochkina"]
+[Result "*"]
+[Puzzle "547"]
+[FEN "1q4k1/r4p1p/2pb2p1/p4pB1/3P1N2/Pb2Q2P/1P3PP1/4R1K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... f6 $1 2. Nxg6 { White also loses material after 25 Bh6 Re7 26 Qxe7 (26 Qd2 Rxe1+ 27 Qxe1 Bxf4 28 Bxf4 Qxf4–+) 26...Bxe7 27 Rxe7 Bf7–+. } 2... hxg6 3. Bxf6 Bf4 4. Qd3 Bd5 *

@@ -1,0 +1,12 @@
+[Event "Austrian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Goldbeck"]
+[Black "Rusche"]
+[Result "*"]
+[Puzzle "539"]
+[FEN "3r2k1/1b3ppp/1p2qn2/pBb1NQ2/P2P4/1P4N1/5nPP/B1R3K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Rxd4 $1 { In the game 29...Ba3?? cost Black a piece after 30 Qxe6 fxe6 31 Rc7+–. } 2. Bxd4 { Not 30 Qxe6?! Rd1+ 31 Rxd1 Nxd1+ 32 Kf1 fxe6=+. } 2... Bxd4 3. Qxe6 fxe6 4. Rc7 N2g4+ 5. Kf1 Nxh2+ 6. Ke2 { The chances are roughly level in a sharp endgame. } 6... Bxe5 7. Rxb7 Bxg3 *

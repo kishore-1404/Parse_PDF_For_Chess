@@ -1,0 +1,12 @@
+[Event "Hungarian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Aczel"]
+[Black "B. Szabo"]
+[Result "1-0"]
+[Puzzle "169"]
+[FEN "6k1/3b1p1p/1p2nPpQ/4P3/1p1p2P1/4PN1P/4BK2/q7 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Nxd4 { White seeks to remove the defender of the g7-square. } 1... Qh1 2. Nxe6 Qh2+ 3. Ke1 { Black cannot avoid being mated on g7. } 1-0

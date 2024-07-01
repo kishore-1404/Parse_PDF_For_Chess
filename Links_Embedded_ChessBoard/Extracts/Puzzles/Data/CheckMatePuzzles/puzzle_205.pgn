@@ -1,0 +1,12 @@
+[Event "Fagernes 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vaishali"]
+[Black "S.P. Sethuraman"]
+[Result "1-0"]
+[Puzzle "205"]
+[FEN "2r1kb1R/3n1p2/2N2np1/pB2p1B1/1p2qNb1/8/PPPQ4/1K6 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Bxf6 $1 Rxc6 { The weakness of Black’s f6-square is apparent after 26...Nxf6 27 Nxb4+ Bd7 (27...Nd7 28 Nfd5+–; 27...Ke7 28 Nbd5+ Nxd5 29 Nxd5+ Ke6 30 Bd7+! Kxd7 31 Nf6++ Ke6 32 Nxe4+–) 28 Nbd5 Nxd5 29 Nxd5+–. } 2. Nd5 $1 Rxc2 { 27...Qxd5 28 Qxd5 Rxf6 29 Bxd7+ Bxd7 30 Qxe5+ Re6 31 Qb8+ Ke7 32 Qxf8+ Kf6 33 Rh1+–. } 3. Rxf8+ { 28...Kxf8 29 Qh6+ Ke8 30 Qh8#. } 1-0

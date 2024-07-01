@@ -1,0 +1,12 @@
+[Event "Dutch League 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A. Roos"]
+[Black "Maatman"]
+[Result "*"]
+[Puzzle "292"]
+[FEN "3r2k1/p4pp1/1p5p/8/3Pn1qR/2r1B3/P5PP/4QR1K b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Rxe3 $1 2. Rxg4 { In the game White played 29 Qxe3 Qxh4 30 Rf4, but this fails to recover the piece due to his weak back rank. The final moves were 30...Rxd4 31 Rxh4 Rd1+ 32 Qg1 Nf2# (0-1). } 2... Rxe1 3. Rxe1 Nf2+ 4. Kg1 Nxg4 *

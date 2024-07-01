@@ -1,0 +1,12 @@
+[Event "World Under-16 Ch, Mamaia 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Siniauski"]
+[Black "Quoc Hy Nguyen"]
+[Result "0-1"]
+[Puzzle "79"]
+[FEN "8/p4R1p/kpp3r1/1Np4q/P1P3b1/3Pp1rP/2P1Q1P1/6RK b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Rxh3+ $1 { Black must sidestep 33...Qxh3+?? 34 gxh3 Rxg1+ 35 Kh2!+–. } 2. gxh3 Qxh3+ 3. Qh2 Bf3+ 4. Rxf3 Qxf3+ 5. Rg2 e2 6. Nc7+ { White cannot avoid being mated. } 6... Kb7 0-1

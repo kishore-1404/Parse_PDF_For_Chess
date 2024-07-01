@@ -1,0 +1,12 @@
+[Event "Montevideo 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Carbone"]
+[Black "Coppola"]
+[Result "*"]
+[Puzzle "499"]
+[FEN "r3k2r/p3pp1p/bpnp2p1/q7/2P1P3/2P1B3/P2QBPPP/R2R2K1 w kq - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Qc2 $1 { White takes control of the a4-square and clears a path for Rd5 to exploit the vulnerable position of Black’s queen. } 1... Bc8 { White wins material after 15...Qe5 16 Qa4 Bb7 17 Bd4 Qxe4 18 Bf3+–. The game continuation 15...e6 16 Rxd6 Rc8 17 Bh6 Qe5 18 Rad1+– left White a pawn up with a strong attack. } 2. Rd5 Qa6 { Or 16...Qa3 17 Bc1 Qa6 18 c5 Qb7 19 cxd6+–. } 3. c5 Qb7 4. cxd6 *

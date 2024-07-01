@@ -1,0 +1,12 @@
+[Event "Charlotte 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "T. Wang"]
+[Black "Ippolito"]
+[Result "1-0"]
+[Puzzle "35"]
+[FEN "4r3/5knp/2bq2p1/p3r3/Pp1p2P1/1P5P/1BPQRP2/1K2R3 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Qf4+ Qf6 2. Qxf6+ $1 { Exchanging queens is much simpler than 30 Qxd4 R5e6 31 Qxf6+ Rxf6 32 Rxe8 Nxe8 33 Bxf6 Kxf6 34 f4+–, when White will still have to demonstrate some technique. } 2... Kxf6 3. Rxe5 { 31...Rxe5 32 Bxd4+– gives White a decisive material advantage. } 1-0

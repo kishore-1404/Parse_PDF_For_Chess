@@ -1,0 +1,12 @@
+[Event "Richardson (team event) 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Matviishen"]
+[Black "Druska"]
+[Result "1-0"]
+[Puzzle "32"]
+[FEN "3r2k1/pp3ppp/1qBQp3/8/8/6P1/PP2PP1P/2R3K1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Qxd8+ $1 { After 24...Qxd8 25 Bxb7 followed by 26 Rc8 White ends up a piece ahead. } 1-0

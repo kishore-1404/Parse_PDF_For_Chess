@@ -1,0 +1,12 @@
+[Event "St Petersburg Ch 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Saveliev"]
+[Black "M. Shchukin"]
+[Result "1-0"]
+[Puzzle "459"]
+[FEN "rq3rk1/3p1ppp/p1bbp3/P2Nn2Q/1p2PB2/3B4/1PP2PPP/3RR1K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Re3 $1 { White launches an attack with the black queen far away from the kingside. } 1... exd5 $6 { 16...f6 puts up more resistance, but White’s attack is too strong after 17 Rh3 h6 18 Nb6 Ra7 19 Bxh6. } 2. Rh3 f5 { Black’s king comes under an irresistible attack after 17...Re8 18 Qxh7+ Kf8 19 exd5 Bxd5 20 Be2+–. } 3. exd5 Nxd3 4. Qxh7+ Kf7 5. Qxf5+ Kg8 { Or 20...Ke8 21 Qg6+ Kd8 22 Bxd6 Qa7 23 Bxf8 Qxf2+ 24 Kh1+–. } 6. Qh7+ Kf7 7. Bxd6 Qxd6 8. dxc6 Rh8 9. Qf5+ Ke7 10. Rdxd3 1-0

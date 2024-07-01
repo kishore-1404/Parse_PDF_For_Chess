@@ -1,0 +1,12 @@
+[Event "Vietnamese Under-17 Ch, Ho Chi Minh City 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vu Hoang Gia"]
+[Black "Nguyen Hoang Hiep"]
+[Result "1-0"]
+[Puzzle "509"]
+[FEN "r3r1k1/pp1q1ppp/3b2n1/3p4/2P1R1b1/3Q1NP1/PB3PBP/R5K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Qd4 $1 { An intermezzo that threatens mate and attacks the bishop on g4. } 1... f5 { White wins a piece after 18...Bf8 19 Rxg4+–. } 2. Qxd5+ Kf8 { Or 19...Kh8 20 Rxe8+ Rxe8 21 Rd1+–. } 3. Rxe8+ Kxe8 { 20...Rxe8 is met by 21 c5+–. } 4. Re1+ { 21...Kd8 22 Qg8+ Nf8 23 Ne5+–. } 1-0

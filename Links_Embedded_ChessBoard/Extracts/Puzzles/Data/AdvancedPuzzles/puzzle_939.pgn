@@ -1,0 +1,12 @@
+[Event "Lyons 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L. Ernst"]
+[Black "I. Martinovici"]
+[Result "*"]
+[Puzzle "939"]
+[FEN "r3qrk1/pbp2ppp/1p3n2/4nN2/2Pp4/3B4/PP4PP/R1BQR1K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Bf4 { White is two pawns down so he needs to exploit the pin along the e-file before Black can consolidate his position. } 1... Nfg4 2. Bxe5 Nxe5 3. Qh5 g6 { 18...Nxd3 is perhaps more resilient, but Black loses material after 19 Qg4! g6 20 Qxd4 gxf5 21 Rxe8 Rfxe8 22 Qxd3+–. } 4. Qh6 $1 gxf5 5. Bxf5 $1 { 20 Qg5+? was chosen in the game, but loses a tempo and gives Black sufficient counterplay. After 20...Ng6 21 Rxe8 Raxe8 22 h4 (22 Bxf5? Re2 –/+) Black should have played 22...Be4! with roughly level chances thanks to his huge swathe of pawns after 23 Bxe4 fxe4 24 h5 Re5 25 Qg4 c5 26 hxg6 hxg6. } 5... Ng6 6. Rxe8 Rfxe8 7. h4 Re2 8. Bh3 { The tempo White have saved means that he has managed to play h4 before blocking the h-pawn with Bh3. This makes an enormous difference! } *

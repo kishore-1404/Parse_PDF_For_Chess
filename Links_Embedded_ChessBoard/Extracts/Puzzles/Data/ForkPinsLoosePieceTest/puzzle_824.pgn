@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bharath"]
+[Black "Matinian"]
+[Result "*"]
+[Puzzle "824"]
+[FEN "r1b1k1nr/p1ppqp2/2p3p1/4b3/2P2B2/2N3P1/PP2PPB1/R2Q1RK1 w kq - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1. Nd5 $1 cxd5 { 12...Qe6 13 Nxc7+ Bxc7 14 Bxc7+–. } 2. Qxd5 Bxf4 { 13...Rb8 14 Qxe5 Qxe5 15 Bxe5+–. } 3. Qxa8 Kd8 { 14...Qd8 15 Qe4++–. } 4. Bb7 Qe6 5. Bxc8 *

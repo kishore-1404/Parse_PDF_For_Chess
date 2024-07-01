@@ -1,0 +1,12 @@
+[Event "Česke Budejovice 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "H. Stefansson"]
+[Black "A. Donchenko"]
+[Result "*"]
+[Puzzle "864"]
+[FEN "r2q1rk1/1p2Bpp1/p1bpp2p/P7/2PQ4/2n2N2/1P3PPP/R4RK1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Qh4 $1 Ne2+ 2. Kh1 g5 { After 16...Qc7? 17 Bxf8 (as played in the game) White gains a decisive material advantage; e.g., 17...Bxf3 18 gxf3 e5 19 Be7 Nf4 20 Rad1+–. } 3. Bxg5 hxg5 4. Nxg5 Kg7 5. Rae1 Rh8 6. Qg4 { White is significantly better due to Black’s unsafe king. } *

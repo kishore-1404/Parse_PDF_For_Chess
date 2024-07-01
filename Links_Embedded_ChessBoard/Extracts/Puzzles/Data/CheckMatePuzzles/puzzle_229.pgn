@@ -1,0 +1,12 @@
+[Event "New York 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stremavicius"]
+[Black "Shlyakhtenko"]
+[Result "0-1"]
+[Puzzle "229"]
+[FEN "r1b1r1k1/1p3ppp/2p2q2/p2p2n1/1P1P3n/P2BP1NP/2QN1PP1/1R3RK1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Bxh3 $1 { Both players must always be on the lookout for this tactical idea in the QGD Exchange (or ‘Carlsbad’) pawn-structure. } 2. Nh5 { White is mated after 19 gxh3 Ngf3+ 20 Kh1 (20 Nxf3 Qxf3 mates) 20...Nxd2 21 Qxd2 Qf3+ 22 Kg1 Qg2#. } 2... Qh6 { White’s king is hopelessly exposed after 20 gxh3 Qxh5–+. } 0-1

@@ -1,0 +1,12 @@
+[Event "Ciutadella de Menorca 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pranav"]
+[Black "J. van Foreest"]
+[Result "*"]
+[Puzzle "934"]
+[FEN "5rk1/7p/1p1PP3/1p3pp1/p1nB4/P2r2P1/R6P/2R3K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. d7 $1 { This surprising piece sacrifice is the way forward for White. In the game White played 34 e7?, when Black managed to eliminate the advanced white pawns by 34...Rxd4 35 exf8Q+ Kxf8 36 Rf2 Rd5, with equal chances. } 1... Rxd4 2. Rf2 $1 Re4 { After 35...f4 36 gxf4, 36...gxf4? allows 37 Rg2+ Kh8 38 e7, mating. } 3. Rxf5 Rd8 4. Rcf1 { Black is unable to prevent White from promoting the d-pawn. } 4... Rxe6 5. Rf8+ Rxf8 6. Rxf8+ Kxf8 7. d8=Q+ Kf7 8. Qxg5 *

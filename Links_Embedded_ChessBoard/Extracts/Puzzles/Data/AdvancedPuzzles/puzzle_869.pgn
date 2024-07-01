@@ -1,0 +1,12 @@
+[Event "USA Junior Ch, Saint Louis 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A. Hong"]
+[Black "D. Brodsky"]
+[Result "*"]
+[Puzzle "869"]
+[FEN "r1b3r1/1p2k1P1/pn1p2B1/2q1p3/3R1p1P/2N5/PPP2Q2/2K4R w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. h5 $1 { Not 21 Rd2?? Qxf2 22 Rxf2 Be6–+, when Black will capture the g7-pawn and advance his centre pawns. } 1... Qxd4 { White’s connected passed pawns on the kingside are decisive after 21...exd4 22 Ne4 Qe5 23 h6 Bf5 24 Qh4+ Ke6 25 Bxf5+ Qxf5 26 Re1 Kd7 27 Nf6+ Kc6 28 Nxg8 Rxg8 29 h7+–. } 2. Qh4+ Kd7 3. h6 { White’s far-advanced kingside pawns and Black’s lack of queenside development are weightier factors than the sacrificed rook. } 3... Kc6 4. Be4+ Kc7 5. Qf6 Bd7 6. Rd1 Qe3+ 7. Kb1 Kb8 8. h7 *

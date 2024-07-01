@@ -1,0 +1,12 @@
+[Event "Saint Louis (women) 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nemcova"]
+[Black "Tokhirjonova"]
+[Result "0-1"]
+[Puzzle "328"]
+[FEN "r3r2k/3q2pp/2pP1p2/2B3n1/2QP4/1P4P1/7P/3R1RK1 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Ra2 $1 { White is a pawn up but her bishop is cut off from defending the kingside. } 2. d5 { 33 Ra1 Nf3+–+. } 2... Qh3 3. Rf2 Nf3+ { 35 Kh1 Rxf2 36 Bxf2 Qxh2#. } 0-1

@@ -1,0 +1,12 @@
+[Event "Abu Dhabi 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mustafayev"]
+[Black "D. Aaditya"]
+[Result "*"]
+[Puzzle "758"]
+[FEN "3b1rk1/5r1p/4P1p1/p1N5/2p1PP2/3p2KP/1P1R4/5R2 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Rxf4 $1 { Black wins material by exploiting the upcoming pin. In the game, 35...Rg7? let White break up Black’s pawns with 36 b3. Black should then have steered the game towards equality in a line such as 36...Be7 37 Nd7 Bb4 38 Rdd1 =. } 2. Rxf4 Bc7 3. Kg2 { Or 37 Rf2 Rxf4 38 Rxf4 Bxf4+ 39 Kf3 (39 Kxf4 d2–+) 39...Be5–+. } 3... Bxf4 4. Rd1 Re8 *

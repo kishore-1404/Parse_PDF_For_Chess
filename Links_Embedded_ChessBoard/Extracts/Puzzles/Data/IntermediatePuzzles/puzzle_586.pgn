@@ -1,0 +1,12 @@
+[Event "Jakarta Zonal 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Novita"]
+[Black "Laohawirapap"]
+[Result "*"]
+[Puzzle "586"]
+[FEN "4r1k1/Qp3p1p/2b3p1/3p1q2/5P2/1BP5/PP2rRPP/5R1K b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Re1 $1 { Black exploits White’s weak back rank. After 21...Qd3? (as played in the game) White could have kept his disadvantage to a minimum with 22 Rxe2 Qxe2 23 Rg1 Re4=+. } 2. Kg1 { 22 h3 Rxf1+ 23 Rxf1 d4! 24 Kh2 (24 Qxd4 allows 24...Qxh3+ 25 Kg1 Qxg2#) 24...Re2–+. } 2... Bb5 3. c4 dxc4 4. Ba4 Rxf1+ 5. Rxf1 Re2 6. Bxb5 Qxb5 *

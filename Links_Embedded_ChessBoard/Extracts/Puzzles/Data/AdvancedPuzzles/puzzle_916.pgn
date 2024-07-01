@@ -1,0 +1,12 @@
+[Event "European Ch, Vrnjačka Banja 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Azarov"]
+[Black "Moussard"]
+[Result "*"]
+[Puzzle "916"]
+[FEN "r1q2rk1/3bbpp1/p4n1B/2p2P2/1p4P1/1B3P2/PPPQ3P/2KRR3 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Bd8 $1 { The game ended 20...gxh6?? 21 Rxe7 (or 21 Qxh6+–) 21...c4 22 Qxh6 cxb3 23 Qg5+ Kh7 24 Qg6+ 1-0. } 2. g5 { Black is able to defend his kingside after 21 Qg5 Ne8!–+. } 2... c4 3. gxf6 Bxf6 4. Bxg7 { Or 23 Qxd7 cxb3 24 axb3 Qxd7 25 Rxd7 gxh6–+. } 4... Bxg7 5. f6 Bxf6 6. Rg1+ Kh7 7. Rg5 Bf5 *

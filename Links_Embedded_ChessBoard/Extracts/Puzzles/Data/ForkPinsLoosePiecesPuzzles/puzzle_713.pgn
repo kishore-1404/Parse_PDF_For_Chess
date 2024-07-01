@@ -1,0 +1,12 @@
+[Event "Riyadh rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B. Amin"]
+[Black "Njili"]
+[Result "*"]
+[Puzzle "713"]
+[FEN "3r1rk1/pp4bp/3pp1p1/2n5/2q1PP2/P1N1B1PP/1P1R4/2RQ2K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Ne2 $1 Qxe4 2. Bxc5 { Winning a piece because of the pin along the d-file. } 2... Bxb2 3. Rb1 dxc5 4. Rxd8 Bd4+ 5. Rxd4 cxd4 6. Rb3 { White’s material advantage is decisive. } *

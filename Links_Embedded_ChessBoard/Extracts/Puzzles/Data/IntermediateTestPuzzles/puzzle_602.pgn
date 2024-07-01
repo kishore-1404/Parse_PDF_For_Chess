@@ -1,0 +1,12 @@
+[Event "Barbera del Valles 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Valenzuela Gomez"]
+[Black "Alsina Leal"]
+[Result "*"]
+[Puzzle "602"]
+[FEN "5rk1/p2p1pp1/2p1p2p/4P3/4NP2/3Q4/qr1RBKPP/8 w - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1. Nf6+ $1 gxf6 { 23...Kh8 24 Qh7#. } 2. exf6 Qb3 { Or: 24...Kh8 25 Qh3+–; 24...Rfb8 25 Qg3+ Kf8 26 Qg7+ Ke8 27 Qg8#. } 3. Rxb2 Qxd3 4. Bxd3 *

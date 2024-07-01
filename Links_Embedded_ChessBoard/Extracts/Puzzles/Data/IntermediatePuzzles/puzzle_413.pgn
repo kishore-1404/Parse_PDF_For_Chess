@@ -1,0 +1,12 @@
+[Event "Bratislava rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stoček"]
+[Black "Klabis"]
+[Result "*"]
+[Puzzle "413"]
+[FEN "r3kb1r/pp1b1ppp/8/3pN3/4P3/2N5/Pq3PPP/R2QK2R w KQkq - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. O-O $1 { White sacrifices a piece to keep Black’s king in the centre. } 1... Qxc3 2. Qxd5 Be6 3. Qb5+ Ke7 4. Rac1 { Black’s king is too exposed. } 4... Qd4 { 16...Qa3 17 Qxb7+ Kf6 18 Qxa8 Kxe5 19 f4+ Kf6 20 Qd8+ Qe7 (20...Kg6 21 Qg5#) 21 Qd4+ Kg6 22 f5++–. } 5. Rc7+ Kd8 { 17...Kf6 18 Nf3+–. } 6. Qxb7 { There is also 18 Rxb7 Rc8 19 Rb8+–, which led to victory in the game. } 6... Qxe5 7. Rfc1 Bc5 8. R1xc5 *

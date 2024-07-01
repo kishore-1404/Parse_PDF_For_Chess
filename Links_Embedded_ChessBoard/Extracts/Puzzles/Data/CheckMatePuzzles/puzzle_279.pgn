@@ -1,0 +1,12 @@
+[Event "Charlotte 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Martin del Campo"]
+[Black "J. Levine"]
+[Result "*"]
+[Puzzle "279"]
+[FEN "2rqr1k1/1B3p2/6pp/p7/P1bP2n1/6P1/1P1R1P1P/R1BQ2K1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Qe7 $1 2. Bxc8 { 24 Qxg4 Qe1+ 25 Kg2 Qf1+ 26 Kf3 Qh1+ 27 Kf4 Qxb7 leads to mate. } 2... Qe1+ 3. Qxe1 { 25 Kg2 Bf1+ 26 Kg1 Bh3+ 27 Qxe1 Rxe1#. } 3... Rxe1+ 4. Kg2 Bf1+ 5. Kf3 f5 { Now the threat is ...Nxh2+ followed by ...Re4#. The game featured 27...Nxh2+, which also wins: 28 Kf4 g5+ 29 Kf5 Bh3+ 30 Kf6 Bxc8–+ and the white king, ensnared on f6, was not long for this world. } 6. Re2 { Or 28 Bxf5 Nxh2+ 29 Kf4 g5#. } 6... Bxe2+ 7. Kf4 Bd3 { White’s queenside pieces never entered the game. } *

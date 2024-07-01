@@ -1,0 +1,12 @@
+[Event "Czech Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "K. Malinovsky"]
+[Black "Rašik"]
+[Result "0-1"]
+[Puzzle "171"]
+[FEN "b1r2r1k/p3p1bp/6p1/5pN1/2Bn1P2/1P6/P1PB2PP/2KR3R b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Rxc4 $1 { White is mated after 21 bxc4 Ne2+ 22 Kb1 Rb8+ 23 Bb4 Rxb4#. } 0-1

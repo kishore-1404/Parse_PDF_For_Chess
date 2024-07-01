@@ -1,0 +1,12 @@
+[Event "Jakarta 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Tran Minh Thang"]
+[Black "T. Munkhzul"]
+[Result "1-0"]
+[Puzzle "972"]
+[FEN "4Qb1k/3R4/6pP/5q2/7P/1Pn2P2/P7/K1B5 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Rd3 $1 { 46...Qxd3 47 Qxf8+ Kh7 48 Qg7#. Note that the white king cannot escape the checks by 46 Kb2? Qb1+! 47 Kxc3 Qxc1+ 48 Kd3 Qd1+ 49 Kc4 Qc2+, when Black secures a draw by repetition after both 50 Kd5 Qd3+ 51 Kc6 (51 Ke6?? Qf5#) 51...Qa6+ 52 Kc7 Qa7+ 53 Kc6 Qa6+ = and 50 Kb5 Qc5+ 51 Ka6 Qc6+ 52 Ka7 Qc5+ 53 Ka8 Qc6+ 54 Ka7 Qc5+ =. } 1-0

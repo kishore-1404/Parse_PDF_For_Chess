@@ -1,0 +1,12 @@
+[Event "Budapest 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A. Jakab"]
+[Black "Pulpan"]
+[Result "*"]
+[Puzzle "561"]
+[FEN "5rk1/6p1/4p2B/pp1bQp2/8/3q1P2/6PP/4R1K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Rf7 $1 { After 32...gxh6? Black has no way to escape the white checks. For example: 33 Qg3+ Kf7 34 Qc7+ Ke8 35 Qc8+ Ke7 36 Qc7+ Kf6 37 Qe5+ Kg6 38 Qg3+ =. } 2. Bf4 a4 { White has no answer to the advance of Black’s queenside pawns. } *

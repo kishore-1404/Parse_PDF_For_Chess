@@ -1,0 +1,12 @@
+[Event "Austrian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fröwis"]
+[Black "Freitag"]
+[Result "1-0"]
+[Puzzle "717"]
+[FEN "2r2rk1/p4ppp/2b1p3/8/8/P1n1B1P1/5PBP/2R1R2K w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Bxc6 Rxc6 2. Rc2 $1 { Black will soon lose his pinned knight. } 1-0

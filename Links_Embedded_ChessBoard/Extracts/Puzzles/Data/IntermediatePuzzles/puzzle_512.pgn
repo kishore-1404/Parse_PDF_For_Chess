@@ -1,0 +1,12 @@
+[Event "Saint Louis 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "J. Yu"]
+[Black "Kretchetov"]
+[Result "*"]
+[Puzzle "512"]
+[FEN "r3kb1r/1pp1np1p/1q1p2p1/3Pp3/Pp6/1Q1PP1P1/1P2KPBP/2R3NR w kq - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Rc4 $1 c5 2. dxc6 bxc6 { Black also loses a pawn after 16...Nxc6 17 Bd5 Qc7 18 Nf3 Bg7 19 Rhc1 0-0 20 Bxc6 bxc6 21 Rxc6+–. } 3. Rxb4 Qd8 4. Rb7 *

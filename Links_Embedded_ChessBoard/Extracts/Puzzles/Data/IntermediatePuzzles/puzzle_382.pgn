@@ -1,0 +1,12 @@
+[Event "Paraćin 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ohanyan"]
+[Black "Predke"]
+[Result "*"]
+[Puzzle "382"]
+[FEN "3k4/p2nrp2/8/2p5/1pQ1N1q1/4R1P1/PP3P1P/5K2 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... f5 $1 2. f3 { White loses a piece after 28 Nd2 Qd1+ 29 Kg2 Rxe3 30 fxe3 Qxd2+–+. } 2... Qh3+ 3. Kg1 Qh6 *

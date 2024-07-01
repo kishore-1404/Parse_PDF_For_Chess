@@ -1,0 +1,12 @@
+[Event "Dubai 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Art. Davtyan"]
+[Black "V. Kovalev"]
+[Result "0-1"]
+[Puzzle "333"]
+[FEN "3r2k1/pp3r1p/8/2Q1n2q/1P1N4/3B2Pb/P4P2/R3R1K1 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Bg2 $1 { White has no good defence to the threat of ...Qh1#; for example, 21 Kxg2 (21 f4 Qh1+ 22 Kf2 Nxd3+–+) 21...Rxf2+ 22 Kxf2 Nxd3+ 23 Kg2 Nxc5–+. } 0-1

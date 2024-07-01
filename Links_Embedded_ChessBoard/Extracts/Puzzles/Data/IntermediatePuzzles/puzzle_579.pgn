@@ -1,0 +1,12 @@
+[Event "Swiss Team Ch 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bellini"]
+[Black "Forster"]
+[Result "0-1"]
+[Puzzle "579"]
+[FEN "3r2k1/1R2Rp2/p6p/6p1/8/5PP1/r5P1/6K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Rd1+ 2. Kh2 g4 $1 3. Rbd7 { 30 fxg4 is answered with 30...Raa1 followed by mate. White runs out of checks after 30 Rxf7 Raa1 31 Rg7+ Kf8 32 Rbf7+ Ke8 33 Re7+ Kd8–+. } 3... Rxd7 4. Rxd7 gxf3 5. Rd6 f2 6. Rf6 h5 7. g4 { 34 Kh3 Ra1 35 Rxf2 Rh1#. } 7... h4 8. g5 { 35 Kh3 Ra1 36 Rxf2 Rh1#. } 8... a5 { Black cannot be prevented from promoting a pawn. } 9. Kh3 a4 10. Kxh4 a3 11. Kh5 Kg7 12. g3 Re2 13. g4 a2 { Or 40...f1Q 41 Rxf1 Rh2#. } 0-1

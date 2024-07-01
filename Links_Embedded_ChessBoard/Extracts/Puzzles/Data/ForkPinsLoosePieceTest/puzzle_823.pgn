@@ -1,0 +1,12 @@
+[Event "Česke Budejovice 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Plischki"]
+[Black "A. Mirzoev"]
+[Result "0-1"]
+[Puzzle "823"]
+[FEN "r1br2k1/1p3pp1/p1p2n1p/3Nq3/1bP5/1P1BP2P/P1QB1PP1/R3R1K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... Bxd2 2. Nxf6+ Qxf6 3. Qxd2 Bf5 { 18 e4 Bxe4! 19 Rxe4 Qxa1+–+. } 0-1

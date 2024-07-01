@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Naroditsky"]
+[Black "Gukesh"]
+[Result "*"]
+[Puzzle "209"]
+[FEN "r2q1rk1/1pp1n3/p2pbpp1/3Pp2P/P3P1p1/4QP2/1PP1N3/R3K2R w KQ - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. hxg6 $1 Nxg6 { 19...Bd7? allows 20 Qh6 and mate next move. } 2. Qh6 Rf7 { 20...Qd7 21 Qxg6+ Qg7 22 Qxg7+ Kxg7 23 dxe6+–. } 3. dxe6 Rg7 4. Ng3 Qf8 5. Nf5 Re8 6. Qh8+ $1 { In the game 24 Qh5 was good enough, but the queen sacrifice is a forced mate. } 6... Nxh8 7. Nh6+ Kh7 8. Nf7+ Kg6 { 26...Kg8 27 Rxh8#. } 9. Rh6# *

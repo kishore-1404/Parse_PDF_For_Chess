@@ -1,0 +1,12 @@
+[Event "2nd Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "I. Schneider"]
+[Black "Jakubowski"]
+[Result "0-1"]
+[Puzzle "442"]
+[FEN "5bk1/p4p1p/3n2p1/3Q4/Pp1Rp3/1Pq5/2P5/1K3R2 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... e3 $1 2. Re4 h5 { Black prepares ...Bg7 so that he can reply to Re8+ with ...Kh7. } 3. Re8 e2 { Black gains material after 42 Rxe2 Bg7 43 Kc1 Qa1+ 44 Kd2 Bh6+ 45 Re3 (45 Kd3 Qc3#) 45...Qxf1–+, while 42 Rxf8+ Kxf8 43 Qxd6+ Kg7 44 Qf4 exf1Q+ 45 Qxf1 h4–+ is a won queen and pawn endgame. } 0-1

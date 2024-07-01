@@ -1,0 +1,12 @@
+[Event "Paleochora 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Maltsevskaya"]
+[Black "Ali Marandi"]
+[Result "*"]
+[Puzzle "825"]
+[FEN "r2qr1k1/1bp3pp/p4p2/1p1n4/3PN3/bP3N1P/P2B1PP1/1R1QR1K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... Rxe4 $1 2. Rxe4 Nc3 3. Bxc3 Bxe4 4. Ra1 b4 $1 5. Nd2 { Black wins material after 25 Bd2 Bb2–+. } 5... Bd3 6. Nf3 Bg6 7. Bd2 Bb2 *

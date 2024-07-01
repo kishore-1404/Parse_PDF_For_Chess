@@ -1,0 +1,12 @@
+[Event "Polish Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pakleza"]
+[Black "Lewtak"]
+[Result "*"]
+[Puzzle "811"]
+[FEN "r3r1k1/pp3p2/1qbb3p/3pNPp1/3Pn2P/6B1/PP4P1/1B1QRRK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1. Rxe4 $1 dxe4 2. Nc4 e3 { 25...Qb4 26 Nxd6+–. } 3. Nxb6 e2 4. Qb3 exf1=Q+ 5. Kxf1 *

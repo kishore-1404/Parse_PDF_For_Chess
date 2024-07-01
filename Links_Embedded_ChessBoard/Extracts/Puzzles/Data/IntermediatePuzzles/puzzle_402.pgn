@@ -1,0 +1,12 @@
+[Event "Olomouc 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lutsko"]
+[Black "J. Baum"]
+[Result "0-1"]
+[Puzzle "402"]
+[FEN "3r2k1/pp3ppp/4b3/8/3nPPn1/P3R1N1/1Q2B1Pq/R1B2K2 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Nxe2 2. Qxe2 Nxe3+ 3. Qxe3 $4 { Giving back the piece with 27 Bxe3 is forced, though after 27...Qxg3 Black has good winning chances with his extra pawn and active pieces. } 3... Rd1+ { Or 27...Bc4+ 28 Kf2 Rd3–+. } 4. Kf2 { 28 Ke2 Bg4+–+. } 4... Bh3 5. Ke2 Bg4+ { White’s queen’s rook and bishop never played a role in the game. } 0-1

@@ -1,0 +1,12 @@
+[Event "European Under-14 Ch, Antalya 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Agasarov"]
+[Black "Vagman"]
+[Result "*"]
+[Puzzle "91"]
+[FEN "r7/5pkp/Q1b2p2/2q1pP2/2Bb4/1P6/P1P3PP/1K1RB3 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. b4 $1 Qd6 2. Qb6 Rb8 $1 { 34...Qd7? 35 Rxd4! exd4 was played in the game. White’s queenside pawns would have proved decisive if he had then chosen 36 Bf2+–. } 3. Qa6 Ra8 $1 { Black loses the endgame after 35...Rxb4+? 36 Bxb4 Qxb4+ 37 Bb3 Qc3 38 Rxd4 exd4 39 Qc4+–. } 4. Qb6 { with a draw by repetition. } *

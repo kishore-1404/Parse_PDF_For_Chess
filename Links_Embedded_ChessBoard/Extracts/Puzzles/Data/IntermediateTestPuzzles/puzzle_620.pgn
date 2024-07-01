@@ -1,0 +1,12 @@
+[Event "USA Ch, Saint Louis 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "So"]
+[Black "Shankland"]
+[Result "*"]
+[Puzzle "620"]
+[FEN "2rr2k1/1q3pp1/R4n1p/3pp3/1P2P3/2PQ1P1P/R4NPK/8 w - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1. Rxf6 $1 gxf6 2. Ng4 dxe4 { In the game White’s pawns were too strong after 37...Kg7 38 Qd2 Rh8 39 exd5+–. } 3. Qe3 exf3 4. Qxh6 Rd6 5. Rd2 Re6 { 40...Rxd2 41 Nxf6#. } 6. Nxf6+ Rxf6 7. Qxf6 *

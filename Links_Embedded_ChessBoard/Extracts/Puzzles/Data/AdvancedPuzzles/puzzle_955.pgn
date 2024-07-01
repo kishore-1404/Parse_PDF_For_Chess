@@ -1,0 +1,12 @@
+[Event "Bosnian Team Ch, Bihać 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ef. Muratović"]
+[Black "Runić"]
+[Result "*"]
+[Puzzle "955"]
+[FEN "4q2k/p3r1b1/3p1P1r/3B4/1PP3n1/PR4p1/2R4P/3Q2NK b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Qh5 $1 { In the game Black blundered with 33...Bxf6?? and resigned without waiting for 34 Qxg4+–. } 2. h3 { White must avoid 34 Rxg3? Qxh2+! 35 Rxh2 Rxh2#. } 2... Nf2+ 3. Kg2 { White runs out of material after 35 Rxf2? Qxd1 36 fxg7+ Rxg7 37 Rf8+ Kh7 38 Be4+ Rgg6 39 Bxg6+ Kg7! 40 Rxg3 Kxf8–+. } 3... Nxd1 4. fxe7 Nc3 5. Rbxc3 $1 { The queen is dominant after 37 Bc6?! Re6 38 e8Q+ Rxe8 39 Bxe8 Qd1!–+. } 5... Bxc3 6. Rxc3 Qe5 7. Rxg3 Qxe7 *

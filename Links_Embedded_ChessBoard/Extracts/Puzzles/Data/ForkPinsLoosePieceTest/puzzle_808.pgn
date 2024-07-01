@@ -1,0 +1,12 @@
+[Event "Finnish Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sklyarov"]
+[Black "Sepp"]
+[Result "0-1"]
+[Puzzle "808"]
+[FEN "r5k1/1pNq2b1/3p1n1p/p2Pn3/2P5/4P1Qb/PP1BB1p1/R3K1R1 b Q - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... Ne4 $1 2. Qh4 { 25 Qf4 Nc5–+. } 2... Ng5 0-1

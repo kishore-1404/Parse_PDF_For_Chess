@@ -1,0 +1,12 @@
+[Event "Charlotte 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Beukes"]
+[Black "Rorrer"]
+[Result "*"]
+[Puzzle "490"]
+[FEN "3r1r2/p2b2k1/1p3bq1/1PpB2P1/P3pp2/1QP1N1PR/2R5/2B2K2 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Rh6 $1 { In the game White chose 33 gxf6+?, when 33...Rxf6!–+ would have given Black a winning attack. (Instead he played 33...Qxf6?, when 34 Nf5+! followed by g4 would have kept the f-file closed and turned the tables.) } 1... Qxg5 2. Rch2 Rh8 { White has a decisive material advantage after 34...Qxh6 35 Rxh6 fxe3 (35...Kxh6 36 gxf4+–) 36 Rxf6 Rxf6+ 37 Ke1 Bg4 38 Bxe3+–. } 3. gxf4 Qxf4+ 4. Rf2 Qxf2+ 5. Kxf2 Rxh6 6. Bxe4 *

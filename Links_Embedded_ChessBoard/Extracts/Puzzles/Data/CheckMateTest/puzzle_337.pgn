@@ -1,0 +1,12 @@
+[Event "Novi Sad 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Koustav"]
+[Black "Anuj"]
+[Result "1-0"]
+[Puzzle "337"]
+[FEN "r5k1/R4p2/1pq1p1pp/8/P1n4P/4PN2/5PP1/Q5K1 w - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1. Nd4 $1 Qc8 { 35...Qe8 36 Nxe6!+–. } 2. Nxe6 $1 { 36...fxe6 (36...Qxe6 37 Rxa8+ Kh7 38 Rh8#) 37 Qg7#. } 1-0

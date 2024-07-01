@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gungl"]
+[Black "Adams"]
+[Result "*"]
+[Puzzle "455"]
+[FEN "r1b1r1k1/1p2qpp1/2pb4/3p3N/1P1Pn3/3BPN2/1Q3PPP/1R3RK1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bg4 2. Ng3 { 20 Nf4? Bxf3 21 gxf3 Ng5–+. } 2... Bxf3 { 20...Bxg3 21 hxg3 Bxf3 22 gxf3 Nxg3! transposes to the game. } 3. gxf3 Bxg3 4. hxg3 Nxg3 $1 5. Rfd1 { Black takes advantage of White’s loose bishop on d3 after 23 fxg3?! Qxe3+ 24 Rf2 Qxd3–+. } 5... Nh5 { Black has strong pressure against White’s weakened kingside. } *

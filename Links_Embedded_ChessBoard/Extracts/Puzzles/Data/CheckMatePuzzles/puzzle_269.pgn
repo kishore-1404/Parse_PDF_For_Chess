@@ -1,0 +1,12 @@
+[Event "European Under-16 Ch, Antalya 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Falkevall"]
+[Black "A. Sahakyan"]
+[Result "*"]
+[Puzzle "269"]
+[FEN "6k1/3b3p/Rbp3p1/1p1pq3/1P2Nr2/1BPQ1P2/6PP/7K b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Rh4 $1 2. h3 { Black delivers mate after 31 g3? Rxh2+! 32 Kxh2 Qh5+ 33 Kg2 Qh3#. After 31 f4?! (as played in the game) Black has several moves to exploit White’s weak back rank, including 31...Qxf4 (he actually played 31...Rxf4) 32 g3 (32 h3 Be3 33 Bxd5+ Kg7–+) 32...Rxh2+ 33 Kxh2 Qh6+ 34 Kg2 Bh3+ 35 Kf3 Qh5+ 36 Kf4 (36 g4 Qxg4#) 36...Qf5#. } 2... Bc7 3. Kg1 Kg7 { Black unpins his d5-pawn. } 4. Kf2 Bf5 5. Ra7 Kf8 { Black wins material. } *

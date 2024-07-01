@@ -1,0 +1,12 @@
+[Event "Karpacz 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chylewski"]
+[Black "Karolczuk"]
+[Result "*"]
+[Puzzle "351"]
+[FEN "5r1k/1R6/7p/2P1br2/1P1pN1Q1/1q2P2P/8/4R1K1 w - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1. Nf6 $1 { A beautiful interference move threatening mate on both h7 and g7. } 1... Bxf6 { Black cannot save his rook as he is mated after 46...Rg5 47 Rh7# or 46...R5xf6 47 Qg7#. } 2. Qxf5 *

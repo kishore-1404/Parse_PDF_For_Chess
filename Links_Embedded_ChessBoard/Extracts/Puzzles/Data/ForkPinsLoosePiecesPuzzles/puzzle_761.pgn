@@ -1,0 +1,12 @@
+[Event "Bratislava rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "O. Nytra"]
+[Black "Ana. Rakhmangulova"]
+[Result "*"]
+[Puzzle "761"]
+[FEN "2r3k1/1r2b1pp/R2p4/3Pp3/2B2p2/1PNb1P2/4R1PP/6K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Rc6 $1 Bf5 { In the game 33...Ra8 cost Black a piece after 34 Bxd3 Rxb3 35 Bc2+–. } 2. Ba6 $1 Rxc6 3. dxc6 { Black is unable to deal with White’s advanced c6-pawn. } 3... Ra7 4. Bc4+ Kf8 5. Kf2 Bd8 6. g4 *

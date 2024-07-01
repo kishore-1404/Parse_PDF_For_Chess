@@ -1,0 +1,12 @@
+[Event "World Rapid Ch, Almaty 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dubov"]
+[Black "Nihal"]
+[Result "1-0"]
+[Puzzle "36"]
+[FEN "r4rk1/1bq1bp1p/p1n1p1p1/3n2N1/2N4R/2BBP3/1P2QPPP/5RK1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Qh5 $1 { 18...gxh5 19 Bxh7#. } 1-0

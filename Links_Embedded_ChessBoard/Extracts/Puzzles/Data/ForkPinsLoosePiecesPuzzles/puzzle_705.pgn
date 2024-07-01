@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "R. Svane"]
+[Black "Yu Yangyi"]
+[Result "0-1"]
+[Puzzle "705"]
+[FEN "2k4r/1pp1b1p1/2n5/p2rp2p/8/2P2RP1/PP3P1P/R1B1N1K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Rd1 $1 { White is unable to develop his queenside. } 2. Kf1 { 23 Re3 Bg5–+. } 2... Bg5 3. Bxg5 Rxa1 4. a3 a4 0-1

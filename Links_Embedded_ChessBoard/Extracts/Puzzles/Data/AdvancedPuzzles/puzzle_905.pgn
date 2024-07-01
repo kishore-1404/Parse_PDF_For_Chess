@@ -1,0 +1,12 @@
+[Event "World Rapid Ch, Almaty 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Makarian"]
+[Black "Jobava"]
+[Result "*"]
+[Puzzle "905"]
+[FEN "r3k2r/ppq2pp1/2pbpn2/2Pp1bnp/3P4/1PNNP1PP/PB2QPB1/R4RK1 b kq - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Bxg3 $1 2. fxg3 Bxd3 3. Qxd3 Qxg3 4. Ne2 { 18 Rxf6 Nxh3+ 19 Kh1 gxf6 20 Qf1 Nf2+ 21 Kg1 Ng4 22 Qf4 Qxe3+ 23 Qxe3 Nxe3–+. } 4... Nxh3+ 5. Kh1 Qh4 6. Bxh3 Qxh3+ 7. Kg1 Rh6 *

@@ -1,0 +1,12 @@
+[Event "Chennai Olympiad 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Smirnov"]
+[Black "Duda"]
+[Result "0-1"]
+[Puzzle "154"]
+[FEN "2b1r1k1/p4pp1/1pp5/4n1qp/4Pn2/1PQ5/4NPPP/2BR1BK1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Qxg2+ $1 { 27 Bxg2 Nxe2+ 28 Kh1 Nxc3–+ leaves Black a piece up. } 0-1

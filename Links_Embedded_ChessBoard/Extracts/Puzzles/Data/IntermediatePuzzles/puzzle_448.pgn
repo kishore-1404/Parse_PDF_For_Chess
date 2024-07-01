@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Malakhov"]
+[Black "Sharapov"]
+[Result "*"]
+[Puzzle "448"]
+[FEN "bqr1r1k1/5pp1/p2bpn2/1p2n2p/1P2P3/1NN1BP1P/P4QP1/2RR1B1K w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Ba7 $1 { Long diagonal moves can be easy to overlook. } 1... Qc7 2. Nxb5 axb5 3. Rxc7 Bxc7 4. Bxb5 { White has a decisive material advantage. } *

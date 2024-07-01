@@ -1,0 +1,12 @@
+[Event "Jakarta Zonal 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Juswanto"]
+[Black "Tuan Minh Tran"]
+[Result "0-1"]
+[Puzzle "301"]
+[FEN "8/1pR5/4rpk1/4Pq2/n2Q1P2/4N1pP/7r/5RK1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Rh1+ $1 2. Kg2 { White is mated after 39 Kxh1 Qxh3+ 40 Kg1 Qh2#. } 2... Qxh3+ 3. Kf3 g2+ 4. Ke4 gxf1=Q { 42 Nxf1 Qg2+ 43 Kd3 Qxf1+ leads to mate. } 0-1

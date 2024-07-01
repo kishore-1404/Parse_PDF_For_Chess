@@ -1,0 +1,12 @@
+[Event "World Rapid Ch, Almaty 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Niemann"]
+[Black "Vokhidov"]
+[Result "0-1"]
+[Puzzle "120"]
+[FEN "r1b1k2r/pp2ppbp/2n3p1/2q5/4QB2/2P2N2/PP2BPPP/R3K2R b KQkq - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Bxc3+ $1 2. Nd2 { 12 bxc3 Qxc3+ 13 Bd2 Qxa1+ 14 Bd1 Bf5–+. } 2... Bf5 { White will lose more material. } 0-1

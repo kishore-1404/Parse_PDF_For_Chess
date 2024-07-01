@@ -1,0 +1,12 @@
+[Event "Tashkent 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kasimdzhanov"]
+[Black "Yakubboev"]
+[Result "1-0"]
+[Puzzle "42"]
+[FEN "r2qr1k1/2p2pb1/p1np4/1p2P1Bn/4P3/1bPP2Q1/PP1N2PP/R4RK1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Qh4 $1 { After 18 Qg4? Nxe5 19 Qxh5 f6! 20 axb3 fxg5 the chances are roughly equal. } 1... Qd7 2. axb3 Rxe5 { 19...Nxe5 20 Qxh5 Qg4 21 Qxg4 Nxg4 22 d4+– leaves White two pawns ahead. } 3. d4 { White has two extra pawns and a continuing attack. } 1-0

@@ -1,0 +1,12 @@
+[Event "World Junior Ch, Cala Gonone 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Harshavardhan"]
+[Black "Budisavljević"]
+[Result "0-1"]
+[Puzzle "212"]
+[FEN "1n3rk1/5ppp/p7/q7/3PQ3/1b6/PP2KPPP/R4B1R b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Ba4 $1 2. Qf4 { White has a material advantage, but his king is hopelessly trapped in the centre; for example, 19 Rc1 Re8 20 Qxe8+ Bxe8 21 Rc8 Qb5+–+ or 19 b4 Qc7 20 Kd2 Re8 21 Qd3 Qf4+ 22 Kc3 Qxf2–+. } 2... g5 $1 3. Qd6 Nd7 4. Kf3 Re8 5. Bc4 Qf5+ 6. Kg3 Ne5 { White’s king is caught in a mating-net. } 7. f3 { 24 dxe5 Qf4+ 25 Kh3 Qh4#. } 7... Qf4+ 8. Kf2 { 25 Kh3 Qh4#. } 8... Ng4+ { 26 Kf1 Qxd6–+. } 0-1

@@ -1,0 +1,12 @@
+[Event "Barcelona 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fernandez Guillen"]
+[Black "Neef"]
+[Result "1-0"]
+[Puzzle "194"]
+[FEN "r1k4r/pp1q1Qpp/5b2/6N1/7P/P4P2/2B2P2/5RK1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Bf5 $1 Qxf5 2. Rc1+ Kd8 { Black must give up his queen in view of 26...Kb8 27 Qc7#. } 3. Ne6+ Qxe6 4. Qxe6 Rf8 5. Rd1+ { 29...Kc7 30 Qd6+ Kc8 31 Rc1+ Bc3 32 Rxc3#. } 1-0

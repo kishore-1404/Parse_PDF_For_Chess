@@ -1,0 +1,12 @@
+[Event "Los Angeles 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "J. Wang"]
+[Black "Burke"]
+[Result "*"]
+[Puzzle "147"]
+[FEN "2rr2k1/2q3pp/2b1pR2/1p1p4/1P1QP2P/2N5/2PRB1P1/1K6 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... dxe4 $1 2. Qc5 { After 24 Qxd8+ Rxd8 25 Rxd8+ Qxd8 26 Rxe6 Qd7–+ (as played in the game) the queen is in charge. } 2... Rxd2 3. Rf1 Qd6 { Black has a decisive material advantage. } *

@@ -1,0 +1,12 @@
+[Event "Tremblay-en-France 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "C. Kuhn"]
+[Black "J. Mouhamad"]
+[Result "*"]
+[Puzzle "505"]
+[FEN "2r1q1k1/1b3pb1/p3r2p/1p1p2p1/2pPn1PP/P1N1P3/1P3PQB/R1RB2K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bxd4 $1 { This combination works because of the unfortunate position of White’s bishops. In the game, 22...Qe7?! left Black with a good position, but no immediate win. } 2. exd4 { Black has a clear extra pawn after 23 Bf3 Bg7–+. } 2... Nxc3 3. Be5 { 24 bxc3 Re1+–+ costs White his queen. } 3... Nxd1 4. Rxd1 f6 5. Bg3 Re2 *

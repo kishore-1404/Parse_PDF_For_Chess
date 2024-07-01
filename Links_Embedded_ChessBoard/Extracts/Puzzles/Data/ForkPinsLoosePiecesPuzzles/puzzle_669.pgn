@@ -1,0 +1,12 @@
+[Event "Turkish Team Ch, Ankara 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Maghsoodloo"]
+[Black "Sychev"]
+[Result "*"]
+[Puzzle "669"]
+[FEN "r1b1k2r/pp3ppp/4p3/2npP3/5P2/P1N5/1qPQ2PP/R3KB1R w KQkq - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Bb5+ Bd7 2. Ra2 $1 { Both players need to consider this move whenever Black captures a pawn on b2. } 2... Qxb5 3. Nxb5 Bxb5 4. Qb4 Bc4 5. Qxc5 Bxa2 6. g4 *

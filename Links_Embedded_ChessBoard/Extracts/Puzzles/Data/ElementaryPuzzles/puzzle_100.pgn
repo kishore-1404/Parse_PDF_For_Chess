@@ -1,0 +1,12 @@
+[Event "Ayvalik 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hakemi"]
+[Black "Baglan"]
+[Result "1-0"]
+[Puzzle "100"]
+[FEN "r1b1r1k1/p2q1pp1/2Q2B1p/3p4/4p3/bP4P1/P3PPBP/R4RK1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Qxa8 $1 Ba6 { 18...gxf6 19 Rfd1+–. } 2. Bh3 $1 { 19...Rxa8 (19...Qb5 20 Qxa7+–) 20 Bxd7 gxf6 21 Rfd1 Bxe2 22 Rxd5+–. } 1-0

@@ -1,0 +1,12 @@
+[Event "Khanty-Mansiisk 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Afanasiev"]
+[Black "Makarian"]
+[Result "0-1"]
+[Puzzle "311"]
+[FEN "2r1k1r1/pp3p2/6q1/1p1RP2p/7Q/3RP2P/PP6/1K6 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Qxd3+ $1 { 27 Rxd3 Rg1+ 28 Qe1 Rxe1+ 29 Rd1 Rxd1#. } 0-1

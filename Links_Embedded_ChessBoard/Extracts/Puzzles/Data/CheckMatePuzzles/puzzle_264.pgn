@@ -1,0 +1,12 @@
+[Event "Finnish Ch, Helsinki 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nyysti"]
+[Black "Agopov"]
+[Result "0-1"]
+[Puzzle "264"]
+[FEN "4r3/6k1/1p4p1/pP3p1p/2Bq3P/1P3QP1/Rb1r1PK1/5R2 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Re3 $1 2. Qb7+ { White can offer an exchange of queens to relieve the kingside pressure, but after 34 Qf4 Qxf4 35 gxf4 Re4 36 Kf3 Kh6 37 Rb1 Bc3 38 Rxd2 Bxd2–+ Black wins the f4-pawn. } 2... Kh6 3. Rxb2 $6 { Waiting moves allow Black to launch a mating attack. For example: 35 Qa8? Rxg3+! 36 Kxg3 Qg4+ 37 Kh2 Be5+ 38 Kh1 Qh3+ 39 Kg1 Qh2#. Given that 35...Rxg3+ is a threat, White’s only try is 35 Qb8!, when 35...Qe4+ 36 Kg1 Be5 forces White to give up his queen. After 37 Qf8+ Bg7 38 Qxg7+ Kxg7 39 Rxd2 Re1! the ending is clearly very unpleasant for White. } 3... Rxb2 4. Kh2 { Black is able to prepare the ...f4 pawn-break after 36 Qb8 Rd2 37 Qf8+ Qg7 38 Qb8 Re4–+. } 4... Re1 5. Bg8 { Or 37 Qa8 Rxf1 38 Bxf1 Rxf2+ 39 Bg2 f4–+. } 5... Rxf2+ 6. Rxf2 Qxf2+ { Black exchanges queens into a won endgame. } 0-1

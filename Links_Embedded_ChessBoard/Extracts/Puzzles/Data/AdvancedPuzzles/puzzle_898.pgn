@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mamedyarov"]
+[Black "Giri"]
+[Result "1-0"]
+[Puzzle "898"]
+[FEN "2b2rk1/r5b1/4p2P/pq1pN3/3P2Q1/P7/1PP2P2/2KR4 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Rh1 $1 Rxf2 { 23...Rf6 24 hxg7 Rxg7 25 Qh4 leads to mate. } 2. h7+ Kf8 { 24...Kh8 25 Ng6#. } 3. Qxg7+ Rxg7 4. h8=Q+ Rg8 5. Ng6+ Ke8 { After 27...Kf7 28 Rh7+ Kxg6 29 Qxg8+ Kf5 30 Rf7+ Ke4 31 Qg4+ Ke3 32 Qg3+ Black is soon mated. } 6. Qxg8+ Kd7 7. Ne5+ Kd6 8. Nd3 1-0

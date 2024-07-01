@@ -1,0 +1,12 @@
+[Event "Juan Dolio 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mat. Latorre"]
+[Black "M. Lu"]
+[Result "0-1"]
+[Puzzle "10"]
+[FEN "3r2k1/R2B1pbp/p3p1p1/P7/3P4/1r2P3/6PP/4R1K1 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Rxe3 $1 2. Rxe3 { 32 Rd1 Re1+ 33 Rxe1 Bxd4+ 34 Kf1 Bxa7–+. } 2... Bxd4 3. Kf1 Bxa7 { Black’s two extra pawns are decisive. } 0-1

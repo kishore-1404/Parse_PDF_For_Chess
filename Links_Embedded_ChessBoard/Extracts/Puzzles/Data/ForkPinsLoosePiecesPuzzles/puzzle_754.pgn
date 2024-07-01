@@ -1,0 +1,12 @@
+[Event "2nd Bundesliga 2021/2"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vyval"]
+[Black "Cofman"]
+[Result "*"]
+[Puzzle "754"]
+[FEN "r3kb1r/p2n1p2/1pn1p1p1/3pP2p/1PNP1P2/q1P1BN2/P5PP/R2Q1RK1 b kq - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... dxc4 $1 { In the game, 17...Qxc3? allowed White to activate his pieces and take over the initiative with 18 Rc1 Qxb4 19 Bd2 Qb5. Then the most incisive path would have been 20 Nd6+ Bxd6 21 exd6+–, meeting 21...Rc8 with 22 f5!. } 2. d5 Nxb4 $1 3. dxe6 fxe6 { White has inadequate compensation for the lost piece. } *

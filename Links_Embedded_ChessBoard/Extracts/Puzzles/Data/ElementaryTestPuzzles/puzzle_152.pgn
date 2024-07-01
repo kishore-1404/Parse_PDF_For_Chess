@@ -1,0 +1,12 @@
+[Event "Lodz rapid (team event) 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Laurušas"]
+[Black "Kowalski"]
+[Result "*"]
+[Puzzle "152"]
+[FEN "r3k2r/ppqnbpp1/2p3p1/3Q4/3P4/4PP2/PP1B2PP/2R1KB1R b Kkq - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Rxh2 $1 2. Rxh2 Qg3+ $1 { The point is to win the white queen. Not 15...Qxh2?? 16 Qb3 Qg3+ 17 Ke2 with a clear advantage for White. } 3. Kd1 cxd5 { Black has a decisive material advantage. } *

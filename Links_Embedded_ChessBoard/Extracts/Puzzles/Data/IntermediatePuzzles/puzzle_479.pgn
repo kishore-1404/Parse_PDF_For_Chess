@@ -1,0 +1,12 @@
+[Event "Tashkent 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Galperin"]
+[Black "Rakhmatullaev"]
+[Result "*"]
+[Puzzle "479"]
+[FEN "2b2r1k/pr2q1p1/2p3Qp/5pNR/8/8/PPP3PP/2K4R b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Qe3+ 2. Kb1 Rxb2+ $1 3. Kxb2 { (variation) } 3... Qb6+ { 24 Ka1 Rb1+ 25 Kxb1 (25 Rxb1 Qc3+ 26 Rb2 Qe1+ 27 Rb1 Qc3+ is a draw) 25...Qb6+ 26 Kc1 (26 Ka1 Qd4+ 27 Kb1 Qb6+ repeats) 26...Qe3+ 27 Kb1 Qb6+ with a draw by repetition. } 4. Kc1 { This check is the easiest way to make a draw. Black can also maintain the balance by 24...Qd4+ 25 c3 Qd2+ 26 Kb3 Be6+ 27 Qxe6 Rb8+ 28 Kc4 Qxa2+ 29 Kc5 Qf2+ =, repeating. } 4... Qe3+ 5. Kb2 Qb6+ { 25 Ka1 Qd4+ 26 Kb1 Qb6+ repeats. } *

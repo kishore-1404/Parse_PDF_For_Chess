@@ -1,0 +1,12 @@
+[Event "Delhi (women) 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "D. Munkhzul"]
+[Black "Karavade"]
+[Result "*"]
+[Puzzle "942"]
+[FEN "3r1rk1/3qbppp/p1bpp3/1p5n/3BPP2/P2B3Q/1PP3PP/3NRR1K b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Nxf4 $1 2. Rxf4 e5 { This is a well-known simplifying manoeuvre in the Sicilian Defence; here it works because White’s knight is out of play on the back rank. } 3. Rg4 { Black is able to rebuff White’s attack after 20 Qg3 exd4 21 Nf2 Qe6 –/+, retaining an extra pawn and good chances to win. } 3... exd4 4. e5 g6 5. e6 Qe8 $1 { And not 22...fxe6?? 23 Bxg6!+–, when White obtains a decisive attack. The queen retreat enables Black to retain her extra pawn along with a powerful pair of bishops. White now pressed forward with a doomed attack, rather than embarking upon a depressing battle for survival: } 6. Qh6 $6 f5 7. Rg3 Bf6 8. Nf2 { In the game White chose 25 Bxf5, but Black easily repelled the attack and won the game after 25...Bg7 26 Bxg6 hxg6 27 Rxg6 Qe7 – +. } 8... Qe7 *

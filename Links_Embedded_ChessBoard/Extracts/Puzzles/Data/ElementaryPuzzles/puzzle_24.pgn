@@ -1,0 +1,12 @@
+[Event "Saint Louis rapid playoff 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Firouzja"]
+[Black "Nepomniashchy"]
+[Result "*"]
+[Puzzle "24"]
+[FEN "r1b2rk1/pp2qppp/3n1n2/2p5/2P1P3/1N3PP1/P5BP/R1BQ1RK1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. e5 $1 Nxc4 { White wins a piece after 17...Qxe5 18 Bf4+–. } 2. exf6 Qxf6 3. Qd5 Be6 4. Qxc5 { White has an extra piece. } *

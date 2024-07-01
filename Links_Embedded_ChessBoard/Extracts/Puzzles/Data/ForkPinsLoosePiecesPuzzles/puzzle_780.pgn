@@ -1,0 +1,12 @@
+[Event "Austrian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "S. Matt"]
+[Black "C. Köpke"]
+[Result "0-1"]
+[Puzzle "780"]
+[FEN "r5k1/1b1p1ppp/nq6/2p3Q1/2p1r3/4B3/PP1N1PPP/R3R1K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Re6 $1 2. Nxc4 { Black has a mobile extra centre pawn after 21 Qf5 d5–+. } 2... Qb4 3. Qf4 { 22 b3 Rg6–+. } 3... Re4 0-1

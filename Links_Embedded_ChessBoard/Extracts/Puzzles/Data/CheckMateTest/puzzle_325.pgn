@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gustafsson"]
+[Black "S. Grigorian"]
+[Result "1-0"]
+[Puzzle "325"]
+[FEN "7k/p4ppp/1p3R1N/2qP2Q1/4r3/4n3/6PP/B5K1 w - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1. Nxf7+ Kg8 2. Nh6+ Kh8 3. Rf8+ $1 Qxf8 4. Bxg7+ Qxg7 { 33...Re8 34 Qxe8+ Qf8 35 Qxf8#. } 5. Qd8+ 1-0

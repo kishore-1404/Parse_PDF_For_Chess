@@ -1,0 +1,12 @@
+[Event "Moscow 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gorbatov"]
+[Black "Nozdrachev"]
+[Result "*"]
+[Puzzle "390"]
+[FEN "1br1r1k1/5p2/5np1/pNpP2qp/P7/1P6/1B1R1PPP/Q2R2K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bxh2+ $1 2. Kf1 { 30 Kh1 Ng4–+; 30 Kxh2 Qh4+ 31 Kg1 Ng4–+. } 2... Ng4 $1 { Black increases the pressure on the kingside. Not 30...Qh4?? 31 Bxf6 (in the game 31 Rd3?? Ng4–+ gave Black a winning attack) 31...g5 32 Qc3+–. But 30...Ne4! is also strong. } 3. Qc1 Qf5 4. Re1 Bg3 *

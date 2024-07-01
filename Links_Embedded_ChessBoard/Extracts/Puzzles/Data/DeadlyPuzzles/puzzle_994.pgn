@@ -1,0 +1,12 @@
+[Event "Danish Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ka. Larsen"]
+[Black "J. Lauridsen"]
+[Result "*"]
+[Puzzle "994"]
+[FEN "2r3k1/7p/1p2pp2/p5pR/3PpPP1/Pb1qP1B1/1P5P/4Q1K1 w - - 0 1"]
+[PuzzleType "DeadlyPuzzles"]
+
+1. fxg5 $1 { In the game White played 30 Bf2??, but this left him with no counterplay so Black infiltrated with his rook: 30...Rc2 31 fxg5 Rxb2 32 Qf1 Rb1 0-1. } 1... e5 { White is also able to expose Black’s king to a barrage of checks after 30...f5 31 Be5 Rc2 32 Rxh7 Kxh7 33 Qh4+ Kg8 34 Qh8+ Kf7 35 g6+ Ke7 36 Qg7+ Kd8 37 Qf8+ Kd7 38 Qd6+ Kc8 39 Qb8+ Kd7 40 Qd6+ =, with a draw by perpetual check. } 2. gxf6 Rc2 3. Bxe5 Rxb2 { Challenging White to prove his case. Black could also take a simple path to a draw himself by 32...Re2 33 Qc1 Rc2 34 Qe1 Re2 =, repeating. } 4. f7+ Bxf7 5. Rxh7 Bc4 6. Rh8+ Kf7 7. Rh7+ Ke8 { 36...Kg8 37 Rh8+ repeats. } 8. Rh8+ Kd7 9. Rh7+ { A more forcing method is to give up the rook to bring in the queen: 38 Rd8+ Kxd8 39 Qh4+ Kc8 40 Qh8+ Kb7 41 Qb8+ Ka6 42 Qa8+ Kb5 43 Qe8+ Ka6 44 Qa8+, with perpetual check. But in general it is more practical to avoid sacrificing when there is a simpler option. } 9... Ke8 { This is the king’s only safe square. Black must avoid 38...Ke6?? 39 d5+ Kxe5 40 Qg3+ Kxd5 41 Rd7+ Kc6 42 Qc7+ Kb5 43 Rxd3+–. 38...Kc6?? also loses to 39 d5+, picking up the b2-rook, while 38...Kc8?? fails because of 39 Rc7+. } 10. Rh8+ { It’s a draw by repetition. } *

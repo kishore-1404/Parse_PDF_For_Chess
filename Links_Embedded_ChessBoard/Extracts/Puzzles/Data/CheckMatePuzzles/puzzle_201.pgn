@@ -1,0 +1,12 @@
+[Event "Serbian Team Ch, Vrnjačka Banja 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Yilmazyerli"]
+[Black "Risteski"]
+[Result "1-0"]
+[Puzzle "201"]
+[FEN "r4b1r/p1R3p1/1q1p2nk/7p/4p3/3BP1Q1/PP4PP/5RK1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Rf5 $1 { White is able to exploit the precarious position of the black king. } 1... exd3 { 25...d5 26 Qg5+ Kh7 27 Rxf8 Rhxf8 28 Qxh5+ Kg8 29 Qxd5+ Kh7 30 Qh5+ Kg8 31 Bc4++–. } 2. Qf3 $1 Nf4 { 26...Kh7 27 Rxh5+ Kg8 28 Qf7#. } 3. Qxf4+ { Black is mated after 27...Kg6 28 Rg5+ Kh7 29 Rxh5+ Kg8 30 Qf7#. } 1-0

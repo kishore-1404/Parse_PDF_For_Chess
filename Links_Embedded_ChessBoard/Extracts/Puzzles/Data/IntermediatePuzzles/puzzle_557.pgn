@@ -1,0 +1,12 @@
+[Event "Sant Ferran de ses Roques 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Aditya Mittal"]
+[Black "Zhao Yuanhe"]
+[Result "*"]
+[Puzzle "557"]
+[FEN "3r1rk1/p3bppp/1p2b3/2p5/P1BPPB2/2PK4/6PP/1R2R3 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. d5 $1 f5 2. Kc2 $1 Bf7 3. exf5 Bd6 { White’s connected passed pawns are decisive after 24...Bf6 25 Re6 Bxe6 26 fxe6+–. } 4. Bxd6 Rxd6 5. Re7 Rfd8 { The game ended 26...Bxd5 27 Rd1 1-0. } 6. Rxa7 Bxd5 7. Bxd5+ Rxd5 8. Rxb6 *

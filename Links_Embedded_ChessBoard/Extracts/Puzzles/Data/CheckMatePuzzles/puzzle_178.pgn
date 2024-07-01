@@ -1,0 +1,12 @@
+[Event "Saint Louis 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Plotkin"]
+[Black "E. Grinberg"]
+[Result "*"]
+[Puzzle "178"]
+[FEN "2r2rk1/p4b2/1p3qpp/2p1P3/2Nn1NQP/PP1P2K1/5P2/3R1R2 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Qxf4+ $1 2. Kxf4 { Black wins a piece after 31 Qxf4 Ne2+ 32 Kf3 Nxf4 33 Kxf4 Bxc4+–+. } 2... Be6+ 3. Kg3 Bxg4 4. Kxg4 Rf3 $1 { Black seals off the white king’s retreat. } 5. Nd2 h5+ 6. Kg5 Kg7 7. Nxf3 Ne6# *

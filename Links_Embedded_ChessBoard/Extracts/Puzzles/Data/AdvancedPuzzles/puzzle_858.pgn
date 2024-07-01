@@ -1,0 +1,12 @@
+[Event "World Rapid Ch, Almaty 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chigaev"]
+[Black "Zhalmakhanov"]
+[Result "1-0"]
+[Puzzle "858"]
+[FEN "8/2q2k2/4ppp1/p1r4p/1n6/4QBP1/1P3P1P/3R2K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Qh6 $1 { The fact that Black has moved all his kingside pawns leaves him vulnerable to an invasion along his second rank. } 1... f5 { 34...Qe7 35 Qh7+ Kf8 36 Qh8+ Kf7 37 Rd8+–. } 2. Qh7+ Kf6 3. Rd7 Rc1+ 4. Kg2 Qc4 5. Qg7+ { Or 38 Qe7+ Ke5 39 Qg7#. } 5... Kg5 6. h4+ 1-0

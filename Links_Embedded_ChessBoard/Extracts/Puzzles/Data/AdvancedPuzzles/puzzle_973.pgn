@@ -1,0 +1,12 @@
+[Event "Sochi (team event) 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klimentov"]
+[Black "A. Fedorov"]
+[Result "*"]
+[Puzzle "973"]
+[FEN "6k1/5p2/b7/3pPpp1/3BnP2/3qN1PK/1Q5P/8 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Qb8+ $1 { 41 fxg5? was played in the game, and Black then generated a mating attack with 41...Nxg5+ 42 Kg2 (42 Kh4 Nf3+ 43 Kh5 f4–+) 42...Qe4+ 43 Kf2 Qh1–+. } 1... Kh7 2. Qf8 { The key idea for White is to attack Black’s f7-pawn, so he can also draw with 42 Qe8 = or 42 Qc7 =. } 2... Qxe3 { 42...Qf1+ 43 Ng2! (not 43 Nxf1?? Bxf1#) 43...Qf3 44 Qxf7+ Kh6 45 Qf8+ is a similar draw: 45...Kg6 (or 45...Kh5; Black mustn’t let the f5- pawn fall with check) 46 Qg8+ Kh6 =. } 3. Qxf7+ Kh6 4. Qf8+ { It’s a draw by repetition. Again Black should play 44...Kg6 or 44...Kh5, and not 44...Kh7?? 45 Qxf5+ Kg7 46 Qd7+ Kg6 47 Qe6+ and 48 Bxe3. } *

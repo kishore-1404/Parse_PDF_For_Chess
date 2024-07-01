@@ -1,0 +1,12 @@
+[Event "Jermuk 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Art. Martirosyan"]
+[Black "Davtyan"]
+[Result "*"]
+[Puzzle "969"]
+[FEN "r4bk1/B4ppp/1PN5/4p3/2Q2nq1/6P1/5P1P/2R2K2 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Re8 $1 { In the game 33...Qh3+?? left Black’s queen and knight out of play, which White exploited with 34 Ke1 Ng2+ 35 Ke2 Re8 36 Qe4 f5 37 Qd5+ Kh8 38 b7+–. } 2. gxf4 { Both 34 Qe4 f5 35 Qc4+ Kh8 36 Bb8 Ba3! 37 gxf4 (37 Bxe5 Bxc1 38 gxf4 Qd1+ 39 Kg2 Qg4+ =) 37...Qh3+ 38 Kg1 Qg4+ 39 Kf1 Qh3+ = and 34 b7 Qf3! 35 gxf4 exf4 36 Kg1 Qg4+ 37 Kf1 Qh3+ 38 Kg1 Qg4+ = also end in perpetual check. } 2... exf4 3. b7 Qh3+ 4. Kg1 Qg4+ 5. Kf1 Qh3+ { with a draw by repetition. } *

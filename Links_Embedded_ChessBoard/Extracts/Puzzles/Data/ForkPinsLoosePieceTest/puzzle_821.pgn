@@ -1,0 +1,12 @@
+[Event "Turkish Ch, Kemer 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Isik"]
+[Black "Yilmazyerli"]
+[Result "0-1"]
+[Puzzle "821"]
+[FEN "5rk1/pp3pp1/4p2p/Q7/7P/3RPBR1/Pq3rP1/6K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... Rxf3 $1 2. Rd8 { 28 Rxf3 Qb1+ 29 Kh2 Qxd3–+. } 2... Qf2+ 3. Kh1 Rxg3 4. Rxf8+ Kh7 $1 { And not 30...Kxf8?? 31 Qd8#. } 0-1

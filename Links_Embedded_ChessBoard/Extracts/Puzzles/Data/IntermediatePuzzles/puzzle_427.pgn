@@ -1,0 +1,12 @@
+[Event "Budapest 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Niedbala"]
+[Black "A. Horvath"]
+[Result "*"]
+[Puzzle "427"]
+[FEN "2rk1b1r/1p1b1p2/p2p1N2/q3pP1p/2nNP2P/1Q6/PPP1B1P1/2KR3R b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Ba4 $1 2. Qxb7 exd4 3. Rxd4 Bc6 { Despite initial appearances, it turns out that the white king is more vulnerable than the black king. } 4. Qxf7 { 21 Qb3 Bh6+ 22 Kb1 Nd2+ 23 Rxd2 Bxd2–+. } 4... Qxa2 5. Bxc4 Qa1+ 6. Kd2 Qxh1 { Black has a decisive material advantage. } *

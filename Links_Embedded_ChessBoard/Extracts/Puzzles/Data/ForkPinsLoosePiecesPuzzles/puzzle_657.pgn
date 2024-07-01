@@ -1,0 +1,12 @@
+[Event "Budapest 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "S. Royal"]
+[Black "Pacher"]
+[Result "*"]
+[Puzzle "657"]
+[FEN "rn1qr1k1/pp3ppp/5n2/2pP4/PbN1P3/1bN2P2/1P1Q1KPP/R1B2B1R b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Rxe4 $1 2. fxe4 { 15 Ne3? Rd4 16 Qe2 Nbd7–+ is highly unpleasant for White as he cannot complete his development. } 2... Nxe4+ 3. Nxe4 Bxd2 4. Ncxd2 $6 { 17 Nexd2 Qh4+ 18 g3 Qd4+ 19 Kg2 Qxd5+ 20 Kg1 gives White better chances of salvaging a draw as his pieces will be better organized here. } 4... Bxd5 { Black has good chances to win due to White’s exposed king. } *

@@ -1,0 +1,12 @@
+[Event "Novorossiysk rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Savitskiy"]
+[Black "Grachev"]
+[Result "0-1"]
+[Puzzle "841"]
+[FEN "6k1/1b3r2/4p3/p2pp3/P2bP1P1/3N1BK1/1P2R3/8 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... Ba6 $1 2. Rd2 { 39 Nc1 Bxe2 40 Nxe2 Bf2+ 41 Kg2 dxe4 42 Bxe4 Bh4–+. } 2... Rxf3+ $3 { 40 Kxf3 dxe4+ 41 Ke2 (41 Kxe4 Bb7#) 41...exd3+–+. } 0-1

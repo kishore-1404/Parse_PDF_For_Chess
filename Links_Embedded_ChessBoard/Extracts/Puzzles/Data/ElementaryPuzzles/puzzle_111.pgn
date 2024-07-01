@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Adhiban"]
+[Black "Sarana"]
+[Result "*"]
+[Puzzle "111"]
+[FEN "2rrb1k1/1p2npbp/p5p1/3pN1N1/Pq3P2/4B2P/1PP2QP1/3R1RK1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. c3 $1 Qxa4 { 21...Qd6 22 Bb6 f6 23 Bxd8 Rxd8 24 Nc4 Qc6 25 Na5 Qc8 26 Rfe1+–. } 2. Bb6 Nf5 $6 { Black also loses material after 22...Rd6 23 Bc5+–. } 3. Bxd8 Rxd8 4. g4 *

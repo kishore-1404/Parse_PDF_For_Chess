@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Tabatabaei"]
+[Black "E. Can"]
+[Result "*"]
+[Puzzle "648"]
+[FEN "r1bqk2r/1p1nppbp/p2p1np1/P1p5/2B1P3/2N2N2/1PPP1PPP/R1BQK2R w KQkq - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Bxf7+ $1 { The bishop sacrifice on f7 must always be examined when there is a white bishop on the a2-g8 diagonal and a black knight on d7. A number of players have fallen victim to the idea in this exact position, and a great many more in similar situations. } 1... Kxf7 { White has a clear extra pawn after 8...Kf8 9 Bb3+–. } 2. Ng5+ Kg8 3. Ne6 Qe8 4. Nc7 Qf7 { The white pawn on a5 ensures that the knight can escape from the corner after 11...Qd8 12 Nxa8+–. } 5. Nxa8 *

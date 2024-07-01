@@ -1,0 +1,12 @@
+[Event "Roquetas de Mar 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Martinez Reyes"]
+[Black "Fier"]
+[Result "0-1"]
+[Puzzle "228"]
+[FEN "1kr5/3rN2p/pq1p1p2/n3p3/1p2P3/6P1/PPPQN2P/2KR1R2 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... b3 $1 2. Nxc8 { After 22 Qd3 bxa2 Black’s a-pawn is unstoppable: 23 Kd2 Rxe7 24 Ke1 Qxb2 25 Qxd6+ Rec7–+. } 2... bxa2 3. Qc3 Nc4 $1 { White is mated following 24 Qxc4 Qe3+ 25 Rd2 a1Q# or 24 b3 Qe3+ 25 Rd2 Qxd2+ 26 Qxd2 a1Q#. } 0-1

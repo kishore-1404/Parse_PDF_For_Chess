@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Keymer"]
+[Black "Praggnanandhaa"]
+[Result "1-0"]
+[Puzzle "203"]
+[FEN "6k1/2q2pp1/3npn2/3pN1NP/3P4/r1P4Q/4RPK1/8 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. h6 $1 Rxc3 { 41...gxh6 42 Qxh6 Qe7 43 Ng4 Nde8 44 Re3+–. } 2. h7+ Kh8 3. Ngxf7+ { 43...Nxf7 44 Ng6#. } 1-0

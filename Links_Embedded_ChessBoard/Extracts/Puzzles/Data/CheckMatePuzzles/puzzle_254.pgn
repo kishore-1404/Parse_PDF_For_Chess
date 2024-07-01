@@ -1,0 +1,12 @@
+[Event "Belgian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pijpers"]
+[Black "K. Pham"]
+[Result "*"]
+[Puzzle "254"]
+[FEN "8/1p3p1k/p1b1p1p1/4PnQp/2P4P/P1P4K/1P3qP1/RBB5 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Bxg2+ $1 2. Kh2 { (variation) } 2... Bf3+ 3. Kh3 Qf1+ 4. Qg2 { Or 32 Qxg2 Qxh4#. } 4... Qxg2# { Or 34 Kh2 Qh1#. } *

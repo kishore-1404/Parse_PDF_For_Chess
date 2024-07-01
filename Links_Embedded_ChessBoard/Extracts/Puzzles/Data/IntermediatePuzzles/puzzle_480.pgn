@@ -1,0 +1,12 @@
+[Event "Saint Louis 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gledura"]
+[Black "Swiercz"]
+[Result "*"]
+[Puzzle "480"]
+[FEN "r1bq1rk1/1p3ppp/2n5/3N4/p2p1R2/3P2P1/PP1QP1BP/5R1K w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nf6+ $1 { The knight sacrifice works because White can quickly funnel his pieces to Black’s weakened kingside. } 1... gxf6 { 23...Kh8 is met by 24 Rh4+–. } 2. Rh4 Re8 3. Qh6 f5 4. Be4 { Or 26 g4 Ra5 27 gxf5 Bxf5 28 Rxf5+–. } 4... Rxe4 5. dxe4 Ra5 6. Rh5 *

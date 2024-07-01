@@ -1,0 +1,12 @@
+[Event "Slovakian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lewtak"]
+[Black "Kriebel"]
+[Result "0-1"]
+[Puzzle "833"]
+[FEN "2kr4/2p3p1/p1p3n1/4p2p/4Pp1P/2Pr1NP1/PP2RPK1/2R5 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... Rxf3 $1 { Black wins a piece with an unusual fork. } 2. Kxf3 Rd3+ 3. Kg2 f3+ 4. Kf1 fxe2+ 5. Kxe2 Rd8 0-1

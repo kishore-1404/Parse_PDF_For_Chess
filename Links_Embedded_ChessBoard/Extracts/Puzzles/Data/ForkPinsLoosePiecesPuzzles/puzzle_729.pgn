@@ -1,0 +1,12 @@
+[Event "Budapest 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "T. Gueci"]
+[Black "Szeberenyi"]
+[Result "1-0"]
+[Puzzle "729"]
+[FEN "r3rbk1/pbpq1p2/1p1p2pp/8/3Pn2N/2PQ2PP/PPBN2P1/R4RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Bb3 $1 { The diagonal switch is fatal for Black as he is unable to defend his vulnerable kingside. } 1... d5 2. Nxe4 Rxe4 { Or 21...dxe4 22 Rxf7!+–. } 3. Nxg6 $1 Ba6 { Black cannot capture the knight because of the pin: 22...fxg6 23 Qxe4+–. } 4. Nxf8 Qc8 { White has several ways to win; she finished things off with: } 5. Qf3 Bxf1 6. Bxd5 Re7 7. Rxf1 1-0

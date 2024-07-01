@@ -1,0 +1,12 @@
+[Event "London 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fitzsimons"]
+[Black "Urh"]
+[Result "*"]
+[Puzzle "756"]
+[FEN "r1bq1bk1/p4p2/1p3npp/3p1N2/3B4/2P3QP/PP1N1PP1/4R1K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Bxf6 $1 { White takes advantage of Black’s lagging development to win a pawn. In the game 19 Qh4? Bxf5 20 Bxf6 Qd7 (or 20...Qd6 21 Nf1!?) 21 Bd4+= left White with just a slight positional advantage. } 1... Qxf6 2. Re8 Bb7 { 20...Qxf5? 21 Qd6 Kg7 22 Qxf8+ Kf6 23 Qh8+ Kg5 24 Re5 leads to mate. } 3. Nxh6+ Kg7 4. Rxa8 Bxa8 5. Ng4 Qe6 6. Qf4 *

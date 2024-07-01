@@ -1,0 +1,12 @@
+[Event "Bucharest rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ki. Georgiev"]
+[Black "Deac"]
+[Result "0-1"]
+[Puzzle "789"]
+[FEN "5r1k/q4rp1/3p3p/PRnNp3/2P5/3p1P2/6PP/1R1Q3K b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... e4 $1 { Black seeks to open lines to exploit White’s weak back rank. } 2. f4 e3 3. Nxe3 Ne4 4. Qe1 d2 5. Qe2 Rxf4 6. Rd5 { 52 Rb6 Qxa5–+. } 6... Qxe3 0-1

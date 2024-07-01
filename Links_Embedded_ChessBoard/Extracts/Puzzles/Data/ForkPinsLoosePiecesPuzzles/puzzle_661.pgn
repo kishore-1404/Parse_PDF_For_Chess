@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Jumabayev"]
+[Black "So"]
+[Result "*"]
+[Puzzle "661"]
+[FEN "3q1rk1/pb3p1p/1p2p1n1/3P4/5pN1/P7/BP3PPP/3Q1RK1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... h5 $1 { The white knight has no safe square. } 2. Nh6+ Kg7 3. Qxh5 Rh8 4. Nxf7 Kxf7 5. dxe6+ Kf6 6. Qb5 { An earlier game, Bareev-Adams, Frankfurt rapid 2000, featured 26 Qg4 Rh4, forcing a won endgame for Black. } 6... Ne5 *

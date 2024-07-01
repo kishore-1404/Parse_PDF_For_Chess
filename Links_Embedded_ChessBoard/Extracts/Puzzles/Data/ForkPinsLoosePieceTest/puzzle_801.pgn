@@ -1,0 +1,12 @@
+[Event "Budapest 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Neverov"]
+[Black "A. Bai"]
+[Result "*"]
+[Puzzle "801"]
+[FEN "1rr3k1/1q2bpp1/4p1bp/1p1pP3/pP1B4/P1R1PPP1/4Q2P/R4BK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1. Qxb5 $1 Rxc3 2. Qxb7 Rxb7 3. Bxc3 Rc7 4. Bd4 { White has a clear extra pawn. } *

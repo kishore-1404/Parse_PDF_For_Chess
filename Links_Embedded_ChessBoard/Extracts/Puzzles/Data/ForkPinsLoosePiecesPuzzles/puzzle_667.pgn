@@ -1,0 +1,12 @@
+[Event "Charlotte 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A. Turgut"]
+[Black "Ippolito"]
+[Result "*"]
+[Puzzle "667"]
+[FEN "7k/5Pp1/p1p4p/1pN3n1/1Pn3Pq/P1P2Q1P/3r4/3N2RK b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Rh2+ $1 2. Kxh2 Nxf3+ 3. Kg2 Qf6 4. Rf1 Ncd2 5. Rf2 Qxf7 *

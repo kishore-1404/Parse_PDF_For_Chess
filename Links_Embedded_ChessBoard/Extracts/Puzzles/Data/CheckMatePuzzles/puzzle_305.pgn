@@ -1,0 +1,12 @@
+[Event "Ayvalik 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ipek"]
+[Black "Molenda"]
+[Result "*"]
+[Puzzle "305"]
+[FEN "3r1r2/p4p1k/2qN1Pnp/5R2/1p5P/2p3Q1/PP4PK/3R4 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Rh5 $1 Rxd6 { Otherwise the white pawn on f6 keeps the black king trapped in, sealing its fate. 31...cxb2 is answered with 32 Rxh6+ Kxh6 33 Qg5+ Kh7 34 Qh5+ Kg8 35 Qh6 followed by mate. } 2. Qg5 Kg8 3. Qxh6 Rxf6 4. Qh7# *

@@ -1,0 +1,12 @@
+[Event "Mitropa Cup, Mali Lošinj 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "R. Degraeve"]
+[Black "Hagner"]
+[Result "*"]
+[Puzzle "559"]
+[FEN "5rk1/2B2p2/pP4pp/P4b2/3K4/2Q5/7P/1q2R3 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Qb5 $1 { 71...Qa2?? was the move actually played, allowing White to support his advanced b7-pawn and win the game: 72 b7 Qf2+ (72...Qa4+ 73 Qc4 Qa3 74 Re2+–) 73 Re3 Qh4+ 74 Kc5 Qa4 75 Qb4+– and Black resigned a couple of moves later. } 2. Re5 Qb1 3. Re1 Qb5 $1 { with a draw by repetition. } *

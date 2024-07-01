@@ -1,0 +1,12 @@
+[Event "Romanian Team Ch, Oradea 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A. Filip"]
+[Black "Cosma"]
+[Result "0-1"]
+[Puzzle "202"]
+[FEN "1r5k/3n2p1/2pqp1P1/p2Pb1Bp/B6P/1P3r2/P1PQ4/1K4RR b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Qa3 $1 2. c4 { Black wins a piece after 29 Qc1 Qxa4–+. } 2... Qxa4 3. dxe6 Rfxb3+ 4. axb3 Qxb3+ { 32 Kc1 Qb1#. } 0-1

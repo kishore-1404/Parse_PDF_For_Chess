@@ -1,0 +1,12 @@
+[Event "Bucharest rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Shevchenko"]
+[Black "Sarana"]
+[Result "*"]
+[Puzzle "295"]
+[FEN "6k1/b4p2/P3p1pp/3n4/2q2P2/4P3/5P1P/RQ4K1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Nxe3 $1 2. fxe3 { Now White is mated. 49 Qa2 loses to 49...Qe4 50 fxe3 Bxe3+ 51 Kf1 Bd4–+. In the game 49 Qb7 allowed Black to exploit White’s weakened kingside by 49...Qd4 50 Rb1 Nd5 51 Qb2 Qxf4, and White resigned a couple of moves later. } 2... Bxe3+ 3. Kg2 Qe2+ 4. Kg3 Qf2+ 5. Kh3 { 52 Kg4 Qg2+ 53 Kh4 Bf2#. } 5... Qf3+ 6. Kh4 Bf2# { Black’s queen and bishop worked together well to flush out the white king. } *

@@ -1,0 +1,12 @@
+[Event "Turkish Team Ch, Ankara 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Aghamaliyev"]
+[Black "Haznedaroglu"]
+[Result "0-1"]
+[Puzzle "882"]
+[FEN "3N4/pp4pk/7p/4pp2/8/1QP5/PP2qbPP/R6K b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Be1 $1 { This puzzle is a good example of why it’s important how many active pieces you have in play – Black is a rook down, but White’s pieces are all out of play. } 2. h4 Qf1+ 3. Kh2 Qf4+ 4. Kg1 { 27 Kh1 Qxh4+ 28 Kg1 Bf2+ 29 Kf1 Bb6 30 Qc2 e4–+. } 4... Bf2+ 5. Kf1 Bb6+ 6. Ke2 Qf2+ 7. Kd1 Qf1+ 8. Kd2 Qxg2+ 9. Kd1 Be3 0-1

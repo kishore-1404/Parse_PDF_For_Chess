@@ -1,0 +1,12 @@
+[Event "Budapest 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "T. Fodor"]
+[Black "Prraneeth"]
+[Result "0-1"]
+[Puzzle "219"]
+[FEN "6rk/3R2pp/6q1/Q2pP3/3P1p1b/1P3P1P/P3NP2/5K2 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Qf5 $1 2. Qxd5 { 35 Rc7 Qxh3+ 36 Ke1 Qxf3 37 Kd1 Qxf2–+. } 2... Qb1+ 3. Kg2 Qe1 { 37 Nxf4 Qxf2+ 38 Kh1 Bg3 followed by mate. } 0-1

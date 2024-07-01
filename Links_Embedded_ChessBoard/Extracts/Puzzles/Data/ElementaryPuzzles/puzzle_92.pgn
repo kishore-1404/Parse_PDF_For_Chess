@@ -1,0 +1,12 @@
+[Event "New York 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vettese"]
+[Black "Adewumi"]
+[Result "*"]
+[Puzzle "92"]
+[FEN "6r1/1k3p2/2n5/1p1b4/4BR2/6Bp/1PPr3P/R5K1 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Bxe4 $1 { 33...Rd4? 34 Bh7! (after 34 Bxd5? Black wins material: 34...Rxf4 35 Re1 {as played in the game } *

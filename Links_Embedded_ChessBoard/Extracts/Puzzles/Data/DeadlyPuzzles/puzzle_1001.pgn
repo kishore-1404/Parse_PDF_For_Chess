@@ -1,0 +1,12 @@
+[Event "Sant Ferran de ses Roques 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Zhao Yuanhe"]
+[Black "Asis Gargatagli"]
+[Result "0-1"]
+[Puzzle "1001"]
+[FEN "8/pp2rp2/2p2Rp1/4Pb1p/1PPK1k2/5B1P/P5P1/8 b - - 0 1"]
+[PuzzleType "DeadlyPuzzles"]
+
+1... Rd7+ 2. Rd6 { 31 Kc3 Kxe5 32 Rxf5+ Kxf5–+. } 2... f6 $3 { 32 Rxd7 (32 c5 fxe5+ 33 Kc3 e4–+) 32...fxe5+ 33 Kc5 Bxd7–+. } 0-1

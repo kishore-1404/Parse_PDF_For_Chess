@@ -1,0 +1,12 @@
+[Event "Paraćin 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Praggnanandhaa"]
+[Black "Arjun"]
+[Result "*"]
+[Puzzle "981"]
+[FEN "r3rbk1/3bqp1p/6p1/p1P5/4P3/P7/2QBN1PP/3R1R1K w - - 0 1"]
+[PuzzleType "DeadlyPuzzles"]
+
+1. Bg5 $1 { This tactic enables White to take over the seventh rank. } 1... Qxg5 2. Rxd7 Re7 { After 23...Qxc5? (as played in the game) White won by targeting the f7-pawn: 24 Qa2 (or 24 Qb3 Be7 25 Rxf7+–) 24...Be7 (24...Re7 25 Rxf7+–) 25 Rxf7 1-0. } 3. c6 Rxd7 { White has a strong passed c-pawn after 24...Qe5? 25 Rxe7 Bxe7 26 Qc4 Qe6 27 Qd5 Bd6 (27...Rd8 28 Nf4! Rxd5 29 Nxe6 Rd3 30 Rc1+–) 28 Nd4 Qe7 29 Nb5 Be5 30 Qd7 Kf8 31 Qxe7+ Kxe7 32 a4+–. } 4. cxd7 Qb5 5. Rd1 Rd8 6. a4 Qb7 7. Qd3 { White has an extra pawn and good chances to win. } *

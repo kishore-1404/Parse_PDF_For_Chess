@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rapport"]
+[Black "Grandelius"]
+[Result "*"]
+[Puzzle "206"]
+[FEN "5rk1/5ppp/8/2p1Rp2/p7/2P2QPP/5P2/1qB3K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Qe3 $1 a3 2. Re8 a2 3. Qe7 h6 4. Qxf8+ { 32 Rxf8+ Kh7 33 Rxf7 Qxc1+ is also sufficient but requires some accuracy from White: 34 Kg2! (not 34 Kh2? Qxc3 35 Qe6 Qc2 =) 34...Qxc3 35 Qe6! Qd3 36 Qe5+–. } 4... Kh7 5. Qxf7 a1=Q { 33...Qxc1+ 34 Kh2 Qg5 35 Qxa2+–. } 6. Qg8+ Kg6 7. Re6+ Kh5 8. Qf7+ g6 9. Qxg6# *

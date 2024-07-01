@@ -1,0 +1,12 @@
+[Event "Trzcianka rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sieciechowicz"]
+[Black "Teclaf"]
+[Result "1-0"]
+[Puzzle "684"]
+[FEN "4rrk1/p1p3pp/1p1p1n2/3P3q/2P2P2/P1B2Q2/1P5P/1K1R2R1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Rxg7+ $1 { After 23...Kh8 (23...Kxg7 24 Qxh5+–) 24 Qxh5 Nxh5 White has a choice of ways to win a rook, including 25 Rg6++–. } 1-0

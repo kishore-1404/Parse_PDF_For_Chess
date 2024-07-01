@@ -1,0 +1,12 @@
+[Event "Polish Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L. van Foreest"]
+[Black "Kriebel"]
+[Result "1-0"]
+[Puzzle "889"]
+[FEN "r2q4/3k1p2/p1p1b2p/3pPn1P/Pp2nB2/1P2PN1B/2Q2P2/6RK w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Bxf5 Bxf5 2. e6+ $1 { White opens the diagonal for his dark-squared bishop. } 2... Ke7 { 31...Kxe6 32 Nd4++–. } 3. Qxc6 Bxe6 { 32...Nxf2+ 33 Kg2 Nh3 34 Qb7+ Kxe6 35 Nd4+ Kf6 36 Rf1+–. } 4. Qb7+ Kf6 { 33...Bd7 34 Qxb4+ Kf6 35 Qd4+ Ke7 36 Qe5+ Be6 37 Nd4+–. } 5. Be5+ Kf5 6. Nd4+ Kxe5 7. Nc6+ Kf6 8. Nxd8 Rxd8 9. f3 1-0

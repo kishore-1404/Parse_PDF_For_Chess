@@ -1,0 +1,12 @@
+[Event "Budapest 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gatineau"]
+[Black "L. Papp"]
+[Result "*"]
+[Puzzle "912"]
+[FEN "4rrk1/p2Rbp1p/n3pp2/2p2q2/7Q/8/P2N1PPP/3NR1K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Re3 $1 { A rook-lift along the third rank is often effective when the defender’s kingside pawn-structure has been compromised. } 1... Kh8 2. Rg3 Rg8 3. Ne3 Qe5 { The only open square for the black queen. } 4. Ng4 Qa1+ { Also hopeless is 24...Rxg4 25 Qxg4 f5 26 Qa4+–, while the game ended 24...Qg5 25 Nh6! 1-0 (in view of 25...Qxh4 26 Nxf7#). } 5. Nf1 Rg6 6. Nh6 Nb8 { 26...Kg7 27 Nxf7 Rxg3 28 Nd6+–. } 7. Rc7 *

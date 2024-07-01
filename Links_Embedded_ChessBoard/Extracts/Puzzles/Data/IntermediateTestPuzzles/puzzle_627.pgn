@@ -1,0 +1,12 @@
+[Event "Wijk aan Zee 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Giri"]
+[Black "Rapport"]
+[Result "1-0"]
+[Puzzle "627"]
+[FEN "8/p4p2/3p1bkp/1p2qp1N/2r3P1/2P2Q1P/PP6/3R2K1 w - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1. Rxd6 $1 Kg5 { 35...Qxd6 36 Qxf5#. } 2. Rd5 Qe1+ 3. Kg2 Be7 4. Rxf5+ Kh4 { 38...Kg6 39 Rf6+ Kg5 40 Rxf7+–. } 5. Qg3+ { 39...Qxg3+ 40 Nxg3 Rc5 41 Rxf7+–. } 1-0

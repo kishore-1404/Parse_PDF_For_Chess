@@ -1,0 +1,12 @@
+[Event "Antwerp (women) 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alboredo"]
+[Black "Sliwicka"]
+[Result "*"]
+[Puzzle "84"]
+[FEN "6r1/7k/4p2p/pqp1Prp1/5nQ1/2R2N1P/5PPK/2R5 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... h5 $1 2. Nxg5+ { White’s major pieces are forked after 39 Qg3 Ne2–+. } 2... Rgxg5 { Black is a piece up. } *

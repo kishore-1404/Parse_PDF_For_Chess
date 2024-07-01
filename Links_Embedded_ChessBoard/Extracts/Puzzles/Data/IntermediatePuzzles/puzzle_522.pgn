@@ -1,0 +1,12 @@
+[Event "Copenhagen 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rostgaard"]
+[Black "J. Nilssen"]
+[Result "*"]
+[Puzzle "522"]
+[FEN "rn1q1rk1/p1p1b1pp/1p1pp3/3b3n/4N3/3B1NB1/PPP1QPPP/R3K2R w KQ - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. c4 $1 { White drives Black’s light-squared bishop away from the defence of the e6-pawn. } 1... Bb7 { In the game 12...Re8 13 cxd5 exd5 14 0-0+– gave White a decisive material advantage. } 2. Nd4 { White wins material as he is attacking both the loose knight on h5 and the e6-pawn. } 2... e5 3. Ne6 Qe8 4. Nxc7 Qf7 5. Nxa8 Bxa8 6. O-O *

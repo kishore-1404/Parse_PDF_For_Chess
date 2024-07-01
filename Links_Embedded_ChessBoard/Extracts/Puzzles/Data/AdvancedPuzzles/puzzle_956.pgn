@@ -1,0 +1,12 @@
+[Event "Mersin 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Yarashov"]
+[Black "Olcum"]
+[Result "*"]
+[Puzzle "956"]
+[FEN "r1q1r1kb/pppb1p1p/6pB/8/2PnB2Q/2N3PP/PP2PP2/R3K2R b KQ - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Bc6 $1 { Another good option is 16...Bf5!?. In the game Black played 16...Rxe4?, but there is no effective follow-up. After 17 Qxe4 Nf5 (17...Bc6 18 Nd5+–), White would have done best to play 18 Nd5 c6 19 Ne7+ Nxe7 20 Qxe7 Bxb2 21 Rd1+–. } 2. Bxc6 bxc6 3. O-O Rxe2 $1 4. Qg4 { Black has a decisive attack after 19 Kg2 Nf5 20 Qf4 Ne3+ 21 Kf3 (21 Qxe3 Rxe3 22 Bxe3 Rb8–+) 21...Nxf1 22 Kxe2 Qxh3–+. } 4... Qxg4 5. hxg4 Rxb2 6. Rac1 Nf3+ 7. Kg2 Ne5 *

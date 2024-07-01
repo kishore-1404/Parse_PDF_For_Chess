@@ -1,0 +1,1310 @@
+[Event "New York 2022"]
+[Puzzle "845"]
+[White "J. Williams"]
+[Black "G. Nagy"]
+[FEN "qr4k1/2p3pp/3bpn2/1P1pP3/2n2B2/1Q3P2/1PP3PP/1K1RR3 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+23...Ba3! 24 Bc1 { 24 bxa3 Rxb5–+. } 24...Nd7 25 bxa3 Qa5 26 Ka2 Rxb5 0-1 { 27 Qd3 Nc5 28 Qe2 Qc3–+. } *
+
+[Event "World Rapid Team Ch, Jerusalem 2022"]
+[Puzzle "846"]
+[White "Sindarov"]
+[Black "Nihal"]
+[FEN "8/4r1k1/3P3p/2Q1pBq1/1P2Pp2/5P2/2P3r1/5K1R b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+42...Rd2! { The game ended 42...Qg3? 43 Rh3! Qg5 44 dxe7 1-0. } 43 Ke1 Qg2! 44 Rg1 { Or 44 Qg1 Re2+ 45 Kd1 Rd2+ 46 Ke1 Re2+ with perpetual check. } 44...Re2+ 45 Kd1 Rd2+ 46 Kc1 { 46 Ke1 Re2+ also repeats. } 46...Rxc2+! 47 Kb1 { 47 Qxc2?? Qxg1+–+. } 47...Rb2+ { The game ends in a draw by repetition. } *
+
+[Event "Waterloo 2022"]
+[Puzzle "847"]
+[White "Samsonkin"]
+[Black "Bosiočić"]
+[FEN "3r1rk1/1b4pp/p2qp3/2Q1n3/Np2PBP1/8/PPP3BP/5RK1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+20...Nf3+! 21 Rxf3 { 21 Bxf3 Qxf4–+. } 21...Qd1+ 22 Kf2 { 22 Rf1 Rxf4! 23 Rxd1 Rxd1+ 24 Bf1 Rdxf1+ 25 Kg2 Bxe4+ 26 Kh3 R1f3+ 27 Kh4 h6–+. } 22...Bxe4–+ {  } *
+
+[Event "Waterloo 2022"]
+[Puzzle "848"]
+[White "Rodrigue-Lemieux"]
+[Black "Bosiočić"]
+[FEN "r1q1k2r/p3b1pp/2p1bp2/2Ppp3/N3Pn2/1PP2N1P/P1Q2PP1/R1B1R1K1 b kq - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+16...Nxg2! { 16...Bxh3? loses to 17 Bxf4!. } 17 Kxg2 Bxh3+ 18 Kh2 Qg4 19 Rg1 Qh5 20 Rg3 Bf5+ 21 Kg1 { White has no good defence against the threat of ...f4. } Bxe4 22 Qe2 f5 0-1 {  } *
+
+[Event "Charlotte 2022"]
+[Puzzle "849"]
+[White "C. Cruz"]
+[Black "Korley"]
+[FEN "1bbqr1k1/p4ppp/5n2/1B3N2/3p1nN1/BP6/P5PP/3Q1RK1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+24 Be7! Rxe7 25 Nxf6+ Kh8 { 25...gxf6 26 Qg4+ Ng6 27 Nxe7+ Qxe7 28 Qxc8++–. } 26 Nxe7 Bb7 { 26...gxf6 27 Nxc8 Qxc8 28 Qxd4+– or 26...Qxe7 27 Qc2!+–. } 27 Nh5+– {  } *
+
+[Event "Sharjah rapid 2022"]
+[Puzzle "850"]
+[White "Erdogdu"]
+[Black "Salem"]
+[FEN "4r3/7k/2np2qp/p1bN1r2/1pP2P2/1P4RB/P6P/1Q5K b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+33...Rg5! 34 Nf6+ { 34 Qxg6+ Rxg6 35 Bf5 Re1+ (or 35...Re6–+) 36 Kg2 Rg1+ 37 Kh3 Rxg3+ 38 hxg3 Nd4–+. } 34...Kh8! 35 Qxg6 Re1+ 36 Kg2 Rxg6 0-1 { 37 Rxg6 Rg1+ 38 Kf3 Rxg6–+. } *
+
+[Event "Hungarian Ch, Budapest 2022"]
+[Puzzle "851"]
+[White "Grigoriants"]
+[Black "A. Horvath"]
+[FEN "r2qr1k1/pp5p/2b2p1P/3Nn1pR/2P5/P2p2Q1/2B2PP1/4RK2 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+24 Rxg5+! fxg5 25 Rxe5 Bxd5 { 25...Rxe5 26 Qxe5 Qf8 27 Qxg5+ Kf7 (27...Kh8 28 Ne7 and White wins due to the threat of Qe5+) 28 Qf5+ Ke8 29 Nc7+ Ke7 30 Qe5+ Kd7 31 Bxd3+–. } 26 Rxg5+ 1-0 { 26...Kf7 27 Qf4+ Ke6 28 Re5+ Kd6 29 Rxd5+++–. } *
+
+[Event "Kazakh Ch, Semey 2022"]
+[Puzzle "852"]
+[White "Kazhgaleyev"]
+[Black "K. Kazakov"]
+[FEN "r1r4k/pb1nbpp1/4p2p/3PP1N1/4B2P/1p6/1P1B1PP1/1K1R3R b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+21...hxg5! { In the game, 21...f5? allowed White to save his knight by 22 dxe6, when after 22...Bxe4+ 23 Nxe4 Nxe5 24 Ng3 Rc2 25 Nxf5 Nc4 26 Bc1 Bf6 the chances would have been roughly equal. } 22 hxg5+ Kg8 23 Bh7+ Kf8 24 d6 { 24 Bd3 Ke8 25 dxe6 Nf8 26 exf7+ Kxf7 –/+. } 24...Bxg2 25 dxe7+ Ke8! –/+ {  } *
+
+[Event "Karpacz 2022"]
+[Puzzle "853"]
+[White "M. Nowak"]
+[Black "Wieczorek"]
+[FEN "6rq/pp2bk2/4b3/3pPp2/4p1rP/1NN1P3/PPPQ1BBK/6RR w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+24 Nxd5! { 24 Ne2?? was played in the game, and Black broke through along the h-file with 24...Bxh4 25 Bh3 Bxf2–+. } 24...Rd8 { 24...Bxh4 25 Bh3 Bxf2 26 Rxg4+–. } 25 Bh3 Qxe5+ { 25...Rxd5 26 Qc3+–. } 26 Bg3+– {  } *
+
+[Event "Sant Boi 2022"]
+[Puzzle "854"]
+[White "Bartel"]
+[Black "Dvirnyy"]
+[FEN "3r2k1/1bq2rp1/p1n1R2p/2Q5/8/P1P5/B4PPP/R5K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+24...Kh8! 25 Rxc6 Rfd7! { Black threatens mate with an intermezzo. } 26 Rxc7 { White allows himself to be mated rather than play on a rook down. } 26...Rd1+ 27 Rxd1 Rxd1# (0-1) {  } *
+
+[Event "Bangladeshi Team Ch, Dhaka 2022"]
+[Puzzle "855"]
+[White "N.S. Mohammad"]
+[Black "S.L. Narayanan"]
+[FEN "5rk1/1p3ppp/3Q2n1/p2P3r/P1P1P2q/R2B1P1b/5P1P/2B3RK b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+23...Ne5 24 Bb2 Qxf2 25 Bc2 { 25 Be2 f6 26 Bxe5 fxe5 27 Raa1 Bf1–+. } 25...Rg5 26 Rxg5 Qf1+ 0-1 { 27 Rg1 Bg2#. } *
+
+[Event "Sitges 2022"]
+[Puzzle "856"]
+[White "Sumets"]
+[Black "K. Grigoryan"]
+[FEN "4nrk1/7p/2Np2p1/3P4/2PQ4/4ppPP/P2q4/1R3BK1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+35...Qe1! { In the game, 35...Qf2+? 36 Kh1 Nf6 37 Ne7+ Kf7 38 Qa7 = gave White sufficient counterplay against the black king. } 36 Ne7+ { 36 Rxe1 f2+ 37 Kh2 fxe1Q–+. } 36...Kf7 37 Qa7 f2+ 38 Kg2 e2 39 Nf5+ Kg8 { Not 39...Kf6??, when 40 Qd4+ Kf7 (40...Kg5 41 Qh4+ Kxf5 42 Qf4#) 41 Rb7+ leads to mate. } 40 Nh6+ Kh8 41 Bxe2 Qxb1 42 Bf1 Qe4+ 43 Kh2 Qf3–+ {  } *
+
+[Event "European Rapid Ch, Katowice 2022"]
+[Puzzle "857"]
+[White "Sargsyan"]
+[Black "Plichta"]
+[FEN "2b2rk1/1pp1q2p/1b1p4/4n3/1PP2p2/5NB1/4BPPP/Q4RK1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+20 Bh4! { White sacrifices a piece to open lines against Black’s king. } 20...Nxf3+ 21 Bxf3 Qxh4?! 22 Bd5+ Rf7 23 c5! dxc5 24 Qe5 Bd7 {  } 25 Ra1 c6 26 Ra8+ Bd8 27 g3 1-0 {  } *
+
+[Event "World Rapid Ch, Almaty 2022"]
+[Puzzle "858"]
+[White "Chigaev"]
+[Black "Zhalmakhanov"]
+[FEN "8/2q2k2/4ppp1/p1r4p/1n6/4QBP1/1P3P1P/3R2K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+34 Qh6! { The fact that Black has moved all his kingside pawns leaves him vulnerable to an invasion along his second rank. } 34...f5 { 34...Qe7 35 Qh7+ Kf8 36 Qh8+ Kf7 37 Rd8+–. } 35 Qh7+ Kf6 36 Rd7 Rc1+ 37 Kg2 Qc4 38 Qg7+ { Or 38 Qe7+ Ke5 39 Qg7#. } 38...Kg5 39 h4+ 1-0 {  } *
+
+[Event "Saint Louis 2022"]
+[Puzzle "859"]
+[White "Balakrishnan"]
+[Black "Yu. Quesada Perez"]
+[FEN "r1bq1rk1/pp1p3p/2p3p1/5p1Q/P2pR3/3B4/1PP3PP/R1B3K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+18 Rg4! fxg4 { If Black refuses to capture the rook then White’s extra piece is stronger than the black pawns; e.g., 18...Qe8 19 Rg5 Qe1+ 20 Bf1 Rf6 21 Qf3 d6 22 Rg4+–. } 19 Bxg6 hxg6 { Black’s lack of queenside development proves fatal after 19...Qe7 20 Bh6! hxg6 21 Qxg6+ Kh8 22 Bxf8 Qxf8 23 Re1+–. } 20 Qxg6+ Kh8 21 Qh5+ { White picks up the g4-pawn with a series of checks; the immediate 21 Bg5+– is also sufficient. } 21...Kg8 22 Qxg4+ Kh7 23 Qh5+ Kg8 24 Qg6+ Kh8 25 Bg5 Qa5 { Or 26 Bf6++–. } 26 Rf1 {  } 26...Rxf1+ 27 Kxf1 1-0 {  } *
+
+[Event "Hungarian Team Ch 2022/3"]
+[Puzzle "860"]
+[White "Kaczur"]
+[Black "A. Popovics"]
+[FEN "r2q1rk1/2pb1p2/p1np2p1/1p2p3/4P1Nb/2PPN3/PPB2P2/R2QK1R1 w Q - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+19 Nh6+ Kh7 { Or: 19...Kg7 20 Nhf5+ Bxf5 21 Nxf5+ Kh7 22 Qg4+–; 19...Kh8 20 Nhf5 Rg8 21 Qf3+–. } 20 Nhf5 Bxf5 { The game ended 20...Rh8 21 Qh5+! 1-0. Black will be mated: 21...gxh5 22 Rg7# or 21...Kg8 22 Rxg6+ fxg6 23 Bb3+ d5 24 Bxd5+ Be6 25 Bxe6+ Kf8 26 Qxh8#. } 21 exf5 Qf6 22 Qg4 Ne7 23 Rh1 g5 24 0-0-0+– { Black has no good defence to White’s threats, which include 25 Ng2. } *
+
+[Event "Bundesliga 2021/2"]
+[Puzzle "861"]
+[White "Jones"]
+[Black "Huschenbeth"]
+[FEN "8/3nQppk/5n1p/4N3/4q3/2r3P1/3B1P1P/4R1K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+33...Rc1! 34 Rxc1 { Black wins a piece after 34 Bxc1 Qxe1+ 35 Kg2 Nxe5–+. } 34...Nxe5 35 Bb4 Nd5 36 Qc5 Nf3+ 37 Kg2 { 37 Kf1 Nd4 (threatening 38...Qh1#) 38 Kg1 transposes to the main line. } 37...Nd4+ { The game continuation 37...Ne1++ 38 Kf1 Nd3–+ was also good enough. } 38 Kg1 Ne2+ 39 Kf1 Nxc1–+ {  } *
+
+[Event "Philadelphia 2022"]
+[Puzzle "862"]
+[White "Antipov"]
+[Black "Homa"]
+[FEN "1r3r1k/p4pp1/q3p2p/3pP1B1/7P/bP4Q1/P1P3P1/1K3R1R w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+21 Bxh6! Rg8 { 21...gxh6 22 Rf6 Kh7 23 Qf4 leads to mate. } 22 Bg5 { Now White’s h-pawn is poised to march down the board. } 22...Rb4 23 h5 Qe2 24 h6 Rg4 25 hxg7++ Kxg7 26 Bh6+ Kg6 27 { 27...Kh7 28 Bf8+ Rh4 29 Rxh4+ Qh5 30 Rxh5#. } Rf6+ 1-0 {  } *
+
+[Event "Philadelphia 2022"]
+[Puzzle "863"]
+[White "Yanayt"]
+[Black "Padhya"]
+[FEN "rr4k1/4ppbp/b2p1np1/q1pP4/2n1P3/2N2NP1/PPQ2PBP/R1BR2K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+15...Nxb2! { 15...Nd7?! was played in the game, when White should have given back his extra pawn and struggled on with 16 a4 Nxb2 17 Bxb2 Rxb2 18 Qxb2 Bxc3 19 Qc2 Bxa1 20 Rxa1 Rb8 –/+. } 16 Bxb2 Rxb2 17 Qxb2 Nxe4 { Black will win back his sacrificed material and be left with a strong passed c-pawn; for example, 18 Re1 Nxc3 19 Qd2 Ne2+ 20 Rxe2 Bxe2 21 Re1 Qxd2 22 Nxd2 Bd3 23 Rxe7 c4–+. } *
+
+[Event "Česke Budejovice 2022"]
+[Puzzle "864"]
+[White "H. Stefansson"]
+[Black "A. Donchenko"]
+[FEN "r2q1rk1/1p2Bpp1/p1bpp2p/P7/2PQ4/2n2N2/1P3PPP/R4RK1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+15 Qh4! Ne2+ 16 Kh1 g5 { After 16...Qc7? 17 Bxf8 (as played in the game) White gains a decisive material advantage; e.g., 17...Bxf3 18 gxf3 e5 19 Be7 Nf4 20 Rad1+–. } 17 Bxg5 hxg5 18 Nxg5 Kg7 19 Rae1 Rh8 20 Qg4 +/– { White is significantly better due to Black’s unsafe king. } *
+
+[Event "Internet rapid 2022"]
+[Puzzle "865"]
+[White "Andreikin"]
+[Black "Vokhidov"]
+[FEN "3rqrk1/1pp2p1p/4p1pb/p2P4/Pn2PN1P/2B3P1/1P3P2/R1QR2K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+25 Nh5! gxh5 { 25...Bxc1 26 Nf6+ Kh8 27 Nxe8++–. } 26 Qxh6 f6 { 26...e5 27 Qg5+ Kh8 28 Bxe5+ f6 29 Bxf6+ Rxf6 30 Qxf6+ Kg8 31 Rac1+–. } 27 Bxf6 Rd7 28 Qg5+ Qg6 29 dxe6 Rxd1+ 30 Rxd1 Rxf6 31 {  } Rd8+ Kg7 32 e7 1-0 {  } *
+
+[Event "Gijon 2022"]
+[Puzzle "866"]
+[White "Martinez Duany"]
+[Black "Garrido Outon"]
+[FEN "r7/5ppk/2p1p3/p1nrP1Pp/1q1p1P2/1P1P1N2/R1P1Q2P/R6K w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+34 g6+! fxg6 { 34...Kg8 35 Nh4 fxg6 36 Nxg6 Re8 37 Rg1+– gives White a decisive attack. } 35 Rg1 Qb8 36 Nh4 Qe8 37 Nxg6 Qxg6 { 37...Nd7 38 Qxh5+ Kg8 39 Qg5 Kf7 40 Raa1+–. } 38 Rxg6 Kxg6 39 Ra1 Nd7 40 Rg1+ 1-0 {  } *
+
+[Event "USA Seniors Ch, Saint Louis 2022"]
+[Puzzle "867"]
+[White "de Firmian"]
+[Black "Kaidanov"]
+[FEN "r2q3k/1pp4p/p1n5/3p1b2/PP1Pp3/8/2B2PK1/R1BQR3 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+26...Qh4! 27 Ra3 Rg8+ 28 Kf1 { Black has a decisive material advantage after 28 Rg3 Qh3+ 29 Kg1 Rxg3+ 30 fxg3 Qxg3+ 31 Kh1 Bg4–+. } 28...Bg4 29 f3 { 29 Qxg4 Rxg4 30 Be3 Ne7–+. } 29...Bh3+ 0-1 { 30 Ke2 Rg2+ 31 Ke3 Qg5+ 32 f4 Qg3+ 33 Qf3 Qxf3#. } *
+
+[Event "USA Under-16 Ch, Schaumburg 2022"]
+[Puzzle "868"]
+[White "Mardov"]
+[Black "Ar. Guo"]
+[FEN "5r2/pp4k1/2prbp1p/4Rp1q/3PBR1P/P3Q3/1P4P1/6K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+28 Bxc6! { After 28 Bxf5?? (as played in the game) White loses material. The game ended 28...fxe5 29 Qxe5+ Rf6 30 g4 (30 Rg4+ Qxg4 31 Bxg4 Bxg4–+) 30...Qxh4 31 Qxd6 Qg3+ 0-1. } 28...Qd1+ { 28...fxe5? 29 Qxe5+ Rf6 30 Bf3 Qe8 31 Qxd6+–. } 29 Kh2 Qb3 { 29...fxe5? 30 Qxe5+ Rf6 31 Bf3+–. } 30 Qxb3 Bxb3 31 Re7+ Rf7 32 Rxb7 Bd5 { 32...Rxc6? 33 Rxb3+–. } 33 Bxd5 Rxd5 { Now 34 Rxf7+?! Kxf7 leaves White’s rook too passive for him to have real winning chances, so he should stay in a four-rook ending with, e.g., 34 Rb3. Then White’s extra pawn will provide some prospects of victory once he has stabilized the position and activated his pieces. } *
+
+[Event "USA Junior Ch, Saint Louis 2022"]
+[Puzzle "869"]
+[White "A. Hong"]
+[Black "D. Brodsky"]
+[FEN "r1b3r1/1p2k1P1/pn1p2B1/2q1p3/3R1p1P/2N5/PPP2Q2/2K4R w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+21 h5! { Not 21 Rd2?? Qxf2 22 Rxf2 Be6–+, when Black will capture the g7-pawn and advance his centre pawns. } 21...Qxd4 { White’s connected passed pawns on the kingside are decisive after 21...exd4 22 Ne4 Qe5 23 h6 Bf5 24 Qh4+ Ke6 25 Bxf5+ Qxf5 26 Re1 Kd7 27 Nf6+ Kc6 28 Nxg8 Rxg8 29 h7+–. } 22 Qh4+ Kd7 23 h6 { White’s far-advanced kingside pawns and Black’s lack of queenside development are weightier factors than the sacrificed rook. } 23...Kc6 24 Be4+ Kc7 25 Qf6 Bd7 26 Rd1 Qe3+ 27 Kb1 Kb8 28 {  } h7+– {  } *
+
+[Event "Internet rapid 2022"]
+[Puzzle "870"]
+[White "Andreikin"]
+[Black "A. Sorokin"]
+[FEN "r1b2k2/1pR3bB/p3p2p/1n2P2P/8/4B3/P3KPP1/3r4 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+24 Bc5+! Ke8 25 Rxg7 Nc3+ { 25...Rc1 26 Bg6+ Kd8 27 Be7+ Kc7 28 Bg5+ Bd7 29 Bxc1+–. } 26 Kf3 Nd5 27 Bg6+ Kd8 28 Bd6 1-0 { Black is helpless against the threat of Rg8+ followed by Be8+. } *
+
+[Event "Internet rapid 2022"]
+[Puzzle "871"]
+[White "Aronian"]
+[Black "Erigaisi"]
+[FEN "3Q4/8/2N2p2/8/4P2p/1P2kb2/6r1/4b2K w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+58 Qb6+! { White must keep the d4-square free for a possible knight check; the game continuation was 58 Qd4+?? Ke2 59 Qc4+ Kf2 60 Qc5+ Kf1 0-1. } 58...Kd2 { 58...Kd3 59 Qd8+ Kxe4 (59...Ke3 60 Qb6+ repeats) 60 Qe7+ (60 Qd4+ also draws) 60...Kf4 61 Qxf6+ Kg3 62 Qe5+ Kf2 63 Qd4+ Kg3 64 Qe5+ with perpetual check. } 59 Qd8+ Kc1 { 59...Ke3 60 Qb6+ repeats. } 60 Qxf6 Rg3+ 61 Kh2 Rg2+ 62 Kh1 { 62 Kh3 Rg3+ 63 Kh2 Rg2+ repeats. } 62...Rg3+ { Again we have a perpetual check. } *
+
+[Event "Biel 2022"]
+[Puzzle "872"]
+[White "Gähwiler"]
+[Black "M. Petrov"]
+[FEN "5rk1/4Qppp/3N1n2/8/3R1P2/2n2B2/q4P1P/6K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+29...Qa1+ 30 Kg2 Ne2! 31 Rc4 { 31 Bxe2 Qxd4–+. } 31...Qg1+ 32 Kh3 Qf1+ 0-1 { 33 Bg2 Ng1+ 34 Kg3 Nh5+ 35 Kg4 Qxg2+ 36 Kf5 (36 Kxh5 Qh3+ leads to mate) 36...Qd5+ 37 Kg4 Nf6+ 38 Kg3 Qf3+ 39 Kh4 Qg4#. } *
+
+[Event "Biel 2022"]
+[Puzzle "873"]
+[White "Abdusattorov"]
+[Black "Gukesh"]
+[FEN "6k1/1p5p/p2p3r/P2P1qp1/1PP3n1/R2QB1P1/7P/6K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+38...Nxe3! 39 Qxe3 Qb1+ 40 Kg2 Qc2+ 41 Kf1 { Black wins the white queen after 41 Kg1 Qxh2+ 42 Kf1 Rf6+ 43 Ke1 Qh1+ 44 Kd2 Qg2+ 45 Qe2 Rf2–+. } 41...Rf6+ 42 Ke1 Qb1+ 43 Kd2 Kf8 44 Kc3 { 44 Rb3 Qf1–+. } 44...Rf1 { 44...Qd1 also wins. } 45 Qe2 g4 46 Kd4 Rd1+ 47 Kc3 { 47 Ke3 Qc1+ 48 Kf2 Rd2–+. } 47...Qc1+ 0-1 { 48 Kb3 Rd2–+. } *
+
+[Event "Internet rapid 2022"]
+[Puzzle "874"]
+[White "Duda"]
+[Black "Aronian"]
+[FEN "r1br2k1/pp2qppp/2p2n2/4n3/1b2PP2/1BN4P/PPQ1N1P1/R1B2RK1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+13...Bc5+ 14 Kh1 Nd3 15 e5 { 15 f5 Ng4! 16 g3 Ngf2+ 17 Kh2 b6–+. } 15...Ng4! 16 Ne4 { 16 hxg4?? allows 16...Qh4#. } 16...Bf5 { White has no answer to Black’s swarming minor pieces. } 17 N2g3 Ndf2+ 18 Nxf2 Bxc2 19 Nxg4 Bxb3 20 axb3 Rd3–+ {  } *
+
+[Event "Internet rapid 2022"]
+[Puzzle "875"]
+[White "Hakobyan"]
+[Black "Matinian"]
+[FEN "8/pp1bp1k1/1q1p1np1/8/2rNPPp1/2N5/PPPQ4/2K4R w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+21 f5! Ng8 { 21...Kf7? 22 fxg6+ Kxg6 23 Rh6+ Kf7 24 Qg5+–. } 22 Nce2 Qc5 23 Qg5 { After 23 b3?! (as chosen in the game) Black could have bailed out into an endgame, albeit a very bad one, by playing 23...Rxd4 24 Qxd4+ Qxd4 25 Nxd4+–. } 23...Qe5 { 23...Rxd4 24 Qxg6+ Kf8 25 Rh7 leads to mate. } 24 Qxg6+ Kf8 25 Qxg4 Rxd4 26 Rg1 Nh6 27 Qg6 Qf6 { 27...Nf7 28 Qg8#. } 28 Qxf6+ exf6 29 Nxd4+– {  } *
+
+[Event "Internet rapid 2022"]
+[Puzzle "876"]
+[White "Caruana"]
+[Black "J. van Foreest"]
+[FEN "8/p5pk/2p4p/2Bp1p2/PP3P1Q/3q4/r7/4R1K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+32...d4! { Black prevents White’s bishop from retreating along the g1-a7 diagonal and threatens 33...Qf3. After the immediate 32...Qf3? 33 Bf2 Rxa4 34 Re7 Ra1+ 35 Be1 d4 (as played in the game) White should have headed for a draw by 36 Rxg7+! Kxg7 37 Qe7+ Kg6 38 Qe6+ Kg7 39 Qe7+, with perpetual check. } 33 Rf1 Qe3+ 34 Rf2 Ra1+ 35 Kg2 { 35 Kh2 Qe1–+. } 35...Qe4+ 36 Rf3 Ra2+ 37 Qf2 { 37 Kg3 Qe1+ leads to mate. } 37...Rxf2+ 38 Kxf2 Qc2+ 39 Kg3 d3–+ {  } *
+
+[Event "Lodz rapid (team event) 2022"]
+[Puzzle "877"]
+[White "Kowalski"]
+[Black "Gatineau"]
+[FEN "r1bqr1k1/1p3pp1/2pb1n1p/p2p2n1/3PP2B/P1NB1P1P/1PQ1N1P1/R4RK1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+16...Nfxe4! { This idea has claimed a number of high-ranking victims. } 17 fxe4?! Nxh3+! 18 gxh3 Qxh4 19 Rf2 Bxh3 20 Rd1 { Black has two extra pawns and a winning attack after 20 Nxd5 cxd5 21 e5 Rac8 22 Qd2 Be7–+. And once you have seen Black’s next move in the game, it is clear that Black will meet 20 e5 with 20...Rxe5!–+, as in Karpeshov-Y.Meister, Perm 1997. } 20...Re5! 21 dxe5 Bc5–+ {  } *
+
+[Event "Seville 2022"]
+[Puzzle "878"]
+[White "Fernandez Guillen"]
+[Black "Plazuelo Pascual"]
+[FEN "2r1r1k1/1bq2p2/p3pPp1/1p4Pp/4p2R/1PP1BNbQ/1P5P/3R2K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+28 Rxh5! gxh5 { 28...Bxh2+ 29 Nxh2 gxh5 30 Qxh5 Qg3+ 31 Kh1 Red8 32 Rg1 leads to mate. } 29 Qxh5 Red8 { Black has no good defence to the mate on g7. In the game, 29...Bd6 led to a win for White after 30 g6 fxg6 31 Qxg6+ Kh8 32 Ng5 Rf8 33 f7 Bxh2+ 34 Kh1 1-0. } 30 Qh6! Bxh2+ 31 Kf1! Rxd1+ 32 Ne1! { Not 32 Ke2?? exf3+ 33 Kxd1 Qd6+ 34 Bd4 Qf8–+. } 32...Rxe1+ 33 Kxe1 Qg3+ 34 Bf2 Qxg5 35 Qxg5+ Kf8 36 Qh6+ {  } Ke8 37 Qxh2+– {  } *
+
+[Event "Zagreb rapid 2022"]
+[Puzzle "879"]
+[White "So"]
+[Black "J. van Foreest"]
+[FEN "8/3PR1pk/7p/2p1p3/4q3/1r5P/3Q2P1/6K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+53...Rd3! 54 d8Q Rxd8 55 Qxd8 Qe3+ 56 Kf1 { 56 Kh1 (56 Kh2 Qf4+ is the same) 56...Qc1+ 57 Kh2 Qf4+ 58 Kg1 Qe3+ repeats the position. } 56...Qf4+ 57 Ke2 Qe4+ 58 Kd2 Qf4+ { 58...Qb4+ also maintains equality. } 59 Kc3 { 59 Kd3 Qf1+ 60 Kc3 Qc1+ comes to the same thing. } 59...Qc1+ 60 Kb3 { 60 Kd3?? Qd1+–+. } 60...Qb1+ 61 Kc4 Qb4+ { The game ended 61...Qc2+?? 62 Kb5 c4 63 Qc7 Qxg2 64 Qxe5 1- 0. } 62 Kd3 Qb1+ 63 Ke3 Qe1+ 64 Kf3 Qf1+ 65 Ke3 { White must avoid 65 Kg3?? Qf4# and 65 Kg4?? Qf4+ 66 Kh5 Qg5#. } 65...Qe1+ = { White cannot escape the checks, so it is a draw. } *
+
+[Event "Saint-Affrique 2022"]
+[Puzzle "880"]
+[White "J.-M. Degraeve"]
+[Black "Decuignière"]
+[FEN "7Q/p7/1p6/2p1p3/1kP1Pq2/3P4/R3K3/8 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+51...Kb3! { Black nudges the white rook off the second rank so that White cannot use it to shield his king from checks. In the game White was able to safeguard his king after 51...Qg4+? 52 Kf1 Qf3+ 53 Kg1 Qg3+ 54 Rg2 Qe3+ 55 Kh1+–. } 52 Ra1 { 52 Rd2 Kc3 53 Rd1 (53 Ra2 Kb3 repeats the position) 53...Qg4+ 54 Ke1 Qg1+ 55 Ke2 Qg4+ = with a draw by repetition. } 52...Qg4+ 53 Kf2 { 53 Kf1 Qf3+ 54 Kg1 Qg3+ 55 Kh1 Qf3+ 56 Kh2 Qf2+ 57 Kh3 Qf3+ 58 Kh4 Qf4+ 59 Kh3 (59 Kh5?? Qh2+–+) 59...Qf3+ repeats the position. } 53...Qf4+ 54 Ke2 Qg4+ 55 Kd2 Qg2+ 56 Ke3 Qg3+ = { with perpetual check. } *
+
+[Event "Greek Team Ch, Thessaloniki 2022"]
+[Puzzle "881"]
+[White "Kalesis"]
+[Black "Livaić"]
+[FEN "r1br3k/pp3pp1/2n2b1p/2P2B2/8/4PN2/PpQ2PPP/1K5R b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+17...Nb4! 18 Qe4 Nd5 { White is unable to defend the c3-square. } 19 Qg4 Nc3+ 20 Kc2 { 20 Kxb2 Nd1++ 21 Ka3 Nxf2–+. } 20...Bxf5+ 21 Qxf5 Rd5 22 Qg4 Rxc5 23 Kxb2 { 23 Qb4 Na4+ 24 Kb1 Rac8–+. } 23...Ne4+ 24 Kb1 Rac8 25 Nd4 { 25 Qd7 Rb5+ 26 Qxb5 Nc3+ 27 Kb2 Nxb5+–+. } 25...Nxf2 26 Qf3 Nxh1 0-1 {  } *
+
+[Event "Turkish Team Ch, Ankara 2022"]
+[Puzzle "882"]
+[White "Aghamaliyev"]
+[Black "Haznedaroglu"]
+[FEN "3N4/pp4pk/7p/4pp2/8/1QP5/PP2qbPP/R6K b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+24...Be1! { This puzzle is a good example of why it’s important how many active pieces you have in play – Black is a rook down, but White’s pieces are all out of play. } 25 h4 Qf1+ 26 Kh2 Qf4+ 27 Kg1 { 27 Kh1 Qxh4+ 28 Kg1 Bf2+ 29 Kf1 Bb6 30 Qc2 e4–+. } 27...Bf2+ 28 Kf1 Bb6+ 29 Ke2 Qf2+ 30 Kd1 Qf1+ 31 Kd2 Qxg2+ {  } 32 Kd1 Be3 0-1 {  } *
+
+[Event "Abu Dhabi 2022"]
+[Puzzle "883"]
+[White "Jobava"]
+[Black "M. Pranesh"]
+[FEN "3kb3/p5bR/4ppB1/3p2P1/n2P1B2/2r1PN2/1p3PK1/8 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+33 Rxg7 Bxg6 34 gxf6! Bh5 { 34...b1Q 35 Rg8+ Kd7 (35...Be8 36 f7 Qg6+ 37 Bg5++–) 36 Ne5+ Kc7 37 Nxg6+ Kc6 38 f7 Rc1 39 Bh2 Qe4+ 40 Kg3+–. } 35 Rg8+ Kd7 36 Ne5+ Kc7 37 Nc4+ Kd7 { 37...Kb7 38 Nxb2 Nxb2 39 Rb8+ Ka6 40 Rxb2+–. } 38 Rg7+ Kd8 { 38...Kc6 39 Nxb2 Nxb2 40 Rc7+ Kb5 41 Rxc3+–. } 39 Bc7+ Ke8 40 Ne5 Bf7 41 Rh7 1-0 { 41...Bg8 42 Re7+ Kf8 43 Ng6#. } *
+
+[Event "Turkish Team Ch, Konya 2022"]
+[Puzzle "884"]
+[White "Safarli"]
+[Black "Mosadeghpour"]
+[FEN "1k1r4/p2qb3/Q3Nr1p/2pp4/4p3/7R/PPP2PP1/1K1R4 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+33 Rb3+ Ka8 34 Rb6! e3 { 34...d4 35 Rc6+–. } 35 fxe3 Qc8 36 Rxd5 Rdf8 { 36...Qxa6? allows 37 Nc7#. } 37 a3 1-0 { Black is hopelessly tied up; for example, 37...Rxe6 38 Qxc8+ Rxc8 39 Rxe6+– or 37...Rh8 38 e4 Rg8 39 e5 Rfg6 40 Nc7+ Qxc7 41 Rxg6+–. } *
+
+[Event "Chinese Rapid Ch, Shao Xing 2022"]
+[Puzzle "885"]
+[White "Xu Yi"]
+[Black "Xu Xiangyu"]
+[FEN "r1b4r/qp2k1pp/p2pp3/4n2n/N2NP3/1R6/P1PQ2PP/5RK1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+18 Qg5+! { In the game, 18 Qf2?? allowed Black to develop his queenside and consolidate his extra pawn by 18...Bd7 19 Nb6 Rhf8 20 Qh4+ Nf6–+. } 18...Ke8 19 Nb6! { Not 19 Qxh5+?? g6 20 Qd1 b5 21 Nb2 Nc6 22 c3 e5–+. } 19...g6 { 19...Rb8 20 Qxh5+ g6 21 Qh6+–. } 20 g4 h6 21 Qd2 Ng7 22 c4 { Black is hopelessly tied up; for example: } 22...Bd7 23 c5 dxc5 24 Qf4+– {  } *
+
+[Event "Maia 2022"]
+[Puzzle "886"]
+[White "Perez Candelario"]
+[Black "Portela Peleteiro"]
+[FEN "1r6/4kp1R/2pp1p1b/4pP1P/p3P3/P1N1q3/1PP3r1/KR1Q4 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+35 Qf1! { White takes advantage of Black’s weakness on the light squares. } 35...Rxc2 36 Qc4 d5 { 36...Rf8 37 Qe6+ Kd8 38 Qxd6+ Kc8 39 Qxc6+ Kb8 40 Qxf6+–. } 37 Qxc6 { The game continuation was also good enough: 37 Nxd5+ cxd5 38 Qxc2 Rb7 39 Qc6 1-0. } 37...Rxc3 38 Qe6+ Kd8 39 Qd6+ Kc8 40 Rh8+ { Black will be mated. } *
+
+[Event "Dubai 2022"]
+[Puzzle "887"]
+[White "H.A. Nezad"]
+[Black "Aravindh"]
+[FEN "r4rk1/4b1pp/p3pn2/1Pqpp3/4P3/NP5Q/P3RPPP/R1B3K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+19...Nxe4 20 Qxe6+ { 20 Rc2 Qd6–+. } 20...Kh8 21 Rc2 Rxf2! 22 Rxc5 Bxc5 23 Be3 { 23 h4 Rf6+–+. } 23...Bxe3 24 Kh1 Rf6 0-1 { 25 Qxd5 (25 Qxe5 Nf2+ 26 Kg1 Ng4+ 27 Qxe3 Nxe3–+) 25...Ng3+ 26 hxg3 Rh6#. } *
+
+[Event "New York 2022"]
+[Puzzle "888"]
+[White "Zeltsan"]
+[Black "D. Khamrakulov"]
+[FEN "1q3b2/R1nk4/4pB1r/4P3/2p3QP/8/5PP1/6K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+34 Qd1+! { After 34 Ra1?! (as played in the game) Black could have resisted with 34...Nd5 35 Rd1 Qa8 36 g3 +/–. } 34...Ke8 { 34...Kc6 35 Qa4+ Kb6 36 Bg5 Bc5 (36...Qxa7 37 Be3++–) 37 Qa5+ Kc6 38 Qxc7+ Qxc7 39 Rxc7+ Kxc7 40 Bxh6+–. } 35 Qa4+ Qb5 36 Ra8+ Kf7 37 Rxf8+ Kxf8 38 Qa3+ Kf7 { 38...Kg8 39 Qg3+ mates. } 39 Qe7+ Kg6 40 Qg7+ Kf5 41 Qxh6+– {  } *
+
+[Event "Polish Team Ch 2022"]
+[Puzzle "889"]
+[White "L. van Foreest"]
+[Black "Kriebel"]
+[FEN "r2q4/3k1p2/p1p1b2p/3pPn1P/Pp2nB2/1P2PN1B/2Q2P2/6RK w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+30 Bxf5 Bxf5 31 e6+! { White opens the diagonal for his dark-squared bishop. } 31...Ke7 { 31...Kxe6 32 Nd4++–. } 32 Qxc6 Bxe6 { 32...Nxf2+ 33 Kg2 Nh3 34 Qb7+ Kxe6 35 Nd4+ Kf6 36 Rf1+–. } 33 Qb7+ Kf6 { 33...Bd7 34 Qxb4+ Kf6 35 Qd4+ Ke7 36 Qe5+ Be6 37 Nd4+–. } 34 Be5+ Kf5 35 Nd4+ Kxe5 36 Nc6+ Kf6 37 Nxd8 Rxd8 38 f3 1-0 {  } *
+
+[Event "Tallinn rapid 2022"]
+[Puzzle "890"]
+[White "Nybäck"]
+[Black "Shabalov"]
+[FEN "6k1/1r5p/pN1p1Qp1/3P4/4pp2/8/q4B1P/5KR1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+33...e3! { 33...f3? was played in the game, allowing White to consolidate his material advantage: 34 Qe6+ Rf7 35 Qxe4 Qa1+ 36 Qe1 Qb2 37 Rg4 1-0. The only other playable move is 33...Rf7!?, but this is a lot less forcing and may leave Black defending an awkward ending. } 34 Qe6+ { Or 34 Rxg6+ hxg6 35 Qxg6+ Rg7 36 Qe8+ Kh7 37 Qh5+ Kg8 38 Qe8+ = with perpetual check. } 34...Rf7 35 Be1 Qxh2 36 Nc4 e2+ 37 Qxe2 Qh3+ 38 Kf2 { 38 Qg2 Qd3+ 39 Qe2 (39 Kf2?? f3!–+) 39...Qh3+ =. } 38...Qh4+ 39 Kf1 { 39 Kf3 Qh3+ =. } 39...Qh3+ = { with a draw by repetition. } *
+
+[Event "Gijon 2022"]
+[Puzzle "891"]
+[White "Suarez Uriel"]
+[Black "Martin Duque"]
+[FEN "7r/2kp1p2/2b1p1p1/2q1P3/1p3P1p/n1PR3B/P2Q4/K2R4 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+35...b3! 36 axb3 { 36 Rxd7+ Kb6 37 Rd6 Nc4–+. } 36...Ra8 37 Qc1 { White’s line-up of major pieces along the d-file forms a wall that prevents his own king from escaping after 37 Rxd7+ Kb6 38 Kb2 Nc4+ 39 bxc4 Qa3+ 40 Kc2 (40 Kb1 Be4+ 41 Rd3 Bxd3+ 42 Qxd3 Qa1+ 43 Kc2 Ra2+ 44 Kb3 Rb2#) 40...Be4+ 41 Rd3 Qa2+ 42 Kc1 Qa1+ 43 Kc2 Bxd3+ 44 Kxd3 (44 Qxd3 Ra2+ 45 Kb3 Rb2#) 44...Rd8+–+. } 37...Nc4+ 38 Kb1 Qa7–+ { The game continuation 38...Qf2 was also good enough after 39 R1d2 Nxd2+ 40 Qxd2 Qa7 41 Kc2 Be4 0-1. } *
+
+[Event "Cheliabinsk 2022"]
+[Puzzle "892"]
+[White "Khegay"]
+[Black "Vorobiov"]
+[FEN "2rq1b1r/1b1nk2p/p2p4/1p2ppPQ/2n1P3/PPN4R/2P2PB1/R1B1K3 w Q - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+19 exf5! Bxg2 20 f6+ Ke6 { 20...Nxf6 21 gxf6+ Kd7 22 Qg4+ Kc7 23 Qxg2 Nb6 24 a4+–. } 21 Qg4+ Kf7 22 Qxg2 Ncb6 23 Rxh7+ Rxh7 { 23...Kg8 24 Rxh8+ Kxh8 25 Ne4+–. } 24 g6+ Kg8 { 24...Kxf6 25 Bg5++–. } 25 gxh7++ Kxh7 26 Ne4 Qe8 { After 26...Nxf6 27 Ng5+ the black queen is lost. } 27 f7 1-0 {  } *
+
+[Event "Internet rapid 2022"]
+[Puzzle "893"]
+[White "Carlsen"]
+[Black "Duda"]
+[FEN "1qrr3k/1b2n2p/pp2pp2/1B6/P1NP3P/8/4QPP1/2R1R1K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+24 Qxe6! { Not 24 Bd7? Rg8! 25 Qxe6 Rxg2+ 26 Kf1 Qf4–+. } 24...Nd5 { 24...axb5 25 Qxf6+ Kg8 26 Rxe7 mates. } 25 Bd7 Rc7 26 Ne5! Rxc1 { 26...fxe5 27 Qxe5+ Kg8 28 Rxc7 Qxc7 29 Be6+ leads to mate. } 27 Nf7+ Kg7 28 Rxc1 Qf4 29 Re1+– { White has an extra pawn and a safer king. } 29...Rg8 30 Nd6 Ba8 31 Re4 1-0 {  } *
+
+[Event "Slovakian Ch, Kežmarok 2022"]
+[Puzzle "894"]
+[White "M. Jurčik"]
+[Black "Mrva"]
+[FEN "3r2k1/5p2/3b2p1/p2Pp2p/1p2P2P/1P1R1BP1/P3QPK1/2q5 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+36 Bxh5! Rc8 { 36...gxh5 37 Qxh5 Qc7 38 Rf3 Bf8 39 Rxf7! Qxf7 40 Qg5+ Bg7 41 Qxd8+ Kh7 42 Qxa5+–. } 37 Bxg6 fxg6 38 Qg4 Bf8 { 38...Qc5 39 Qxg6+ Kh8 40 Rf3 Rf8 41 Rxf8+ Bxf8 42 Qh5+ Kg8 43 Qxe5+–. } 39 Qxg6+ Bg7 40 d6 Rf8 41 d7 Qc5 42 d8Q Qxf2+ 43 Kh3 1-0 { 43...Qf1+ 44 Kg4 Qe2+ 45 Kg5+–. } *
+
+[Event "Tsaghkadzor 2022"]
+[Puzzle "895"]
+[White "A. Barseghyan"]
+[Black "Pultinevicius"]
+[FEN "6k1/4bp1p/p5p1/4R3/PprQ3P/1p2P3/1Bq2PP1/6K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+32 Qd8+! Kg7 { Other moves lose: 32...Bxd8?? 33 Re8#; 32...Bf8? 33 Re8 Qb1+ 34 Kh2 Rxh4+ 35 Kg3 Rg4+ 36 Kxg4 h5+ 37 Kh3 Qxb2 38 Rxf8+ Kg7 39 Qe7 Qxf2 40 Rb8 Qf5+ 41 Kh2+–. } 33 Rxe7+ Qxb2 34 Rxf7+ { Forcing a draw. In the game he chose to play on with 34 Re8, and was rewarded with a blunder a few moves later, though at this point the chances are roughly equal. } 34...Kxf7 35 Qd7+ Kf6 36 Qd6+ Kf5 37 Qd5+ Qe5 { 37...Kf6 38 Qd6+ =. } 38 Qf7+ Qf6 39 Qd5+ Qe5 40 Qf7+ = { The game is a draw by repetition. } *
+
+[Event "Tsaghkadzor 2022"]
+[Puzzle "896"]
+[White "A. Barseghyan"]
+[Black "Pultinevicius"]
+[FEN "6R1/4Qp2/p5pk/7p/Ppr4P/1p2P3/5PPK/2q5 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+37...Rc8! 38 Rxc8 { (variation) } 38...Qxc8 39 Qxf7 Qb8+ 40 g3 b2 { 38 Qxf7?? loses to 38...Qc7+! 39 Qxc7 Rxc7 40 Rb8 a5–+. } 41 Qf6 { 40...a5 41 Qxb3 Qf8 42 Kg1 is equal; although Black has a protected passed b-pawn, his king is too exposed to checks from the white queen. } 41...b1Q 42 Qg5+ Kg7 43 Qe7+ Kg8 44 Qe6+ Kh7 { 41 Qe7 b1Q 42 Qg5+ comes to the same thing. } 45 Qe7+ Kh6 46 Qg5+ = { With 44...Kf8 45 Qf6+ Ke8 46 Qh8+ Kd7 47 Qxb8 Black gives back one queen to avoid an immediate draw, but he won’t be able to make anything of his passed b-pawn without allowing a later perpetual check. So the queen endgame is level. } *
+
+[Event "European Clubs Cup, Mayrhofen 2022"]
+[Puzzle "897"]
+[White "E. Rozen"]
+[Black "Maenhout"]
+[FEN "r7/ppr2RP1/1n1kp3/3p4/3P4/1P6/P5PP/R5K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+31 Rxc7! Kxc7 32 Rf1 Rg8 { 32...Nd7 33 Rf7 Rg8 transposes to the game continuation (next note). } 33 Rf7+ Kc6 { After 33...Nd7 (as played in the game) Black was unable to stop White’s connected passed pawns: 34 h4 Kd8 35 h5 Ke8 36 Rxd7 Kxd7 37 h6 1-0. } 34 h4 Nc8 35 h5 Nd6 36 Re7 Nf5 37 Rxe6+ Kd7 38 Rf6 Ne3 { 38...Nxg7 39 Rg6+–. } 39 h6 Ng4 40 h7 Nxf6 41 h8Q+– {  } *
+
+[Event "Internet rapid 2022"]
+[Puzzle "898"]
+[White "Mamedyarov"]
+[Black "Giri"]
+[FEN "2b2rk1/r5b1/4p2P/pq1pN3/3P2Q1/P7/1PP2P2/2KR4 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+23 Rh1! Rxf2 { 23...Rf6 24 hxg7 Rxg7 25 Qh4 leads to mate. } 24 h7+ Kf8 { 24...Kh8 25 Ng6#. } 25 Qxg7+ Rxg7 26 h8Q+ Rg8 27 Ng6+ Ke8 { After 27...Kf7 28 Rh7+ Kxg6 29 Qxg8+ Kf5 30 Rf7+ Ke4 31 Qg4+ Ke3 32 Qg3+ Black is soon mated. } 28 Qxg8+ Kd7 29 Ne5+ Kd6 30 Nd3 1-0 {  } *
+
+[Event "Bundesliga 2022/3"]
+[Puzzle "899"]
+[White "A. Donchenko"]
+[Black "Parvanyan"]
+[FEN "6k1/5p1p/2N3p1/p2R1b2/4qQ1P/1r2P3/5PP1/6K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+36 Rxf5! { After 36 Qh6? Rb8 37 f3 (as played in the game) Black could have avoided tactical issues on the kingside by 37...Qe6! 38 Qf4 Re8, with equal chances. } 36...Rb1+ 37 Kh2 gxf5 { 37...Qxf5? 38 Ne7++–. } 38 Qg5+ Kf8 { Black loses his queen after 38...Kh8 39 Qf6+ Kg8 40 Ne7+ Kf8 41 Nxf5 Ke8 42 Nd6+ Kd7 43 Nxe4+–. } 39 Qf6 Qg4 { 39...Kg8 transposes to the note to Black’s 38th move. } 40 Ne5 Qh5 41 Nd7+ Ke8 42 Qd4 { White’s queen and knight give him a relentless initiative and Black will have to give up a couple of pawns to avoid mate; for example: 42...Ke7 43 Nf6 Qd1 44 Qe5+ Kd8 45 Qxa5+ Ke7 46 Nd5+ Ke6 47 Nf4+ Kf6 48 Qc3+ Ke7 49 Qe5++–. } *
+
+[Event "Chiang Mai 2022"]
+[Puzzle "900"]
+[White "Klekowski"]
+[Black "Ganguly"]
+[FEN "rn2kb1r/pp1q1pp1/5P1p/8/8/2NQBb2/PP3P1P/R3KB1R w KQkq - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+15 Bd4! { After 15 Rg1?! (as played in the game) Black could have resisted with 15...Qxd3 16 Bxd3 gxf6 17 Nb5 Na6 18 Rc1 +/–, though he is worse due to White’s more active pieces. } 15...Bxh1 { 15...Nc6 16 fxg7 Qe6+ 17 Kd2+–. } 16 Bh3 Qd6 { 16...Qd8 17 0-0-0 gxf6 18 Qe2+ Be7 (18...Qe7 19 Bxf6! Qxe2 20 Rd8#) 19 Bxf6+–. } 17 Nb5 { White has decisive threats; for example: 17...Qf4 18 fxg7 Bb4+ 19 Kf1 Rg8 20 Bc5 Bxc5 21 Re1+ Be7 22 Qh7+–. } *
+
+[Event "Cap d’Agde rapid 2022"]
+[Puzzle "901"]
+[White "Assaubayeva"]
+[Black "Osmak"]
+[FEN "r1bqk2r/ppp1bppp/8/8/1n1Q4/6P1/PP2PPBP/RNB2RK1 w kq - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+10 Qxg7! Bf6 11 Qh6 Nc2 12 Nc3 { White’s emphasis is on rapid development to exploit the vulnerable position of the black king. This idea has claimed a number of victims since the early 1990s. } 12...Nxa1 13 Rd1 Bd4 { 13...Bd7 14 Nd5 Be5 15 Bg5+–. } 14 Nd5 Nc2 15 Bg5 Qd6 16 Rxd4 Nxd4 { 16...Qxh6 17 Nxc7+ Kf8 18 Rd8+ Kg7 19 Bxh6+ Kxh6 20 Rxh8 Rb8 21 Be4+–. } 17 Nf6+ Ke7 18 Ne4+ Kd7 19 Nxd6+– {  } *
+
+[Event "Saint Louis 2022"]
+[Puzzle "902"]
+[White "B. Jacobson"]
+[Black "Sadhwani"]
+[FEN "2rr2k1/pb2q1p1/1p2p1n1/2P2Pn1/2P5/P2N1PPp/1B2Q2P/2R1RBK1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+24...Nh4! 0-1 { 25 gxh4 Nxf3+ 26 Kf2 Qxh4+ 27 Ke3 Qg5+ 28 Nf4 (28 Kf2 Qg1#) 28...exf5 29 Qxf3 (29 Bxh3 Re8+–+) 29...Qg1+ 30 Qf2 Re8+ 31 Kd3 Qxf2–+. } *
+
+[Event "Croatian Ch, Split 2022"]
+[Puzzle "903"]
+[White "Zelčić"]
+[Black "Bukal"]
+[FEN "r1b2r1k/3n1ppp/p3p3/4P1N1/1q6/5NQ1/5RPP/4R2K w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+27 Nxh7! Kxh7 28 Ng5+ Kg8 29 Rf4 Qd2 30 Qh4 Qd3 31 Rfe4 { Black is unable to defend the h7-square. } 31...Rd8 32 Qh7+ Kf8 33 Nxf7! Bb7 { 33...Kxf7 34 Rf4+ Nf6 35 Rxf6+ Ke8 36 Qxg7 followed by mate. } 34 Ng5 Nxe5 35 Qh8+ Ke7 36 Qxg7+ 1-0 {  } *
+
+[Event "Gijon 2022"]
+[Puzzle "904"]
+[White "Panelo Muñoz"]
+[Black "Fier"]
+[FEN "2r4r/1b2kpQ1/pq1pNp2/n3pP2/1p2P2P/3B4/PPP5/1K1R3R w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+28 Ng5! fxg5 29 f6+ Kd7 { 29...Ke6 30 Be2+–. } 30 Qxf7+ Kc6 31 hxg5 Rhf8 32 Qe6 Rce8 ½-½?? { The game was agreed drawn here, but after 33 Qf5 Bc8 34 Qf1 Bg4 35 Rc1+– White’s advanced kingside pawns are unstoppable. } *
+
+[Event "World Rapid Ch, Almaty 2022"]
+[Puzzle "905"]
+[White "Makarian"]
+[Black "Jobava"]
+[FEN "r3k2r/ppq2pp1/2pbpn2/2Pp1bnp/3P4/1PNNP1PP/PB2QPB1/R4RK1 b kq - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+15...Bxg3! 16 fxg3 Bxd3 17 Qxd3 Qxg3 18 Ne2 { 18 Rxf6 Nxh3+ 19 Kh1 gxf6 20 Qf1 Nf2+ 21 Kg1 Ng4 22 Qf4 Qxe3+ 23 Qxe3 Nxe3–+. } 18...Nxh3+ 19 Kh1 Qh4 20 Bxh3 Qxh3+ 21 Kg1 Rh6–+ {  } *
+
+[Event "World Rapid Ch, Almaty 2022"]
+[Puzzle "906"]
+[White "Giri"]
+[Black "Dubov"]
+[FEN "5r1k/p5bp/2B3p1/2Q1P1q1/8/1P1K1P1b/P3P2P/R6R b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+29...Rd8+ 30 Kc4 { White’s king is too exposed and his rooks are passive bystanders; for example, 30 Bd5 Qxe5 31 e4 Rc8 32 Qb4 Rc3+ 33 Ke2 Qf4–+ or 30 Kc2 Bf5+ 31 Be4 Qd2+ 32 Kb1 Rc8–+. } 30...Be6+ 31 Kb5 { 31 Bd5 Qxe5 32 Bxe6 Qc3+ 33 Kb5 Rb8+ 34 Kc6 Rb6+ leads to mate. } 31...Bf8 32 Qc3 Rb8+ { Or 32...Qe7–+. } 33 Ka4 Qe7 34 a3 Bxb3+ { Or 34...Rb6–+. } 35 Qxb3 Rxb3 36 Kxb3 Qe6+ 0-1 {  } *
+
+[Event "Indian Ch, New Delhi 2022"]
+[Puzzle "907"]
+[White "A. Gupta"]
+[Black "Sengupta"]
+[FEN "q1r1b1k1/4bpp1/p3pn1p/np6/3NN3/PP2P2P/1B2QPP1/1B1R2K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+25 Nxe6! fxe6 { 25...Nxe4 was played in the game, when White won material with 26 Nxg7 Rc5 (26...Rd8 27 Rxd8 Qxd8 28 Bxe4+–) 27 Nxe8+–. } 26 Nxf6+ Bxf6 { 26...gxf6 27 Qd3 Kf8 28 Qh7 leads to mate. } 27 Bxf6 gxf6 28 Qg4+ Kh8 { Or: 28...Kf8 29 Qb4+ Kg7 30 Qxa5+–; 28...Kf7 29 Bg6+ Kf8 30 Qb4+ Kg7 31 Bxe8+–. } 29 Qxe6 Qb7 30 Qxf6+ Qg7 31 Qxa6+– { White has four pawns for the piece and an ongoing attack. } *
+
+[Event "Stockholm 2022/3"]
+[Puzzle "908"]
+[White "Külaots"]
+[Black "Prraneeth"]
+[FEN "1r1qr1k1/1b2npp1/pb5p/1ppnP3/7N/P3B2P/1PBN1PP1/R2QR1K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+19 Bxh6! Ng6 { After 19...gxh6?!, as played in the game, White obtained a winning attack with 20 Qh5 Kg7 21 e6 Rf8 (21...fxe6 22 Rxe6 Nf6 23 Rxf6 Kxf6 24 Qxh6+ Kf7 25 Ndf3+–) 22 Nf5+ Nxf5 23 Qxf5+–. } 20 Nf5 gxh6 21 Qh5 Re6 22 Nxh6+ Kg7 23 Nxf7! Qg8 24 Ng5 { White has a powerful and unrelenting attack, though Black can certainly put up stern resistance. } Ndf4 25 Qg4 Re7 26 Ndf3+– {  } *
+
+[Event "Xi’an (women) 2023"]
+[Puzzle "909"]
+[White "Mammadzada"]
+[Black "Ning Kaiyu"]
+[FEN "rr4k1/3n1qpp/3Q4/4pb2/p7/1NP1BP1P/P1P3B1/1K1R3R w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+22 f4! Rxb3+ { 22...axb3 23 Bd5 bxc2++ 24 Ka1 cxd1Q+ 25 Rxd1+–. } 23 Ka1! Ra5 { After 23...e4 24 cxb3 axb3 (as played in the game) White has several good moves, including 25 Rd2+– with an extra rook. } 24 cxb3 axb3 25 a3+– {  } *
+
+[Event "Baku 2023"]
+[Puzzle "910"]
+[White "Safarli"]
+[Black "Abasov"]
+[FEN "r1b2rk1/2q1bpp1/4pn2/p2pP2Q/3N1B2/1R6/P5PP/4R2K w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+22 exf6! Qxf4 23 fxg7 Kxg7 24 Rh3 Rg8 { 24...Bg5 25 Qh7+ Kf6 26 Rf3+–. } 25 Qh7+ Kf8 { 25...Kf6 26 Rh6+ Rg6 27 Qh8+ Kg5 28 Rh5+ Kg4 29 Ne2 leads to mate. } 26 Rf3 Qxf3 27 Nxf3+– {  } *
+
+[Event "Charlotte 2023"]
+[Puzzle "911"]
+[White "Bregadze"]
+[Black "Bortnyk"]
+[FEN "4k2r/p1ppqppp/b3pnn1/2pPP3/2P2P2/PrN5/3Q2PP/2KR1BNR b k - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+14...0-0! { White’s king is exposed and his kingside pieces undeveloped. } 15 Qc2 { 15 exf6 Qxf6 16 Nge2 Bxc4 17 Qc2 Nxf4–+. } 15...Rfb8 16 Nb5 R3xb5 17 cxb5 Nxd5 18 Qa4 { 18 Qb3 c6–+. } 18...c4 19 Qxa6 Qc5 20 Qa5 Rxb5 0-1 {  } *
+
+[Event "Budapest 2023"]
+[Puzzle "912"]
+[White "Gatineau"]
+[Black "L. Papp"]
+[FEN "4rrk1/p2Rbp1p/n3pp2/2p2q2/7Q/8/P2N1PPP/3NR1K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+21 Re3! { A rook-lift along the third rank is often effective when the defender’s kingside pawn-structure has been compromised. } 21...Kh8 22 Rg3 Rg8 23 Ne3 Qe5 { The only open square for the black queen. } 24 Ng4 Qa1+ { Also hopeless is 24...Rxg4 25 Qxg4 f5 26 Qa4+–, while the game ended 24...Qg5 25 Nh6! 1-0 (in view of 25...Qxh4 26 Nxf7#). } 25 Nf1 Rg6 26 Nh6 Nb8 { 26...Kg7 27 Nxf7 Rxg3 28 Nd6+–. } 27 Rc7+– {  } *
+
+[Event "Internet rapid 2023"]
+[Puzzle "913"]
+[White "Bortnyk"]
+[Black "C. Yoo"]
+[FEN "qn1r2k1/1br1bp1p/1p2p1p1/pP2P3/P6P/2BB1N2/3RQPP1/3R2K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+24 Bxg6! { This combination works because Black’s queen is far away from the kingside. } 24...Rxd2 25 Bxh7+ Kxh7 { 25...Kg7 26 Bxd2 Bxf3 27 gxf3 Kxh7 28 Kh2 Nd7 29 f4+–. } 26 Ng5+ Kg8 { 26...Bxg5 27 Qh5+ Bh6 28 Bxd2+–. } 27 Rxd2 Nd7 28 Qh5 Bxg5 29 Qxg5+ Kh7 30 Rd3 Qf8 31 Rg3+– {  } *
+
+[Event "Internet rapid 2023"]
+[Puzzle "914"]
+[White "Vachier-Lagrave"]
+[Black "Wei Yi"]
+[FEN "r2q2r1/1b3p2/pbpp1k2/1p1B4/P2nP3/5R2/1P3PPP/RN1Q2K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+20...Nxf3+! { In the game, 20...Ke5?? 21 Rxf7+– left the black king in too precarious a position. } 21 Qxf3+ Kg7 22 Qxf7+ Kh6 23 Ra3 { Or 23 Qxg8 Qxg8 24 Bxg8 Rxg8–+. } 23...Qh4! 24 Rg3 Raf8 25 Rg6+ { 25 Qe6+ Rf6 26 Qxg8 Bxf2+ 27 Kh1 Bxg3–+. } 25...Rxg6 26 Qxf8+ Kh7 27 Qf7+ Rg7 28 Qf5+ Kh6–+ {  } *
+
+[Event "European Ch, Vrnjačka Banja 2023"]
+[Puzzle "915"]
+[White "Carbonell Sancho"]
+[Black "Velten"]
+[FEN "5r2/rp2q1pk/2p1p2p/p7/P3PnNn/2P1N2P/1P3PP1/3RRQK1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+23...h5! 24 Ne5 { In the game, White’s position quickly collapsed: 24 Nh2? Nhxg2! 25 Kh1 (or 25 Nxg2 Nxh3+ 26 Kh1 Nxf2+ 27 Kg1 Nxd1 28 Nf3 Qc5+ 29 Kh2 Nf2–+) 25...Nxe1 26 Rxe1 Qh4 0-1. } 24...Qg5 25 Nd3 { White’s kingside is fatally weak after 25 g3 Qxe5 26 gxh4 b5–+, followed by doubling rooks along the f-file. } 25...Nf3+ 26 Kh1 Nxd3 27 Rxd3 Nxe1 28 Qxe1 b5 { Black has a material advantage and good chances to win. } *
+
+[Event "European Ch, Vrnjačka Banja 2023"]
+[Puzzle "916"]
+[White "Azarov"]
+[Black "Moussard"]
+[FEN "r1q2rk1/3bbpp1/p4n1B/2p2P2/1p4P1/1B3P2/PPPQ3P/2KRR3 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+20...Bd8! { The game ended 20...gxh6?? 21 Rxe7 (or 21 Qxh6+–) 21...c4 22 Qxh6 cxb3 23 Qg5+ Kh7 24 Qg6+ 1-0. } 21 g5 { Black is able to defend his kingside after 21 Qg5 Ne8!–+. } 21...c4 22 gxf6 Bxf6 23 Bxg7 { Or 23 Qxd7 cxb3 24 axb3 Qxd7 25 Rxd7 gxh6–+. } 23...Bxg7 24 f6 Bxf6 25 Rg1+ Kh7 26 Rg5 Bf5–+ {  } *
+
+[Event "Internet rapid 2023"]
+[Puzzle "917"]
+[White "Esipenko"]
+[Black "Xu Yinglun"]
+[FEN "5rk1/4bppp/Qn2p3/8/1pqPPB2/1Nn2BP1/5P1P/5RK1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+22 Qxb6 Qxb3 23 Qb7 Re8 { The game ended 23...Bf6 24 Bd6 Bxd4 (24...Rd8 25 e5+–) 25 Bxf8 Kxf8 26 Qd7 1-0. } 24 Ra1 Na2 25 Kg2 { White’s pair of bishops and potential passed d-pawn will prevail. } 25...Qb2 26 Qd7 Kf8 27 Rf1 Qc3 28 Bc7 b3 29 d5+– {  } *
+
+[Event "British League (4NCL) 2022/3"]
+[Puzzle "918"]
+[White "Speelman"]
+[Black "Roberson"]
+[FEN "4r1k1/1Q3pb1/4r1pp/p1B2n2/P3R3/2PP2Pq/1P3P1N/R5K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+23...Rxe4 24 dxe4 Nxg3! 25 fxg3 { Or 25 Qb5 Re5 26 fxg3 Qxg3+ 27 Kh1 Rh5 28 Qe2 Rxc5–+. } 25...Qxg3+ 26 Kh1 Be5! { The game ended 26...Rb8?! 0-1?, but White could have resisted with 27 Bf2! Qxh2+ (27...Qf4 28 Be3) 28 Kxh2 Rxb7 29 Ra2 Be5+ 30 Kg2 Rb3 –/+. } 27 Bg1 Rb8–+ {  } *
+
+[Event "Austrian Team Ch 2022/3"]
+[Puzzle "919"]
+[White "Breder"]
+[Black "A. Donchenko"]
+[FEN "5r2/1p3q1k/p1rP2pb/Q1B1pp1p/2PpP3/1P6/P4PPP/R3R1K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+25...b6! 26 Bxb6 fxe4 27 Kh1 { In the game White allowed a back-rank mate: 27 Rxe4?? Qxf2+ 0- 1. } 27...Qxf2 28 d7 Bd2 29 Qxe5 Bxe1 30 Bxd4 Qxd4 31 Qxd4 Rf1+ { 33...Bh4 34 Rd1 Bd8 comes to the same thing. } 32 Qg1 Rxg1+ 33 Kxg1 Ba5 { Black has good chances to win. } 34 Rd1 Bd8 –/+ {  } *
+
+[Event "Slovakian Team Ch 2022/3"]
+[Puzzle "920"]
+[White "Mazur"]
+[Black "Piesik"]
+[FEN "r5kr/p1q2pp1/1p1b2np/2p2Q2/4R3/1PB2N2/P4PPP/4R1K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+25 h4! h5 { 25...Ne7 26 Qg4 Rh7 27 Be5 f5 28 Qh3! Bxe5 (28...fxe4 29 Qe6+ Kf8 30 Bxd6+–) 29 Rxe5 g6 30 Re6 Rd8 31 h5 g5 32 Ne5+– gives White a relentless initiative while it is difficult for Black to untangle his kingside pieces. } 26 Ng5 Rf8 { In the game Black lost after 26...Rh6? 27 Re7! 1-0. } 27 Re8 Nxh4 28 Qh3 Ng6 29 Bb2! { Black has no good defence to the threats along the a1-h8 diagonal; for example, 29...Rh6 30 Qc3 Ne5 31 Rxf8+ Kxf8 32 Qe3+–. } *
+
+[Event "Slovakian Team Ch 2022/3"]
+[Puzzle "921"]
+[White "Balog"]
+[Black "Aczel"]
+[FEN "r4rk1/pp3p2/2n4p/3Ppbp1/2P4P/q1P1p1B1/2Q2PP1/3RKB1R w K - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+19 Qxf5! { After 19 Bd3? (as played in the game) Black could have maintained the balance by exploiting the position of the white king with 19...e2! 20 Qxe2 Qxc3+ 21 Qd2 (21 Rd2? Nd4 22 Qe3 f6=+) 21...Qxd3 22 Qxd3 Bxd3 23 Rxd3 Na5, when the chances are roughly equal. } 19...Qxc3+ 20 Ke2 Nd4+ { Black’s attack also runs out of fuel after 20...Qxc4+ 21 Kxe3 Qc3+ 22 Rd3 Qc5+ 23 Kf3 Nd4+ 24 Rxd4 Qxd4 25 Bd3 g4+ 26 Qxg4+ Qxg4+ 27 Kxg4+–. White’s two bishops and passed d-pawn will be too much for the black rooks. } 21 Rxd4 exd4 { Or 21...Qxd4 22 fxe3 Qxc4+ 23 Kf2 Qxd5 24 Bd3 Rfd8 25 Be4 Qe6 26 Qxe6 fxe6 27 hxg5+–. } 22 hxg5 Rae8 23 Qd3 Qb2+ 24 Kf3 f5 25 gxh6+– {  } *
+
+[Event "Slovakian Team Ch 2022/3"]
+[Puzzle "922"]
+[White "Navara"]
+[Black "Ftačnik"]
+[FEN "2kr3r/1bq1pp1p/p2p2p1/3n4/Pp5Q/1N1B1P2/1PP3PP/2KRR3 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+19 Bxa6! Bxa6 20 Rxd5 Bc4 { White picks up the loose b-pawn after 20...e6 21 Rd4+–. } 21 Rxe7 Qc6 22 Ra5! Bxb3 23 Qe4! d5 { White’s idea is that after 23...Qxe4 24 fxe4 he wins the bishop because of the mate threat on a8. } 24 Qd3 Rd7 { Another nice point is 24...Bxa4 25 Rc5! Qxc5 26 Qa6+ Kb8 27 Qb7#. } 25 Rxd7 Bc4 26 Qd4+– {  } *
+
+[Event "Novi Banovci 2023"]
+[Puzzle "923"]
+[White "I. Martić"]
+[Black "A. Petrović"]
+[FEN "r1r1k3/1bqn3R/3pp3/6B1/1p1bP1P1/1P3P2/N6Q/1K1R4 b q - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+31...Qc2+! { The only move to counter White’s kingside mating threats. } 32 Qxc2 Rxc2 33 Kxc2 Rxa2+ 34 Kb1 { 34 Kd3?? Bc5 (or 34...Bb6) leads to mate as White cannot defend against the dual threats of ...Ba6# and ...Ne5#. } 34...Ra1+ 35 Kc2 { Now Black’s safest option is 35...Ra2+ with a draw by repetition. Instead 35...Rxd1 (as played in the game) 36 Kxd1 may give White a slight edge thanks to his active rook. } *
+
+[Event "Dutch League 2022/3"]
+[Puzzle "924"]
+[White "Rademakers"]
+[Black "Hilwerda"]
+[FEN "r3kb1r/pp5p/b2qp3/3PnpB1/4p1pP/1PN5/P4PBP/R2QR1K1 w kq - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+20 Rxe4!! h6! { In the game 20...fxe4? left Black’s king too exposed: 21 Nxe4 Qb6 22 Nf6+ Kf7 23 dxe6+ Kg7 (23...Qxe6 24 Bd5+–) 24 Nxg4 Bd3 (24...Qxe6 25 Bf6+ Qxf6 26 Nxf6 Kxf6 27 Qd4+–) 25 Bf6+ Kg8 26 Bxe5 1-0. } 21 Bf6 fxe4 22 Bxh8 exd5 23 Qxd5 Qxd5 24 Nxd5 Bd6 { Black has a playable game and near-equality. } *
+
+[Event "Hungarian Team Ch 2022/3"]
+[Puzzle "925"]
+[White "Szeberenyi"]
+[Black "P. Balint"]
+[FEN "4r1k1/p4p1p/q5p1/2pP2B1/8/7P/Pb3PP1/R2Q2K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+21 d6! Bxa1 22 d7 Rb8 23 d8Q+ Rxd8 24 Qxd8+ Kg7 25 Be7! { Black must fatally weaken his pawn-structure to deal with the threat of Qf8#. } 25...g5 { Or 25...h5 26 Qf8+ Kh7 27 Qxf7+ Bg7 28 Bxc5+–. } 26 Bxc5 Bf6 { Or 26...Qxa2 27 Qxg5+ Kh8 28 Qd8+ Kg7 29 Qf8+ Kg6 30 Qg8+ Kf6 31 Qxh7+–. } 27 Qf8+ Kg6 28 Qg8+ Kf5 29 Qxf7+– { White has won a critical pawn. } *
+
+[Event "Budapest 2023"]
+[Puzzle "926"]
+[White "Daroczi"]
+[Black "V. Balint"]
+[FEN "r1b2rk1/pp2n1pp/1bpq4/3p2B1/3P4/1QPB1N2/P4PPP/R4RK1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+16...Rxf3! 17 gxf3 { White’s king is in a mating-net after 17 Bxe7? Qxe7 18 gxf3 Qg5+ 19 Kh1 Qf4–+. } 17...Nf5! { In the game, 17...Bc7?! let White retain his dark-squared bishop and after 18 f4 h6 19 Bh4 g5 20 Bg3 gxf4 21 Bh4 he had a playable game. } 18 Rae1 Qg6 19 f4 h6 20 Re5! Bd7 { White wins material after 20...hxg5?? 21 Qb1 gxf4+ 22 Kh1+–. } 21 c4 Rf8 22 cxd5 Kh8 23 dxc6 bxc6=+ { Black has the superior pawn-structure and White’s king is exposed. } *
+
+[Event "European Ch, Vrnjačka Banja 2023"]
+[Puzzle "927"]
+[White "Nyysti"]
+[Black "Ozdemir"]
+[FEN "4k2r/3p2p1/p1bbp3/4qp2/1p2P1p1/5BP1/PP1B2QP/R3R2K w k - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+26 Bf4! { In the game, 26 Bxg4? Qxg3 27 Qxg3 Bxg3 28 Re2 fxg4 29 Bxb4 Bf4=+ gave Black reasonable compensation for his slight material deficit thanks to his active bishop-pair. } 26...gxf3 27 Qd2! Qb5 { The queen is dominant after 27...f2 28 Bxe5 fxe1Q+ 29 Rxe1 Bxe5 30 Kg1 Bxe4 31 Qxb4 d5 32 Re3 +/–. } 28 Bxd6 fxe4 29 Qf2 +/– {  } *
+
+[Event "Austrian Team Ch 2022/3"]
+[Puzzle "928"]
+[White "Höfelsauer"]
+[Black "Praznik"]
+[FEN "6rk/1p4bp/1p1Pb3/1P4q1/4Q3/7P/2B2PP1/3R2K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+29...Qg6! { The game continued 29...Qh6? 30 d7 Rd8 31 Rd6! +/–, when Black had difficulty coping with White’s far-advanced d-pawn. } 30 d7 Qxe4 31 Bxe4 Rd8 32 Rd6 Bc4 33 g4 Bxb5 34 Rxb6 Bxd7 { Black has a slight material advantage, but a draw is likely because of the reduced material. } 35 Rxb7 {  } *
+
+[Event "Czech Team Ch 2023"]
+[Puzzle "929"]
+[White "Souček"]
+[Black "Ludvik"]
+[FEN "1b2r1k1/1p1nqppp/p3b3/3p2n1/3N4/1PN1P2P/PB3PP1/1BQR2K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+23...Nxh3+! 24 Kf1 { White’s king is too exposed after 24 gxh3? Bxh3 25 f4 Qh4 26 Qc2 Nf6 27 Qf2 Qg4+ 28 Kh1 Qh5–+. } 24...Nxf2! { This knight sacrifice works because White has a lack of pieces defending his kingside. } 25 Qc2 { In the game, 25 Kxf2?! Qh4+ 26 Ke2 Bg4+ 27 Kd3 Qf2–+ gave Black a decisive attack. } 25...Nf6 26 Kxf2 { 26 Qxf2? Ng4 27 Qe1 Qf6+ 28 Nf3 Qh6–+. } 26...Ng4+ 27 Ke2 g6 –/+ { Black has a strong attack for a small material investment. } *
+
+[Event "Budapest 2023"]
+[Puzzle "930"]
+[White "Pham Tran Gia"]
+[Black "Halak"]
+[FEN "5rk1/p1q2p1p/1rN1pnpP/1p1pN3/3Q1P2/2P2Pn1/PP6/R3K2R w KQ - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+20 Nd7! { Or 20 Ng4! Rxc6 21 Nxf6+, transposing to the main line below. } 20...Rxc6 { Black actually played 20...Qxd7?, when his vulnerable g7-square cost him the game: 21 Qxf6 Nf5 22 Rh5! Re8 (or 22...Nxh6 23 Ne7+ Qxe7 24 Qxe7+–) 23 Rxf5 with mate coming on g7. } 21 Nxf6+ Kh8 22 Nh5+ e5 23 Qb4 Rb8 24 Nxg3+– {  } *
+
+[Event "World Ch (5), Astana 2023"]
+[Puzzle "931"]
+[White "Nepomniashchy"]
+[Black "Ding Liren"]
+[FEN "1r1q1k2/6p1/3p1p2/1pbQ1PpP/2p3R1/2P2N2/1P3P2/5K2 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+39 Nh4!! gxh4 { (variation) } 40 h6! g5 { Or 39...Ke8 40 Re4+ Kd7 41 Ng6 Kc7 42 Re7+ Kb6 43 Rxg7+–. } 41 fxg6 Qd7 42 g7+ Ke7 43 g8Q Rxg8 44 Qxg8 { After 40...Qe7 41 h7+– White’s h-pawn will promote. } *
+
+[Event "Mitropa Cup, Mali Lošinj 2023"]
+[Puzzle "932"]
+[White "Mladek"]
+[Black "Hagner"]
+[FEN "2rqr3/pb2b1pp/1p2Q2k/4nP2/3Pp3/4P1B1/PP2N1PP/2R2RK1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+22...Bf6! 23 Bf4+ g5! 24 fxg6+ Kg7! { 24...Kxg6?? 25 Qh3+– gives White a decisive attack. } 25 Qh3 { In the game, the immediate capture of the knight by 25 Bh6+? Kxh6 26 Qh3+ Bh4–+ left White too much material down. } 25...Nxg6 26 Bh6+ Kh8 –/+ { Black has a piece for two pawns and good chances to win. } *
+
+[Event "Tashkent 2023"]
+[Puzzle "933"]
+[White "Vokhidov"]
+[Black "Nigmatov"]
+[FEN "1rr4k/R4Bp1/3p1q1p/5P2/1p1NP3/2pQ3P/5PK1/8 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+39...Qg5+ 40 Kf1 Qc1+ 41 Ke2 Qb2+! { Black positions his queen on the optimal square before advancing his passed pawns. Too hasty is 41...c2? 42 Ra2! b3 43 Bxb3 Rxb3 44 Nxb3 Qb1 45 Ra6 Qxb3 46 Qxb3 c1N+ 47 Kf3 Nxb3 48 Rxd6 with a likely draw. } 42 Nc2 { 42 Qc2 b3 43 Bxb3 Rxb3–+. } 42...b3 43 Bxb3 Qxb3–+ {  } *
+
+[Event "Ciutadella de Menorca 2023"]
+[Puzzle "934"]
+[White "Pranav"]
+[Black "J. van Foreest"]
+[FEN "5rk1/7p/1p1PP3/1p3pp1/p1nB4/P2r2P1/R6P/2R3K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+34 d7! { This surprising piece sacrifice is the way forward for White. In the game White played 34 e7?, when Black managed to eliminate the advanced white pawns by 34...Rxd4 35 exf8Q+ Kxf8 36 Rf2 Rd5, with equal chances. } 34...Rxd4 35 Rf2! Re4 { After 35...f4 36 gxf4, 36...gxf4? allows 37 Rg2+ Kh8 38 e7, mating. } 36 Rxf5 Rd8 37 Rcf1 { Black is unable to prevent White from promoting the d-pawn. } 37...Rxe6 38 Rf8+ Rxf8 39 Rxf8+ Kxf8 40 d8Q+ Kf7 41 Qxg5+– {  } *
+
+[Event "Ciutadella de Menorca 2023"]
+[Puzzle "935"]
+[White "T. Sosa"]
+[Black "Santos Ruiz"]
+[FEN "r3k2r/1bqp1n2/p2bp3/2p3Bn/Pp1PP3/2P1N1P1/1P2Q1BP/R4RK1 w kq - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+20 Rxf7! Kxf7 21 Rf1+ Kg8 { White has a decisive material advantage after 21...Ke8 22 Qg4 cxd4 23 Bf6 Nxf6 24 Qg6+ Kd8 25 Qxf6+ Kc8 26 Qxh8+ Qd8 27 Qxd4+–. } 22 Qg4 Ng7 23 Bf6 Bf8 { 23...Rh7 24 Qg6 (intending Ng4) 24...Bf8 transposes to the game. } 24 Qg6 Rh7 { 24...d6 opens a line for the black queen to participate in the defence, but this does not really help: 25 Bxg7 Qxg7 (or 25...Bxg7 26 Qxe6+ Kh7 27 Rf5, mating) 26 Qxe6+ Kh7 27 Rf7+–. } 25 Ng4 1-0 { 25...Kh8 26 Be5 Qd8 27 Nf6+–. } *
+
+[Event "Tashkent 2023"]
+[Puzzle "936"]
+[White "Fayzullaev"]
+[Black "Vokhidov"]
+[FEN "r5r1/2q3kp/p4Rp1/1p6/7Q/P1N5/1PP3PP/7K w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+26 Re6! { After 26 Qd4?? (as played in the game) Black drove the white queen away and exploited his material advantage following 26...Qc4! 27 Qe5 Rge8 28 Re6+ Kf7 29 Rf6+ Kg8–+. } 26...Rge8 27 Nd5! Qd8 { Or 27...Qf7 28 Qd4+ Kh6 (28...Kf8?? 29 Qh8+ Qg8 30 Rf6#) 29 Qh4+ Kg7 30 Qd4+ = with a draw by repetition. } 28 Re7+ { 28 Qd4+ Kh6 29 Rxe8 Qxe8 30 Qh4+ Kg7 31 Qf6+ Kh6 32 Qh4+ = is another path to perpetual check. } 28...Rxe7 29 Qf6+ Kh6 30 Qh4+ { 30 Qf4+ is also a draw. } 30...Kg7 31 Qf6+ = { with perpetual check. } *
+
+[Event "Tashkent 2023"]
+[Puzzle "937"]
+[White "Tsydypov"]
+[Black "Fayzullaev"]
+[FEN "r1b2r2/1p4k1/2n1pNpp/4q3/8/p1P5/PP3QPP/1K1R1R2 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+24 Ne8+! { 24 Nh5+? Kh7 25 Qxf8 Qe4+ 26 Kc1 (26 Ka1 axb2+ 27 Kxb2 Rxa2+ 28 Kxa2 Qc2+ 29 Ka3 Qxc3+ 30 Ka4 Qc4+ 31 Ka3 Qc3+ =) 26...axb2+ 27 Kd2 Qd5+ 28 Ke3 Qe5+ 29 Kf2 (29 Kd3 Qd5+ 30 Ke3 Qe5+ repeats) 29...Qf5+ 30 Qxf5 gxf5 with roughly equal chances. } 24...Kh7 25 Qxf8 Qe4+ 26 Kc1 axb2+ 27 Kd2! { White has no escape from the checks after 27 Kxb2? Rxa2+! 28 Kxa2 Qc2+ 29 Ka1 (or 29 Ka3 Qxc3+ 30 Ka4 Qc2+ 31 Ka3 Qc3+ =) 29...Qxc3+ 30 Kb1 (30 Ka2?? Nb4+ 31 Qxb4 Qxb4–+) 30...Qb3+ 31 Kc1 Qc3+ 32 Kb1 Qb3+ = with a draw by repetition. } 27...Qd5+ 28 Ke3 Qe5+ { Black runs out of useful checks after 28...Qg5+? 29 Rf4 Qe5+ 30 Kf2+– and will be mated shortly. } 29 Kf2 Qf5+ { Black’s king is trapped in a mating-net after 29...g5? 30 Kg1+–. } 30 Qxf5? { White should have played 30 Kg1 Qxf8 31 Rxf8 Rxa2 32 Nd6 Bd7 (32...Ra1 33 Rff1+–) 33 Nc4+–. } 30...exf5? { 30...gxf5! makes it harder for the white rooks to penetrate, and offers Black real chances of saving the game. } 31 Rfe1 Rxa2 32 Rb1 Na5?! 33 Nd6 1-0 {  } *
+
+[Event "Tashkent 2023"]
+[Puzzle "938"]
+[White "Abdisalimov"]
+[Black "K. Begmuratov"]
+[FEN "3r2k1/pb2qpp1/1p2pn2/2r5/2PN3Q/1P2R3/PBB2PPP/6K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+23 g4! { White aims for Rh3 without allowing the reply ...Rh5. } 23...Qd6 24 g5 g6 { Retreating the knight gives White several attractive options. For example: 24...Ne8 25 b4 Rxc4 (25...Re5 26 Qh7+ Kf8 27 Rxe5 Qxe5 28 Qh8+ Ke7 29 Nc6+ Bxc6 30 Bxe5+–) 26 Qh7+ Kf8 27 Qh8+ Ke7 28 Nf5+ Kd7 29 Nxd6 Nxd6 30 Qh7+–. } 25 gxf6 Rh5 26 Qg3 Qxg3+ { In the game Black played 26...Qc5, when 27 Nxe6! Qc6 28 f3 Rd2 29 Bxg6 led to mate. } 27 Rxg3 e5 28 Nf3 e4 29 Nd4+– {  } *
+
+[Event "Lyons 2023"]
+[Puzzle "939"]
+[White "L. Ernst"]
+[Black "I. Martinovici"]
+[FEN "r3qrk1/pbp2ppp/1p3n2/4nN2/2Pp4/3B4/PP4PP/R1BQR1K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+16 Bf4 { White is two pawns down so he needs to exploit the pin along the e-file before Black can consolidate his position. } 16...Nfg4 17 Bxe5 Nxe5 18 Qh5 g6 { 18...Nxd3 is perhaps more resilient, but Black loses material after 19 Qg4! g6 20 Qxd4 gxf5 21 Rxe8 Rfxe8 22 Qxd3+–. } 19 Qh6! gxf5 20 Bxf5! { 20 Qg5+? was chosen in the game, but loses a tempo and gives Black sufficient counterplay. After 20...Ng6 21 Rxe8 Raxe8 22 h4 (22 Bxf5? Re2 –/+) Black should have played 22...Be4! with roughly level chances thanks to his huge swathe of pawns after 23 Bxe4 fxe4 24 h5 Re5 25 Qg4 c5 26 hxg6 hxg6. } 20...Ng6 21 Rxe8 Rfxe8 22 h4 Re2 23 Bh3+– { The tempo White have saved means that he has managed to play h4 before blocking the h-pawn with Bh3. This makes an enormous difference! } *
+
+[Event "Dimitrovgrad 2023"]
+[Puzzle "940"]
+[White "Koutlas"]
+[Black "Stanojoski"]
+[FEN "2r2rk1/pp3ppp/8/q3P1B1/bbB5/3Q4/PPP3PP/2KR1R2 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+19...Bb5! { In the game, 19...Qxe5? 20 Rf5 gave White a dangerous initiative. Black then played 20...Qxh2? and lost quickly after 21 Rxf7!, but even the more resilient 20...Qc7 21 b3 Bc6 22 Bf4 +/– is highly unpleasant for Black. } 20 Bxb5 Qxa2 21 c3 { Black has queenside pressure after 21 c4 a6 22 Bxa6 Qxa6 23 Kb1 Rxc4 –/+. } 21...Rxc3+! 22 Qxc3 { 22 bxc3?? allows 22...Ba3#. } 22...Bxc3 23 bxc3 Qa5 24 Bd7 Qxc3+ 25 Kb1 Qxe5 –/+ { Black has good chances to win because of White’s exposed king. } *
+
+[Event "Austrian Team Ch 2022/3"]
+[Puzzle "941"]
+[White "Kilgus"]
+[Black "De. Wagner"]
+[FEN "5rk1/p1b2ppp/Q1p5/2P1p1q1/NP1rP3/P6P/5RP1/R5K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+23...Qe3! 24 Rf1 { Both players’ minor pieces appear out of play at the moment, but Black’s next move sets up the idea of ...Bd8-h4 to win the pinned white rook. } 24...Rd2 25 Qc4 { Or 24 Nb2 Rd2 25 Nd1 Qd4 26 Qf1 Rd8–+. } 25...Rxf2 26 Rxf2 Bd8 27 Kf1 { White’s position will collapse once Black activates his bishop. For example: 25 Qxc6 Bd8–+. } 27...Bh4 28 Re2 Qxa3 29 Ra2 Qg3 30 Qe2 Qh2 0-1 { After 27 Qc3 Bg5 28 Kf1 Qxe4–+ White loses a key pawn and his knight is hopelessly out of play. } *
+
+[Event "Delhi (women) 2022"]
+[Puzzle "942"]
+[White "D. Munkhzul"]
+[Black "Karavade"]
+[FEN "3r1rk1/3qbppp/p1bpp3/1p5n/3BPP2/P2B3Q/1PP3PP/3NRR1K b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+18...Nxf4! 19 Rxf4 e5 { This is a well-known simplifying manoeuvre in the Sicilian Defence; here it works because White’s knight is out of play on the back rank. } 20 Rg4 { Black is able to rebuff White’s attack after 20 Qg3 exd4 21 Nf2 Qe6 –/+, retaining an extra pawn and good chances to win. } 20...exd4 21 e5 g6 22 e6 Qe8! { And not 22...fxe6?? 23 Bxg6!+–, when White obtains a decisive attack. The queen retreat enables Black to retain her extra pawn along with a powerful pair of bishops. White now pressed forward with a doomed attack, rather than embarking upon a depressing battle for survival: } 23 Qh6?! f5 24 Rg3 Bf6 25 Nf2 { In the game White chose 25 Bxf5, but Black easily repelled the attack and won the game after 25...Bg7 26 Bxg6 hxg6 27 Rxg6 Qe7 – +. } 25...Qe7–+ {  } *
+
+[Event "Delhi (women) 2022"]
+[Puzzle "943"]
+[White "M. Gomes"]
+[Black "S. Salonika"]
+[FEN "1q1r1r2/1b2n1kp/1p3pp1/1P6/2nN4/6P1/1Q3PBP/2RR2K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+25 Ne6+! { The knight check is more forcing and far better than 25 Rxc4? Bxg2 26 Kxg2 Qe5 (as played in the game), when White has nothing better than 27 Rc2+=. } 25...Kg8 26 Qb4 Rxd1+ 27 Rxd1 Re8 28 Qxc4 { The superior scope of White’s pieces makes it possible to win Black’s b6-pawn. For example: 28...Bxg2 29 Nc7+ Bd5 30 Nxd5 Nxd5 31 Qxd5+ Kg7 32 Qd7+ Kg8 33 Qc6+–. } *
+
+[Event "Pirot 2022"]
+[Puzzle "944"]
+[White "M. Ivanović"]
+[Black "M. Mitrović"]
+[FEN "r1r5/p2bpkbp/3p2p1/3q4/1p1N2P1/4BP2/PPP4Q/1K1R3R w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+21 Nf5! { White must avoid trapping his own queen after 21 Qxh7?? Rh8–+. } 21...Qe5 22 Qxe5 Bxe5 23 Rxh7+ Kg8 24 Rxe7 { The greater activity of White’s rooks makes all the difference here. } 24...Ba4 { White has a clear extra pawn after 24...Bxf5 25 gxf5 gxf5 26 f4 Bf6 27 Re6 Rf8 28 Rexd6+–. } 25 Nh6+ Kf8 26 Rf7+ Ke8 27 b3+– {  } *
+
+[Event "Finnish Team Ch 2022/3"]
+[Puzzle "945"]
+[White "Järvenpää"]
+[Black "Nevanlinna"]
+[FEN "8/1q4bk/3p2p1/1Q1P3p/3pP3/3B1RP1/3r3P/6K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+35...Qc8! { This is the correct square for the black queen because it can infiltrate along the c-file or via the h3-square in some lines. After 35...Qa7? White can maintain the balance by exposing Black’s king: 36 e5 Bxe5 and now 37 Qe8!? (as played in the game) is far from bad, but the clearest path is 37 Bxg6+ Kh6 (or 37...Kxg6 38 Qe8+ Kg5 39 Rf7 Qa1+ 40 Rf1 Qxf1+ 41 Kxf1 Rxh2 42 Qg8+ =, leading to a draw by repetition) 38 Bd3 Qa1+ 39 Bf1 Qd1 40 Rd3 =. } 36 Bf1 { Or 36 e5 Qh3!–+. } 36...d3! 37 Bxd3 { 37 Rxd3 Ra2 intending ...Qc2–+. } 37...Qc1+ 38 Bf1 { White’s poor king position is also fatal after 38 Rf1 Qc3 39 Rf3 Qa1+ 40 Bf1 Qd4+ 41 Kh1 Qxe4 42 Bg2 Qc2–+. } 38...Bd4+ 39 Kh1 Qc2 { White’s position collapses after a long but forcing line: 40 Qd7+ Kh6 41 Qh3 Qxe4 42 g4 h4 43 Qxh4+ Kg7 44 Qh3 Rf2 45 Bg2 Qe2 – +. } *
+
+[Event "Hungarian Team Ch 2022/3"]
+[Puzzle "946"]
+[White "P. Papp"]
+[Black "Ga. Farkas"]
+[FEN "3r1k2/4n1nB/p3p2Q/1pp1P3/3q2P1/PP3b1P/3p1R2/3R2K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+37...Qxf2+! { In the game Black played 37...Ke8??, losing material and the game after 38 Rxd2 (or 38 Bg6+ Nxg6 39 Qxg6++–) 38...Qa1+ 39 Rf1 Qxf1+ 40 Kxf1 Rxd2 41 Qxd2 Nd5 42 Qg5 1-0. } 38 Kxf2 Bxd1 39 Qf6+ Ke8 40 Bg6+ Nxg6 41 Qxg6+ Kd7 42 { White has no way to stop Black’s passed d-pawn. For example: 42 Qb1 Bxb3 43 Qxb3 Ke7 44 Qd1 c4 45 Ke2 c3–+. } Qxg7+ {  } 42...Kc6 43 Qe7 Bxb3 44 Qxd8 d1Q–+ {  } *
+
+[Event "Austrian Team Ch 2022/3"]
+[Puzzle "947"]
+[White "Belke"]
+[Black "Konaplev"]
+[FEN "6k1/5pp1/2N1q3/5n2/P4nPp/1NQ5/P4P1P/6K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+44 Qe5! { White prevents the black queen from infiltrating. In the game, 44 gxf5?? allowed Black a forced mate: 44...Qe4 45 f3 Qe2 0-1. } 44...Nh3+ 45 Kf1 Qc4+ 46 Ke1 Nf4 47 Qb5 Qc3+ 48 Kd1 Qf3+ 49 { Neither side has anything better than repeating. } Kc1 Qc3+ 50 Kd1 Qf3+ = {  } *
+
+[Event "Pozarevac 2022"]
+[Puzzle "948"]
+[White "Shoshin"]
+[Black "Mushini"]
+[FEN "2r2r1k/6pp/2N1Q3/1P1R4/2n5/4B1bP/4qPP1/1R4K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+34 Rf5! Rfe8 { After 34...Nxe3 (as played in the game) White could have consolidated his material advantage with 35 Qxe3 Qc2 (or 35...Qxe3 36 Rxf8+ Rxf8 37 fxe3 Bf2+ 38 Kh1 Bxe3 39 b6+–) 36 Rxf8+ Rxf8 37 Rf1+–. } 35 Ne7 Rcd8 36 fxg3 Nxe3 37 Rf2 Qd3 { White’s passed b-pawn is the decisive factor after 37...Rd1+ 38 Rxd1 Qxd1+ 39 Kh2 Qd8 40 Qxe3 Rxe7 41 Qc5+–. } 38 Re1 Nd5 39 Re5 Nxe7 40 Qf7 Qxg3 41 Rxe7+– {  } *
+
+[Event "Pozarevac 2022"]
+[Puzzle "949"]
+[White "N. Ristić"]
+[Black "Shoshin"]
+[FEN "r3k1r1/1b1n4/pq2pn1p/1pb3N1/2p1N3/4P2P/PPB1QPP1/R1BR2K1 w q - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+17 Rxd7! Nxd7 18 Qh5+ Kd8 19 Qxh6 Bd5 { White’s more active pieces and safer king give him a decisive advantage after 19...Kc7 20 Nxc5 Nxc5 21 Qh7+ Nd7 22 e4 e5 23 Be3+–. } 20 Nxc5 Nxc5 21 e4 Bc6 22 Be3+– { White is winning because the black king has no safe haven. } *
+
+[Event "Cheliabinsk (women) 2022"]
+[Puzzle "950"]
+[White "Yakimova"]
+[Black "Tomilova"]
+[FEN "6rk/1R4pp/2p1Qn2/p7/P1PP1P2/4P2r/4KP1q/1R6 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+28 Rxg7! Kxg7 { Black loses her queen after 28...Rxg7 29 Qxf6 Rxe3+ 30 Kxe3 Qh3+ 31 f3 Qc8 32 Qe5 followed by 33 Rb8+–. } 29 Rb7+ Kg6 30 Rf7 { White simplifies into a winning pawn endgame. This is much easier to calculate than 30 Qf7+ Kf5 31 e4+ Kxe4 32 Qe6+ Kxd4 33 Qxf6+ Kc5 34 Qe7+ Kxc4 35 Qe4+ Kc5 36 Qc2+ Kd6 37 Qd2+, leading to mate. } 30...Rxe3+ 31 Kxe3 Qh4 32 Rxf6+ Qxf6 33 Qxg8+ Kh6 34 Qg5+ {  } Qxg5 35 fxg5+ Kxg5 36 f4++– {  } *
+
+[Event "Germany (team event) 2021/2"]
+[Puzzle "951"]
+[White "Max. Müller"]
+[Black "Gottschalk"]
+[FEN "r4rk1/1p2p2p/p1np2p1/3N1p2/2PbP1n1/1P2N3/PB1Q1PBq/R2R1K2 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+20...Bxb2 21 Qxb2 Nxf2! { Black exploits the line-up of his rook and the white king along the f- file. } 22 exf5 Ne4! { After 22...Nxd1? 23 Rxd1 Qg3 (as played in the game) White could have safeguarded his king by 24 Qf2 Qxf2+ 25 Kxf2 gxf5, with roughly equal chances. } 23 Rab1 gxf5 { Black retains his knight and has a decisive attack. For example, 24 Ke2 f4 25 Rh1 f3+ 26 Kd3 Qg3–+. } *
+
+[Event "Krakow 2022"]
+[Puzzle "952"]
+[White "M. Jacobsen"]
+[Black "Pniaczek"]
+[FEN "r1bqr1k1/1p3pp1/2pb1n1p/p2p2n1/3PP2B/P1NB1P1P/1PQ1N1P1/3RK2R b K - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+15...Nfxe4! { This combination is possible because of the loose bishop on h4. } 16 fxe4 Nf3+ 17 gxf3 Qxh4+ 18 Kd2 { Black develops a relentless initiative after 18 Kf1? Bxh3+ 19 Rxh3 (19 Kg1? Re6–+) 19...Qxh3+ 20 Kf2 Be7 21 e5 Bh4+ 22 Kg1 f6–+. } 18...Qg5+ 19 Ke1 { Not 19 f4? Bxf4+ 20 Nxf4 Qxf4+ 21 Ke2 dxe4–+. Now Black should play } 19...Qh4+ { with a draw by repetition. In the game Black had insufficient compensation for the piece after 19...Qg2? 20 Rf1 Bxh3 21 Rf2 Qg5 22 e5 Be7 23 f4+–. } *
+
+[Event "New York 2022"]
+[Puzzle "953"]
+[White "Adewumi"]
+[Black "Nakada"]
+[FEN "2r2rk1/p1qn1pp1/3b3p/3p4/1p1P4/1P1B2P1/P3QP1P/R1B2RK1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+23 Bxh6! { This bishop sacrifice is effective because Black does not have any defenders around his king. } 23...gxh6 { In the game 23...Nf6 24 Rac1 Qb6 25 Be3+– left White with an extra pawn and the bishop-pair. } 24 Qg4+ Kh8 25 Qf5 Kg7 26 Qh7+ Kf6 27 Qxh6+ Ke7 28 Rac1 {  } Qb6 29 Rfe1+ Kd8 30 Qg5+ f6 31 Rxc8+ Kxc8 32 Qxd5+– {  } *
+
+[Event "Budapest 2022"]
+[Puzzle "954"]
+[White "J. Pein"]
+[Black "Urhegyi"]
+[FEN "3rb2r/1k3pqp/pb2p3/2Q2p2/1R3B2/8/5PPP/1B2R1K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+28...Bb5! 29 Rxb5 axb5 30 Qe7+ { Or 30 Qxb5 Rd5–+. } 30...Ka6! { After 30...Ka8? (as played in the game) White could have generated a decisive attack by 31 Bxf5! exf5 32 Qa3+ Kb7 33 Qf3+ Ka6 34 Be5+–. } 31 Qa3+ Ba5 32 Bc7 Qc3–+ {  } *
+
+[Event "Bosnian Team Ch, Bihać 2022"]
+[Puzzle "955"]
+[White "Ef. Muratović"]
+[Black "Runić"]
+[FEN "4q2k/p3r1b1/3p1P1r/3B4/1PP3n1/PR4p1/2R4P/3Q2NK b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+33...Qh5! { In the game Black blundered with 33...Bxf6?? and resigned without waiting for 34 Qxg4+–. } 34 h3 { White must avoid 34 Rxg3? Qxh2+! 35 Rxh2 Rxh2#. } 34...Nf2+ 35 Kg2 { White runs out of material after 35 Rxf2? Qxd1 36 fxg7+ Rxg7 37 Rf8+ Kh7 38 Be4+ Rgg6 39 Bxg6+ Kg7! 40 Rxg3 Kxf8–+. } 35...Nxd1 36 fxe7 Nc3 37 Rbxc3! { The queen is dominant after 37 Bc6?! Re6 38 e8Q+ Rxe8 39 Bxe8 Qd1!–+. } 37...Bxc3 38 Rxc3 Qe5 39 Rxg3 Qxe7 –/+ {  } *
+
+[Event "Mersin 2022"]
+[Puzzle "956"]
+[White "Yarashov"]
+[Black "Olcum"]
+[FEN "r1q1r1kb/pppb1p1p/6pB/8/2PnB2Q/2N3PP/PP2PP2/R3K2R b KQ - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+16...Bc6! { Another good option is 16...Bf5!?. In the game Black played 16...Rxe4?, but there is no effective follow-up. After 17 Qxe4 Nf5 (17...Bc6 18 Nd5+–), White would have done best to play 18 Nd5 c6 19 Ne7+ Nxe7 20 Qxe7 Bxb2 21 Rd1+–. } 17 Bxc6 bxc6 18 0-0 Rxe2! 19 Qg4 { Black has a decisive attack after 19 Kg2 Nf5 20 Qf4 Ne3+ 21 Kf3 (21 Qxe3 Rxe3 22 Bxe3 Rb8–+) 21...Nxf1 22 Kxe2 Qxh3–+. } 19...Qxg4 20 hxg4 Rxb2 21 Rac1 Nf3+ 22 Kg2 Ne5–+ {  } *
+
+[Event "Vecindario 2022"]
+[Puzzle "957"]
+[White "Konyves"]
+[Black "Leszko"]
+[FEN "2kr3r/ppp1np1p/4q3/8/2Pp2p1/P2Q3P/1P2PPP1/R3KB1R b KQ - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+16...g3! 17 Qxg3 { White’s pieces are paralysed after 17 fxg3 Nf5 18 0-0-0 Ne3–+. } 17...d3 18 Rd1 { White is unable to complete his development after 18 e3 f5 (not 18...Qxc4?? 19 Qg4+ Qxg4 20 hxg4+–) 19 Rd1 Qxc4 20 Qf3 Rhf8 – +. } 18...Nf5 19 Qg5 Rhg8 20 Qc1 { After 20 Qh5 d2+ 21 Rxd2 Rxd2 (as played in the game) White’s king will perish in the centre of the board. For example: 22 Kxd2 Rd8+ 23 Ke1 Qd7–+. } 20...dxe2 21 Rxd8+ Rxd8 22 Bxe2 Nd4 23 Qd2 Qe4–+ {  } *
+
+[Event "Buenos Aires 2022"]
+[Puzzle "958"]
+[White "Hernandez Amura"]
+[Black "F. Villegas"]
+[FEN "1qr3k1/p4ppp/4pn2/QNnp4/P2N1P2/1r1P2P1/1PK2P1P/3R3R w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+20 Kb1! { In the game White blundered with 20 Qxa7??, when 20...Rxb5! 21 Nxb5 Nxa4+ 22 Kb1 Qxb5–+ won material. } 20...Rxd3 21 Nxa7! Nb3 22 Qa6 Rxd4 { 22...Rxd1+ 23 Rxd1 Rc5 24 Nac6+–. } 23 Nxc8 Nd2+ 24 Rxd2! { Not 24 Ka1?? Qb7! 25 Rxd2 Qxa6 26 Rxd4 Qxc8–+. } 24...Rxd2 25 Nb6+– {  } *
+
+[Event "Buenos Aires 2022"]
+[Puzzle "959"]
+[White "Ocampos"]
+[Black "Belmonte"]
+[FEN "1k6/pp3q2/7p/3p1nN1/2pPb3/2P1Q1bB/P1P1R1P1/6K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+40...Bh2+! 41 Kh1 { 41 Kxh2 Qc7+ 42 Kg1 Nxe3 43 Nxe4 dxe4 44 Rxe3 Qf4–+. } 41...Qh5! { In the game Black went astray with 41...hxg5??, and White consolidated his material advantage by 42 Qxg5 Bc7 43 Rf2+–. } 42 Qc1 { 42 Qf2 Bg3–+. } 42...Bd6 43 Nxe4 dxe4 44 Re3 { White’s king is in a mating-net after 44 Re1 Ng3+ 45 Kg1 Ne2+ 46 Rxe2 Qxe2–+. } 44...Nxe3 45 Qxe3 Qd1+ 46 Qg1 Qxc2–+ {  } *
+
+[Event "Austrian Team Ch 2022/3"]
+[Puzzle "960"]
+[White "Renner"]
+[Black "Höfelsauer"]
+[FEN "r1qr2k1/pp3pp1/2nbp2p/3nNb2/3P4/1Q3NB1/PP2BPPP/2R2RK1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+16 Ba6! Bxe5 { 16...bxa6 17 Nxc6+–. } 17 Bxb7 { After 17 Nxe5 (as played in the game) White obtains a material advantage, but Black could have resisted for a while because of his knight outpost on the d5-square: 17...bxa6 18 Nxc6 Re8 19 Ne7+ Rxe7 20 Rxc8+ Rxc8 21 h4+–. } 17...Rb8 18 Bxc8 Rxb3 19 axb3 Bxg3 20 Rxc6+– {  } *
+
+[Event "Danish Team Ch 2022/3"]
+[Puzzle "961"]
+[White "Høi"]
+[Black "M. Jacobsen"]
+[FEN "rn3rk1/1p3Nb1/p1p3Qp/3p1P2/3P3q/4PR2/P5PP/2R3K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+27 f6! { After 27 Rh3? (which was played in the game) Black obtained several pieces for his queen by 27...Qxh3 28 gxh3 Rxf7=+. } 27...Rxf7 28 fxg7 Qe7 { This allows White to secure a winning rook and pawn endgame, but after 28...Rxf3 29 Qe8+ Kxg7 30 gxf3+– White wins by bringing his rook to the g-file. } 29 Qxh6 Rxg7 30 Rcf1 Nd7 31 Rh3 Rh7 32 Qxh7+ Qxh7 33 {  } Rxh7 Kxh7 34 Rf7+ Kg6 35 Rxd7+– {  } *
+
+[Event "Budapest 2023"]
+[Puzzle "962"]
+[White "Rakshitta"]
+[Black "Konyves"]
+[FEN "4rbk1/1b1n1pp1/pq3n1p/1p3N1N/8/1P5P/PBBQ1PP1/R5K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+24 Nhxg7! { 24 Nxh6+? was played in the game, but Black rebuffed the attack with 24...gxh6 25 Qd3 Be4 26 Qg3+ Kh7–+. } 24...Bxg7 25 Nxh6+ Kh8 { 25...Kf8 26 Nf5 Qc6 27 Qg5+–. } 26 Nf5 Qc6 27 Qg5+– {  } *
+
+[Event "Belgian Team Ch 2022/3"]
+[Puzzle "963"]
+[White "L. van Foreest"]
+[Black "S. Kuipers"]
+[FEN "r1b2k2/4np2/1qp2pp1/p4Pr1/3P1R1p/P1NB3P/1PQ3P1/4R1K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+24 fxg6! Bxh3 25 Re2 { White has correctly calculated that he can easily defend his g2- pawn and increase the pressure on Black’s kingside. } 25...fxg6 { After 25...Rd8 (as played in the game) White could have infiltrated Black’s kingside and won material by 26 Na4 Qa7 27 Nc5 Nxg6 28 Bxg6 Rxg6 29 Rxh4+–. White wins the bishop as 29...Bg4 30 Rh8+ Rg8 31 Qh7! leads to mate. } 26 Rxf6+ Kg7 27 Rd6 Re8 28 Qd2 Rg4 29 Qe3+– {  } *
+
+[Event "Sant Ferran de ses Roques 2023"]
+[Puzzle "964"]
+[White "Rahal"]
+[Black "A. Jacobson"]
+[FEN "r3r1k1/1p1nbppp/p4n2/q4N2/4p3/1PN5/PB2QPPP/2RR2K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+17 Nxg7! { In the game White went astray with 17 Nd5? Nxd5 18 Qg4? (18 b4! Qxa2 19 Ra1 Qb3 20 Bxg7 is roughly equal) 18...g6 19 Nh6+ Kf8–+. } 17...Rec8 { 17...Kxg7?! 18 Nd5 Kf8 19 Qe3! Rec8 20 Qh6+ Ke8 21 Bxf6 (White simplifies into a winning major-piece endgame) 21...Nxf6 22 Nxf6+ Bxf6 23 Qxf6 Rxc1 24 Rxc1 Qd2 25 Rf1+–. } 18 Nd5 Nxd5 19 Rxc8+ Rxc8 20 Nf5 Kf8 21 Nxe7 Nxe7 { 21...Kxe7? 22 Qxe4+ Kf8 23 Rxd5+–. } 22 Rxd7 +/– { White has good chances to win due to Black’s weak pawns and exposed king. } *
+
+[Event "African Ch, Giza 2023"]
+[Puzzle "965"]
+[White "Kayonde"]
+[Black "Adly"]
+[FEN "r1b2rk1/pp1p1p2/2n4p/q1b3p1/2P1Q3/P5B1/1P1NPPPP/R3KB1R b KQ - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+14...d5! 15 cxd5 { 15 Qxd5 Rd8–+. } 15...Nd4 16 Qd3 { White’s lack of development is fatal; for example, 16 b4 Qa4 17 bxc5 Bf5–+. } 16...Bf5 17 e4 Bxe4 18 Qxe4 Rae8 19 Be5 f5 20 Qb1 Nb3–+ {  } *
+
+[Event "Swiss Team Ch 2023"]
+[Puzzle "966"]
+[White "Kaczmarczyk"]
+[Black "S. Brunello"]
+[FEN "1r3r1k/6bB/p7/1pq2N2/3R4/2P2bP1/1PQ4P/4R1K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+32...Rxf5! { 32...Kxh7? was played in the game, when White could have forced a draw by repetition; e.g., 33 Ne7+ Kh8 34 Ng6+ Kg8 35 Ne7+ Kh8 36 Ng6+ =. } 33 Bxf5 { 33 Qxf5? Bxd4+ 34 cxd4 Qxd4+ 35 Kf1 Bg4 36 Qf7 Bh3+ 37 Ke2 Qe5+ 38 Kd1 Rd8+–+. } 33...Rf8 34 Re6 Rxf5 35 Qd2 Bxd4+ 36 cxd4 Qf8 37 Rxa6 Kg8 { Black has good winning chances. } –/+ {  } *
+
+[Event "Havana 2023"]
+[Puzzle "967"]
+[White "Sadhwani"]
+[Black "Fier"]
+[FEN "5r2/5k2/4p1R1/3p1r2/2nP1N2/p1PQ4/1q4P1/1R4K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+32...Rxf4! 33 Rxb2 axb2 { White’s queen is tied down by Black’s b2-pawn. } 34 Rh6 Ke7 35 Kh2 R4f6 36 Rh5 { 36 Rh7+ R8f7–+. } 36...Nd2 37 c4 b1Q 38 Qa3+ Kf7 0-1 {  } *
+
+[Event "Havana 2023"]
+[Puzzle "968"]
+[White "Albornoz Cabrera"]
+[Black "Miranda Mesa"]
+[FEN "7r/1k1b1p1p/1p2p1q1/3pP1p1/3Q4/BP6/2r2PPP/R3R1K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+29 Bc1! { The bishop switches diagonals to target Black’s vulnerable b6- pawn. } 29...Rhc8 30 Be3 R8c5 { 30...R8c6 31 Qa4+–. } 31 Qb4 Qd3 { 31...Rc6 32 Qa3+–. } 32 Bxc5 Rxc5 33 Qa3 1-0 {  } *
+
+[Event "Jermuk 2023"]
+[Puzzle "969"]
+[White "Art. Martirosyan"]
+[Black "Davtyan"]
+[FEN "r4bk1/B4ppp/1PN5/4p3/2Q2nq1/6P1/5P1P/2R2K2 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+33...Re8! { In the game 33...Qh3+?? left Black’s queen and knight out of play, which White exploited with 34 Ke1 Ng2+ 35 Ke2 Re8 36 Qe4 f5 37 Qd5+ Kh8 38 b7+–. } 34 gxf4 { Both 34 Qe4 f5 35 Qc4+ Kh8 36 Bb8 Ba3! 37 gxf4 (37 Bxe5 Bxc1 38 gxf4 Qd1+ 39 Kg2 Qg4+ =) 37...Qh3+ 38 Kg1 Qg4+ 39 Kf1 Qh3+ = and 34 b7 Qf3! 35 gxf4 exf4 36 Kg1 Qg4+ 37 Kf1 Qh3+ 38 Kg1 Qg4+ = also end in perpetual check. } 34...exf4 35 b7 Qh3+ 36 Kg1 Qg4+ 37 Kf1 Qh3+ = { with a draw by repetition. } *
+
+[Event "Baku 2023"]
+[Puzzle "970"]
+[White "Ilamparthi"]
+[Black "Samant"]
+[FEN "r1bqk2r/pp2bp1p/2n5/8/3BR3/2N5/PPP2PPP/R2Q2K1 b kq - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+15...0-0 { After 15...Rg8? 16 Qh5 Be6 (as played in the game) White should have created counterplay on the kingside by 17 Qxh7 Rg6 18 Rd1 Bf8 19 h4, with roughly equal chances. } 16 Rg4+ Bg5! { This idea works for Black because he is attacking White’s bishop on d4. Not 16...Bxg4? 17 Qxg4+ Bg5 18 Be3 Ne5 19 Qg3 f6 20 h4 with roughly equal chances. } 17 Rxg5+ Qxg5 18 Ne4 Qh4 19 Nf6+ Kg7 20 Bc3 Rd8 21 Qe2 { Black has an extra rook. } Kg6–+ {  } *
+
+[Event "Villa Martelli 2023"]
+[Puzzle "971"]
+[White "Valerga"]
+[Black "Paveto"]
+[FEN "q7/1R4bk/6p1/1Pp1p1Pp/2N1P3/2Bn1B2/5PP1/6K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+34 Rd7! { 34 Na5? was played in the game, allowing Black to solve the problem of his e5-pawn by 34...Qd8 35 Be2 Nf4. White should then have settled for 36 Bf3 Qxg5 with equal chances. } 34...Qa2 35 Nb2! Nxb2 { 35...Qb1+ 36 Kh2 Nxf2 37 Bxe5+–. } 36 Bxe5 Kg8 37 Rxg7+ Kf8 38 Rxg6+– {  } *
+
+[Event "Jakarta 2023"]
+[Puzzle "972"]
+[White "Tran Minh Thang"]
+[Black "T. Munkhzul"]
+[FEN "4Qb1k/3R4/6pP/5q2/7P/1Pn2P2/P7/K1B5 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+46 Rd3! 1-0 { 46...Qxd3 47 Qxf8+ Kh7 48 Qg7#. Note that the white king cannot escape the checks by 46 Kb2? Qb1+! 47 Kxc3 Qxc1+ 48 Kd3 Qd1+ 49 Kc4 Qc2+, when Black secures a draw by repetition after both 50 Kd5 Qd3+ 51 Kc6 (51 Ke6?? Qf5#) 51...Qa6+ 52 Kc7 Qa7+ 53 Kc6 Qa6+ = and 50 Kb5 Qc5+ 51 Ka6 Qc6+ 52 Ka7 Qc5+ 53 Ka8 Qc6+ 54 Ka7 Qc5+ =. } *
+
+[Event "Sochi (team event) 2023"]
+[Puzzle "973"]
+[White "Klimentov"]
+[Black "A. Fedorov"]
+[FEN "6k1/5p2/b7/3pPpp1/3BnP2/3qN1PK/1Q5P/8 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+41 Qb8+! { 41 fxg5? was played in the game, and Black then generated a mating attack with 41...Nxg5+ 42 Kg2 (42 Kh4 Nf3+ 43 Kh5 f4–+) 42...Qe4+ 43 Kf2 Qh1–+. } 41...Kh7 42 Qf8 { The key idea for White is to attack Black’s f7-pawn, so he can also draw with 42 Qe8 = or 42 Qc7 =. } 42...Qxe3 { 42...Qf1+ 43 Ng2! (not 43 Nxf1?? Bxf1#) 43...Qf3 44 Qxf7+ Kh6 45 Qf8+ is a similar draw: 45...Kg6 (or 45...Kh5; Black mustn’t let the f5- pawn fall with check) 46 Qg8+ Kh6 =. } 43 Qxf7+ Kh6 44 Qf8+ { It’s a draw by repetition. Again Black should play 44...Kg6 or 44...Kh5, and not 44...Kh7?? 45 Qxf5+ Kg7 46 Qd7+ Kg6 47 Qe6+ and 48 Bxe3. } *
+
+[Event "Sochi (women’s team event) 2023"]
+[Puzzle "974"]
+[White "Bodnaruk"]
+[Black "Pogonina"]
+[FEN "3r2k1/3q1pb1/6p1/2R1PbQp/4N2P/1p3P2/1B4PK/8 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+49 e6! fxe6 1-0 { 50 Nf6+ Bxf6 51 Qxf6 Qd6+ 52 Be5 Qf8 53 Qh8+ Kf7 54 Qh7+ Ke8 55 Qa7 Qe7 56 Qa4+ Qd7 (56...Kf8 57 Rc7+–) 57 Qxb3 Rc8 58 Ra5+–. } *
+
+[Event "Croatia Cup, Mali Lošinj 2023"]
+[Puzzle "975"]
+[White "B. Jukić"]
+[Black "Bertović"]
+[FEN "4r1k1/2q2pp1/B6p/1Q2n3/1P1p1P2/P3n3/1BP3PP/3R2K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+[Difficulty 5]
+
+25...Qxc2! 26 Qxe8+ Kh7 27 Bf1 { 27 Bd3+ Nxd3 28 Qe4+ f5! 29 Qf3 Qxb2–+. } 27...Qxd1 28 Qb5 N5c4 0-1 { Or 28...d3–+. } *
+

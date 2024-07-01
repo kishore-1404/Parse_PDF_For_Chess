@@ -1,0 +1,12 @@
+[Event "Tashkent 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Abdisalimov"]
+[Black "K. Begmuratov"]
+[Result "*"]
+[Puzzle "938"]
+[FEN "3r2k1/pb2qpp1/1p2pn2/2r5/2PN3Q/1P2R3/PBB2PPP/6K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. g4 $1 { White aims for Rh3 without allowing the reply ...Rh5. } 1... Qd6 2. g5 g6 { Retreating the knight gives White several attractive options. For example: 24...Ne8 25 b4 Rxc4 (25...Re5 26 Qh7+ Kf8 27 Rxe5 Qxe5 28 Qh8+ Ke7 29 Nc6+ Bxc6 30 Bxe5+–) 26 Qh7+ Kf8 27 Qh8+ Ke7 28 Nf5+ Kd7 29 Nxd6 Nxd6 30 Qh7+–. } 3. gxf6 Rh5 4. Qg3 Qxg3+ { In the game Black played 26...Qc5, when 27 Nxe6! Qc6 28 f3 Rd2 29 Bxg6 led to mate. } 5. Rxg3 e5 6. Nf3 e4 7. Nd4 *

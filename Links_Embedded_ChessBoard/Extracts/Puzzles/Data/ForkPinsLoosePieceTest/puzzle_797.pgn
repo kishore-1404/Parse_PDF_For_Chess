@@ -1,0 +1,12 @@
+[Event "Braila rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Navara"]
+[Black "G. Guseinov"]
+[Result "1-0"]
+[Puzzle "797"]
+[FEN "1rb2rk1/1p1n1ppp/p3p3/2qN4/2P5/1P4P1/P3QPBP/R2R2K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+{ White wins a piece after 21...Qa7 22 Ne7+ Kh8 23 Nxc8 Rbxc8 24 Rxd7+–. } 1. b4 $1 1-0

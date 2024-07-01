@@ -1,0 +1,12 @@
+[Event "Greek Ch, Athens 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mitsis"]
+[Black "Moutousis"]
+[Result "*"]
+[Puzzle "363"]
+[FEN "8/8/p4B2/1b1R2pp/2p3k1/2P5/2P1r2P/6K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Kf4 { The key point is to avoid 41...Rg2+?? (as played in the game), when White wins a rook: 42 Kxg2 Bc6 43 h3+ (Black resigned here) 43...Kf4 (43...Kh4 44 Bxg5#) 44 Bxg5+ Ke4 45 Rc5+–. } 2. Rxg5 { 42 Bxg5+?! Kf3 43 Rf5+ Kg4 44 Rd5 Rxc2 favours Black. } 2... Re6 3. Bd8 Re1+ 4. Kf2 Rc1 5. Rxh5 Rxc2+ 6. Ke1 Rxc3 { Black has an extra pawn but White has reasonable drawing chances thanks to the opposite-coloured bishops. } *

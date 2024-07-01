@@ -1,0 +1,12 @@
+[Event "Newcastle 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Makkar"]
+[Black "Y. Han"]
+[Result "*"]
+[Puzzle "526"]
+[FEN "2rq1rk1/5ppp/p2b1n2/1p6/4b3/P3PN1Q/BP3PPP/R1B2RK1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Rc5 $1 { White’s queen is running low on safe squares. } 2. Nd2 { White’s queenside pieces are mere spectators after 19 g4 h5 (or 19...Bxf3 20 Qxf3 Nxg4–+, as played in the game) 20 g5 Ng4–+. } 2... Bf5 3. Qh4 { Black has a free hand on the kingside as 20 Qf3 Bg4 21 Qb7 Be2 22 Re1 Bxh2+! 23 Kxh2 (23 Kh1 Rh5–+) 23...Ng4+ 24 Kg3 Rh5 leads to mate. } 3... Bd3 4. f4 { White’s queen is trapped after 21 Re1 Rh5–+. } 4... Bxf1 5. Nxf1 Ne4 *

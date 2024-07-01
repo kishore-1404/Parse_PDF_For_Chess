@@ -1,0 +1,12 @@
+[Event "Zagreb rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vachier-Lagrave"]
+[Black "Nepomniashchy"]
+[Result "*"]
+[Puzzle "16"]
+[FEN "4rr1k/q2R2p1/p1Q4p/1p5P/2p5/5PK1/P1P2nP1/4RB2 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Nh1+ $1 2. Kh2 { White has no good square for his king: a) 37 Kh4 Qf2+ 38 Kg4 Qg3#. b) 37 Kg4 Qf2–+. c) After 37 Kh3 (as played in the game) Black constructed a mating-net with 37...Qb8 (or 37...Qxd7+ 38 Qxd7 Rxe1 39 Qd6 Rf6 – +) 38 Rxg7 (38 Rd6 Rxe1 39 Rxh6+ Kg8 40 Qd5+ Rf7–+) 38...Nf2+ and White resigned in view of 39 Kh4 Qh2#. } 2... Qb8+ 3. Kxh1 Rxe1 4. Kg1 Qe5 { Black will soon win more material. } *

@@ -1,0 +1,12 @@
+[Event "Chennai Olympiad 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "So"]
+[Black "Melkumyan"]
+[Result "*"]
+[Puzzle "984"]
+[FEN "r2qr1k1/pp1nbp1p/2n3pB/3p4/3Pp3/2PBRQNP/PP3PP1/R5K1 w - - 0 1"]
+[PuzzleType "DeadlyPuzzles"]
+
+1. Rxe4 $3 Nf8 { White’s beautiful mating combination is revealed after 19...dxe4 20 Qxf7+! Kxf7 21 Bc4+ Kf6 22 Nxe4+ Kf5 23 g4+ Kxe4 24 Re1+ Kf3 25 Bd5# (or 25 Re3#). } 2. Rf4 f5 3. Nxf5 gxf5 4. Rxf5 Qd6 { 22...Ng6 23 Rxd5+–. } 5. Qg4+ Ng6 6. Rxd5 *

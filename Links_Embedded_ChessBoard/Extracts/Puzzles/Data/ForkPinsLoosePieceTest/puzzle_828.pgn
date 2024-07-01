@@ -1,0 +1,12 @@
+[Event "Leca da Palmeira 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "C. Krishna"]
+[Black "Motylev"]
+[Result "0-1"]
+[Puzzle "828"]
+[FEN "5rk1/pp1qbpp1/2r1pn1p/1Q1pBb2/3P4/2N3P1/PP2PPBP/2RR2K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... Rxc3 $1 { 16 Qxd7 (16 Rxc3 Qxb5–+) 16...Rxc1 17 Qa4 (17 Rxc1 Nxd7–+) 17...Bc2–+. } 0-1

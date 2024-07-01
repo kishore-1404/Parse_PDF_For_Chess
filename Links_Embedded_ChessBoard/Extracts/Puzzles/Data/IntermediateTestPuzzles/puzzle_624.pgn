@@ -1,0 +1,12 @@
+[Event "World Rapid Ch, Almaty 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Makarian"]
+[Black "Aravindh"]
+[Result "*"]
+[Puzzle "624"]
+[FEN "8/pp2P1bk/6qp/8/2Qp1r2/3P2P1/PP6/4R1K1 w - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1. Kg2 $1 Rg4 2. e8=Q Rxg3+ 3. Kh2 Rg2+ 4. Kh1 Rg1+ 5. Rxg1 { (variation) } 5... Qxe8 6. Qd5 *

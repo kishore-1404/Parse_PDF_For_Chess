@@ -1,0 +1,12 @@
+[Event "Sant Ferran de ses Roques 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ana. Rakhmangulova"]
+[Black "Aditya Mittal"]
+[Result "*"]
+[Puzzle "556"]
+[FEN "2bq1b1r/r1k4p/3p4/PP1Qpp2/4P3/8/2P2PPP/R3K2R b KQ - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Kb8 $1 { Black avoids a pawn fork and forces White to commit his queenside pawns. } 2. b6 { 21 a6 fxe4 22 0-0 Qb6–+. } 2... Ra6 { With White’s pawns blockaded, Black’s material advantage becomes decisive. } 3. c4 { 22 exf5 Bb7 23 Qe6 Be7–+. } 3... Bb7 4. Qb5 Qc8 *

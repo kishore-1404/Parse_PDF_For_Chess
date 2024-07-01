@@ -1,0 +1,12 @@
+[Event "Marianske Lazne 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stalmach"]
+[Black "Gähwiler"]
+[Result "1-0"]
+[Puzzle "817"]
+[FEN "6rk/4RRpp/8/4p2P/3r2q1/5QP1/5P1K/8 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1. Rxg7 $1 Rxg7 { 39...Qxg7 40 Rxg7 Kxg7 (40...Rxg7 41 Qf8+ Rg8 42 Qf6+ Rg7 43 h6+–) 41 Qf5 Rdd8 42 Qxe5+ Kf7 43 Qf5++–. } 2. Qf8+ Rg8 3. Qf6+ { 41...Qg7 (41...Rg7 42 Re8#) 42 Rxg7 Rxg7 43 h6+–. } 1-0

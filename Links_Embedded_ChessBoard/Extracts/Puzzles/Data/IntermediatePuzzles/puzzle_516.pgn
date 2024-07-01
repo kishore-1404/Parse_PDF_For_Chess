@@ -1,0 +1,12 @@
+[Event "Chennai Women’s Olympiad 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "R. Ratsma"]
+[Black "M. Gomes"]
+[Result "*"]
+[Puzzle "516"]
+[FEN "7k/2rq2p1/1b1P1np1/1p2p3/1P5P/P7/1B4QK/4RR2 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Rc4 $1 { Black goes after White’s vulnerable h4-pawn. White’s active rooks win the game after 35...Qxd6? 36 Bxe5 Qd3 37 Rf3+–. } 2. Rf3 Rxh4+ 3. Rh3 Ng4+ 4. Kg3 Bf2+ 5. Kf3 Qf5+ 6. Ke2 Bxe1 *

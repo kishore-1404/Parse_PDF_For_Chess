@@ -1,0 +1,12 @@
+[Event "Villa Martelli 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Perez Candelas"]
+[Black "Saldano Dayer"]
+[Result "*"]
+[Puzzle "776"]
+[FEN "1r1r2k1/p3n1pp/2n1p3/b4p2/5P1N/2PB2P1/PB5P/1R1R3K b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Bxc3 $1 2. Bxc3 Rxb1 3. Rxb1 Rxd3 4. Rc1 h6 { Black is a pawn ahead with good winning chances. } *

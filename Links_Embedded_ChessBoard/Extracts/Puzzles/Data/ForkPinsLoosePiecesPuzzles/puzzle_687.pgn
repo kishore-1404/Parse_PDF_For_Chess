@@ -1,0 +1,12 @@
+[Event "World Rapid Ch, Almaty 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sanal"]
+[Black "Pranav"]
+[Result "*"]
+[Puzzle "687"]
+[FEN "5rk1/1pp3pn/1p2pq1p/4p3/2P1Pn2/P1Q1B1NP/1P3PPK/3R4 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Nxg2 $1 2. Nh5 { In the game 23 Kxg2 Qf3+ 24 Kh2 Qxd1–+ gave Black a decisive material advantage. } 2... Qf7 3. Rg1 Qxh5 4. Rxg2 Rf3 5. Rg3 Ng5 6. Rxf3 Qxf3 { Black has a winning queen and pawn endgame. } 7. Bxg5 Qxf2+ 8. Kh1 Qf1+ 9. Kh2 hxg5 *

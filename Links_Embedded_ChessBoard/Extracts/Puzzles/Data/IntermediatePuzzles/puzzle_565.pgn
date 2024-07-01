@@ -1,0 +1,12 @@
+[Event "Austrian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Höfelsauer"]
+[Black "G. Kuba"]
+[Result "*"]
+[Puzzle "565"]
+[FEN "3r1rk1/pp2bpp1/2q5/n3P3/3PBQ2/P1p1B2P/8/3R1RK1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bg5 $1 { In the game 28...Qa6? 29 d5 +/– favoured White due to his mobile centre pawns. } 2. Qf3 { 29 Qxg5? Qxe4 30 Rde1 Nb3 –/+. } 2... Bxe3+ 3. Qxe3 Nc4 $1 4. Qe2 Qc7 { The chances are roughly level. The exchange of dark-squared bishops has made it more difficult for White to advance his central pawns. } *

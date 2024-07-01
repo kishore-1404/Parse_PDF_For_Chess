@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vokhidov"]
+[Black "Grishchuk"]
+[Result "1-0"]
+[Puzzle "375"]
+[FEN "r4b2/1pk2Brp/4p2p/3pP3/p2n4/q2N4/P4PPP/1R1Q1RK1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nf4 $1 Nf3+ 2. Kh1 Rxf7 3. Nxe6+ Kb8 { 21...Kc6 22 Qe2 Kd7 23 Nxf8+ Ke8 24 Ne6+–. } 4. Qxd5 Bb4 5. gxf3 Ra6 6. Nc5 1-0

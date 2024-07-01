@@ -1,0 +1,12 @@
+[Event "Seville 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alshameary Puente"]
+[Black "Matamoros"]
+[Result "0-1"]
+[Puzzle "799"]
+[FEN "2rr2k1/p2q1pp1/Q4n1p/2ppB3/8/P3PP1P/1PR3P1/3R2K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... Qf5 $1 { Black forks White’s two loose pieces. } 2. Bxf6 Qxc2 3. Rxd5 gxf6 0-1

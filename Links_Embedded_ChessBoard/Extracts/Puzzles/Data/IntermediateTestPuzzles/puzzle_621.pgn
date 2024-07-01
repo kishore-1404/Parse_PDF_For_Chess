@@ -1,0 +1,12 @@
+[Event "British League (4NCL) 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gormally"]
+[Black "Alsina Leal"]
+[Result "*"]
+[Puzzle "621"]
+[FEN "q3k2r/1bp1bppp/1n2p3/4P3/1nBP4/2N2N2/1P2QPPP/2B2RK1 b k - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... Nxc4 2. Qxc4 Ba6 3. Qxc7 Bxf1 4. Kxf1 Qa6+ 5. Kg1 Bd8 $1 { Black wins after 20 Qb8 Nd3–+. } 6. Qd6 Qxd6 7. exd6 Nd3 *

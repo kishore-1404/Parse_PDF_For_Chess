@@ -1,0 +1,12 @@
+[Event "Czech Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Warakomski"]
+[Black "Harikrishna"]
+[Result "*"]
+[Puzzle "630"]
+[FEN "5rk1/1pp2rp1/p3p2p/P3N1n1/1P2P1Pq/2P1R2P/4RPK1/4Q3 b - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... Rf3 $1 2. Rxf3 { 31 Nxf3 Qxh3+ 32 Kg1 Qxg4+ 33 Kf1 Qh3+ 34 Kg1 Nxf3+ 35 Rxf3 Rxf3–+. } 2... Rxf3 3. Rd2 { Black wins the queen and pawn endgame after 32 Re3 Rxh3 33 Rxh3 Qxh3+ 34 Kg1 Nf3+ 35 Nxf3 Qxg4+ 36 Kh2 Qxf3–+. } 3... Qxh3+ 4. Kg1 Rf8 5. Rd7 Qh4 *

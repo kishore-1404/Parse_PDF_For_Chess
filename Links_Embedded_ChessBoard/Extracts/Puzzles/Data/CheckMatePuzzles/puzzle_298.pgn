@@ -1,0 +1,12 @@
+[Event "Baku 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "K. Abdulla"]
+[Black "Raja Rithvik"]
+[Result "0-1"]
+[Puzzle "298"]
+[FEN "4Qbk1/5p2/4p3/1P1pP1qp/6p1/2P2PRR/6PK/4r3 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Kg7 $1 { Black unpins his bishop and prepares ...Qe3 without allowing a draw by repetition. The immediate 49...Qe3? is met by 50 Rxg4+! hxg4 51 Rh8+! Kxh8 52 Qxf8+ Kh7 53 Qxf7+ Kh6 54 Qf6+ Kh5 55 Qf7+ Kh6 56 Qf6+ =. } 2. f4 { 50 b6 Qe3 51 Rxg4+ hxg4 52 Rh7+ Kxh7 53 Qxf7+ Bg7–+. } 2... Qxf4 3. Rxh5 Re3 4. Rh3 Rxg3 5. Rxg3 Qh6+ 6. Kg1 Bc5+ { Black wins the white rook after 57 Ke1 Bf2+. } 7. Kf1 Qc1+ 8. Ke2 Qc2+ 0-1

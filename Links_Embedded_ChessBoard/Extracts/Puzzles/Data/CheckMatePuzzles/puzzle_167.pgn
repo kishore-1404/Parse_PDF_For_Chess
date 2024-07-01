@@ -1,0 +1,12 @@
+[Event "Juan Dolio 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "M. Lu"]
+[Black "Santiago"]
+[Result "*"]
+[Puzzle "167"]
+[FEN "8/4k3/2Q5/5p2/2bB1P1p/q3P2P/8/4K3 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Qc1+ 2. Kf2 Qf1# *

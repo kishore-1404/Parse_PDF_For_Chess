@@ -1,0 +1,12 @@
+[Event "Turkish Team Ch, Ankara 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nigmatov"]
+[Black "Sychev"]
+[Result "0-1"]
+[Puzzle "18"]
+[FEN "r2q1r1k/pppn2pp/1bn5/3B1p2/1P2p3/2PP2NP/P3QPP1/R1B1R1K1 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Nde5 $1 2. dxe4 { 18 Bxc6 Nxd3 19 Be3 bxc6–+. } 2... fxe4 { Black wins material after 19 Bxe4 Rxf2–+. } 0-1

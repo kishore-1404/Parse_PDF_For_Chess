@@ -1,0 +1,12 @@
+[Event "Baku 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Suyarov"]
+[Black "Sadikhov"]
+[Result "*"]
+[Puzzle "582"]
+[FEN "2b1qk2/4pn1p/p2P2pP/2pQ4/4P3/2P5/B5P1/5NK1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. e5 $1 exd6 { White’s knight heads to the e4-square after 34...e6? 35 Qf3 Kg8 36 Ng3+–. } 2. e6 Bxe6 $1 { After 35...Nd8? (as played in the game) White won by scooping up a couple of black pawns: 36 Qxd6+ Qe7 (36...Kg8 37 e7++–) 37 Qb8 Bb7 38 Qe5 Ke8 39 Qh8+ Qf8 40 Qxh7 Bc6 41 Qxg6+ 1-0. } 3. Qxe6 Qxe6 4. Bxe6 Nxh6 5. Ne3 { White is a shade better because of his extra piece, but Black has reasonable drawing chances due to the reduced number of white pawns. } *

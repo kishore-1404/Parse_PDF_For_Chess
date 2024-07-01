@@ -1,0 +1,480 @@
+[Event "Braila rapid 2022"]
+[Puzzle "797"]
+[White "Navara"]
+[Black "G. Guseinov"]
+[FEN "1rb2rk1/1p1n1ppp/p3p3/2qN4/2P5/1P4P1/P3QPBP/R2R2K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+Test { White wins a piece after 21...Qa7 22 Ne7+ Kh8 23 Nxc8 Rbxc8 24 Rxd7+–. } 21 b4! 1-0 {  } *
+
+[Event "São Paulo 2022"]
+[Puzzle "798"]
+[White "Languidey"]
+[Black "N. Filgueiras"]
+[FEN "5rk1/4q2p/4Pr2/8/3Q1N2/6P1/P7/4R2K b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+40...Rxf4! 41 gxf4 Qh4+ 42 Kg2 Qxe1–+ {  } *
+
+[Event "Seville 2022"]
+[Puzzle "799"]
+[White "Alshameary Puente"]
+[Black "Matamoros"]
+[FEN "2rr2k1/p2q1pp1/Q4n1p/2ppB3/8/P3PP1P/1PR3P1/3R2K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+24...Qf5! { Black forks White’s two loose pieces. } 25 Bxf6 Qxc2 26 Rxd5 gxf6 0-1 {  } *
+
+[Event "Chinese Rapid Team Ch 2022"]
+[Puzzle "800"]
+[White "Liu Yan"]
+[Black "Ding Liren"]
+[FEN "6k1/4rp2/6p1/2NBn2p/2P3bR/6PP/4r3/5RK1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+35...g5! 36 Rxg4 { 36 hxg4 gxh4 37 gxh5 h3–+. } 36...hxg4 37 hxg4 Nxg4 38 Bf3 R2e3–+ {  } *
+
+[Event "Budapest 2022"]
+[Puzzle "801"]
+[White "Neverov"]
+[Black "A. Bai"]
+[FEN "1rr3k1/1q2bpp1/4p1bp/1p1pP3/pP1B4/P1R1PPP1/4Q2P/R4BK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+23 Qxb5! Rxc3 24 Qxb7 Rxb7 25 Bxc3 Rc7 26 Bd4+– { White has a clear extra pawn. } *
+
+[Event "World Rapid Ch, Almaty 2022"]
+[Puzzle "802"]
+[White "T.L. Petrosian"]
+[Black "Yilmaz"]
+[FEN "2rr1k2/pp1Rp1bp/2b1P1p1/q4p2/4pB2/1QN3P1/PP2PP1P/R5K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+20 Bc7! Qxc7 { 20...Rxc7? 21 Rxd8+ Be8 22 Rad1+–. } 21 Rxc7 Rxc7 22 Rd1+– { White has a decisive material advantage. } *
+
+[Event "2nd Bundesliga 2022/3"]
+[Puzzle "803"]
+[White "Weishäutel"]
+[Black "Pezelj"]
+[FEN "6k1/p3qpp1/1p4bp/3rp3/1PB1n3/P3P1QP/1B3PP1/2R3K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+27 Qxg6! fxg6 28 Bxd5+ Kh7 29 Bxe4 1-0 {  } *
+
+[Event "European Ch, Vrnjačka Banja 2023"]
+[Puzzle "804"]
+[White "Agdelen"]
+[Black "Goriachkina"]
+[FEN "8/3Q2pk/3Ppq1p/2p5/2P3R1/5PKP/6P1/7r b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+38...h5! { Black forces the white rook to leave the g-file. } 39 Re4 Qg5+ 40 Kf2 Rh2 0-1 {  } *
+
+[Event "Internet rapid 2023"]
+[Puzzle "805"]
+[White "Grishchuk"]
+[Black "Aditya Mittal"]
+[FEN "5k2/p4p1p/8/3q2r1/3NpQ2/4Pb2/P4PP1/5RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+35 Ne6+! Qxe6 36 Qxg5+– {  } *
+
+[Event "Tegernsee 2022"]
+[Puzzle "806"]
+[White "Safarli"]
+[Black "I. Schneider"]
+[FEN "3krQ2/1p6/2p3p1/3pPqN1/7P/2P3K1/P5P1/8 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+39 Nf7+ Kd7 40 Qxe8+! Kxe8 41 Nd6+ 1-0 {  } *
+
+[Event "Internet rapid 2023"]
+[Puzzle "807"]
+[White "Alekseenko"]
+[Black "Andreikin"]
+[FEN "3nk2r/p2n1Np1/4p1p1/3pP3/2pP2P1/2P1B3/q2rBQ1P/5RK1 b k - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+24...0-0! 0-1 { White loses material after 25 Bxd2 Qxd2–+. } *
+
+[Event "Finnish Team Ch 2022/3"]
+[Puzzle "808"]
+[White "Sklyarov"]
+[Black "Sepp"]
+[FEN "r5k1/1pNq2b1/3p1n1p/p2Pn3/2P5/4P1Qb/PP1BB1p1/R3K1R1 b Q - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+24...Ne4! 25 Qh4 { 25 Qf4 Nc5–+. } 25...Ng5 0-1 {  } *
+
+[Event "Chennai Olympiad 2022"]
+[Puzzle "809"]
+[White "Panjwani"]
+[Black "Miezis"]
+[FEN "r4rk1/1bp1qppp/1pn2n2/p2pN3/3P4/2N3P1/PPQ1PPBP/R4RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+14 Nxd5! Nxd5 15 Nxc6 Qd6 { 15...Bxc6 16 Qxc6+–. } 16 Bxd5 1-0 { 16...Qxd5 17 Ne7++–. } *
+
+[Event "Greek Team Ch, Thessaloniki 2022"]
+[Puzzle "810"]
+[White "Kourkoulos-Arditis"]
+[Black "Janik"]
+[FEN "r5k1/1pqb1pp1/p7/2pB2B1/4QPn1/8/PP4PP/R5K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+21 Qe7! { The pin prevents Black from defending his kingside. } 21...Rf8 22 h3 Qb6 { Or: 22...Nf6 23 Bxf6 gxf6 24 Qxf6+–; 22...Nh6 23 Bxh6 gxh6 24 Re1+–. } 23 hxg4 Qxb2 24 Rd1 Bxg4 25 Bxf7+ 1-0 {  } *
+
+[Event "Polish Team Ch 2022"]
+[Puzzle "811"]
+[White "Pakleza"]
+[Black "Lewtak"]
+[FEN "r3r1k1/pp3p2/1qbb3p/3pNPp1/3Pn2P/6B1/PP4P1/1B1QRRK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+24 Rxe4! dxe4 25 Nc4 e3 { 25...Qb4 26 Nxd6+–. } 26 Nxb6 e2 27 Qb3 exf1Q+ 28 Kxf1+– {  } *
+
+[Event "Charlotte 2022"]
+[Puzzle "812"]
+[White "Beradze"]
+[Black "Paragua"]
+[FEN "6k1/p1r2pp1/4pb1p/1q6/1p6/1Qn1P2P/PPRN1PP1/4B1K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+28...Ne2+ 29 Kh1 Nc1! { White’s queen is trapped. } 30 Rxc7 Nxb3 31 axb3 Qe2–+ {  } *
+
+[Event "Moscow rapid 2022"]
+[Puzzle "813"]
+[White "Malakhov"]
+[Black "Khismatullin"]
+[FEN "2r3k1/1p1rqnp1/1Q3p1p/1PP1p3/4N3/7P/5PP1/3RR1K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+30 Rxd7 Qxd7 31 Qxf6! Rxc5 { 31...gxf6 32 Nxf6+ Kg7 33 Nxd7+–. } 32 Qg6 Qxb5 33 Nxc5 Qxc5 34 Qe6+– {  } *
+
+[Event "Internet rapid 2022"]
+[Puzzle "814"]
+[White "Keymer"]
+[Black "Grandelius"]
+[FEN "r2q2k1/1pprbppp/8/p3PQ2/5P2/P3R3/1P2B1PP/2R3K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+25 e6! fxe6 26 Qxe6+ Kh8 27 Bg4 { White wins a piece because the black rook is trapped. } 27...Rd3 28 Qxe7 Qd4 29 Re1 1-0 {  } *
+
+[Event "World Rapid Ch, Almaty 2022"]
+[Puzzle "815"]
+[White "Artemiev"]
+[Black "Carlsen"]
+[FEN "2r5/p4pkp/1p2p1p1/4q3/4n3/1QN1P2P/PP3PP1/3R2K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+26 f4! Qf5 27 g4! { The black queen is driven away from defending the knight. } 27...Rxc3 28 gxf5 Rxb3 29 axb3 exf5 30 Rd7+– {  } *
+
+[Event "Czech Team Ch 2022/3"]
+[Puzzle "816"]
+[White "Jansa"]
+[Black "Omelja"]
+[FEN "3rk3/p1p1bpp1/2p3r1/1p1bP2p/4NB1n/1P1R1N1P/P1P2PP1/4R1K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+19 Nf6+! Rxf6 { 19...gxf6 20 Nxh4+–. } 20 exf6 Nxf3+ 21 Rxf3 gxf6 { 21...Bxf3 22 Rxe7+ Kf8 23 gxf3+–. } 22 Rg3+– { White has a decisive material advantage. } *
+
+[Event "Marianske Lazne 2023"]
+[Puzzle "817"]
+[White "Stalmach"]
+[Black "Gähwiler"]
+[FEN "6rk/4RRpp/8/4p2P/3r2q1/5QP1/5P1K/8 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+39 Rxg7! Rxg7 { 39...Qxg7 40 Rxg7 Kxg7 (40...Rxg7 41 Qf8+ Rg8 42 Qf6+ Rg7 43 h6+–) 41 Qf5 Rdd8 42 Qxe5+ Kf7 43 Qf5++–. } 40 Qf8+ Rg8 41 Qf6+ 1-0 { 41...Qg7 (41...Rg7 42 Re8#) 42 Rxg7 Rxg7 43 h6+–. } *
+
+[Event "Internet rapid 2023"]
+[Puzzle "818"]
+[White "Sankalp"]
+[Black "Ter-Sahakyan"]
+[FEN "r5k1/1pq1bppp/8/2P1Q2b/1PB1n3/r3BN1P/5PP1/2R1K2R b K - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+20...Rxe3+! 21 fxe3 Bh4+ 22 Kf1 { 22 Nxh4 Qxe5–+. } 22...Nd2+ 0-1 {  } *
+
+[Event "Finnish Team Ch 2022/3"]
+[Puzzle "819"]
+[White "Meškovs"]
+[Black "Sipilä"]
+[FEN "3r2k1/pp1rq2p/3pb1p1/1p3p2/2P2P2/2QR4/P3PPBP/3R2K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+22 Re3! b4 23 Qb2 { Black has no good defence against the dual threats of 24 Rxe6 and 24 Bd5. } 23...d5 24 Bxd5 Kf7 25 Rxe6 1-0 {  } *
+
+[Event "Riyadh rapid 2023"]
+[Puzzle "820"]
+[White "B. Amin"]
+[Black "El Gindy"]
+[FEN "r1b3R1/pp1p1kNp/6q1/2p1p3/4P3/2PP4/PP2Q1PP/7K w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+25 Nf5! { As we have already noted, retreating knight moves that set up a fork can be difficult to see. } 25...Kxg8 { Or: 25...Qxg8 26 Nh6++–; 25...Qf6 26 Rg7+ Kf8 27 Qh5+–. } 26 Ne7+ Kg7 27 Nxg6 hxg6 28 Qf2 d6 29 Qh4 Kf7 1-0 {  } *
+
+[Event "Turkish Ch, Kemer 2022"]
+[Puzzle "821"]
+[White "Isik"]
+[Black "Yilmazyerli"]
+[FEN "5rk1/pp3pp1/4p2p/Q7/7P/3RPBR1/Pq3rP1/6K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+27...Rxf3! 28 Rd8 { 28 Rxf3 Qb1+ 29 Kh2 Qxd3–+. } 28...Qf2+ 29 Kh1 Rxg3 30 Rxf8+ Kh7! 0-1 { And not 30...Kxf8?? 31 Qd8#. } *
+
+[Event "Munich 2023"]
+[Puzzle "822"]
+[White "Casadio"]
+[Black "Hourigan"]
+[FEN "4r1k1/6p1/4p1P1/pN2P3/2q1p3/P1P5/1P5Q/7K w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+37 Qh7+ Kf8 38 Qh8+ Ke7 39 Qxe8+! Kxe8 40 Nd6+ Kd7 41 {  } Nxc4+– {  } *
+
+[Event "Česke Budejovice 2022"]
+[Puzzle "823"]
+[White "Plischki"]
+[Black "A. Mirzoev"]
+[FEN "r1br2k1/1p3pp1/p1p2n1p/3Nq3/1bP5/1P1BP2P/P1QB1PP1/R3R1K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+15...Bxd2 16 Nxf6+ Qxf6 17 Qxd2 Bf5 0-1 { 18 e4 Bxe4! 19 Rxe4 Qxa1+–+. } *
+
+[Event "Internet rapid 2022"]
+[Puzzle "824"]
+[White "Bharath"]
+[Black "Matinian"]
+[FEN "r1b1k1nr/p1ppqp2/2p3p1/4b3/2P2B2/2N3P1/PP2PPB1/R2Q1RK1 w kq - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+12 Nd5! cxd5 { 12...Qe6 13 Nxc7+ Bxc7 14 Bxc7+–. } 13 Qxd5 Bxf4 { 13...Rb8 14 Qxe5 Qxe5 15 Bxe5+–. } 14 Qxa8 Kd8 { 14...Qd8 15 Qe4++–. } 15 Bb7 Qe6 16 Bxc8+– {  } *
+
+[Event "Paleochora 2022"]
+[Puzzle "825"]
+[White "Maltsevskaya"]
+[Black "Ali Marandi"]
+[FEN "r2qr1k1/1bp3pp/p4p2/1p1n4/3PN3/bP3N1P/P2B1PP1/1R1QR1K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+21...Rxe4! 22 Rxe4 Nc3 23 Bxc3 Bxe4 24 Ra1 b4! 25 Nd2 { Black wins material after 25 Bd2 Bb2–+. } 25...Bd3 26 Nf3 Bg6 27 Bd2 Bb2–+ {  } *
+
+[Event "Belgrade 2022"]
+[Puzzle "826"]
+[White "Alexakis"]
+[Black "Bratović"]
+[FEN "2r3k1/p2q1rpp/1p1PN3/n3Qp2/2p2P1P/P3B3/1PP5/2K3R1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+27 Nxg7! { In the game White played 27 Bd4?? and Black repelled the attack with 27...Nc6 28 Nxg7 Nxe5 29 Nxf5+ Ng6–+. } 27...Rxg7 28 Rxg7+ Qxg7 29 Qe6+ Qf7 30 Qxc8+ Kg7 31 Bd4+ {  } Kg6 32 d7+– {  } *
+
+[Event "Chennai Olympiad 2022"]
+[Puzzle "827"]
+[White "Maerevoet"]
+[Black "Parligras"]
+[FEN "r4rk1/2R3pp/3p4/p2qpQ2/8/1P6/P4PPP/4R1K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+25 Qg4! { The white queen threatens mate, while also preparing to drive the black queen away from controlling the critical e6-square. } 25...Rf7 { 25...g6 26 Rd1 Rf4 (26...Qb5 27 Qe6+ Kh8 28 Qe7 mates) 27 Rc8++–. } 26 Rd1! 1-0 { In view of 26...Rxc7 27 Rxd5 Rc1+ 28 Rd1+– and 26...Qxd1+ 27 Qxd1 Rxc7 28 Qd5+ Kf8 29 Qxa8++–. } *
+
+[Event "Leca da Palmeira 2022"]
+[Puzzle "828"]
+[White "C. Krishna"]
+[Black "Motylev"]
+[FEN "5rk1/pp1qbpp1/2r1pn1p/1Q1pBb2/3P4/2N3P1/PP2PPBP/2RR2K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+15...Rxc3! 0-1 { 16 Qxd7 (16 Rxc3 Qxb5–+) 16...Rxc1 17 Qa4 (17 Rxc1 Nxd7–+) 17...Bc2–+. } *
+
+[Event "Uppsala 2022"]
+[Puzzle "829"]
+[White "L. Carlsson"]
+[Black "Blohberger"]
+[FEN "r2r2k1/p4ppp/4pn2/2p1N3/1nPp4/1PN3P1/P2RPPKP/3R4 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+19...Nd7! { Black breaks the pin along the d-file. } 20 Nxd7 dxc3 21 Rd6 { Black’s advanced c3-pawn will cost White a rook after 21 Nf6+ gxf6 22 Rxd8+ Rxd8 23 Rxd8+ Kg7 24 Rd1 Nxa2!–+. } 21...Nxa2! 22 Nb8 { 22 Nxc5 Rxd6 23 Rxd6 c2–+. } 22...Rxd6 23 Rxd6 Rxb8 0-1 {  } *
+
+[Event "World Rapid Ch, Almaty 2022"]
+[Puzzle "830"]
+[White "Sindarov"]
+[Black "Yudin"]
+[FEN "3rb1k1/2q2pp1/7p/p7/nb1N1P2/5B2/1P3QPP/2BR2K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+29...Rxd4! 30 Rxd4 { 30 Qxd4 Bc5–+. } 30...Qxc1+ 31 Rd1 { Or: 31 Bd1 Bc5–+; 31 Qf1 Qe3+ 32 Qf2 Qxf2+ 33 Kxf2 Bc5 34 Ke3 Nxb2–+. } 31...Qxd1+ 0-1 { Black wins a piece after 32 Bxd1 Bc5–+. } *
+
+[Event "Tallinn rapid 2023"]
+[Puzzle "831"]
+[White "Bernadskiy"]
+[Black "Grigoriants"]
+[FEN "6k1/3q1pp1/4b2p/1Q2P3/4N3/2br1N2/5PPP/5RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+28 Qb8+! Qc8 { After 28...Kh7 29 Nc5 Qd8 30 Qb1! Bf5 31 Nxd3 Bxd3 32 Rd1 Bxb1 33 Rxd8+– White emerges ahead on material. } 29 Qxc8+ Bxc8 30 Rc1 1-0 {  } *
+
+[Event "Israeli Team Ch 2023"]
+[Puzzle "832"]
+[White "Volokitin"]
+[Black "Yaniv"]
+[FEN "3k3r/R1r2p1p/3p4/5P2/1p4B1/7P/1bP4P/R6K w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+30 Ra8+ Rc8 { White wins material after 30...Kd7 31 f6+ Kc6 32 R1a6+ Kb5 33 Be2+ Kc5 34 Rxh8+– or 30...Ke7 31 Re1+ Kd7 (31...Kf6 32 Rxh8) 32 f6+ Kc6 33 Rxh8+–. } 31 f6! Kc7 32 R1a7+ Kb6 33 Ra6+ 1-0 {  } *
+
+[Event "Slovakian Team Ch 2022/3"]
+[Puzzle "833"]
+[White "Lewtak"]
+[Black "Kriebel"]
+[FEN "2kr4/2p3p1/p1p3n1/4p2p/4Pp1P/2Pr1NP1/PP2RPK1/2R5 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+26...Rxf3! { Black wins a piece with an unusual fork. } 27 Kxf3 Rd3+ 28 Kg2 f3+ 29 Kf1 fxe2+ 30 Kxe2 Rd8 0-1 {  } *
+
+[Event "Cuban Ch, Holguin 2023"]
+[Puzzle "834"]
+[White "Fernandez Cardoso"]
+[Black "Diaz Murgada"]
+[FEN "7k/6p1/pbR5/3pp1Qp/4N1b1/3P1qP1/PP3P1P/6K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+30 Qxh5+! 1-0 { In view of 30...Kg8 31 Qe8+ Qf8 32 Qxf8+ Kxf8 33 Rxb6 dxe4 34 dxe4+– and 30...Bxh5 31 Rc8+ Kh7 32 Ng5+ Kg6 33 Nxf3 Bxf3 34 Rc6+ Kf5 35 Rxb6+–. } *
+
+[Event "Internet rapid 2023"]
+[Puzzle "835"]
+[White "Tari"]
+[Black "A. Liang"]
+[FEN "r1b1k2r/ppb2ppp/2pB4/4p1P1/2qnN2P/Q4B2/PP2PP2/1K1R3R b kq - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+19...Qc2+ 20 Ka1 Qxd1+! 21 Rxd1 Nc2+ 22 Kb1 Nxa3+ 23 Bxa3 {  } Bf5–+ {  } *
+
+[Event "European Ch, Vrnjačka Banja 2023"]
+[Puzzle "836"]
+[White "Kobalia"]
+[Black "Shevchenko"]
+[FEN "2r3k1/5p2/p4Qp1/8/4p3/2n1B3/q2R1KPP/8 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+34...Qxd2+! { White’s king and queen are in position to be forked by the black knight. } 35 Bxd2 e3+ 0-1 { Black wins after 36 Bxe3 Ne4+, 36 Kxe3 Nd5+, 36 Ke1 exd2+ 37 Kxd2 Ne4+ or 36 Kf3 exd2. } *
+
+[Event "Internet rapid 2023"]
+[Puzzle "837"]
+[White "Carlsen"]
+[Black "Lazavik"]
+[FEN "4r2r/1p1n1pk1/1qp2bpp/p6P/3PQB2/5NP1/PP3PK1/R6R w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+20 Bxh6+! Kxh6 { 20...Rxh6 21 Qxe8+–. } 21 hxg6+ Kg7 22 Rh7+! Rxh7 23 Qxe8 fxg6 24 Qxd7+ Kg8 25 { White has an extra pawn and a decisive attack. } Qe8+ Kg7 26 Re1+– {  } *
+
+[Event "Saint Louis rapid 2023"]
+[Puzzle "838"]
+[White "Nakamura"]
+[Black "So"]
+[FEN "5r2/r4pk1/p2Np1pp/4P3/3P4/7P/1n4P1/2R2RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+39 Rb1! { After 39 Rf3? (as played in the game) Black could have rescued his wayward knight by 39...Rb8! 40 Rcf1 a5 41 Rxf7+ Rxf7 42 Rxf7+ Kg8 43 Ra7 Nd3 44 Rxa5 Nf4, with good counterplay for the pawn. } 39...Na4 { After 39...Nd3 40 Rf3+– the knight is trapped. } 40 Rfc1! a5 41 Rc4+– { and the knight is cornered. } *
+
+[Event "San Jose 2022"]
+[Puzzle "839"]
+[White "Katz"]
+[Black "Sa. Narayanan"]
+[FEN "1r2n3/pNrbkppp/np2p3/4N3/1P1R4/P5P1/4PPBP/1R2K3 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+25 b5! Rbxb7 { 25...Nc5 26 Nxc5 bxc5 27 Rxd7+! Rxd7 28 Nc6+ Kf6 29 Nxb8+–. } 26 bxa6 Rb8 27 Rxd7+! Rxd7 28 Nc6+ Kf6 29 Nxb8 Rd4 30 Rb4 {  } 1-0 {  } *
+
+[Event "Internet rapid 2022"]
+[Puzzle "840"]
+[White "Bok"]
+[Black "So"]
+[FEN "1r4k1/p4pp1/Q2R1n1p/q1P5/2P1p1b1/P1P1P3/2K2PPP/5B1R b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+21...Bd1+!! { Black takes advantage of White’s overloaded rook to generate a mating attack. } 22 Kxd1 { 22 Rxd1 Qxa6–+. } 22...Qxc3 23 Qb5 { 23 Rb6 axb6 24 cxb6 Rd8+ leads to mate. } 23...Rxb5 24 cxb5 Qxc5 25 Rd8+ Kh7–+ {  } *
+
+[Event "Novorossiysk rapid 2022"]
+[Puzzle "841"]
+[White "Savitskiy"]
+[Black "Grachev"]
+[FEN "6k1/1b3r2/4p3/p2pp3/P2bP1P1/3N1BK1/1P2R3/8 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+38...Ba6! 39 Rd2 { 39 Nc1 Bxe2 40 Nxe2 Bf2+ 41 Kg2 dxe4 42 Bxe4 Bh4–+. } 39...Rxf3+!! 0-1 { 40 Kxf3 dxe4+ 41 Ke2 (41 Kxe4 Bb7#) 41...exd3+–+. } *
+
+[Event "German Ch, Magdeburg 2022"]
+[Puzzle "842"]
+[White "Bethke"]
+[Black "Parvanyan"]
+[FEN "r2q1rk1/bp3ppp/2p1b1n1/p3N3/P3Pn2/2PB1N1P/1P3PP1/R1BQR1K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+16...Nxe5 17 Nxe5 Qh4! { White can defend after 17...Qg5? 18 Qf3! Nxh3+ 19 Qxh3 Qxe5 20 Qh4, with equal chances. } 18 Qf3 { Or: 18 Bxf4 Bxf2+ 19 Kh1 Bxe1–+; 18 Be3 Bxe3 19 fxe3 (19 Rxe3 Qg5 20 Ng4 h5–+) 19...Nxh3+ 20 gxh3 Qg3+ 21 Kh1 Qxh3+ 22 Kg1 Qg3+ 23 Kh1 Qxe5–+. } 18...Ng6! { This knight retreat is easy to miss. } 19 Nxc6 { Or: 19 Nxg6 fxg6!–+; 19 Nc4 Bxc4 20 Bxc4 Ne5 21 Qe2 Nxc4–+. } 19...bxc6–+ {  } *
+
+[Event "Internet rapid 2022"]
+[Puzzle "843"]
+[White "Aditya Mittal"]
+[Black "J.B. Bjerre"]
+[FEN "r2r1qk1/pR3pp1/2b1p2p/b6Q/4N3/3BP3/PP3PPP/5RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+19 Nf6+! gxf6 { 19...Kh8 20 Rxf7+–. } 20 Bh7+! Kxh7 { 20...Kg7 21 Qg6+ Kh8 22 Rxf7 Qxf7 23 Qxf7 Rd7 24 Qxe6 Rxh7 25 Qxc6+–. } 21 Rxf7+ Qxf7 22 Qxf7+ Kh8 23 Qxf6+ Kh7 24 Qe7+ Kh8 25 Qc5 { Black loses one of his bishops. } 1-0 {  } *
+
+[Event "Las Vegas 2022"]
+[Puzzle "844"]
+[White "Khanin"]
+[Black "Raja Harshit"]
+[FEN "1r1r2k1/p3qpp1/b7/4R2N/2PP3n/P3P2n/B3Q2P/B4R1K b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+[Difficulty "4"]
+
+30...Qxe5! 31 dxe5 Bb7+ 32 e4 Bxe4+! 33 Qxe4 Nf2+ 34 Kg1 { The key point is that 34 Rxf2 allows a back-rank mate with 34...Rd1+. } 34...Nxe4–+ {  } *
+

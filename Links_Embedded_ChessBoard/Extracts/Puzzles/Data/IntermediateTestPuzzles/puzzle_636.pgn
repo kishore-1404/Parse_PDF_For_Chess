@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gareyev"]
+[Black "Hakobyan"]
+[Result "*"]
+[Puzzle "636"]
+[FEN "rnr3k1/pb3pp1/4p2p/q7/2BN4/P1R1P3/3Q1PPP/3R2K1 b - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... Rxc4 2. Nxe6 $1 { In the game 19 Rxc4?? allowed Black to win a piece with a queen fork: 19...Qd5 20 Nc6 Qxc4–+. } 2... Qxc3 { 19...Rxc3 20 Qd8+ Qxd8 21 Rxd8+ Kh7 22 Nf8+ Kg8 23 Ne6+ Kh7 24 Nf8+ = is perpetual check. } 3. Qd8+ { The same drawing motif appears after 20 Qxc3 Rxc3 21 Rd8+ Kh7 22 Nf8+ Kg8 23 Ne6+ Kh7 24 Nf8+ =. } 3... Kh7 4. Nf8+ Kg8 5. Ne6+ Kh7 6. Nf8+ { with a draw by repetition. } *

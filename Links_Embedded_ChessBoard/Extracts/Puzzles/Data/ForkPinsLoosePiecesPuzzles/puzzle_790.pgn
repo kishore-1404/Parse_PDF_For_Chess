@@ -1,0 +1,12 @@
+[Event "Baku 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "K. Begmuratov"]
+[Black "Samadov"]
+[Result "0-1"]
+[Puzzle "790"]
+[FEN "k1r5/p2r2pp/1p3pq1/4n2R/3pNQP1/B4P2/PP1N4/3K4 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Rc1+ $1 2. Ke2 { 29 Kxc1 Nd3+ 30 Kb1 Nxf4–+. } 2... Re1+ 3. Kxe1 { 30 Kf2 Nd3+–+. } 3... Nd3+ 4. Kd1 Nxf4 5. Rh2 f5 6. Nf2 Qe6 0-1

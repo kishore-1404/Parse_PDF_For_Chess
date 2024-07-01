@@ -1,0 +1,12 @@
+[Event "Chinese Women’s Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ning Kaiyu"]
+[Black "Xiao Yiyi"]
+[Result "0-1"]
+[Puzzle "609"]
+[FEN "4r2k/1bR2Q2/7p/P2p4/3P3q/4P3/P4Pr1/3R1K2 b - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... Rxf2+ $1 2. Qxf2 Ba6+ { 37 Kg1 (37 Ke1 Rxe3+ leads to mate) 37...Rg8+ 38 Qg2 Rxg2+ 39 Kxg2 Qg4+ 40 Kh2 Qxd1–+. } 0-1

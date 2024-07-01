@@ -1,0 +1,12 @@
+[Event "Los Angeles 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Antipov"]
+[Black "D. Boros"]
+[Result "1-0"]
+[Puzzle "136"]
+[FEN "r1b2rk1/ppp2pp1/4pn1p/4N3/1b1q3B/2P2Q2/PP3PPP/R3KB1R w KQ - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. Bxf6 $1 gxf6 2. Nc4 { White wins a piece. } 1-0

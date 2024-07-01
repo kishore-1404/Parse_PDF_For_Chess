@@ -1,0 +1,12 @@
+[Event "Norwegian Ch, Kongsvinger 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Djurhuus"]
+[Black "Østenstad"]
+[Result "*"]
+[Puzzle "320"]
+[FEN "4r3/1r4k1/3P3p/R1p2p1q/2P2Pp1/3QN1P1/8/6K1 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Rxe3 $1 { The combination works because White’s rook on a5 is just an onlooker. } 2. Qxe3 Rb1+ 3. Kf2 { 47 Kg2 Qh3+ (or 47...Qh1+ 48 Kf2 Qh2#) 48 Kf2 Qh2#. } 3... Qh2# *

@@ -1,0 +1,12 @@
+[Event "Tsaghkadzor 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gholami Orimi"]
+[Black "Pashikian"]
+[Result "1-0"]
+[Puzzle "117"]
+[FEN "r5k1/p3qppp/R7/5Q2/2n5/4P2P/4rPP1/R5K1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. Qf3 $1 { Black loses one of his rooks. } 1-0

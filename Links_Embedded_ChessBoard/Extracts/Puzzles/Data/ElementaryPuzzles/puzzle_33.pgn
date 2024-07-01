@@ -1,0 +1,12 @@
+[Event "Braila rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mastrovasilis"]
+[Black "Costachi"]
+[Result "*"]
+[Puzzle "33"]
+[FEN "5r1k/7p/3q3P/5R2/4Q3/p5P1/5P1K/8 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Qd4+ { Or 53 Qe5+ Qxe5 54 Rxf8#. } 1... Qxd4 2. Rxf8# *

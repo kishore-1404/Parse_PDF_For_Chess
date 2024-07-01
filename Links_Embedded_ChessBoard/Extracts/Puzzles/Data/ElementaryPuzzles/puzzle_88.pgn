@@ -1,0 +1,12 @@
+[Event "Slovenian Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Trussevich"]
+[Black "P. Djurić"]
+[Result "*"]
+[Puzzle "88"]
+[FEN "3r2k1/4p2p/3q2p1/1Rr5/2pN2P1/2Q1P3/5PP1/6K1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Ne6 $1 { White is able to simplify into an equal rook endgame. } 1... Qxe6 2. Rxc5 Rd1+ 3. Kh2 Qd6+ 4. Qe5 Qxe5+ 5. Rxe5 c3 { This rook ending should be drawn. } 6. Rc5 *

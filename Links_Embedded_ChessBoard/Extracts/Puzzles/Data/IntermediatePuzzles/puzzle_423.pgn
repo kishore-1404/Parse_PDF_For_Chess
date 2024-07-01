@@ -1,0 +1,12 @@
+[Event "Chiang Mai 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ganguly"]
+[Black "Kvon"]
+[Result "*"]
+[Puzzle "423"]
+[FEN "1r5r/p1p1k2p/2ppbp2/2n4B/2PB3P/P7/1P4P1/2KR3R w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Bxc5 $1 dxc5 2. Rhe1 { White is able to utilize Black’s damaged pawn-structure to exploit the pin along the e-file. } 2... Rbd8 3. Bg4 { 24 Rxd8 Rxd8 25 Bg4 Rd6 26 b4! reaches the same position as the game, except here the white king is on c1 instead of c2; the difference is insignificant. } 3... Rxd1+ 4. Kxd1 Rd8+ 5. Kc2 Rd6 6. b4 $1 cxb4 7. c5 Kd7 8. cxd6 Bxg4 9. dxc7 *

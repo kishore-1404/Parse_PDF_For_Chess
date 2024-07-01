@@ -1,0 +1,12 @@
+[Event "Greek Team Ch, Thessaloniki 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kalesis"]
+[Black "Livaić"]
+[Result "0-1"]
+[Puzzle "881"]
+[FEN "r1br3k/pp3pp1/2n2b1p/2P2B2/8/4PN2/PpQ2PPP/1K5R b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Nb4 $1 2. Qe4 Nd5 { White is unable to defend the c3-square. } 3. Qg4 Nc3+ 4. Kc2 { 20 Kxb2 Nd1++ 21 Ka3 Nxf2–+. } 4... Bxf5+ 5. Qxf5 Rd5 6. Qg4 Rxc5 7. Kxb2 { 23 Qb4 Na4+ 24 Kb1 Rac8–+. } 7... Ne4+ 8. Kb1 Rac8 9. Nd4 { 25 Qd7 Rb5+ 26 Qxb5 Nc3+ 27 Kb2 Nxb5+–+. } 9... Nxf2 10. Qf3 Nxh1 0-1

@@ -1,0 +1,12 @@
+[Event "Slovenian Ch, Radenci 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Šebenik"]
+[Black "Brilej"]
+[Result "*"]
+[Puzzle "378"]
+[FEN "3rkb1r/pp1bpp1p/2n2np1/1BP1N3/4pB2/2q5/P1PN1PPP/1R1Q1RK1 w k - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nxd7 Nxd7 { The game ended 12...Rxd7 13 Bxc6 bxc6 14 Rb8+ 1-0 (in view of 14...Rd8 15 Rxd8+ Kxd8 16 Nxe4+, winning the black queen). } 2. Bxc6 bxc6 3. Nxe4 Qg7 { 14...Qc4 15 Re1+–. } 4. Bc7 Rc8 5. Nd6+ exd6 6. Re1+ Ne5 7. cxd6 *

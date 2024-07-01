@@ -1,0 +1,12 @@
+[Event "USA Junior Ch, Saint Louis 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B. Jacobson"]
+[Black "A. Liang"]
+[Result "0-1"]
+[Puzzle "130"]
+[FEN "1qRr2k1/p2rbppp/1p1N4/5Q2/1P3P1P/6P1/P4P2/3R2K1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Rxd6 $1 { 31 Rxb8 Rxd1+ 32 Kg2 Rxb8–+. } 0-1

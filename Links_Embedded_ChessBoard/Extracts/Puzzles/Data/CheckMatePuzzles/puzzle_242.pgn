@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gadimbayli"]
+[Black "Fedoseev"]
+[Result "*"]
+[Puzzle "242"]
+[FEN "rnbq1rk1/1p1nbpp1/p3P2p/2pp3Q/3P4/P2B1N2/1PP2PPP/R1B1K2R w KQ - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Bxh6 $1 Nf6 { 11...gxh6 12 Qxh6 Nf6 13 g4+–. } 2. Qg5 Ne8 3. Qf5 Nf6 4. Bxg7 $1 fxe6 { 14...Kxg7 15 Qg5+ Kh8 16 Qh6+ Kg8 17 g4+–. } 5. Qg6 Qe8 6. Qh6 Qh5 7. Bh7+ Nxh7 8. Qxh5 Kxg7 9. Qg4+ { White has a decisive material advantage. } 9... Kh8 10. Ne5 *

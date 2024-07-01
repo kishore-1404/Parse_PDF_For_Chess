@@ -1,0 +1,12 @@
+[Event "Austrian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kruckenhauser"]
+[Black "Salvenmoser"]
+[Result "1-0"]
+[Puzzle "62"]
+[FEN "2r1r1k1/1p1b1pbp/pB1p2p1/P2Pp3/2q5/2P2B2/1P1Q1PPP/R3R2K w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Re4 $1 Qb3 2. Rb4 { Black’s queen is trapped with no retreat. } 1-0

@@ -1,0 +1,12 @@
+[Event "Khanty-Mansiisk rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ek. Borisova"]
+[Black "I. Vasilevich"]
+[Result "*"]
+[Puzzle "67"]
+[FEN "r2qk1nr/p1pp3p/1pn1p1p1/4Q1B1/2PP4/2PB4/P5bP/R3K1NR w KQkq - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Qg3 $1 { Black is OK if White captures the rook. For example: 12 Qxh8? Qxg5 13 Qxg8+ Ke7 14 Qxh7+ (14 Qxa8? Bxh1 favours Black) 14...Kd6 with roughly equal chances. } 1... Bxh1 { After 12...Nge7 White wins a piece for two pawns and retains a powerful pair of bishops. Following 13 Qxg2 0-0 (as played in the game), one good option is 14 h4+–. } 2. Bxd8 Nxd8 3. O-O-O Bb7 4. d5 { Sometimes the simplest moves (12 Qg3!) are the best moves. } *

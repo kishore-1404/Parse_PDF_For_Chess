@@ -1,0 +1,12 @@
+[Event "Tallinn rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nybäck"]
+[Black "Shabalov"]
+[Result "*"]
+[Puzzle "890"]
+[FEN "6k1/1r5p/pN1p1Qp1/3P4/4pp2/8/q4B1P/5KR1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... e3 $1 { 33...f3? was played in the game, allowing White to consolidate his material advantage: 34 Qe6+ Rf7 35 Qxe4 Qa1+ 36 Qe1 Qb2 37 Rg4 1-0. The only other playable move is 33...Rf7!?, but this is a lot less forcing and may leave Black defending an awkward ending. } 2. Qe6+ { Or 34 Rxg6+ hxg6 35 Qxg6+ Rg7 36 Qe8+ Kh7 37 Qh5+ Kg8 38 Qe8+ = with perpetual check. } 2... Rf7 3. Be1 Qxh2 4. Nc4 e2+ 5. Qxe2 Qh3+ 6. Kf2 { 38 Qg2 Qd3+ 39 Qe2 (39 Kf2?? f3!–+) 39...Qh3+ =. } 6... Qh4+ 7. Kf1 { 39 Kf3 Qh3+ =. } 7... Qh3+ { with a draw by repetition. } *

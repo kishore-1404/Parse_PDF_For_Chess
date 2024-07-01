@@ -1,0 +1,12 @@
+[Event "Charlotte 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bregadze"]
+[Black "Bortnyk"]
+[Result "0-1"]
+[Puzzle "911"]
+[FEN "4k2r/p1ppqppp/b3pnn1/2pPP3/2P2P2/PrN5/3Q2PP/2KR1BNR b k - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... O-O $1 { White’s king is exposed and his kingside pieces undeveloped. } 2. Qc2 { 15 exf6 Qxf6 16 Nge2 Bxc4 17 Qc2 Nxf4–+. } 2... Rfb8 3. Nb5 R3xb5 4. cxb5 Nxd5 5. Qa4 { 18 Qb3 c6–+. } 5... c4 6. Qxa6 Qc5 7. Qa5 Rxb5 0-1

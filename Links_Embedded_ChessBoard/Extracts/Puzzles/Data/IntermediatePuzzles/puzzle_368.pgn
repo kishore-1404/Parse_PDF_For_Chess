@@ -1,0 +1,12 @@
+[Event "Merida 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Espinosa Veloz"]
+[Black "C. Rios"]
+[Result "*"]
+[Puzzle "368"]
+[FEN "r3r1k1/p1q2npp/2pp1p2/5P2/5B1R/2P4Q/P1P3PP/5RK1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Qb6+ 2. Kh1 Qf2 $1 3. g4 Re1 4. Rxe1 Qxe1+ 5. Kg2 Re8 *

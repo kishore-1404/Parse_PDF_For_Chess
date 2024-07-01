@@ -1,0 +1,12 @@
+[Event "Tashkent 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Goganov"]
+[Black "Abdisalimov"]
+[Result "1-0"]
+[Puzzle "58"]
+[FEN "2r5/7k/p2p2p1/3PbpBp/8/8/PP4PP/1K2R3 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Rxe5 $1 { White’s d-pawn will cost Black his rook after 32...dxe5 33 d6+–. } 1-0

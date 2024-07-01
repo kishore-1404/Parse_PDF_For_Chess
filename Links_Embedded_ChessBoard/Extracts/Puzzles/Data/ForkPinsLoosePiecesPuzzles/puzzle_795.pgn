@@ -1,0 +1,12 @@
+[Event "Juan Dolio 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mat. Latorre"]
+[Black "A. Chandra"]
+[Result "1-0"]
+[Puzzle "795"]
+[FEN "r4rk1/pppn1p2/6pp/3p3q/3P4/P1PQPNR1/4KP1P/6R1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Rg4 $1 { Black is helpless against the threat of 19 Rh4 trapping the queen. } 1-0

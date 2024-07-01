@@ -1,0 +1,12 @@
+[Event "Chinese Rapid Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Liu Yan"]
+[Black "Ding Liren"]
+[Result "*"]
+[Puzzle "800"]
+[FEN "6k1/4rp2/6p1/2NBn2p/2P3bR/6PP/4r3/5RK1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... g5 $1 2. Rxg4 { 36 hxg4 gxh4 37 gxh5 h3–+. } 2... hxg4 3. hxg4 Nxg4 4. Bf3 R2e3 *

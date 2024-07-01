@@ -1,0 +1,12 @@
+[Event "Dutch League 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Okkes"]
+[Black "Miesen"]
+[Result "*"]
+[Puzzle "570"]
+[FEN "3rr1k1/pbq2ppp/1p1bpn2/4N3/2PR4/1P6/PBB1QPPP/4R1K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bxe5 $1 2. Rxd8 { 19 Qxe5 Qxe5 20 Rxe5 Rxd4 21 Bxd4 Rd8 (White loses material because of his weak back rank) 22 Be3 (22 Bc3 Be4! 23 Rxe4 Nxe4–+) 22...Be4! 23 Rxe4 Nxe4–+. } 2... Bxh2+ 3. Kh1 Rxd8 4. Bxf6 gxf6 *

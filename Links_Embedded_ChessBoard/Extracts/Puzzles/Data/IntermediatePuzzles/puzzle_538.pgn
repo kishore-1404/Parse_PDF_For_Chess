@@ -1,0 +1,12 @@
+[Event "Romanian Team Ch, Oradea 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A. Bonte"]
+[Black "Soltanici"]
+[Result "*"]
+[Puzzle "538"]
+[FEN "7k/1p4pp/p3Q3/1b2Bp2/1PB5/P3P1K1/3q2P1/8 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bxc4 { The game ended with 37...Qxe3+?? 38 Kh2 1-0 in view of 38...Bxc4 39 Qe8+ Bg8 40 Bxg7+ Kxg7 41 Qxe3+–. } 2. Qxc4 Qxe3+ 3. Kh4 Qh6+ 4. Kg3 Qe3+ { with a draw by repetition. } *

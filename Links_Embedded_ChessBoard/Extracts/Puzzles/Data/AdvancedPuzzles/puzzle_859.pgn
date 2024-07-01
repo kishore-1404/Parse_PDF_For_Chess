@@ -1,0 +1,12 @@
+[Event "Saint Louis 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Balakrishnan"]
+[Black "Yu. Quesada Perez"]
+[Result "1-0"]
+[Puzzle "859"]
+[FEN "r1bq1rk1/pp1p3p/2p3p1/5p1Q/P2pR3/3B4/1PP3PP/R1B3K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Rg4 $1 fxg4 { If Black refuses to capture the rook then White’s extra piece is stronger than the black pawns; e.g., 18...Qe8 19 Rg5 Qe1+ 20 Bf1 Rf6 21 Qf3 d6 22 Rg4+–. } 2. Bxg6 hxg6 { Black’s lack of queenside development proves fatal after 19...Qe7 20 Bh6! hxg6 21 Qxg6+ Kh8 22 Bxf8 Qxf8 23 Re1+–. } 3. Qxg6+ Kh8 4. Qh5+ { White picks up the g4-pawn with a series of checks; the immediate 21 Bg5+– is also sufficient. } 4... Kg8 5. Qxg4+ Kh7 6. Qh5+ Kg8 7. Qg6+ Kh8 8. Bg5 Qa5 { Or 26 Bf6++–. } 9. Rf1 Rxf1+ 10. Kxf1 1-0

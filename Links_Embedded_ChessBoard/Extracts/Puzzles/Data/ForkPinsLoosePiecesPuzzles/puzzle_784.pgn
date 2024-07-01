@@ -1,0 +1,12 @@
+[Event "Khania 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "S. Naoum"]
+[Black "Vedmediuc"]
+[Result "*"]
+[Puzzle "784"]
+[FEN "rnb1q1k1/ppp3p1/4p2p/7n/2P5/P1PBr2N/6PP/R2Q1RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Bg6 $1 Qxg6 { (variation) } 2. Qd8+ Kh7 3. Rf8 Qe4 $6 { 16...Qe7 17 Qxh5+–. } 4. Rh8+ Kg6 5. Qe8+ Kf6 6. Rf8+ { Or: 18...Qc2? 19 Qe8! leads to mate; 18...Qf6 19 Rxf6 Nc6 20 Qd2+–. } 6... Ke5 7. Qb5+ Kd6 8. Rd1+ Rd3 { White can use the other rook and win in similar fashion to the main line: 21 Rf1+ Ke5 22 Qb5+ Kd6 23 Rd1+ Rd3 24 Rxd3+ Qxd3 25 c5++–. } 9. Rxd3+ Qxd3 10. c5+ Kd5 11. Qxd3+ { 23...Ke7 24 Qc5#. } *

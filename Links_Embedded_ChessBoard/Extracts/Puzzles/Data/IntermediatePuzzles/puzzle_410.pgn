@@ -1,0 +1,12 @@
+[Event "Sada 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Almeida Quintana"]
+[Black "Medarde Santiago"]
+[Result "*"]
+[Puzzle "410"]
+[FEN "r1b1r1k1/1p2bpp1/pq5p/3N4/4n3/3QPNBP/PP3PP1/1R2K2R b K - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bb4+ $1 2. Kf1 { White’s king position is a big liability after 18 Ke2 Qg6 19 Rbd1 Bf5 20 Qc4 Bf8–+. } 2... Bf5 3. Kg1 { 19 Qe2 Qc5 20 Rd1 Ba5 21 Be5 Rad8–+. } 3... Qe6 4. Bc7 Nc3 5. bxc3 { 21 Qc4 Nxd5–+. } 5... Bxd3 6. Nf4 Qxa2 *

@@ -1,0 +1,12 @@
+[Event "Paphos 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Tiviakov"]
+[Black "Ochedzan"]
+[Result "*"]
+[Puzzle "741"]
+[FEN "r2qkb1r/1b1n1ppp/p2ppn2/1p6/3NP3/2N3P1/PPP2PBP/R1BQR1K1 w kq - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. e5 $1 { This opening trap has caught over 20 victims in my database, including masters and grandmasters. } 1... Bxg2 { White has a decisive material advantage after 10...dxe5 11 Bxb7 exd4 12 Bxa8+–. } 2. exf6 Bb7 3. fxg7 Bxg7 4. Nxe6 $1 { The knight sacrifice gives White a crushing attack. } 4... fxe6 5. Rxe6+ Kf7 6. Rxd6 *

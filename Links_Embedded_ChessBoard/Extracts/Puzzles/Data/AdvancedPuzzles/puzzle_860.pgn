@@ -1,0 +1,12 @@
+[Event "Hungarian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kaczur"]
+[Black "A. Popovics"]
+[Result "*"]
+[Puzzle "860"]
+[FEN "r2q1rk1/2pb1p2/p1np2p1/1p2p3/4P1Nb/2PPN3/PPB2P2/R2QK1R1 w Q - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Nh6+ Kh7 { Or: 19...Kg7 20 Nhf5+ Bxf5 21 Nxf5+ Kh7 22 Qg4+–; 19...Kh8 20 Nhf5 Rg8 21 Qf3+–. } 2. Nhf5 Bxf5 { The game ended 20...Rh8 21 Qh5+! 1-0. Black will be mated: 21...gxh5 22 Rg7# or 21...Kg8 22 Rxg6+ fxg6 23 Bb3+ d5 24 Bxd5+ Be6 25 Bxe6+ Kf8 26 Qxh8#. } 3. exf5 Qf6 4. Qg4 Ne7 5. Rh1 g5 6. O-O-O { Black has no good defence to White’s threats, which include 25 Ng2. } *

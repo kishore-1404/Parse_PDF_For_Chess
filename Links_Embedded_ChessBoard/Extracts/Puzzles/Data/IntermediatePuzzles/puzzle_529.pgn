@@ -1,0 +1,12 @@
+[Event "Polish Team Ch, Jastrzebia Gora 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Jaskolka"]
+[Black "J. Malek"]
+[Result "*"]
+[Puzzle "529"]
+[FEN "r3qrk1/4bppp/p2Ppn2/nb6/1p1QP3/5NP1/1B1N1PBP/R4RK1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Nc6 2. dxe7 Nxd4 3. exf8=Q+ Qxf8 4. Nxd4 Bxf1 5. Bxf1 a5 { Black’s queen and two connected passed pawns are too much for White’s minor pieces. } *

@@ -1,0 +1,12 @@
+[Event "Baku 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Abasov"]
+[Black "Durarbayli"]
+[Result "*"]
+[Puzzle "435"]
+[FEN "3rk2r/p3p2p/2p2ppb/5b2/2Bn1PP1/PP5P/2PN1B2/2R1K2R b Kk - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Nxc2+ 2. Ke2 Rxd2+ $1 { 23...Bxf4? 24 Rhd1! +/– leaves Black’s pieces hanging. } 3. Kxd2 Bxf4+ 4. Ke2 Be4 5. Be6 $2 { With 26 a4 h5 27 g5! –/+ followed by Bxa7 White retains hope of saving the game. } 5... h5 6. Rxc2 Bxc2 { Black has two extra pawns. } *

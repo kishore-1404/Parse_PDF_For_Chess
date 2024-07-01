@@ -1,0 +1,12 @@
+[Event "Colombo 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Thejkumar"]
+[Black "Nikitenko"]
+[Result "*"]
+[Puzzle "612"]
+[FEN "2R5/5p1k/4pbp1/1qB4p/4Q3/1p4P1/5P1P/6K1 b - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... b2 2. Qb1 Qc4 $1 { White is unable to defend the c1-square. } 3. Kg2 Qc1 4. Bd4 Qxb1 5. Bxf6 Qe4+ 6. f3 Qe2+ 7. Kh3 g5 *

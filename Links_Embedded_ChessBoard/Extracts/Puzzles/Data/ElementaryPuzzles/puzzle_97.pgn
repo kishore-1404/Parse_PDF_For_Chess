@@ -1,0 +1,12 @@
+[Event "Sant Ferran de ses Roques 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Panda"]
+[Black "Xu Xiangyu"]
+[Result "*"]
+[Puzzle "97"]
+[FEN "2r3k1/p4p1p/6pP/1p1pP3/2qR4/b3B3/P4PP1/1Q4K1 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Qxd4 $1 2. Bxd4 Rc1+ 3. Qxc1 Bxc1 { White cannot protect his h6-pawn. } 4. Bxa7 Kf8 5. Bc5+ Ke8 6. Kf1 Bxh6 { Black’s extra pawn is decisive. } *

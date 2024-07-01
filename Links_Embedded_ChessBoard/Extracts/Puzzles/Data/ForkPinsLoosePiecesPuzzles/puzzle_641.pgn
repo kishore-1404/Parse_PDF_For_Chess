@@ -1,0 +1,12 @@
+[Event "Malaga 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dvirnyy"]
+[Black "Martinez Ramirez"]
+[Result "*"]
+[Puzzle "641"]
+[FEN "2r3k1/1pq2pp1/p1r1b2p/3p4/1QBP4/P3N2P/5PP1/2R1R1K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+{ It’s always a good idea to pause and look carefully before playing an ‘automatic’ recapture – sometimes there is a stronger option! } 1... b5 $1 { Black has a clear extra pawn. } 2. Rc2 bxc4 *

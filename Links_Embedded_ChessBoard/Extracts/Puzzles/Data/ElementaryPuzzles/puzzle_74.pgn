@@ -1,0 +1,12 @@
+[Event "Turkish Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Karaokcu"]
+[Black "Uzumcu"]
+[Result "*"]
+[Puzzle "74"]
+[FEN "r2qk2r/pp2ppb1/5n1p/3pBbp1/4n3/1NP1PN2/PP3PPP/R2QKB1R b KQkq - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Nxf2 $1 { Black exploits White’s lack of kingside development to win a pawn. } 2. Bb5+ { Or 12 Kxf2 Ng4+ 13 Ke1 Nxe5–+. } 2... Kf8 3. Kxf2 Ng4+ 4. Ke2 Nxe5 { This type of combination appears surprisingly often. } *

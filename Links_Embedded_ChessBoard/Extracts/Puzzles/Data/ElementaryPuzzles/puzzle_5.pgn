@@ -1,0 +1,12 @@
+[Event "Spanish Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Iturrizaga"]
+[Black "Korobov"]
+[Result "*"]
+[Puzzle "5"]
+[FEN "8/2r1kp2/5p2/3Q1n2/1P3P2/2p2PP1/5q1P/3R3K w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Qd8+ { White should force a repetition with: } 1... Ke6 2. Qd5+ Ke7 3. Qd8+ { The game ended with 40 g4?? Qg2+ 0-1 in view of 41 Kxg2 Ne3+ 42 Kf2 Nxd5 43 Rxd5 c2–+. White’s 40 g4?? was a misguided idea because in addition to the game continuation, 40...Kf8, 40...Nd4 and 40...Rc8 all win for Black. } *

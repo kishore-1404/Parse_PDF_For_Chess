@@ -1,0 +1,12 @@
+[Event "Philadelphia 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B. Jacobson"]
+[Black "Popilski"]
+[Result "1-0"]
+[Puzzle "9"]
+[FEN "6k1/p2n1ppp/1p3n2/1B1P4/8/P4P2/1Br2P1P/4R1K1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Bxf6 $1 Nxf6 2. d6 Rd2 3. d7 { White wins a piece after 24...Nxd7 25 Bxd7 because of the back- rank mate threat. } 1-0

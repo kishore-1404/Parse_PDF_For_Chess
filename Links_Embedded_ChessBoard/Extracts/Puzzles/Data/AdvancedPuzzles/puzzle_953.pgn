@@ -1,0 +1,12 @@
+[Event "New York 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Adewumi"]
+[Black "Nakada"]
+[Result "*"]
+[Puzzle "953"]
+[FEN "2r2rk1/p1qn1pp1/3b3p/3p4/1p1P4/1P1B2P1/P3QP1P/R1B2RK1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Bxh6 $1 { This bishop sacrifice is effective because Black does not have any defenders around his king. } 1... gxh6 { In the game 23...Nf6 24 Rac1 Qb6 25 Be3+– left White with an extra pawn and the bishop-pair. } 2. Qg4+ Kh8 3. Qf5 Kg7 4. Qh7+ Kf6 5. Qxh6+ Ke7 6. Rac1 Qb6 7. Rfe1+ Kd8 8. Qg5+ f6 9. Rxc8+ Kxc8 10. Qxd5 *

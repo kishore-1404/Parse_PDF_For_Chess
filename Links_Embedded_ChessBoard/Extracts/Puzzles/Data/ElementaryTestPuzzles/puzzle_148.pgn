@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Z. Jovanović"]
+[Black "Warmerdam"]
+[Result "0-1"]
+[Puzzle "148"]
+[FEN "1r4k1/5pp1/R3p3/3n1b2/8/2rN4/P1PB1P1P/K1R5 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Bxd3 $1 2. cxd3 { 29 Bxc3 Bxa6–+. } 2... Rxc1+ 3. Bxc1 Nb4 { White cannot defend against the dual threats of 31...Nc2# and 31...Nxa6. } 0-1

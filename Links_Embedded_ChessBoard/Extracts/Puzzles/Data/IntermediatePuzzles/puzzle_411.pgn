@@ -1,0 +1,12 @@
+[Event "Chinese Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ding Liren"]
+[Black "Xu Yinglun"]
+[Result "1-0"]
+[Puzzle "411"]
+[FEN "r1r3k1/1p1q1pp1/4p2p/pP1nP3/3RN3/B7/P1n2PPP/3QR1K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nf6+ $1 gxf6 $2 { 24...Nxf6 25 Rxd7 Nxd7 26 Rf1 Nb6 27 Bc1 +/– gives White a material advantage and good chances to win. } 2. exf6 Nxf6 { 25...e5 26 Rxd5 Qf5 (26...Qxd5 27 Qg4+ Kh7 28 Qg7#) 27 Rexe5 Qxf6 28 Bb2+–. } 3. Rxd7 { 26...Nxe1 (26...Nxd7 27 Qg4+ Kh7 28 Bb2 Rg8 29 Qe4+ Rg6 30 Qxc2+–) 27 Rxb7+–. } 1-0

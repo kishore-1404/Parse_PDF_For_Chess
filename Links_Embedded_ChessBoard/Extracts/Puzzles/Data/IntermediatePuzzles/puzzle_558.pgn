@@ -1,0 +1,12 @@
+[Event "Sant Ferran de ses Roques 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ana. Rakhmangulova"]
+[Black "Kushagra"]
+[Result "*"]
+[Puzzle "558"]
+[FEN "4rk2/1bq2pp1/p3p2p/1p1nP3/P1p2PQB/2PR4/1PB3PP/6K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Rg3 $1 { 26 Rh3? (as played in the game) allowed Black to defend his kingside with 26...bxa4 27 Bf2 f5 28 exf6 Nxf6 =. } 1... g6 { 26...g5 27 fxg5 Qxe5 28 Kf2+–. } 2. Bxg6 $1 Qb6+ 3. Kh1 Qf2 4. h3 Ne3 { White’s bishop-pair is too strong in the endgame. For example: 29...Qf1+ 30 Kh2 Qxf4 31 Bh7 Qxg4 32 Rxg4 Ne7 33 Bf6+–. } 5. Rxe3 Bxg2+ { 30...Qxe3 31 Bh7 Bxg2+ 32 Kxg2 Qd2+ 33 Bf2+–. } 6. Qxg2 Qxe3 7. Bh5 Qc1+ 8. Kh2 Qxf4+ 9. Bg3 Qf5 10. Bg4 *

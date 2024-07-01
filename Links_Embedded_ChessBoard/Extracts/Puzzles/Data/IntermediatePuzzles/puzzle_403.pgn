@@ -1,0 +1,12 @@
+[Event "Turkish Team Ch, Ankara 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Erturan"]
+[Black "Stoyanov"]
+[Result "*"]
+[Puzzle "403"]
+[FEN "3r2k1/3n2p1/1p3p2/2rp1qNp/1R5P/R3P1P1/P4PK1/3Q4 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Rf4 Qe5 { 40...Qg6 41 Ne6+–. } 2. Qxh5 $1 Nf8 { White obtains access to the h-file after 41...fxg5 42 Qf7+ Kh8 43 hxg5+–. } 3. Qf7+ Kh8 4. Ra7 fxg5 5. Re7 *

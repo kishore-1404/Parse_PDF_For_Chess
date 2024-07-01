@@ -1,0 +1,12 @@
+[Event "Biel 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Abdusattorov"]
+[Black "Gukesh"]
+[Result "0-1"]
+[Puzzle "873"]
+[FEN "6k1/1p5p/p2p3r/P2P1qp1/1PP3n1/R2QB1P1/7P/6K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Nxe3 $1 2. Qxe3 Qb1+ 3. Kg2 Qc2+ 4. Kf1 { Black wins the white queen after 41 Kg1 Qxh2+ 42 Kf1 Rf6+ 43 Ke1 Qh1+ 44 Kd2 Qg2+ 45 Qe2 Rf2–+. } 4... Rf6+ 5. Ke1 Qb1+ 6. Kd2 Kf8 7. Kc3 { 44 Rb3 Qf1–+. } 7... Rf1 { 44...Qd1 also wins. } 8. Qe2 g4 9. Kd4 Rd1+ 10. Kc3 { 47 Ke3 Qc1+ 48 Kf2 Rd2–+. } 10... Qc1+ { 48 Kb3 Rd2–+. } 0-1

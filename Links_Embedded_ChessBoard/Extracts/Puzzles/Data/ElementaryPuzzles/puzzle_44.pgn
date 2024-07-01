@@ -1,0 +1,12 @@
+[Event "New York 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Troltenier"]
+[Black "G. Andersen"]
+[Result "0-1"]
+[Puzzle "44"]
+[FEN "5rk1/1p1n1qp1/p3p3/3pPnQ1/P2P2P1/1PrBB3/4KP2/R6R b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Nxd4+ $1 2. Kf1 { 34 Bxd4 loses material due to 34...Qf3+ 35 Ke1 Qxh1+ 36 Bf1 Qe4+–+. Black will have an extra piece after 34...Rxd3. } 0-1

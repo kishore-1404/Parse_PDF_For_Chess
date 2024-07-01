@@ -1,0 +1,12 @@
+[Event "Tashkent 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fayzullaev"]
+[Black "Vokhidov"]
+[Result "*"]
+[Puzzle "936"]
+[FEN "r5r1/2q3kp/p4Rp1/1p6/7Q/P1N5/1PP3PP/7K w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Re6 $1 { After 26 Qd4?? (as played in the game) Black drove the white queen away and exploited his material advantage following 26...Qc4! 27 Qe5 Rge8 28 Re6+ Kf7 29 Rf6+ Kg8–+. } 1... Rge8 2. Nd5 $1 Qd8 { Or 27...Qf7 28 Qd4+ Kh6 (28...Kf8?? 29 Qh8+ Qg8 30 Rf6#) 29 Qh4+ Kg7 30 Qd4+ = with a draw by repetition. } 3. Re7+ { 28 Qd4+ Kh6 29 Rxe8 Qxe8 30 Qh4+ Kg7 31 Qf6+ Kh6 32 Qh4+ = is another path to perpetual check. } 3... Rxe7 4. Qf6+ Kh6 5. Qh4+ { 30 Qf4+ is also a draw. } 5... Kg7 6. Qf6+ { with perpetual check. } *

@@ -1,0 +1,12 @@
+[Event "Sharjah rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Erdogdu"]
+[Black "Salem"]
+[Result "0-1"]
+[Puzzle "850"]
+[FEN "4r3/7k/2np2qp/p1bN1r2/1pP2P2/1P4RB/P6P/1Q5K b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Rg5 $1 2. Nf6+ { 34 Qxg6+ Rxg6 35 Bf5 Re1+ (or 35...Re6–+) 36 Kg2 Rg1+ 37 Kh3 Rxg3+ 38 hxg3 Nd4–+. } 2... Kh8 $1 3. Qxg6 Re1+ 4. Kg2 Rxg6 { 37 Rxg6 Rg1+ 38 Kf3 Rxg6–+. } 0-1

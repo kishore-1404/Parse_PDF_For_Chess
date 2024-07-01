@@ -1,0 +1,12 @@
+[Event "Israeli Team Ch 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mordechai"]
+[Black "M. Katkov"]
+[Result "1-0"]
+[Puzzle "306"]
+[FEN "8/3N4/R5p1/6kp/4P3/1rn2PP1/p5K1/8 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Nf8 $1 { White must move the knight to the correct square; not 65 Ne5? Kh6! 66 Nxg6 Rb4–+. 65...h4 (65...Kh6 66 Rxg6#) 66 Rxg6+ Kh5 67 g4#. } 1-0

@@ -1,0 +1,12 @@
+[Event "European Ch, Vrnjačka Banja 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Boruchovsky"]
+[Black "Soffer"]
+[Result "1-0"]
+[Puzzle "144"]
+[FEN "4qr1k/1p2brpp/p7/7Q/3B4/1B6/P4PPP/3R2K1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. Bc2 $1 { The diagonal switch is fatal as Black cannot defend h7. } 1... Rf5 { 26...h6 27 Qxh6+ Kg8 28 Qh7#. } 2. Qxe8 Rxe8 3. Bxf5 { White has won a piece. } 1-0

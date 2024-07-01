@@ -1,0 +1,12 @@
+[Event "Astana rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kramnik"]
+[Black "Vakhidov"]
+[Result "*"]
+[Puzzle "769"]
+[FEN "1Q6/1p2b1nk/p2Bqnpp/P1p2p2/2N5/1PP2N1P/5PP1/6K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Nd7 $1 2. Qc7 Ne8 { Black wins a piece. } 3. Qxb7 Bxd6 *

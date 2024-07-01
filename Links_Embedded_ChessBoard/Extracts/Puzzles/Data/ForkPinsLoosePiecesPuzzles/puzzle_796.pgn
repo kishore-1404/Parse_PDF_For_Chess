@@ -1,0 +1,12 @@
+[Event "Khanty-Mansiisk rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kezin"]
+[Black "Alekseev"]
+[Result "*"]
+[Puzzle "796"]
+[FEN "2rq1rk1/3nbppp/1pb5/2ppB3/3P4/Q5P1/PP1NPPBP/2RR2K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... f6 $1 2. Bf4 g5 $1 { Black wins a piece. } 3. Qb3 { The game featured 20 Be3? cxd4–+, and White resigned a few moves later. } 3... gxf4 4. Bxd5+ Kh8 { Black has a material advantage and good chances to win. } *

@@ -1,0 +1,12 @@
+[Event "New York 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Al. Ostrovskiy"]
+[Black "J. Williams"]
+[Result "0-1"]
+[Puzzle "634"]
+[FEN "5r1k/1p1Q2bp/8/P3p1Nq/2P3rP/4BpP1/1P3Pb1/2RR2K1 b - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... Rxh4 $1 2. gxh4 { 35 Nf7+ Kg8 36 gxh4 Qxh4 comes to the same thing. } 2... Qxh4 $4 { White resigned but it is a draw by repetition after 36 Nf7+ Kg8 (36...Rxf7?? 37 Qd8+ Qxd8 38 Rxd8++–) 37 Nh6+ Kh8 (37...Bxh6?? 38 Qe6+ Rf7 39 Qxh6+–) 38 Nf7+ =. } 0-1

@@ -1,0 +1,12 @@
+[Event "Czech Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Baidetsky"]
+[Black "Miesbauer"]
+[Result "0-1"]
+[Puzzle "340"]
+[FEN "r4r1k/1pb1Npp1/p6p/P7/1PQ1p1n1/2P1B1Pq/B4P2/3RR1K1 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Bxg3 $1 2. fxg3 Qh2+ 3. Kf1 Qh1+ { 29 Ke2 (29 Bg1 Qf3+ 30 Bf2 Qxf2#) 29...Qg2+ 30 Bf2 Qxf2#. } 0-1

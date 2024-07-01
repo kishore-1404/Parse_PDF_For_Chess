@@ -1,0 +1,12 @@
+[Event "Pirot 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Zajić"]
+[Black "M. Pap"]
+[Result "0-1"]
+[Puzzle "646"]
+[FEN "4rbk1/1p1n1ppp/p5q1/8/2P2Q2/1P3NRP/PB4PK/8 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Bd6 $1 2. Be5 { The h2-b8 diagonal is also fatal for White after 34 Ne5 Nxe5 35 Rxg6 Nf3+ 36 Kh1 (36 gxf3 Bxf4+–+) 36...Re1#. } 2... Nxe5 3. Nd4 Nc6 0-1

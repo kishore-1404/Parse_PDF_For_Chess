@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Andreikin"]
+[Black "Oparin"]
+[Result "1-0"]
+[Puzzle "183"]
+[FEN "6k1/1pnQn1p1/p4p1p/2q1pB2/4P2P/1PB3P1/5P2/6K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. b4 $1 Qxc3 2. Qxe7 { Black has no good defence against White’s plan to create a mating-net with Bg6. } 2... Qc1+ 3. Kg2 Qc4 { 39...Qc6 40 Bg6+–. } 4. Bg6 1-0

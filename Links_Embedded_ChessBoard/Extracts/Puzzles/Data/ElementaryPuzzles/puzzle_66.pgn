@@ -1,0 +1,12 @@
+[Event "British League (4NCL) online 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ophoff"]
+[Black "Ed. Holland"]
+[Result "1-0"]
+[Puzzle "66"]
+[FEN "1k5r/1b3pq1/1p1Pp2r/p1P3p1/P1P3P1/2PR2P1/4Q3/3R1NK1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. d7 $1 Rh1+ { White has three extra pawns after 35...Rd8 36 cxb6+–. } 2. Kf2 Rxf1+ { White’s d-pawn also promotes after 36...R8h2+ 37 Nxh2 Rxh2+ 38 Ke1 Rxe2+ 39 Kxe2 Qe5+ 40 Kd2+– or 36...Qf6+ 37 Ke1 Rd8 38 cxb6+–. } 3. Rxf1 Rh2+ 4. Ke1 Rxe2+ 5. Kxe2 { White’s powerful passed d-pawn was too strong. } 1-0

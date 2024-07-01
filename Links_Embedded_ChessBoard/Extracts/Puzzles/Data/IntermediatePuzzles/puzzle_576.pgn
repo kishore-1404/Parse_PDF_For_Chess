@@ -1,0 +1,12 @@
+[Event "Bucharest rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ale. David"]
+[Black "Pisu"]
+[Result "*"]
+[Puzzle "576"]
+[FEN "3r1b1k/pp1q2p1/4r2p/3npN1P/3P2Q1/6R1/P2B2P1/5RK1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Bxh6 $1 { White’s initiative peters out after 29 Nxh6? Rf6! (the game ended 29...Nf6? 30 Qg6 Qxd4+ 31 Be3 Qe4 32 Nf7+ Kg8 33 Nxd8 1-0) 30 Nf5 Ne7 31 Nxe7 Qxg4 32 Rxg4 Bxe7 =. } 1... Rc6 { 29...gxh6? 30 Qg8#. } 2. Bc1 Nf6 3. Qh3 exd4 4. h6 *

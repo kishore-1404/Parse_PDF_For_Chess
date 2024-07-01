@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Carlsen"]
+[Black "Duda"]
+[Result "1-0"]
+[Puzzle "893"]
+[FEN "1qrr3k/1b2n2p/pp2pp2/1B6/P1NP3P/8/4QPP1/2R1R1K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Qxe6 $1 { Not 24 Bd7? Rg8! 25 Qxe6 Rxg2+ 26 Kf1 Qf4–+. } 1... Nd5 { 24...axb5 25 Qxf6+ Kg8 26 Rxe7 mates. } 2. Bd7 Rc7 3. Ne5 $1 Rxc1 { 26...fxe5 27 Qxe5+ Kg8 28 Rxc7 Qxc7 29 Be6+ leads to mate. } 4. Nf7+ Kg7 5. Rxc1 Qf4 6. Re1 { White has an extra pawn and a safer king. } 6... Rg8 7. Nd6 Ba8 8. Re4 1-0

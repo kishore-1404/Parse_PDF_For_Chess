@@ -1,0 +1,12 @@
+[Event "Zagreb rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "So"]
+[Black "J. van Foreest"]
+[Result "*"]
+[Puzzle "879"]
+[FEN "8/3PR1pk/7p/2p1p3/4q3/1r5P/3Q2P1/6K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Rd3 $1 2. d8=Q Rxd8 3. Qxd8 Qe3+ 4. Kf1 { 56 Kh1 (56 Kh2 Qf4+ is the same) 56...Qc1+ 57 Kh2 Qf4+ 58 Kg1 Qe3+ repeats the position. } 4... Qf4+ 5. Ke2 Qe4+ 6. Kd2 Qf4+ { 58...Qb4+ also maintains equality. } 7. Kc3 { 59 Kd3 Qf1+ 60 Kc3 Qc1+ comes to the same thing. } 7... Qc1+ 8. Kb3 { 60 Kd3?? Qd1+–+. } 8... Qb1+ 9. Kc4 Qb4+ { The game ended 61...Qc2+?? 62 Kb5 c4 63 Qc7 Qxg2 64 Qxe5 1- 0. } 10. Kd3 Qb1+ 11. Ke3 Qe1+ 12. Kf3 Qf1+ 13. Ke3 { White must avoid 65 Kg3?? Qf4# and 65 Kg4?? Qf4+ 66 Kh5 Qg5#. } 13... Qe1+ { White cannot escape the checks, so it is a draw. } *

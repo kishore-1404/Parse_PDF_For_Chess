@@ -1,0 +1,12 @@
+[Event "Austrian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kaphle"]
+[Black "Markus"]
+[Result "*"]
+[Puzzle "745"]
+[FEN "5rk1/pp4pp/1q1bpr2/1P1p1n1b/P2P4/3BPN2/3Q2PP/2R1BRK1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Nxe3 $1 2. Qxe3 Bf4 { Black exploits the unprotected rook on c1. } 3. Qe2 { White loses too much material after 25 Bxh7+ Kxh7 26 Qd3+ Bg6 27 Qc3 Bxc1 28 Qxc1 Qxd4+ 29 Rf2 (29 Nxd4 Rxf1#) 29...Qxa4–+. } 3... Bxc1 *

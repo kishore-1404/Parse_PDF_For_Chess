@@ -1,0 +1,12 @@
+[Event "Benasque 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Aravindh"]
+[Black "Peralta"]
+[Result "*"]
+[Puzzle "379"]
+[FEN "q7/p1r1bknp/4R1pB/3r4/3P4/1P6/P3QPPP/4R1K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bb4 $1 { After 26...Bf6? (as played in the game) White could have sacrificed the exchange to obtain a playable game: 27 Rxf6+! Kxf6 28 Qf3+ Nf5 29 g4 Qc6 30 gxf5 Rxf5 31 Qg3 with roughly equal chances due to Black’s vulnerable king. } 2. Qf3+ Kg8 3. R6e5 Rd8 { Black’s extra piece is much stronger than White’s three pawns. } *

@@ -1,0 +1,12 @@
+[Event "Chinese Team Ch, Nanjing 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Wan Yunguo"]
+[Black "Liu Yan"]
+[Result "1-0"]
+[Puzzle "143"]
+[FEN "r3r2k/p3qpp1/1p6/2pP1R2/4B3/2P1P3/Pn2Q1PP/6K1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. Rh5+ { 25...Kg8 26 Rh8+! Kxh8 27 Qh5+ Kg8 28 Qh7+ Kf8 29 Qh8#. } 1-0

@@ -1,0 +1,12 @@
+[Event "Dutch League 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rademakers"]
+[Black "Hilwerda"]
+[Result "*"]
+[Puzzle "924"]
+[FEN "r3kb1r/pp5p/b2qp3/3PnpB1/4p1pP/1PN5/P4PBP/R2QR1K1 w kq - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Rxe4 $3 h6 $1 { In the game 20...fxe4? left Black’s king too exposed: 21 Nxe4 Qb6 22 Nf6+ Kf7 23 dxe6+ Kg7 (23...Qxe6 24 Bd5+–) 24 Nxg4 Bd3 (24...Qxe6 25 Bf6+ Qxf6 26 Nxf6 Kxf6 27 Qd4+–) 25 Bf6+ Kg8 26 Bxe5 1-0. } 2. Bf6 fxe4 3. Bxh8 exd5 4. Qxd5 Qxd5 5. Nxd5 Bd6 { Black has a playable game and near-equality. } *

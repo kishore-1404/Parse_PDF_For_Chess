@@ -1,0 +1,12 @@
+[Event "Budapest 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Akshat"]
+[Black "S. Royal"]
+[Result "1-0"]
+[Puzzle "309"]
+[FEN "2r3k1/pb2qp2/1p2p1p1/3nP1Qp/3PN2P/3B4/P4PP1/4R1K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Nf6+ Nxf6 2. exf6 Qb4 { White continues his kingside build-up after 27...Qe8 28 Re3 Qc6 29 Kh2 (White prepares Rg3 without allowing ...Qc1+ in reply) 29...Kf8 30 Qh6+ Ke8 31 Rg3 Kd8 32 Qg7 Qd7 33 Bxg6+–. } 3. Bxg6 $1 Qxe1+ 4. Kh2 Kf8 5. Bxf7 { Black can only delay mate by giving away his pieces. } 1-0

@@ -1,0 +1,12 @@
+[Event "Swiss Team Ch 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hasenohr"]
+[Black "Mantovani"]
+[Result "*"]
+[Puzzle "104"]
+[FEN "r4rk1/1p1n1ppp/p4q2/3Pn3/N2Q1N2/8/PP4PP/2R2RK1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Ne6 $1 { White wins material. } 1... Qg6 2. Nxf8 Rxf8 3. Rc7 *

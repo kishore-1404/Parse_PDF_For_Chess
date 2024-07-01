@@ -1,0 +1,12 @@
+[Event "Pozarevac 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "N. Ristić"]
+[Black "Ibadov"]
+[Result "*"]
+[Puzzle "500"]
+[FEN "r3r1k1/p2nBp1p/3P2p1/1p1Bq3/2pb4/2N4P/PP4PQ/5R1K b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bxc3 $1 2. Bxf7+ Kg7 3. bxc3 Qxh2+ 4. Kxh2 Rf8 $1 { Black simplifies into a winning endgame. } 5. Bd5 { Or 28 Bxc4 bxc4 29 Bxf8+ Rxf8–+. } 5... Rxf1 6. Bxa8 b4 *

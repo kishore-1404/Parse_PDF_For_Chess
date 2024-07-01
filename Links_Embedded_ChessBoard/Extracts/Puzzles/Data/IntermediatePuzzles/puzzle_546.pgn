@@ -1,0 +1,12 @@
+[Event "Geoagiu-Bai 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nahornyi"]
+[Black "Sandu"]
+[Result "*"]
+[Puzzle "546"]
+[FEN "4r1k1/5p1p/6pb/p1Bp1q2/P2Pn3/Q4NPP/R4P1K/8 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Nd2 $1 { A nice interference move to exploit the fact that White’s major pieces are far away from the f2-pawn and his dark-squared bishop plays no defensive role. } 2. Kg2 { The knight cannot be captured: 39 Nxd2? Qxf2+ 40 Kh1 Re1+ 41 Nf1 Rxf1# or 39 Rxd2 Bxd2 40 Kg2 Qe4–+. } 2... Re3 { Or 39...Be3 40 Rxd2 Bxd2 41 Nxd2 Re2 42 Nf3 Qc2–+. } 3. Nxd2 Rxa3 4. Bxa3 Qd3 5. Nf3 Qb3 6. Ra1 Qxa4 *

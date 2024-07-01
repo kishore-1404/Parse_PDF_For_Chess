@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chirila"]
+[Black "Harsha Bharathakoti"]
+[Result "1-0"]
+[Puzzle "239"]
+[FEN "r2q2k1/1b1pb2p/pp2p3/2p1R3/2P2rp1/1P1B3P/PB1P2P1/R2Q2K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Bxh7+ $1 Kxh7 { Declining the bishop doesn’t help: 20...Kf7 21 Bg6+ Kg8 (21...Kxg6 22 Qc2+ Kf7 23 Qh7+ Kf8 24 Qh6+ Ke8 25 Qg6+ Rf7 26 Rf1+–) 22 Qe2 Qc7 23 Qe3 Raf8 24 Rxe6+–. } 2. Qc2+ Kg7 { 21...Be4 22 Rxe4 Rxe4 23 Qxe4+ Kh6 24 hxg4+–. } 3. Rg5+ Kf8 4. Rg8+ { Black is mated after 23...Kxg8 24 Qg6+ Kf8 25 Bg7+ Kg8 26 Bh6+ Kh8 27 Qg7#. } 1-0

@@ -1,0 +1,12 @@
+[Event "Azerbaijani Rapid Ch, Baku 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Asadli"]
+[Black "Manafov"]
+[Result "1-0"]
+[Puzzle "650"]
+[FEN "r4nk1/1ppq2pp/p2p2n1/3Pp3/2P1N1Q1/2N1P2P/PP4P1/5RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Rxf8+ $1 { Black loses his queen after either 21...Rxf8 22 Qxd7+– or 21...Nxf8 22 Nf6+ Kf7 23 Nxd7+–. } 1-0

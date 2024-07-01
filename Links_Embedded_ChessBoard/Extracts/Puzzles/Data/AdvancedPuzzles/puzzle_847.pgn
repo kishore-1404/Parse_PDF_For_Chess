@@ -1,0 +1,12 @@
+[Event "Waterloo 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Samsonkin"]
+[Black "Bosiočić"]
+[Result "*"]
+[Puzzle "847"]
+[FEN "3r1rk1/1b4pp/p2qp3/2Q1n3/Np2PBP1/8/PPP3BP/5RK1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Nf3+ $1 2. Rxf3 { 21 Bxf3 Qxf4–+. } 2... Qd1+ 3. Kf2 { 22 Rf1 Rxf4! 23 Rxd1 Rxd1+ 24 Bf1 Rdxf1+ 25 Kg2 Bxe4+ 26 Kh3 R1f3+ 27 Kh4 h6–+. } 3... Bxe4 *

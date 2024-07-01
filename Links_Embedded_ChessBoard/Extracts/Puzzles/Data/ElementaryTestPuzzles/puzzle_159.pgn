@@ -1,0 +1,12 @@
+[Event "USA Ch, Saint Louis 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L. Dominguez"]
+[Black "Moradiabadi"]
+[Result "1-0"]
+[Puzzle "159"]
+[FEN "rn3rk1/ppp1bppp/8/3q1b2/3Pn3/3B1N2/PP3PPP/RNBQ1RK1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. Bxe4 $1 { Black loses a piece after 10...Bxe4 (10...Qxe4 11 Re1 Qd5 12 Rxe7+–) 11 Nc3 Bxf3 12 Nxd5 Bxd1 13 Nxe7+ Kh8 14 Rxd1+–. } 1-0

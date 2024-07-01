@@ -1,0 +1,12 @@
+[Event "Khanty-Mansiisk 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "M. Volkov"]
+[Black "Yeletsky"]
+[Result "*"]
+[Puzzle "647"]
+[FEN "q2b2k1/3Q1pp1/p3p1p1/8/4P3/4PKP1/PP2r2P/2R5 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Rxe3+ $1 2. Kf2 { 32 Kxe3 Bg5+ 33 Kd3 Bxc1–+. } 2... Bb6 3. Rc8+ Kh7 4. Rxa8 Rd3+ 5. Ke2 Rxd7 *

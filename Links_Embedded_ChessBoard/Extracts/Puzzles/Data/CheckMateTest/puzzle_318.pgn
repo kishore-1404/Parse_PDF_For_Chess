@@ -1,0 +1,12 @@
+[Event "Sitges 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Garcia Molina"]
+[Black "Demchenko"]
+[Result "*"]
+[Puzzle "318"]
+[FEN "8/pp5k/3pPq2/6p1/QPP2p2/P5n1/6P1/5RK1 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Qd4+ 2. Rf2 { After 33 Kh2 Nxf1+ both 34 Kh1 Ng3+ 35 Kh2 Qa1 36 Qd7+ Kh6 and 34 Kh3 Qd3+ 35 Kg4 Kh6 lead to mate. } 2... Qa1+ 3. Kh2 Qh1# *

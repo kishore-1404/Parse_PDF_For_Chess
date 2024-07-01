@@ -1,0 +1,12 @@
+[Event "Jakarta Zonal 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Tran Tuan Minh"]
+[Black "Novita"]
+[Result "1-0"]
+[Puzzle "587"]
+[FEN "r3r1k1/1p2Rpp1/p6p/3q2P1/3p1P2/P2Bn3/1PP4Q/2K3R1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. gxh6 $1 g6 { Black is mated after 31...Rxe7 32 hxg7 f5 33 Qh8+ Kf7 34 g8Q+ Rxg8 35 Qxg8+ Kf6 36 Qg6#. } 2. Qh4 { 32 h7+ Kh8 33 Qh4 Qd6 transposes to the game. } 2... Qd6 3. h7+ Kh8 4. Rxf7 Qe6 5. Rf6 Nf5 6. Qg5 1-0

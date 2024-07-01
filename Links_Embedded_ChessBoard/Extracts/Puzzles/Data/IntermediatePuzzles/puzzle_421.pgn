@@ -1,0 +1,12 @@
+[Event "Geoagiu-Bai 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Iskandarov"]
+[Black "Kourkoulos-Arditis"]
+[Result "*"]
+[Puzzle "421"]
+[FEN "r2qr2k/pp1b2bp/2n3p1/5p2/4p3/B1P2NP1/P1Q1PPBP/1R1R2K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Rxb7 $1 exf3 2. Bxf3 Ne5 3. Rbxd7 $1 { White obtains a decisive material advantage. } 3... Nxd7 4. Bxa8 Qxa8 5. Rxd7 *

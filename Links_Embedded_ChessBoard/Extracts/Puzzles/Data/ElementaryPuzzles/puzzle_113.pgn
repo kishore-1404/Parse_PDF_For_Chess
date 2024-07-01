@@ -1,0 +1,12 @@
+[Event "Israeli Team Ch 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Erenberg"]
+[Black "Kochavi"]
+[Result "*"]
+[Puzzle "113"]
+[FEN "5rk1/3n3p/bp1bpq2/pN1p1pp1/2rP4/PQ3PP1/1P2PBBP/R1R3K1 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... a4 $1 2. Qxc4 { The game ended 23 Rxc4 axb3 0-1. } 2... dxc4 3. Nxd6 e5 { Black has a decisive material advantage. } *

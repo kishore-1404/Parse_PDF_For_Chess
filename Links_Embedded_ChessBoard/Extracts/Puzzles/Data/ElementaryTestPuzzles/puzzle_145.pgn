@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "N. Steinberg"]
+[Black "Sargissian"]
+[Result "1-0"]
+[Puzzle "145"]
+[FEN "3q1r2/1bp2p1k/p1np1Qpb/P3p3/1p2P1P1/1B1PN3/1PP2PK1/7R w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. Rxh6+ $1 Kxh6 2. Nf5+ { 32...Kh7 33 Qg7#. } 1-0

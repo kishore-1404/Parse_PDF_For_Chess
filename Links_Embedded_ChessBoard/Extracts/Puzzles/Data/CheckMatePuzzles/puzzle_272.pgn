@@ -1,0 +1,12 @@
+[Event "Montevideo 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Perez Candelas"]
+[Black "Lopez Azambuja"]
+[Result "1-0"]
+[Puzzle "272"]
+[FEN "2r1r3/pb4k1/1p2p2p/5ppP/3P2N1/P4Pq1/6P1/1Q1RR1K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. d5 $1 { White offers a piece sacrifice to open the long diagonal for his queen. } 1... fxg4 { Black’s king is too exposed if he declines the knight sacrifice. For example: 35...Bxd5 36 Qb2+ e5 37 Rxe5+–. } 2. Qg6+ Kh8 { 36...Kf8 37 Qxh6+ and now 37...Kg8 transposes to the game, while 37...Ke7 38 Qg7+ leads to mate. } 3. Qxh6+ Kg8 4. Qxg5+ Kh8 5. Qf6+ Kg8 { 39...Kh7 40 Rxe6 Rxe6 41 dxe6+–. } 6. Re5 Kh7 7. Qg6+ Kh8 8. Qh6+ { 42...Kg8 43 Rg5+ Kf7 44 Qg7#. } 1-0

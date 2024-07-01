@@ -1,0 +1,12 @@
+[Event "Slovakian Team Ch 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "K. Malinovsky"]
+[Black "Smolen"]
+[Result "*"]
+[Puzzle "140"]
+[FEN "3k1r2/3nR3/1n6/pQ1pNqpP/1p1P4/8/2r2PP1/5RK1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. g4 $1 { Black’s queen is overloaded. } 1... Nxe5 2. gxf5 Nf3+ 3. Kg2 Kxe7 4. Kxf3 { White has a decisive material advantage. } *

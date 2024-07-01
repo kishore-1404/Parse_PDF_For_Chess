@@ -1,0 +1,12 @@
+[Event "Delhi 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Harsha Bharathakoti"]
+[Black "Panda"]
+[Result "1-0"]
+[Puzzle "425"]
+[FEN "5n2/5k2/r2qppp1/p2p4/2pP1P1N/2P1R1P1/Pr3P2/3QR1K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. f5 $1 Qd7 { White’s well-placed rooks make all the difference here and Black has no good way to capture White’s f5-pawn; for example, 29...gxf5 30 Nxf5 Qd8 (30...exf5 31 Qh5+ Kg8 32 Re7+–) 31 Qh5+ Kg8 32 Qg4+ Kf7 33 Kg2 Qd7 34 Qh5+ Kg8 35 Rh1+–, while 29...exf5 30 Nxf5 gxf5 is the same as 29...gxf5 30 Nxf5 exf5. } 2. Nxg6 e5 { 30...Nxg6 31 Qh5 Kf8 32 Qxg6 Qf7 33 Qh6+ Qg7 34 Qh5+–. } 3. Rxe5 fxe5 4. Nxe5+ 1-0

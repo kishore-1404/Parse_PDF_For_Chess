@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sadhwani"]
+[Black "Ganguly"]
+[Result "*"]
+[Puzzle "619"]
+[FEN "4r1k1/6pp/p1p5/P1Bp4/1PP1p3/1R2Rr1q/3Q1P2/6K1 w - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1. Qe2 $1 { In the game White was unable to avoid mate after 30 Bd6? Re6 31 Qe2 Rg6+ 0-1 in view of 32 Bg3 Rh6–+. } 1... Re5 { 30...Re6 31 Rxf3 exf3 32 Rxf3 Rg6+ 33 Rg3 Rxg3+ comes to the same thing. } 2. Rxf3 exf3 3. Rxf3 Rg5+ 4. Rg3 Rxg3+ 5. fxg3 Qxg3+ 6. Kf1 { Or: 36 Ke1 Qc1+ 37 Qd1 Qxc4 =; 36 Kg2 Qg5+ =. } 6... Qf4+ 7. Kg1 { with a draw by repetition. } 7... Qg3+ 8. Kf1 Qf4+ *

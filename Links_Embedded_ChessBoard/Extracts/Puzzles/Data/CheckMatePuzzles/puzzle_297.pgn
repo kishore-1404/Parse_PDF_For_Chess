@@ -1,0 +1,12 @@
+[Event "Baku 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Salimova"]
+[Black "Sivuk"]
+[Result "1-0"]
+[Puzzle "297"]
+[FEN "4k3/1Q1np1b1/1q3r2/4p3/PB6/5Bp1/2P3K1/7R w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Qc8+ $1 Kf7 { Black loses his queen after 37...Qd8 38 Bh5++–. } 2. Bh5+ Rg6 { 38...Ke6 allows mate by 39 Qc4+ Kf5 40 Qg4#. } 3. Qc4+ e6 4. Bxg6+ Kxg6 5. Qd3+ e4 6. Qxg3+ Kf7 { 42...Kf6 43 Rf1+ Qf2+ 44 Rxf2#. } 7. Rh7 { 43...Qd4 44 Bc3+–. } 1-0

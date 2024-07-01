@@ -1,0 +1,12 @@
+[Event "Danish Rapid Ch, Avedore 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "J. Lauridsen"]
+[Black "Øst-Hansen"]
+[Result "*"]
+[Puzzle "304"]
+[FEN "r2qr1k1/3b1p1p/p1npp1pB/1p2nPb1/4P1P1/1NN4Q/PPP2RBP/5R1K w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. f6 $1 { White closes the f-file, but catches the black king in a mating-net. } 1... Nxg4 { 19...Bxf6 20 Rxf6+–. } 2. Bxg5 $1 Nxf2+ { 20...h5 21 Rd2+–. } 3. Rxf2 h5 4. Bf3 { Now 22...e5 is met by 23 Qh4 with the idea of 24 Bxh5. } *

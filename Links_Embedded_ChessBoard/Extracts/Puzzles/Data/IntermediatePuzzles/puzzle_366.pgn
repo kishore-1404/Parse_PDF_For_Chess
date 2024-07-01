@@ -1,0 +1,12 @@
+[Event "Danish Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "M.S. Hansen"]
+[Black "Vasli"]
+[Result "0-1"]
+[Puzzle "366"]
+[FEN "4r3/3b1pk1/p2p4/2pN4/1pPn1R2/3B4/PP4PP/7K b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bf5 $1 { Black exploits White’s weak back rank. } 2. Bf1 Re1 3. Kg1 Bd3 4. b3 { 33 Rg4+ Kf8–+. } 4... Ne2+ 5. Kf2 Rxf1+ 0-1

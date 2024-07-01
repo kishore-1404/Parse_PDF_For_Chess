@@ -1,0 +1,12 @@
+[Event "2nd Bundesliga 2021/2"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "S. Pallas"]
+[Black "E. Miller"]
+[Result "*"]
+[Puzzle "503"]
+[FEN "2rqr1k1/p4pp1/3n4/3P3p/5P1P/3QB1P1/P5K1/R6R b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Rxe3 $1 { Black sacrifices the exchange to seize the initiative before White can activate his rooks. } 2. Qxe3 Rc2+ 3. Kg1 { Or 28 Kf1 Nc4 29 Qd3 Qb6–+. } 3... Nf5 4. Qb3 { Or 29 Qxa7 Qf6 30 Rf1 Qg6–+. } 4... Nd4 5. Qd3 Qxd5 6. Rh2 { The game ended 31 Rd1 Qg2# (0-1). } 6... Ne2+ 7. Qxe2 Qd4+ 8. Kf1 Qxa1+ *

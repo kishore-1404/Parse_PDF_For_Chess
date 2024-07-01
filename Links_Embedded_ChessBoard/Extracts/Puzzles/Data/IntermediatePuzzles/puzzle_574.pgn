@@ -1,0 +1,12 @@
+[Event "Bucharest rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pranav"]
+[Black "Sgircea"]
+[Result "*"]
+[Puzzle "574"]
+[FEN "r1b1k2r/pp2pp1p/2p2np1/1q6/3B4/1B2QP2/P1P1K1PP/R6R w kq - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. c4 $1 { In the game 16 Kd1? Be6=+ favoured Black due to White’s misplaced king. } 1... Qf5 { 16...Qh5? 17 Bxf6+–. } 2. g4 $1 { The key follow-up idea, without which White’s previous move would make little sense. } 2... Nxg4 { 17...Qe6 18 g5+–. } 3. fxg4 Qxg4+ 4. Kd2 O-O 5. Rhg1 Qh4 6. Kc3 { with a decisive attack. } *

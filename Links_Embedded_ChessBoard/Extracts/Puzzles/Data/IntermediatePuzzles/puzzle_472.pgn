@@ -1,0 +1,12 @@
+[Event "Los Angeles 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mahajan"]
+[Black "Avila Rodriguez"]
+[Result "*"]
+[Puzzle "472"]
+[FEN "2rr2k1/3q1ppp/Q3p3/1pBn4/1PpP4/6P1/1P2PPBP/R5K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Qe8 $1 { The queen retreat is best, so that Black can contest the a-file and activate his rooks. After 25...f5?! 26 Ra5 (as actually played) White has a playable game, and near-equality. } 2. Ra5 Ra8 3. Qxb5 Qxb5 4. Rxb5 Ra2 { Black has a material advantage and good chances to win. } *

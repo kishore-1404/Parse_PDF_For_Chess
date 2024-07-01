@@ -1,0 +1,12 @@
+[Event "Internet rapid (women’s team event) 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reizniece-Ozola"]
+[Black "E. Cvitan"]
+[Result "*"]
+[Puzzle "732"]
+[FEN "r1b1kn2/1p2qppr/p2b1n2/3pN3/3PpP2/1PN1P3/PB4BP/2R1QRK1 w q - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Nxd5 $1 { White must play actively because 17 Rc2? (as chosen in the game) allows Black to stabilize her central space advantage with 17...Bf5 –/+. } 1... Nxd5 2. Bxe4 Nf6 3. Bxh7 N8xh7 4. e4 { White has two mobile central pawns in exchange for the sacrificed piece. Objectively the chances are roughly equal, but in practice it would be very easy for Black to land in trouble. } *

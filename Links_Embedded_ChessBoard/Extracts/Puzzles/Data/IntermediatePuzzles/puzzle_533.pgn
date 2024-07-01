@@ -1,0 +1,12 @@
+[Event "World Under-18 Ch, Mamaia 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torngren"]
+[Black "Pobor"]
+[Result "*"]
+[Puzzle "533"]
+[FEN "r4r2/p1pq1pk1/1p2p3/6PQ/2nP3P/P1P1P3/5P2/R3K1R1 w Q - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Qh6+ $1 { After 26 g6? the game ended 26...Rfd8? 27 gxf7+ Kf6 28 f8R+ Rxf8 29 Rg6+ Kf7 30 Rh6+ 1-0, but Black could have mounted a successful defence by 26...Qd5! 27 Qh7+ Kf6 28 g7 Rg8 29 e4 Qc6, with roughly equal chances in a wild position. } 1... Kg8 2. g6 f5 { 27...fxg6 28 Rxg6++–. } 3. g7 Rfd8 4. Rg6 { Other rook moves along the g-file, such as 29 Rg5 and 29 Rg3, also win. } 4... Qe7 5. Qh8+ Kf7 6. g8=Q+ Rxg8 7. Qh7+ Ke8 8. Rxg8+ Kd7 9. Qxe7+ Kxe7 10. Rxa8 *

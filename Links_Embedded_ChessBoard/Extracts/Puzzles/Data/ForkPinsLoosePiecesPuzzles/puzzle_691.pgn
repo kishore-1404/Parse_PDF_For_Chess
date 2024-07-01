@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Krassowizkij"]
+[Black "Adams"]
+[Result "*"]
+[Puzzle "691"]
+[FEN "3q1rk1/1p3pp1/3r3p/2pn4/4Q3/pPP2N1P/P4PP1/3RR1K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Qd3 $1 { Black cannot prevent White from winning a piece with the pawn advance c4. } 1... Qf6 2. c4 Rfd8 3. cxd5 Rxd5 4. Re8+ Rxe8 5. Qxd5 *

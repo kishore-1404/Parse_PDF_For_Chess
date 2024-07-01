@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kobalia"]
+[Black "Yilmaz"]
+[Result "*"]
+[Puzzle "116"]
+[FEN "2rr4/3Pkp2/p4p2/1p3P2/2p2p2/7R/PPP4P/1K1R4 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. dxc8=N+ $1 { The game ended tragically for White after 35 dxc8Q?? Rxd1# (0-1). It is possible that this was not a standard oversight, but because the ‘auto-queen’ feature was enabled by White for this online game. Whatever the cause, it turned a win into an instant loss. } 1... Rxc8 2. Rf3 *

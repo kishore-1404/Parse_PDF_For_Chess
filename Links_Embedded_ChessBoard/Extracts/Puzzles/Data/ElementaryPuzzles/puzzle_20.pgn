@@ -1,0 +1,12 @@
+[Event "Newcastle 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "J. Willow"]
+[Black "Grieve"]
+[Result "*"]
+[Puzzle "20"]
+[FEN "2r5/3p1kpp/1Q2pp2/8/4P1P1/1K3P2/2r4P/7R b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... R8c3+ $1 2. Ka4 { 32 Kb4 Rb2+ 33 Kxc3 Rxb6 transposes to the game. } 2... Ra2+ 3. Kb4 Rb2+ 4. Kxc3 Rxb6 { Black has an extra pawn and good chances to win. } *

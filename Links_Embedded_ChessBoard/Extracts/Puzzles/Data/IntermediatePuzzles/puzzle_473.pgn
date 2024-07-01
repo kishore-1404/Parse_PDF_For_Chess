@@ -1,0 +1,12 @@
+[Event "Riyadh rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Aziz"]
+[Black "Djabri"]
+[Result "0-1"]
+[Puzzle "473"]
+[FEN "3r4/2b2pk1/RN2p1pp/2P1p3/4b1PP/1N3B2/Pq3QK1/8 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bxf3+ 2. Kxf3 e4+ 3. Kg2 Qe5 $1 { White is unable to defend his king despite his extra material because his pieces are out of play on the queenside. } 4. Kf1 { White loses his queen after 37...Rd1+ 38 Ke2 Qb2+ 39 Kxd1 Qxf2–+. } 0-1

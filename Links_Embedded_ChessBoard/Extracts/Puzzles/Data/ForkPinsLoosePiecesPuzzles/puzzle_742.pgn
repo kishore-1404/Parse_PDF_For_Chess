@@ -1,0 +1,12 @@
+[Event "Budapest 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Tyurin"]
+[Black "Kwon"]
+[Result "*"]
+[Puzzle "742"]
+[FEN "r2r2k1/3qbppp/p4n2/3pB3/1p1P4/2N2QP1/PP3P1P/3RR1K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Bxf6 $1 Bxf6 2. Nxd5 $1 Qd6 { Black loses his queen after 19...Qxd5 20 Re8+! Rxe8 21 Qxd5+–. } 3. Nxf6+ Qxf6 4. Qxf6 gxf6 5. d5 *

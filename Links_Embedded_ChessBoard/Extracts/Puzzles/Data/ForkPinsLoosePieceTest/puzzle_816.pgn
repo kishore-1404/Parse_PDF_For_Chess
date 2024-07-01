@@ -1,0 +1,12 @@
+[Event "Czech Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Jansa"]
+[Black "Omelja"]
+[Result "*"]
+[Puzzle "816"]
+[FEN "3rk3/p1p1bpp1/2p3r1/1p1bP2p/4NB1n/1P1R1N1P/P1P2PP1/4R1K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1. Nf6+ $1 Rxf6 { 19...gxf6 20 Nxh4+–. } 2. exf6 Nxf3+ 3. Rxf3 gxf6 { 21...Bxf3 22 Rxe7+ Kf8 23 gxf3+–. } 4. Rg3 { White has a decisive material advantage. } *

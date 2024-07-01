@@ -1,0 +1,12 @@
+[Event "Budapest 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Leszko"]
+[Black "Rosh"]
+[Result "*"]
+[Puzzle "477"]
+[FEN "2r1r1k1/3b2pp/pq3p2/2bp4/P3n3/4PN2/1B2BPPP/Q2R1RK1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bxe3 $1 2. Bd4 { Or 23 fxe3 Qxe3+ 24 Kh1 Qxe2–+. } 2... Bxd4 3. Qxd4 { The black queen is more active than her white counterpart after 24 Rxd4 Nc3 25 Bd3 a5 –/+; Black then has an extra pawn and good chances to win. } 3... Qxd4 4. Rxd4 Nc5 { Black is a pawn up and can seek victory. } *

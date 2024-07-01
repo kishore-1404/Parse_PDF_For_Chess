@@ -1,0 +1,12 @@
+[Event "Vandœuvre-lès-Nancy 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lamaze"]
+[Black "Kunin"]
+[Result "*"]
+[Puzzle "978"]
+[FEN "r4rk1/1p4pp/2p5/p2b4/3PN1Pq/P4P1P/1P2Q1K1/3R3R b - - 0 1"]
+[PuzzleType "DeadlyPuzzles"]
+
+1... Rxf3 $1 2. Kxf3 { 29 Qxf3 Rf8 30 Qxf8+ Kxf8 31 Rhe1 h5–+. } 2... Rf8+ 3. Ke3 { 30 Kg2? Bxe4+ leads to mate. } 3... Bxe4 4. Rh2 $6 { 31 Kxe4 Re8+ 32 Kd3 (32 Kf3? Qf6+ 33 Kg3 Rxe2–+) 32...Qg3+ 33 Kd2 Rxe2+ 34 Kxe2 Qg2+ 35 Kd3 Qxb2–+. } 4... Qg5+ { Or the crisper 31...Qg3+! 32 Kd2 Bf3!–+. } 5. Kxe4 Re8+ 6. Kf3 { 33 Kd3 Qb5+–+. } 6... Qd5+ 7. Kf2 Rxe2+ 8. Kxe2 Qe4+ 9. Kf1 { 36 Kf2? Qc2+–+. } 9... Qf3+ 10. Ke1 Qg3+ 11. Rf2 Qxh3 { Black went on to win. } *

@@ -1,0 +1,12 @@
+[Event "Budapest 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Udvardi"]
+[Black "Ongut"]
+[Result "*"]
+[Puzzle "519"]
+[FEN "7k/bpp1Np1n/3p1q2/p3p2b/2B1P3/2PP1Nr1/PP1Q2P1/R3R2K w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nf5 $1 Rxf3 { White has a decisive material advantage after 25...Bxf3 26 gxf3 Rh3+ (26...Rg5 27 Re2+–) 27 Kg2 Qg6+ 28 Kxh3 Ng5+ 29 Qxg5 Qxg5 30 Bxf7+–. } 2. gxf3 Bxf3+ 3. Kh2 Qg6 4. Bxf7 Qxf7 5. Qh6 *

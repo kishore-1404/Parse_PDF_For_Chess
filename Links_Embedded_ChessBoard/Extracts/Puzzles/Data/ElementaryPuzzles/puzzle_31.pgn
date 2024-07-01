@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Schmidek"]
+[Black "Ribli"]
+[Result "1-0"]
+[Puzzle "31"]
+[FEN "3r3r/p2Qnkpp/npp1p3/4p3/2q5/2B1R3/PP3PPP/2KR4 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Rf3+ Kg6 { 18...Kg8 19 Qxd8#. } 2. Qxe7 Rxd1+ 3. Kxd1 { Black’s rook and knight are unable to assist and he has no good defence to the threats of 21 Rg3+ and 21 Qf7+ followed by Bd2+. } 1-0

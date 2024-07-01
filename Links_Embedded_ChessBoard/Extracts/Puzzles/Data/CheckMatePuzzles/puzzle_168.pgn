@@ -1,0 +1,12 @@
+[Event "Italian Ch, Cagliari 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "S. Brunello"]
+[Black "Moroni"]
+[Result "0-1"]
+[Puzzle "168"]
+[FEN "4r1k1/5p2/6R1/1p2P1Q1/nPr5/pK4Nq/P2R4/8 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Kh7 $1 { 41...fxg6?? 42 Qxg6+ leads to mate after both 42...Kf8 43 Rf2+ and 42...Kh8 43 Qxe8+ Kg7 44 Qe7+. } 2. Rg7+ Kh8 { White has no reasonable way to defend the c3-square. } 3. Rd3 Rec8 0-1

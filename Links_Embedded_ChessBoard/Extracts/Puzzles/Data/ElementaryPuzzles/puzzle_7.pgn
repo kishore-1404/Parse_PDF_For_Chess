@@ -1,0 +1,12 @@
+[Event "Richardson (team event) 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Escalante Ramirez"]
+[Black "Khanin"]
+[Result "0-1"]
+[Puzzle "7"]
+[FEN "3r2k1/6pp/q7/3rP3/3n1p2/1P1Q4/2P2pPP/BK1R1R2 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Nb5 $1 2. Rxf2 { 33 Qxd5+ Rxd5 34 Rxd5 Na3+ 35 Ka2 Nxc2+ 36 Kb2 Qxf1–+. } 2... Rxd3 3. Rxd3 Rxd3 4. cxd3 Nc7 { Black has a decisive material advantage. } 0-1

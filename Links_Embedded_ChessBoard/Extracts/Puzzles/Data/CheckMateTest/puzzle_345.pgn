@@ -1,0 +1,12 @@
+[Event "Chinese Team Ch 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Xu Yi"]
+[Black "Peng Xiongjian"]
+[Result "0-1"]
+[Puzzle "345"]
+[FEN "8/4Qpbk/2N3p1/2nP3p/8/1P2BP2/P4KPP/3q4 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Nd3+ 2. Kg3 Qf1 $1 3. Bd4 { 31 d6 Ne1–+. } 3... Bxd4 4. Qxf7+ Kh6 5. Kh3 { After 33 Nxd4 White is mated by a series of checks: 33...Qe1+ 34 Kh3 Nf2+ 35 Kg3 (35 Kh4 g5+ 36 Kg3 h4#) 35...h4+ 36 Kxh4 g5+ 37 Kg3 Nd1+ 38 Kg4 Ne3+ 39 Kh3 Qh4#. } 5... Nf2+ 6. Kg3 h4+ 7. Kxh4 Qxg2 0-1

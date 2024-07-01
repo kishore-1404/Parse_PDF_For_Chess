@@ -1,0 +1,12 @@
+[Event "Lyons 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L. Ernst"]
+[Black "Brailly"]
+[Result "*"]
+[Puzzle "267"]
+[FEN "r3k3/1b2bp1p/pp2p1r1/P1q1p3/N1P1P3/1P1B4/1B2QnPP/2R1R1K1 b q - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Nxd3+ $1 2. Nxc5 Bxc5+ 3. Kh1 { Or 24 Kf1 Rf6+ 25 Qf3 Rxf3+ 26 gxf3 Nxb2–+. } 3... Nf2+ 4. Kg1 { In the game 25 Qxf2 Bxf2–+ left White a piece down. } 4... Nxe4+ 5. Kh1 { Or 26 Kf1 Rf6+ 27 Qf3 Nd2+ 28 Ke2 Nxf3–+. } 5... Ng3+ $1 6. hxg3 Rh6+ 7. Qh5 Rxh5# *

@@ -1,0 +1,12 @@
+[Event "Spanish Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Palacios Herrero"]
+[Black "Vergara Anton"]
+[Result "*"]
+[Puzzle "73"]
+[FEN "3r2k1/2b1nbp1/1pp2p1p/p3pP2/P6P/2BB1PP1/1PP1K3/2NR4 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... e4 $1 2. Bxe4 { 33 fxe4? was played in the game, and Black then won material with 33...Bh5+ 34 Kd2 Bxd1 35 Kxd1 Bxg3–+. } 2... Rxd1 3. Kxd1 Bxg3 4. Be1 Bxe1 5. Kxe1 Kf8 { Black has an endgame advantage due to White’s weak kingside pawn-structure. } *

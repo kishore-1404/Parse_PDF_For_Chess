@@ -1,0 +1,12 @@
+[Event "World Junior Ch, Cala Gonone 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Boyer"]
+[Black "Samunenkov"]
+[Result "*"]
+[Puzzle "341"]
+[FEN "1r6/3R2p1/3P1k2/4p2r/2P5/1P3Pp1/5BP1/4R1K1 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Rh1+ $1 { A decoy to draw the white king into a mating-net. } 2. Kxh1 gxf2 3. Rf1 Rh8# *

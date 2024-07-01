@@ -1,0 +1,12 @@
+[Event "British League (4NCL) 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Makkar"]
+[Black "Murphy"]
+[Result "1-0"]
+[Puzzle "231"]
+[FEN "7k/2R3R1/b2r3p/P7/5P2/3p1KP1/4p2P/8 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Rge7 $1 Rd8 2. f5 d2 { 37...Kg8 38 f6 e1Q (38...d2 39 Rh7 transposes to the game) 39 Rxe1 d2 40 Rd1 Bb5 41 Rc2 Ba4 42 Rdxd2+–. } 3. Rh7+ Kg8 4. f6 { White just needs to evade Black’s checks in order to deliver mate. } 4... e1=N+ $5 { 39...d1Q 40 Rcg7+ Kf8 41 Rh8#. } 5. Kf2 $1 Nd3+ 6. Kg2 $1 { White’s last two king moves were both ‘only’ moves to win. } 6... Ne1+ 7. Kh1 { 42 Kg1 also wins, but certainly not 42 Kh3??, when it is White who gets mated! } 1-0

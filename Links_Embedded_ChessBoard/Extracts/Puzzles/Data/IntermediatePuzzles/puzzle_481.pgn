@@ -1,0 +1,12 @@
+[Event "Basle 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Laurent-Paoli"]
+[Black "Stijve"]
+[Result "*"]
+[Puzzle "481"]
+[FEN "r3qb1k/pb5p/2N5/2p4N/3pp3/8/PP2Q1PP/5RK1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nf6 $1 Qxc6 2. Qh5 Qc7 { Other moves cost Black his queen. For example: 29...Qxf6 30 Rxf6+– (as played in the game) or 29...h6 30 Qg6+–. } 3. Ne8 Rxe8 { Or 30...Qe7 31 Rf7+–. } 4. Qxe8 Bd5 5. Rxf8+ Kg7 6. Rf5 *

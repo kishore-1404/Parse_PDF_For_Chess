@@ -1,0 +1,12 @@
+[Event "Baku 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Suleymanli"]
+[Black "Gadimbayli"]
+[Result "1-0"]
+[Puzzle "436"]
+[FEN "2b1r1k1/p2r2pp/1pp1qB2/5R2/4PPQP/1P3BP1/P7/6K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Re5 $1 Qf7 2. Qxg7+ Qxg7 3. Rxe8+ Kf7 { 29...Qf8 30 Rxf8+ Kxf8 31 g4 c5 32 f5 Bb7 33 g5 b5 34 h5+–. } 4. Bxg7 Kxe8 5. Bh5+ Ke7 { 31...Kd8 32 Bf6+ Kc7 33 f5+–. } 6. f5 { White’s passed pawns cannot be stopped. } 6... Rd8 7. f6+ Ke6 8. f7 Ke7 9. e5 1-0

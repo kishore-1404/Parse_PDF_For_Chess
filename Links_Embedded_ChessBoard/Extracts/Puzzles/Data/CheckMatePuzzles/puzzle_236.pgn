@@ -1,0 +1,12 @@
+[Event "Bulgarian Ch, Sofia 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ki. Georgiev"]
+[Black "M. Petrov"]
+[Result "0-1"]
+[Puzzle "236"]
+[FEN "2r3k1/p4p2/1p2p2p/6p1/3P1n2/P3QNPP/1P1R1P1K/1q6 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Rc1 $1 { Black’s control of his eighth rank gives him a mating attack. } 2. gxf4 Rh1+ 3. Kg3 Qf1 4. Nxg5 { 32 fxg5 Qxh3+ 33 Kf4 Qf5+ 34 Kg3 h5 35 Nh2 Rg1+ 36 Kh4 Rg4+ 37 Kxh5 (37 Kh3 Re4+–+) 37...Rg1 followed by mate. } 4... hxg5 5. Kg4 Rg1+ 6. Kh5 gxf4 7. Qf3 Qb5+ 8. d5 Qe8 { 36...f5 also leads to mate. } 9. Qxf4 f5+ 10. Kh4 Qe7+ { 39 Kh5 Qf7+ and mate follows. } 0-1

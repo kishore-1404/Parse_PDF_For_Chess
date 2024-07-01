@@ -1,0 +1,12 @@
+[Event "European Under-16 Ch, Antalya 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A. Sahakyan"]
+[Black "Chyzy"]
+[Result "*"]
+[Puzzle "487"]
+[FEN "1nr3k1/1b2b1pp/4Pp2/qp2N3/1n2P3/6PB/4QP1P/2N2RK1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Bf5 $1 { After 29 Qh5? Bxe4! (as played in the game) White was unable to strengthen his attack: 30 Qf7+ Kh8 31 Qxe7 fxe5–+ and Black went on to win. } 1... fxe5 2. Qh5 { Or 30 Bxh7+ Kxh7 31 Qh5+ Kg8 32 Qf7+ Kh7 33 Qh5+ with a draw by repetition. } 2... g6 3. Bxg6 hxg6 4. Qxg6+ Kh8 { Not 32...Kf8?? 33 Qf7#. } 5. Qh6+ Kg8 6. Qg6+ Kh8 { with a draw by repetition. } *

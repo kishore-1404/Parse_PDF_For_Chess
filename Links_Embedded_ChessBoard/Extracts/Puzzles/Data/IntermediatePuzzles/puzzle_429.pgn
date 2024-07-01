@@ -1,0 +1,12 @@
+[Event "Khanty-Mansiisk rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Riazantsev"]
+[Black "Khubukshanov"]
+[Result "*"]
+[Puzzle "429"]
+[FEN "r3brk1/p3q1pp/Pppbpn2/3p1p2/2PPP3/1PNB1P2/1BQ3PP/4RRK1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... dxe4 2. fxe4 Bxh2+ $1 { The sacrifice works because White’s minor pieces are all far away on the queenside. } 3. Kh1 { 23 Kxh2 Ng4+ 24 Kg1 Qh4 25 g3 Qxg3+ 26 Kh1 f4–+ with a winning attack for Black. } 3... Ng4 4. g3 Bxg3 5. Re2 Qh4+ 6. Kg1 f4 { Black has a decisive attack. } *

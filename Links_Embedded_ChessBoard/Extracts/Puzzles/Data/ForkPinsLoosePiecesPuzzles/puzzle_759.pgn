@@ -1,0 +1,12 @@
+[Event "Newcastle 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Large"]
+[Black "Max Turner"]
+[Result "*"]
+[Puzzle "759"]
+[FEN "4r1k1/1q3p1p/p5p1/4r1n1/5RQP/1P1RN1P1/P4P2/6K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... h5 $1 { Black forces the white queen away from defending against a knight fork on the h3-square. } 2. Qxg5 { White loses further material after 31 Qd7? Qxd7 32 Rxd7 Nh3+ 33 Kg2 Nxf4+ 34 gxf4 Ra5–+. } 2... Rxg5 3. hxg5 Re5 4. Rfd4 Rxg5 { Black has a material advantage and good chances to win. } *

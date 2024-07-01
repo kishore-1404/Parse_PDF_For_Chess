@@ -1,0 +1,12 @@
+[Event "Sant Boi 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "T. Sosa"]
+[Black "Leisch"]
+[Result "1-0"]
+[Puzzle "164"]
+[FEN "2Q5/6k1/1p1b1q2/8/2Bp3p/1P4P1/1P3P2/6K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Qg8+ Kh6 2. Bd3 $1 hxg3 { 53...Qg7 54 Qe6++–. } 3. fxg3 Kh5 { 54...Bxg3 55 Qxg3+–. } 4. Qh7+ { Black is mated after 55...Kg5 56 Qh4#, 55...Qh6 56 Qf5+ Qg5 57 Qh3+ Qh4 58 Qxh4# or 55...Kg4 56 Be2+ Kxg3 (56...Kg5 57 Qh5#) 57 Qh2#. } 1-0

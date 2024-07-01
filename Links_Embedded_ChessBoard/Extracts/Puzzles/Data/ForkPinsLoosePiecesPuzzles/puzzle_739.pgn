@@ -1,0 +1,12 @@
+[Event "Basle 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L. Peng"]
+[Black "Hakimifard"]
+[Result "1-0"]
+[Puzzle "739"]
+[FEN "2rq1rk1/pp3ppp/2b5/n1bN3Q/8/P1P3P1/5PBP/1RB2RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Bg5 $1 { Black’s problem is that her minor pieces are all over on the queenside, and in some lines her dark-squared bishop and knight are unprotected. } 1... f6 { Black’s kingside comes under assault after 18...Qd7 19 Bf6! Rfe8 (Black must give up her queen to prevent mate after 19...Bxd5? 20 Qg5+–) 20 Rbd1 g6 (or 20...Bxd5 21 Rxd5+–) 21 Qh6 Bf8 22 Qh4 Bxd5 23 Rxd5 Qc7 24 Rh5. Black loses material; for example, 24...Be7 25 Bxe7 Qxe7 26 Qxe7 Rxe7 27 Rxa5+–. } 2. Be4 $1 h6 { Or 19...g6 20 Bxg6+–. } 3. Bxf6 { White can also capture the f6-pawn with the knight: 20 Nxf6+ Rxf6 21 Bxf6 Qxf6 22 Qxc5+–. } 3... Qe8 { 20...Rxf6 21 Nxf6+ Qxf6 transposes to the previous note. } 4. Qg4 g5 5. Bxg5 1-0

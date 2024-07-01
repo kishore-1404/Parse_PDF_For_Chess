@@ -1,0 +1,12 @@
+[Event "Icelandic Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "I. Johannesson"]
+[Black "S. Björnsson"]
+[Result "*"]
+[Puzzle "474"]
+[FEN "5k2/5p1p/4rBp1/p1PpP3/1p2q3/1P5P/P5PK/2Q5 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Rc6 $1 { Black must blockade the passed pawn. Instead 41...Rxe5?? was played in the game, when White turned things around after 42 c6! Rf5 43 c7 Rxf6 44 c8Q+ Kg7 45 Qg4+–. } 2. Qh6+ Ke8 3. Qxh7 Qf4+ $1 { The queen check enables Black to capture the c5-pawn with his queen and control the f8-square. } 4. Kh1 Qc1+ 5. Kh2 Qxc5 6. Qh8+ Qf8 7. Qh4 Rc2 *

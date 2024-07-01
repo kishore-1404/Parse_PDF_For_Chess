@@ -1,0 +1,12 @@
+[Event "Paraćin 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Tekeyev"]
+[Black "M. Milošević"]
+[Result "1-0"]
+[Puzzle "234"]
+[FEN "5rk1/pb2bp2/1p2pn1p/q5p1/2PR3B/3N4/P1Q2PPP/4R1K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Re5 $1 Qa3 2. Bxg5 hxg5 3. Rxg5+ Kh8 4. Nc5 { The knight was blocking the white queen’s control over the h7- square. } 4... Ne4 { 27...bxc5 28 Rh4+ followed by mate. } 5. Rh5+ Kg7 6. Nxe4 { White has a decisive material advantage. } 1-0

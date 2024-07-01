@@ -1,0 +1,12 @@
+[Event "European Over-65 Team Ch, Dresden 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Huss"]
+[Black "T. Pähtz"]
+[Result "*"]
+[Puzzle "552"]
+[FEN "4qr2/1pp3k1/3p1Rp1/p1nP4/2P1P2r/2N2Q2/PP4K1/5R2 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Qe5 $1 { White’s pressure along the f-file is an illusion. } 2. Rf7+ { 36 Rxf8? Qh2#. } 2... Rxf7 3. Qxf7+ Kh6 4. Qf8+ Kg5 5. Rg1 { 39 Rf3 Qh2+ 40 Kf1 Rf4–+. } 5... Rg4+ 6. Kh1 Nxe4 { Black has an extra pawn and a mating attack thanks to his well- centralized queen. } *

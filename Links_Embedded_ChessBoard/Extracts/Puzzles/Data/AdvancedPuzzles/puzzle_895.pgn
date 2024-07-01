@@ -1,0 +1,12 @@
+[Event "Tsaghkadzor 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A. Barseghyan"]
+[Black "Pultinevicius"]
+[Result "*"]
+[Puzzle "895"]
+[FEN "6k1/4bp1p/p5p1/4R3/PprQ3P/1p2P3/1Bq2PP1/6K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Qd8+ $1 Kg7 { Other moves lose: 32...Bxd8?? 33 Re8#; 32...Bf8? 33 Re8 Qb1+ 34 Kh2 Rxh4+ 35 Kg3 Rg4+ 36 Kxg4 h5+ 37 Kh3 Qxb2 38 Rxf8+ Kg7 39 Qe7 Qxf2 40 Rb8 Qf5+ 41 Kh2+–. } 2. Rxe7+ Qxb2 3. Rxf7+ { Forcing a draw. In the game he chose to play on with 34 Re8, and was rewarded with a blunder a few moves later, though at this point the chances are roughly equal. } 3... Kxf7 4. Qd7+ Kf6 5. Qd6+ Kf5 6. Qd5+ Qe5 { 37...Kf6 38 Qd6+ =. } 7. Qf7+ Qf6 8. Qd5+ Qe5 9. Qf7+ { The game is a draw by repetition. } *

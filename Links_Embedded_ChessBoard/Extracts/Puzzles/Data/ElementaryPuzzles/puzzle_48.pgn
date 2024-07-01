@@ -1,0 +1,12 @@
+[Event "Norwegian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B. Sahl"]
+[Black "Øye-Strømberg"]
+[Result "*"]
+[Puzzle "48"]
+[FEN "r1b2rk1/p3pp1p/1qpp1npQ/8/4P3/1BN5/PPP2PPP/R3K2R b KQ - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Qxf2+ $1 2. Kxf2 { Or 13 Kd1 Qxg2 14 Re1 Ng4–+. } 2... Ng4+ 3. Kg3 Nxh6 { Black has a clear extra pawn. } *

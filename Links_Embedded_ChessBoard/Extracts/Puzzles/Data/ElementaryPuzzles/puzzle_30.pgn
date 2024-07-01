@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Abdusattorov"]
+[Black "Rapport"]
+[Result "1-0"]
+[Puzzle "30"]
+[FEN "8/1r2R3/Rr3Pkp/8/8/5PKP/8/8 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. f7 $1 Kg7 { 56...Rxa6 57 f8Q Rxe7 58 Qxe7+–. } 2. Ra8 $1 { White wins a rook after 57...Rb8 58 Rxb8 Rxb8 59 Re8 Kxf7 60 Rxb8+–. } 1-0

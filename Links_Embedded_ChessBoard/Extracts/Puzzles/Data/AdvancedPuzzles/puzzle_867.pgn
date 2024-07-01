@@ -1,0 +1,12 @@
+[Event "USA Seniors Ch, Saint Louis 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "de Firmian"]
+[Black "Kaidanov"]
+[Result "0-1"]
+[Puzzle "867"]
+[FEN "r2q3k/1pp4p/p1n5/3p1b2/PP1Pp3/8/2B2PK1/R1BQR3 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Qh4 $1 2. Ra3 Rg8+ 3. Kf1 { Black has a decisive material advantage after 28 Rg3 Qh3+ 29 Kg1 Rxg3+ 30 fxg3 Qxg3+ 31 Kh1 Bg4–+. } 3... Bg4 4. f3 { 29 Qxg4 Rxg4 30 Be3 Ne7–+. } 4... Bh3+ { 30 Ke2 Rg2+ 31 Ke3 Qg5+ 32 f4 Qg3+ 33 Qf3 Qxf3#. } 0-1

@@ -1,0 +1,12 @@
+[Event "Serbian Team Ch, Vrnjačka Banja 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ratković"]
+[Black "Milenković"]
+[Result "1-0"]
+[Puzzle "200"]
+[FEN "1r4k1/2q5/p3pBpr/4P1R1/1pp4p/7P/PPQ3PK/8 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Rg4 $1 { White preserves his rook; it is too early for 34 Rxg6+? Rxg6 35 Qxg6+ Kf8 36 Qh5 Rc8 37 Qh8+ Kf7 38 Qh5+ Kf8 =. } 1... c3 2. Qc1 Kh7 { 35...Qh7 36 bxc3 bxc3 37 Qxc3+–. } 3. Qxh6+ $1 { Black is mated on the edge of the board after 36...Kxh6 (36...Kg8 37 Qxg6+ Kf8 38 Qg8#) 37 Rxh4#. } 1-0

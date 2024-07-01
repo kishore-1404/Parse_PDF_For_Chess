@@ -1,0 +1,12 @@
+[Event "Pozarevac 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Çitak"]
+[Black "Ibadov"]
+[Result "*"]
+[Puzzle "469"]
+[FEN "r1bq1r2/pp1n2kn/3p2p1/2pPp3/2P1P3/2NB1N1P/PP1Q1PP1/R4RK1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Rxf3 $1 { The exchange sacrifice ruins White’s pawn-structure and creates several weak squares for the black knights to use. } 2. gxf3 Qh4 3. Kg2 { White’s king is unable to run away and Black increases the pressure on the f3-pawn after 18 Rfe1 Ng5 19 Re3 Nf6 20 Kf1 Bxh3+ 21 Ke2 Bg2–+. } 3... Ndf6 { Or 18...Ng5 19 Rh1 Nf6, transposing to the game. } 4. Rh1 Ng5 *

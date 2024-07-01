@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "So"]
+[Black "Nihal"]
+[Result "*"]
+[Puzzle "358"]
+[FEN "8/2q1rp2/p1bk3Q/4pB2/p5P1/2P5/1P3B2/2K5 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Re6 $1 { In the game Black walked into a mating-net after 39...Kd5?? 40 Qd2+ Kc4 41 Qd3+ Kb3 42 c4+ Kb4 43 Qc3# (1-0). } 2. Bxe6 fxe6 3. Qf8+ Kd7 4. Qf7+ Kc8 5. Qxe6+ Kb7 6. Bg3 Qd8 *

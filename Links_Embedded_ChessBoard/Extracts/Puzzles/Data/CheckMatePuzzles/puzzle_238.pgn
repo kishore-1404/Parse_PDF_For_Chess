@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Beerdsen"]
+[Black "T. Burg"]
+[Result "*"]
+[Puzzle "238"]
+[FEN "r2qr1k1/pp3p1p/3bbp2/2ppR3/5Q2/2PB1N2/PPP2PPP/2KR4 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Qh6 $1 fxe5 { 16...f5 17 Rxf5 Bxf5 18 Bxf5 Bf4+ 19 Qxf4+–. } 2. Bxh7+ Kh8 3. Bg6+ Kg8 4. Ng5 Qxg5+ { Black is mated after 19...fxg6 20 Qh7+ Kf8 21 Qh8+ Bg8 22 Qh6+ Ke7 23 Qg7+ Bf7 24 Qxf7#. } 5. Qxg5 fxg6 6. Qxg6+ Kf8 7. Rxd5 { White has a decisive material advantage. } *

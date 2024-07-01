@@ -1,0 +1,12 @@
+[Event "Spanish Team Ch 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "J.A. Gonzalez Rodriguez"]
+[Black "I. Ortin Blanco"]
+[Result "*"]
+[Puzzle "46"]
+[FEN "7r/1p3p1k/p3r3/P3Q3/1PR1p3/4PqP1/5P2/2R3K1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Qf4 $1 { After 35 Qd4?? (as played in the game) 35...Rg8! (Black must avoid 35...Rh6?? 36 Qxe4+ Qxe4 37 Rxe4+–) White proves unable to dislodge the black queen from the f3-square: 36 Rc7 (the game ended 36 Rc8 Rh6 0-1) 36...Rf6 37 Rf1 Rxg3+! 38 fxg3 Qxg3+ 39 Kh1 Rh6#. } 1... Qxf4 2. gxf4 { Or 36 exf4+–. } 2... Kg7 3. Rd1 { White has an extra pawn and his king will be safe on the e2- square. } *

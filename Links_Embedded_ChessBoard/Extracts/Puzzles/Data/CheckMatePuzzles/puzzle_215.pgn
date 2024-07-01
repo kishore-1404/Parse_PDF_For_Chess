@@ -1,0 +1,12 @@
+[Event "Los Angeles 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E. Park"]
+[Black "Antipov"]
+[Result "*"]
+[Puzzle "215"]
+[FEN "rn2k2r/1b1p1pp1/p3p3/7p/N1P1Pqn1/5P2/PPN1B1Pb/R2QBR1K b kq - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Bg3 $1 2. Qc1 { 17 Bxg3 Qxg3 18 fxg4 hxg4+ 19 Kg1 Rh2 20 Ne1 Qh4 followed by mate. } 2... Nf2+ 3. Kg1 { White has no way to avoid being mated; for example, 18 Bxf2 Qh4+ 19 Kg1 Qh2#, while 18 Rxf2 Qh4+ 19 Kg1 transposes to the game. } 3... Qh4 4. Rxf2 Qh2+ 5. Kf1 Qh1# *

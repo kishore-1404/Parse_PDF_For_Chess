@@ -1,0 +1,12 @@
+[Event "Czech Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "M. Novotny"]
+[Black "P. Hollan"]
+[Result "*"]
+[Puzzle "471"]
+[FEN "8/p5k1/3p2p1/2pr1P2/3nR2q/4R3/PP3P2/2Q3K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Qg5+ $1 { (variation) } 2. Kf1 { Better than 34...Qh5 35 Qc4! Rxf5 36 Rxd4 cxd4 37 Qxd4+ Kg8 38 Qxd6+= with an extra pawn. } 2... Qh5 { Or 35 Kh1 Rxf5 36 Qf1 Nf3 37 Re7+ Kh6 38 Qh3+ Qh5 39 Qxh5+ Rxh5+ 40 Kg2 Nh4+ 41 Kf1 Nf5 42 Rxa7 Nxe3+ 43 fxe3 Rh2 = with an equal rook and pawn endgame. } 3. Kg2 { Black is threatening 36...Qh1#. } 3... Qg5+ { Or 36 Kg1 Qg5+, repeating. } 4. Kf1 Qh5 { Black must repeat moves as after 36...gxf5?? 37 Rg3+ Kf7 38 Re1+– White consolidates his material advantage. } *

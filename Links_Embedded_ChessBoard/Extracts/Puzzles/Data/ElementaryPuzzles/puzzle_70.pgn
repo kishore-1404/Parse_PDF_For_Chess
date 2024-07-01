@@ -1,0 +1,12 @@
+[Event "Pardubice 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "R. Zimmermann"]
+[Black "O. Nytra"]
+[Result "*"]
+[Puzzle "70"]
+[FEN "r1r3k1/3bqppp/2n1pn2/p1P1N3/1p1P4/3BP3/2QN1PPP/RR4K1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Nxd7 $1 Nxd7 { Or 17...Qxd7 18 Nc4 Nd5 19 Bxh7+ Kh8 20 Be4+–. } 2. Bxh7+ Kh8 3. Be4 { White has an extra pawn and a knight coming to the c4-square. } *

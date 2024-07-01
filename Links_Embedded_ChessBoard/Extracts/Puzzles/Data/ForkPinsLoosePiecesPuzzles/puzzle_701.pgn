@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Martinović"]
+[Black "Krassowizkij"]
+[Result "1-0"]
+[Puzzle "701"]
+[FEN "5rk1/p6p/1pQ1bqpP/4r3/4p3/1B6/PP3PP1/3RR1K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. f4 $1 Qxf4 { Or: 26...exf3 27 Qxe6+ Rxe6 28 Rxe6 f2+ 29 Kf1+–; 26...g5 27 Re2 gxf4 28 Rd6+–. } 2. Bxe6+ Kh8 3. Qc3 1-0

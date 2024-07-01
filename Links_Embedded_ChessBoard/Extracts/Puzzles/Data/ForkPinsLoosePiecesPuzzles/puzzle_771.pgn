@@ -1,0 +1,12 @@
+[Event "Polish Women’s Ch, Warsaw 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kulon"]
+[Black "Sliwicka"]
+[Result "*"]
+[Puzzle "771"]
+[FEN "3k4/1r1b3p/2B1R3/p2R4/1b6/1KN5/PP4rP/8 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Bd6+ $1 { Black breaks one pin to create another pin. } 2. Bxb7 Bxe6 3. h3 Rh2 *

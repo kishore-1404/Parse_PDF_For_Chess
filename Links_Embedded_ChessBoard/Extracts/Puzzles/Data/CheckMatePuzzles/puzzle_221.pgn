@@ -1,0 +1,12 @@
+[Event "World Team Ch rapid, Jerusalem 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vokhidov"]
+[Black "Volokitin"]
+[Result "1-0"]
+[Puzzle "221"]
+[FEN "3R4/5p1k/6p1/1N2p1Qp/2q4P/5b2/1PP3PK/r7 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Nd4 $1 { White must avoid 34 Qf6?? Rh1+!! 35 Kg3 (35 Kxh1 Qf1+ 36 Kh2 Qxg2#) 35...Qg4+ 36 Kf2 Qxg2+ 37 Ke3 Qe2#. } 1... Be4 { 34...exd4 35 Qe5 Rh1+ 36 Kg3 leads to mate. } 2. Qf6 1-0

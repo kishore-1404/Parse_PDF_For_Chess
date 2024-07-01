@@ -1,0 +1,12 @@
+[Event "European Rapid Ch, Katowice 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sargsyan"]
+[Black "Plichta"]
+[Result "1-0"]
+[Puzzle "857"]
+[FEN "2b2rk1/1pp1q2p/1b1p4/4n3/1PP2p2/5NB1/4BPPP/Q4RK1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Bh4 $1 { White sacrifices a piece to open lines against Black’s king. } 1... Nxf3+ 2. Bxf3 Qxh4 $6 3. Bd5+ Rf7 4. c5 $1 dxc5 5. Qe5 Bd7 6. Ra1 c6 7. Ra8+ Bd8 8. g3 1-0

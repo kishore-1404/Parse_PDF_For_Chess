@@ -1,0 +1,12 @@
+[Event "Tashkent (team event) 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Abdisalimov"]
+[Black "A. Fedorov"]
+[Result "1-0"]
+[Puzzle "444"]
+[FEN "4rrk1/p1n3bp/n4pp1/q2p1PP1/1p1PB1Q1/4B2P/PP5N/R4RK1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Bc2 $1 Rxe3 2. fxg6 { White has lost a piece but he has an irresistible kingside attack as three of Black’s pieces are marooned on the queenside. } 2... f5 { White wins material after 25...Ne6 26 gxf6 Bxf6 27 gxh7++ Kh8 28 Rxf6+–. } 3. Bxf5 h6 4. gxh6 Bxh6 5. Qh4 { 28...Qb6 29 Qxh6 Re7 30 Qh4 Rg7 31 Ng4 Qxd4+ 32 Kh1 followed by mate. } 1-0

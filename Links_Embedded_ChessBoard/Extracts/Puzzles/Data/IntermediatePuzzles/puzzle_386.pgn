@@ -1,0 +1,12 @@
+[Event "Biel rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Salem"]
+[Black "Esipenko"]
+[Result "0-1"]
+[Puzzle "386"]
+[FEN "5rk1/7p/1Q1Np1q1/4P2p/3R4/P2n1P2/6P1/6K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Ne1 $1 2. Kf2 { White’s major pieces are unable to defend the g2-pawn; for example, 40 Rd2 Nxf3+–+. } 2... Qxg2+ 3. Kxe1 Rxf3 4. Qd8+ Rf8 5. Nf5 { 43 Ne4 Qf1+ (Black improves the position of his own queen before capturing the white queen) 44 Kd2 Qf4+ 45 Kd3 Qf3+ 46 Kc4 Qe2+ 47 Kc5 Rxd8 48 Rxd8+ Kg7 49 Rd4 Qe3–+. } 5... Rxd8 6. Rxd8+ Kf7 7. Nh6+ Ke7 0-1

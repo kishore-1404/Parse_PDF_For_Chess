@@ -1,0 +1,12 @@
+[Event "Sant Ferran de ses Roques 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rahal"]
+[Black "A. Jacobson"]
+[Result "*"]
+[Puzzle "964"]
+[FEN "r3r1k1/1p1nbppp/p4n2/q4N2/4p3/1PN5/PB2QPPP/2RR2K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Nxg7 $1 { In the game White went astray with 17 Nd5? Nxd5 18 Qg4? (18 b4! Qxa2 19 Ra1 Qb3 20 Bxg7 is roughly equal) 18...g6 19 Nh6+ Kf8–+. } 1... Rec8 { 17...Kxg7?! 18 Nd5 Kf8 19 Qe3! Rec8 20 Qh6+ Ke8 21 Bxf6 (White simplifies into a winning major-piece endgame) 21...Nxf6 22 Nxf6+ Bxf6 23 Qxf6 Rxc1 24 Rxc1 Qd2 25 Rf1+–. } 2. Nd5 Nxd5 3. Rxc8+ Rxc8 4. Nf5 Kf8 5. Nxe7 Nxe7 { 21...Kxe7? 22 Qxe4+ Kf8 23 Rxd5+–. } 6. Rxd7 { White has good chances to win due to Black’s weak pawns and exposed king. } *

@@ -1,0 +1,480 @@
+[Event "Danish Team Ch 2022/3"]
+[Puzzle "114"]
+[White "Haubro"]
+[Black "Vinter Schou"]
+[FEN "r1b2rk1/2q2pbp/p1p3p1/3p4/3B4/5P2/PPPQB1PP/2KR3R w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+16 Bxg7 Kxg7 17 Qc3+ Kg8 18 Rxd5+– { White has a clear extra pawn. } *
+
+[Event "Waterloo 2022"]
+[Puzzle "115"]
+[White "Samsonkin"]
+[Black "Rodrigue-Lemieux"]
+[FEN "4r1k1/4p2p/p2p2q1/3b2p1/P2B4/1r4RP/4Q1P1/3R2K1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+30 Be3! { A double attack on the bishop and the g5-pawn. } 30...Qe4 31 Rxd5 1-0 {  } *
+
+[Event "Internet rapid 2022"]
+[Puzzle "116"]
+[White "Kobalia"]
+[Black "Yilmaz"]
+[FEN "2rr4/3Pkp2/p4p2/1p3P2/2p2p2/7R/PPP4P/1K1R4 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+35 dxc8N+! { The game ended tragically for White after 35 dxc8Q?? Rxd1# (0-1). It is possible that this was not a standard oversight, but because the ‘auto-queen’ feature was enabled by White for this online game. Whatever the cause, it turned a win into an instant loss. } 35...Rxc8 36 Rf3+– {  } *
+
+[Event "Tsaghkadzor 2022"]
+[Puzzle "117"]
+[White "Gholami Orimi"]
+[Black "Pashikian"]
+[FEN "r5k1/p3qppp/R7/5Q2/2n5/4P2P/4rPP1/R5K1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+25 Qf3! 1-0 { Black loses one of his rooks. } *
+
+[Event "Women’s Candidates, Monaco 2022"]
+[Puzzle "118"]
+[White "Humpy Koneru"]
+[Black "A. Muzychuk"]
+[FEN "2rr2k1/pp1bqppp/5nn1/2b5/3N4/P1N1P3/1PQBBPPP/R4RK1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+16...Bxd4! 17 exd4 Qxe2! 0-1 {  } *
+
+[Event "Cap d’Agde rapid 2022"]
+[Puzzle "119"]
+[White "Dardha"]
+[Black "Sebag"]
+[FEN "5r1k/1p2N1Rp/p3bP2/2p3Rp/6r1/8/PPP4P/2K5 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+31 Rxh7+! 1-0 { 31...Kxh7 32 Rxh5#. } *
+
+[Event "World Rapid Ch, Almaty 2022"]
+[Puzzle "120"]
+[White "Niemann"]
+[Black "Vokhidov"]
+[FEN "r1b1k2r/pp2ppbp/2n3p1/2q5/4QB2/2P2N2/PP2BPPP/R3K2R b KQkq - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+11...Bxc3+! 12 Nd2 { 12 bxc3 Qxc3+ 13 Bd2 Qxa1+ 14 Bd1 Bf5–+. } 12...Bf5 0-1 { White will lose more material. } *
+
+[Event "Marianske Lazne 2023"]
+[Puzzle "121"]
+[White "Krejči"]
+[Black "J. Pajeken"]
+[FEN "6k1/6b1/3Br1p1/3qP2p/7P/4Q1P1/8/4R1K1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+33...Rxd6! 0-1 { Black wins the white queen after 34 exd6 Bd4–+. } *
+
+[Event "Internet rapid 2023"]
+[Puzzle "122"]
+[White "Arjun"]
+[Black "Swiercz"]
+[FEN "2r2kr1/1p1qn2p/pB1pbb2/4pp1B/2P2P2/1P6/P1N3PP/R2Q1RK1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+19...Qc6! 0-1 { White must give up the bishop on b6 to prevent mate on g2. } *
+
+[Event "Internet rapid 2023"]
+[Puzzle "123"]
+[White "Robson"]
+[Black "Raja Harshit"]
+[FEN "r1r3k1/p3p1bp/Q1q1p1p1/8/8/4B2P/PP3PP1/R2R2K1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+23 Rd8+! 1-0 { 23...Kf7 24 Qxc6 Rxc6 25 Rxa8+–. } *
+
+[Event "Bošnjaci 2023"]
+[Puzzle "124"]
+[White "Ljikar"]
+[Black "Ef. Muratović"]
+[FEN "r4rk1/p2npp1p/2pp1np1/7q/1p1PPP2/3BQ3/PPPN2PP/3R1RK1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+15...Qxh2+! 0-1 { White loses the exchange and a pawn after 16 Kxh2 Ng4+ 17 Kh3 Nxe3–+. } *
+
+[Event "Internet rapid 2022"]
+[Puzzle "125"]
+[White "Sevian"]
+[Black "Nihal"]
+[FEN "3r1kr1/2Q1bp2/4p3/p3P2p/5P1P/P7/1q2BP1R/3R1K2 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+30...Rxd1+ 31 Bxd1 Qb5+ 32 Ke1 Rg1+ 33 Kd2 Qd5+ 0-1 {  } *
+
+[Event "Catalonian Ch, Lloret de Mar 2022"]
+[Puzzle "126"]
+[White "Alonso Rosell"]
+[Black "Aroshidze"]
+[FEN "6k1/pb5p/1p1q4/1P1pr1p1/3R4/6QB/P2B1K2/8 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+37...Re2+! 38 Kf3 Qa3+! 0-1 { White loses his queen. } *
+
+[Event "Romanian Rapid Team Ch 2022"]
+[Puzzle "127"]
+[White "T. Anton"]
+[Black "Grecescu"]
+[FEN "4r1k1/1R4p1/3p4/2pP4/P1P5/2q4P/5QP1/6K1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+33...Re1+ 34 Kh2 Qe5+ 35 Qg3 { 35 g3 Re2–+. } 35...Rh1+ 36 Kxh1 Qxg3 37 Rd7 Qa3 0-1 {  } *
+
+[Event "European Rapid Ch, Katowice 2022"]
+[Puzzle "128"]
+[White "Gunnarsson"]
+[Black "Santos Latasa"]
+[FEN "3r2k1/q4pp1/4p2p/p1N5/1p2b3/1P4PP/PQ2PP2/2R3K1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+28...Qxc5! 0-1 { 29 Rxc5 Rd1+ 30 Kh2 Rh1#. } *
+
+[Event "European Rapid Ch, Katowice 2022"]
+[Puzzle "129"]
+[White "Khuzman"]
+[Black "Lagarde"]
+[FEN "2r1r1k1/p2q2bp/bpn1p1p1/1N1p1p2/2PPnN2/1P4P1/PB2QPBP/2RR2K1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+19...Bxb5 20 cxb5 Nxd4! 21 Bxd4 Rxc1 22 Rxc1 Bxd4–+ {  } *
+
+[Event "USA Junior Ch, Saint Louis 2022"]
+[Puzzle "130"]
+[White "B. Jacobson"]
+[Black "A. Liang"]
+[FEN "1qRr2k1/p2rbppp/1p1N4/5Q2/1P3P1P/6P1/P4P2/3R2K1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+30...Rxd6! 0-1 { 31 Rxb8 Rxd1+ 32 Kg2 Rxb8–+. } *
+
+[Event "Pardubice 2022"]
+[Puzzle "131"]
+[White "P. Keller"]
+[Black "Stachowiak"]
+[FEN "2b4R/1k3p2/p1qB4/1p2P3/8/3r4/PP6/1KQ5 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+34...Rxd6! 35 Rxc8 { 35 exd6 Bf5+ both wins the white queen and mates. } 35...Qxc8 0-1 { The pawn ending after 36 Qxc8+ Kxc8 37 exd6 Kd7–+ is a simple win. } *
+
+[Event "Chennai Olympiad 2022"]
+[Puzzle "132"]
+[White "Erdos"]
+[Black "Korobov"]
+[FEN "r2q1b1r/1b2k2p/p2p2p1/4pp2/4n3/R4N2/1P3PPP/1NBQR1K1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+18 Rxe4! Qc7 { 18...fxe4 19 Bg5++–. } 19 Rc3 1-0 {  } *
+
+[Event "Barcelona 2022"]
+[Puzzle "133"]
+[White "Edouard"]
+[Black "Garcia Ramos"]
+[FEN "2k4r/pp1nb1p1/2p1Q3/q2pP2r/2PP4/1P3N2/P2B1P2/R4RK1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+20...Qxd2! 0-1 { 21 Qxe7 (21 Nxd2 Rg5+ 22 Qg4 Rxg4#) 21...Qf4 followed by mate. } *
+
+[Event "Aix-en-Provence 2022"]
+[Puzzle "134"]
+[White "Lamard"]
+[Black "Laurent-Paoli"]
+[FEN "5b2/2q2k2/4p2p/p2p2p1/3N2P1/1P2P3/5PP1/3Q2K1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+39 Qf3+ 1-0 { 39...Ke7 40 Qxf8+! Kxf8 41 Nxe6+ Ke7 42 Nxc7+–. } *
+
+[Event "Women’s Candidates, Monaco 2022"]
+[Puzzle "135"]
+[White "Humpy Koneru"]
+[Black "A. Muzychuk"]
+[FEN "1qr2k2/r2Rbppp/p3p3/2p5/2N5/1P2PQ2/P4PP1/5R1K w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+23 Nd6! Qxd6 24 Rxa7 1-0 { White has a decisive material advantage. } *
+
+[Event "Los Angeles 2022"]
+[Puzzle "136"]
+[White "Antipov"]
+[Black "D. Boros"]
+[FEN "r1b2rk1/ppp2pp1/4pn1p/4N3/1b1q3B/2P2Q2/PP3PPP/R3KB1R w KQ - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+12 Bxf6! gxf6 13 Nc4 1-0 { White wins a piece. } *
+
+[Event "Delhi (women) 2022"]
+[Puzzle "137"]
+[White "Padmini"]
+[Black "Yakubbaeva"]
+[FEN "2r1r1k1/p4pb1/5Pp1/4q3/2B5/1P1Q4/P7/1K1R1R2 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+31...Rxc4! { The game ended 31...Bxf6?? 32 Qxg6+ 1-0. } 32 Qxc4 { 32 fxg7 Rf4–+. } 32...Bxf6 33 Rxf6 { 33 Kc2 Qb2+ 34 Kd3 Qe2#. } 33...Qxf6–+ {  } *
+
+[Event "Stockholm 2022/3"]
+[Puzzle "138"]
+[White "Y. Sokolovsky"]
+[Black "Dann"]
+[FEN "3rk2r/p1q2ppp/2b1pn2/2p5/2N1B2Q/8/PPP2PPP/2R1R1K1 w k - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+19 Qg3! 1-0 { 19...Rc8 (19...Qxg3 20 Bxc6+ Ke7 21 hxg3+–) 20 Qxg7 Nxe4 21 Qxh8+ Ke7 22 Qe5+–. } *
+
+[Event "Xi’an (women) rapid 2023"]
+[Puzzle "139"]
+[White "Efroimski"]
+[Black "Khotenashvili"]
+[FEN "r1b2r1k/ppqn2bp/2pN4/5p2/3PN3/1QPB3P/PP3P2/R3K2R w KQ - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+17 Nf7+ Rxf7 { White has a smothered mate after 17...Kg8 18 Nh6++ Kh8 19 Qg8+! Rxg8 20 Nf7#. } 18 Qxf7 fxe4 19 Rg1 Ne5 20 Qe8+ 1-0 {  } *
+
+[Event "Slovakian Team Ch 2023"]
+[Puzzle "140"]
+[White "K. Malinovsky"]
+[Black "Smolen"]
+[FEN "3k1r2/3nR3/1n6/pQ1pNqpP/1p1P4/8/2r2PP1/5RK1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+40 g4! { Black’s queen is overloaded. } 40...Nxe5 41 gxf5 Nf3+ 42 Kg2 Kxe7 43 Kxf3+– { White has a decisive material advantage. } *
+
+[Event "Internet rapid 2023"]
+[Puzzle "141"]
+[White "Yakubboev"]
+[Black "Blübaum"]
+[FEN "3r4/1q2bpk1/p3pp1p/1p2P2P/5Q2/1P3NP1/P4PK1/2R5 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+29 Rc7! 1-0 { White wins material after 29...Qxc7 30 exf6+ Bxf6 31 Qxc7+–. } *
+
+[Event "Catalonian Team Ch, Barcelona 2023"]
+[Puzzle "142"]
+[White "Demidov"]
+[Black "Campos Moreno"]
+[FEN "2r1r1k1/5ppp/p1b1q3/1p1p3n/1BpP4/P3PP2/1P2R1PP/1B2QR1K w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+23 g4! 1-0 { Black loses a piece after 23...Nf4 (23...Nf6 24 Bf5+– traps the black queen) 24 Bf5 Qf6 25 exf4+–. } *
+
+[Event "Chinese Team Ch, Nanjing 2023"]
+[Puzzle "143"]
+[White "Wan Yunguo"]
+[Black "Liu Yan"]
+[FEN "r3r2k/p3qpp1/1p6/2pP1R2/4B3/2P1P3/Pn2Q1PP/6K1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+25 Rh5+ 1-0 { 25...Kg8 26 Rh8+! Kxh8 27 Qh5+ Kg8 28 Qh7+ Kf8 29 Qh8#. } *
+
+[Event "European Ch, Vrnjačka Banja 2023"]
+[Puzzle "144"]
+[White "Boruchovsky"]
+[Black "Soffer"]
+[FEN "4qr1k/1p2brpp/p7/7Q/3B4/1B6/P4PPP/3R2K1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+26 Bc2! { The diagonal switch is fatal as Black cannot defend h7. } 26...Rf5 { 26...h6 27 Qxh6+ Kg8 28 Qh7#. } 27 Qxe8 Rxe8 28 Bxf5 1-0 { White has won a piece. } *
+
+[Event "Internet rapid 2023"]
+[Puzzle "145"]
+[White "N. Steinberg"]
+[Black "Sargissian"]
+[FEN "3q1r2/1bp2p1k/p1np1Qpb/P3p3/1p2P1P1/1B1PN3/1PP2PK1/7R w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+31 Rxh6+! Kxh6 32 Nf5+ 1-0 { 32...Kh7 33 Qg7#. } *
+
+[Event "Internet rapid 2023"]
+[Puzzle "146"]
+[White "Mikaelyan"]
+[Black "Perez Ponsa"]
+[FEN "3r4/3P2k1/p5p1/2pq2Nn/P2b4/8/6QP/3R1R1K b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+32...Ng3+! 0-1 { 33 hxg3 Rh8+ 34 Nh3 Rxh3#. } *
+
+[Event "Los Angeles 2023"]
+[Puzzle "147"]
+[White "J. Wang"]
+[Black "Burke"]
+[FEN "2rr2k1/2q3pp/2b1pR2/1p1p4/1P1QP2P/2N5/2PRB1P1/1K6 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+23...dxe4! 24 Qc5 { After 24 Qxd8+ Rxd8 25 Rxd8+ Qxd8 26 Rxe6 Qd7–+ (as played in the game) the queen is in charge. } 24...Rxd2 25 Rf1 Qd6–+ { Black has a decisive material advantage. } *
+
+[Event "Bundesliga 2022/3"]
+[Puzzle "148"]
+[White "Z. Jovanović"]
+[Black "Warmerdam"]
+[FEN "1r4k1/5pp1/R3p3/3n1b2/8/2rN4/P1PB1P1P/K1R5 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+28...Bxd3! 29 cxd3 { 29 Bxc3 Bxa6–+. } 29...Rxc1+ 30 Bxc1 Nb4 0-1 { White cannot defend against the dual threats of 31...Nc2# and 31...Nxa6. } *
+
+[Event "Krakow 2023"]
+[Puzzle "149"]
+[White "Koziorowicz"]
+[Black "Bus"]
+[FEN "r6k/pQp3pp/1n1q4/3p4/5b2/2P3P1/PP4BP/4R2K w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+24 Qxa8+! Nxa8 25 Re8+ 1-0 { 25...Qf8 26 Rxf8#. You must always be alert for this back-rank mate tactic when your king has no luft. } *
+
+[Event "Tashkent 2022"]
+[Puzzle "150"]
+[White "Vakhidov"]
+[Black "D. Fridman"]
+[FEN "r4rk1/1p3p1p/p3bQq1/2RB4/8/6P1/5P1P/4R1K1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+27 Rxe6! fxe6 { 27...Qxf6 28 Rxf6+–. } 28 Bxe6+ Rf7 29 Bxf7+ Qxf7 30 Rg5+ Kf8 31 Qh8+ 1-0 { White wins the loose rook on a8 after 31...Ke7 32 Qxa8+–. } *
+
+[Event "Internet rapid 2022"]
+[Puzzle "151"]
+[White "Robson"]
+[Black "Caruana"]
+[FEN "5k2/pp2r3/1bn2r1p/3p2p1/8/3B1N1P/PPR2PP1/4R1K1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+23...Rxf3! 24 Rxe7 Rxf2! 0-1 { Black wins a rook after 25 Rxb7 Rxc2+ 26 Rxb6 Rc1+ 27 Kf2 axb6–+. } *
+
+[Event "Lodz rapid (team event) 2022"]
+[Puzzle "152"]
+[White "Laurušas"]
+[Black "Kowalski"]
+[FEN "r3k2r/ppqnbpp1/2p3p1/3Q4/3P4/4PP2/PP1B2PP/2R1KB1R b Kkq - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+14...Rxh2! 15 Rxh2 Qg3+! { The point is to win the white queen. Not 15...Qxh2?? 16 Qb3 Qg3+ 17 Ke2 with a clear advantage for White. } 16 Kd1 cxd5–+ { Black has a decisive material advantage. } *
+
+[Event "Budapest 2022"]
+[Puzzle "153"]
+[White "Aveskulov"]
+[Black "Arenas Vanegas"]
+[FEN "6k1/5p1p/4b1p1/2Q5/r1P5/p3RP1P/P5P1/1q3BK1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+35 Rxe6! 1-0 { White has an extra piece after 35...fxe6 36 Qc8+ Kf7 37 Qd7+ Kf6 38 Qxa4 Qxa2 39 c5+–. } *
+
+[Event "Chennai Olympiad 2022"]
+[Puzzle "154"]
+[White "Smirnov"]
+[Black "Duda"]
+[FEN "2b1r1k1/p4pp1/1pp5/4n1qp/4Pn2/1PQ5/4NPPP/2BR1BK1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+26...Qxg2+! 0-1 { 27 Bxg2 Nxe2+ 28 Kh1 Nxc3–+ leaves Black a piece up. } *
+
+[Event "Chennai Olympiad 2022"]
+[Puzzle "155"]
+[White "Dobrovoljc"]
+[Black "Diamant"]
+[FEN "r1b2rk1/1pq1bppp/p1n1p3/6B1/2P1N1n1/5N1P/PPQ2PP1/R3RBK1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+15...Nd4! 0-1 { 16 Qd1 (16 Nxd4 Qh2#) 16...Nxf3+ 17 Qxf3 Qh2#. } *
+
+[Event "Internet rapid 2022"]
+[Puzzle "156"]
+[White "Giri"]
+[Black "Aronian"]
+[FEN "Q4b1k/3q1rpp/1p6/p1p1R3/2Pr3N/6P1/PP2R1KP/8 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+33...Rxh4! 0-1 { Black wins a piece as 34 gxh4 is met by 34...Qg4+ 35 Kh1 Rf1#. } *
+
+[Event "Long Island City 2022"]
+[Puzzle "157"]
+[White "Al. Ostrovskiy"]
+[Black "J. Williams"]
+[FEN "r1bqk2r/5p1p/p2pp1pB/1p4bn/4P3/1N1B3P/PPP1QPP1/R4RK1 w kq - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+16 Bxb5+! 1-0 { Black loses material after 16...axb5 (16...Bd7 17 Bxd7+ Kxd7 18 Nc5+ Kc6 19 Bxg5 Qxg5 20 Nd3+–) 17 Qxb5+ Bd7 18 Qxg5+–. } *
+
+[Event "Zagreb rapid 2022"]
+[Puzzle "158"]
+[White "Nepomniashchy"]
+[Black "Topalov"]
+[FEN "1q2r1k1/5p1p/6p1/4p3/1b2Q3/1b3P2/1P3BPP/R4BK1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+24 Ra6! 1-0 { Black has no good defence against the threat of 25 Rb6; for example, 24...f5 25 Qe3+–. } *
+
+[Event "USA Ch, Saint Louis 2022"]
+[Puzzle "159"]
+[White "L. Dominguez"]
+[Black "Moradiabadi"]
+[FEN "rn3rk1/ppp1bppp/8/3q1b2/3Pn3/3B1N2/PP3PPP/RNBQ1RK1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+10 Bxe4! 1-0 { Black loses a piece after 10...Bxe4 (10...Qxe4 11 Re1 Qd5 12 Rxe7+–) 11 Nc3 Bxf3 12 Nxd5 Bxd1 13 Nxe7+ Kh8 14 Rxd1+–. } *
+
+[Event "Internet rapid 2022"]
+[Puzzle "160"]
+[White "Mamedyarov"]
+[Black "Duda"]
+[FEN "rn1r4/pp2kp1p/1qb1pp2/1B5Q/4P3/5NP1/P4PKP/1R5R b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+18...Bxe4! 19 Be8 { 19 Rb3 Rd2 20 Rf1 Qd4 21 Kg1 Qd5–+. } 19...Bg6! 0-1 { White loses material after 20 Rxb6 Bxh5–+. } *
+
+[Event "Webster Groves (team event) 2023"]
+[Puzzle "161"]
+[White "Dudin"]
+[Black "Kantor"]
+[FEN "6k1/p4p2/q1p2Pn1/1pb1P2Q/Pn6/1P4P1/4rP2/5K1R w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+[Difficulty 1]
+
+35 Qh7+ Kf8 36 Qh8+! 1-0 { 36...Nxh8 37 Rxh8#. } *
+

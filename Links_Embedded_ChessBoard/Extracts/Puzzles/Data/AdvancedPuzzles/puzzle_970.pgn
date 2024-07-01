@@ -1,0 +1,12 @@
+[Event "Baku 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ilamparthi"]
+[Black "Samant"]
+[Result "*"]
+[Puzzle "970"]
+[FEN "r1bqk2r/pp2bp1p/2n5/8/3BR3/2N5/PPP2PPP/R2Q2K1 b kq - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... O-O { After 15...Rg8? 16 Qh5 Be6 (as played in the game) White should have created counterplay on the kingside by 17 Qxh7 Rg6 18 Rd1 Bf8 19 h4, with roughly equal chances. } 2. Rg4+ Bg5 $1 { This idea works for Black because he is attacking White’s bishop on d4. Not 16...Bxg4? 17 Qxg4+ Bg5 18 Be3 Ne5 19 Qg3 f6 20 h4 with roughly equal chances. } 3. Rxg5+ Qxg5 4. Ne4 Qh4 5. Nf6+ Kg7 6. Bc3 Rd8 7. Qe2 { Black has an extra rook. } 7... Kg6 *

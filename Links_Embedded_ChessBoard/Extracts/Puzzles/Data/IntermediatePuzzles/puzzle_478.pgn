@@ -1,0 +1,12 @@
+[Event "Mitropa Cup, Mali Lošinj 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Antal"]
+[Black "Tica"]
+[Result "*"]
+[Puzzle "478"]
+[FEN "3rk2r/1p2q2p/2b4Q/p3bp2/2B5/8/PP3PPP/2R1R1K1 w k - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Qh5+ $1 { White must be precise as after 23 f4?, 23...Bd4+ 24 Kh1 Be4 enables Black to defend. } 1... Kd7 { Or 23...Kf8 24 Rxe5+–. } 2. Qxf5+ Kd6 { White wins easily with his two extra pawns after 24...Kc7 25 Rxe5+–. } 3. Rxe5 $1 Qg7 { The white rook is immune: after 25...Qxe5 White wins the black queen with 26 Rd1++–. } 4. Re6+ Kc7 5. Qxa5+ *

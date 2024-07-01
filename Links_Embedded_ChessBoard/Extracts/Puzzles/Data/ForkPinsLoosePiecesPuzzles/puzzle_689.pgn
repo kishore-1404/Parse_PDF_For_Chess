@@ -1,0 +1,12 @@
+[Event "Seville 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Carrasco Martinez"]
+[Black "Fernandez Guillen"]
+[Result "*"]
+[Puzzle "689"]
+[FEN "r1bqk1nr/1p1p1p1p/p3p3/2p1bp2/P1B1P3/2N2Q2/1PPP2PP/R1B2RK1 b kq - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... d5 $1 { This idea works because the bishop is loose on c4. } 2. Bxd5 { White loses his light-squared bishop after 11 exd5 Qh4 12 h3 Qxc4–+. } 2... exd5 3. exf5 Qh4 4. g3 Qd4+ 5. Kg2 Ne7 *

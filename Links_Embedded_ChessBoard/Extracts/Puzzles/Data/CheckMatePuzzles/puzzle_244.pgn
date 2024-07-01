@@ -1,0 +1,12 @@
+[Event "2nd Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rabiega"]
+[Black "B. Socko"]
+[Result "0-1"]
+[Puzzle "244"]
+[FEN "3q1rk1/1p4pp/2p1b3/3n1p2/r4B2/PB3Q2/1P4PP/2KR3R b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Rxf4 $1 2. Bxd5 Qg5 $1 3. Bxe6+ Kh8 4. h4 { 22 Qe3 Rc4+ 23 Kd2 Rd8+ leads to mate. } 4... Qh6 5. Qe3 { Now Black can drag the white king out into the centre. } 5... Rc4+ 6. Kd2 Rd8+ 7. Ke2 Rc2+ 8. Kf3 Qh5+ { The white king will quickly perish: 27 Kf4 Qg4+ 28 Ke5 Rc5+ followed by mate. } 0-1

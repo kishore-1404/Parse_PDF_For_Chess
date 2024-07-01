@@ -1,0 +1,12 @@
+[Event "Dubai 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nisipeanu"]
+[Black "Ajay Krishna"]
+[Result "1-0"]
+[Puzzle "985"]
+[FEN "1r4k1/2q2ppp/Q1np4/p1rRp3/2P1P3/1P3N2/1P3PPP/3R2K1 w - - 0 1"]
+[PuzzleType "DeadlyPuzzles"]
+
+1. Rxd6 $1 Rb6 { 29...f6 30 Rd7 Qc8 31 Qxc8+ Rxc8 32 R1d5 Nb4 33 Rxc5 Rxc5 34 Kf1+–. } 2. Qa7 $3 { A beautiful idea to exploit Black’s weak back rank. } 2... Qb8 { Or: 30...Qxa7 31 Rd8+ Nxd8 32 Rxd8#; 30...Nxa7 31 Rd8+ Qxd8 32 Rxd8#. } 3. Qe7 { 31 Ng5 also wins. } 3... Qf8 { 31...Nxe7 32 Rd8+ Qxd8 33 Rxd8#. } 4. Rd8 Nxd8 5. Rxd8 1-0

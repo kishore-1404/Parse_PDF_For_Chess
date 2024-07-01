@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Andreikin"]
+[Black "A. Sorokin"]
+[Result "1-0"]
+[Puzzle "870"]
+[FEN "r1b2k2/1pR3bB/p3p2p/1n2P2P/8/4B3/P3KPP1/3r4 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Bc5+ $1 Ke8 2. Rxg7 Nc3+ { 25...Rc1 26 Bg6+ Kd8 27 Be7+ Kc7 28 Bg5+ Bd7 29 Bxc1+–. } 3. Kf3 Nd5 4. Bg6+ Kd8 5. Bd6 { Black is helpless against the threat of Rg8+ followed by Be8+. } 1-0

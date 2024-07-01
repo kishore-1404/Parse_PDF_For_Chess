@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Tregubov"]
+[Black "Dubov"]
+[Result "*"]
+[Puzzle "373"]
+[FEN "5rk1/1ppqn1p1/p5p1/3pPr1p/3N1n2/2P3Q1/PP4PP/R1BR2K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... c5 $1 2. Bxf4 { Black has a decisive material advantage after 22 Nxf5 Ne2+ 23 Kh1 Nxg3+ 24 Nxg3 Qg4–+. } 2... cxd4 3. Bg5 { 23 Bd2 dxc3 24 Bxc3 Nc6 25 Qxg6 d4 26 e6 Qe7 27 Bd2 Ne5 28 Qg3 Qxe6–+. } 3... dxc3 4. bxc3 Nc6 5. Re1 Qe6 *

@@ -1,0 +1,12 @@
+[Event "Dubai 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "J. Song"]
+[Black "Vignesh"]
+[Result "0-1"]
+[Puzzle "618"]
+[FEN "1r4k1/1b3p1p/2nq2p1/pQpp4/B3n3/1NP2N1P/PP3PP1/4R1K1 b - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... c4 $1 2. Nxa5 { Black wins a piece after 21 Nbd4 Ba8 22 Qa6 Nxd4 23 Qxd6 Nxf3+ 24 gxf3 Nxd6–+. } 2... Ba8 3. Qa6 { 22 Nxc4 Qd8–+. } 3... Nc5 4. Qxc6 Bxc6 5. Nxc6 Nxa4 6. Nxb8 Qxb8 0-1

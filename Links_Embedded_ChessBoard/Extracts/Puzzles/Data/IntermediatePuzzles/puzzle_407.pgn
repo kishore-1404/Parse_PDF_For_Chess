@@ -1,0 +1,12 @@
+[Event "Dubai 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Suleymanli"]
+[Black "Sammed Jaykumar"]
+[Result "0-1"]
+[Puzzle "407"]
+[FEN "8/1b5k/p1q3pp/4Ppb1/8/1P3P1P/P1rN4/2RR1Q1K b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bxd2 $1 2. Rxc2 Qxf3+ $1 { Black’s bishops work together perfectly. Not 37...Qxc2? 38 Qe2 Qc3 39 Kg1+=. } 3. Qxf3 Bxf3+ 4. Kg1 { 39 Kh2 Bf4+ 40 Kg1 Bxd1–+. } 4... Be3+ 5. Kf1 Bxd1 6. Rg2 Kg7 7. e6 g5 0-1

@@ -1,0 +1,12 @@
+[Event "Austrian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "M. Hess"]
+[Black "Šebenik"]
+[Result "0-1"]
+[Puzzle "166"]
+[FEN "1R6/5p1k/6p1/2P1Q3/4p2P/4r1PK/8/3q4 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Qd7+ $1 { White is mated after 53 Kg2 Qd2+ 54 Kf1 Re1#. } 0-1

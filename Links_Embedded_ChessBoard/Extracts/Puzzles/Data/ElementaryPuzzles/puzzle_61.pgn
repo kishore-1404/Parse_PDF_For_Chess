@@ -1,0 +1,12 @@
+[Event "Zahara de la Sierra 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A. Perez Garcia"]
+[Black "Iruzubieta"]
+[Result "*"]
+[Puzzle "61"]
+[FEN "r2q1rk1/pp2ppbp/3pbnp1/8/4P3/2NQ2PP/PPP2PB1/R1B2RK1 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Qc8 $1 { A motif to be aware of in this pawn-structure: Black attacks the h3- pawn and also threatens to win material with ...Bc4. } 2. Re1 Bxh3 { Black has an extra pawn and good winning chances. } *

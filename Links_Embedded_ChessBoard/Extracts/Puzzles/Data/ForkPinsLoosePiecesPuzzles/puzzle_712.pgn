@@ -1,0 +1,12 @@
+[Event "Catalonian Team Ch, Barcelona 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Magem Badals"]
+[Black "Solodovnichenko"]
+[Result "*"]
+[Puzzle "712"]
+[FEN "r3k2r/1p2qppp/p4n2/3P4/2P3n1/1Q2b2P/PP1N2P1/RNB1RK2 b kq - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Nh5 $1 2. Ne4 { 18 hxg4?? allows 18...Ng3#. } 2... Nh2+ 3. Ke2 Bxc1 4. d6 { Or 20 Kd1 0-0 21 Kxc1 (21 Ned2? Qh4–+ was played in the game) 21...f5 22 d6 Qe6 –/+. } 4... Qe6 5. Nc3 O-O 6. Raxc1 f5 { Black has a clear advantage and good chances to win. } *

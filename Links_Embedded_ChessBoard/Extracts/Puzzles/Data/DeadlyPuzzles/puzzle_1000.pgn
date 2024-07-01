@@ -1,0 +1,12 @@
+[Event "Sant Ferran de ses Roques 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B. Jacobson"]
+[Black "Aravindh"]
+[Result "0-1"]
+[Puzzle "1000"]
+[FEN "1rr3k1/6b1/1q1p2pp/p1nPp3/P3Pp2/N2N1P2/P2KQ1PP/3RB2R b - - 0 1"]
+[PuzzleType "DeadlyPuzzles"]
+
+1... Qb3 $3 { Black infiltrates White’s position and wins back his piece. Less effective is 24...Nxd3? 25 Nb5! Nxe1 26 Kxe1 Rc5=+. } 2. Rc1 { Or: 25 axb3 Nxb3#; 25 Nxc5 Qb4+ 26 Kd3 Qd4+ 27 Kc2 Rxc5+–+. } 2... Qxa3 3. Rc2 Nxd3 4. Qd1 { 27...Rxc2+ 28 Qxc2 Rb2–+. } 0-1

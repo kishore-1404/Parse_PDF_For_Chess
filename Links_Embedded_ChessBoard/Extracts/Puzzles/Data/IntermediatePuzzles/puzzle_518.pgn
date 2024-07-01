@@ -1,0 +1,12 @@
+[Event "Colombian Ch, Boyaca 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mateus Urbano"]
+[Black "Lopez Rayo"]
+[Result "*"]
+[Puzzle "518"]
+[FEN "r4k2/pp1b1pnp/q2p2p1/3N4/7P/1N3P2/PPrQ2P1/1K1R3R w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Kxc2 $1 { 21 Qxc2? was played in the game, but then Black’s active queen maintains the balance. After 21...Bf5 22 Qxf5 Nxf5 23 Nc7 he could have kept the game level by 23...Qc4 24 Nxa8 Ne3 25 Rd2 (25 Rc1? Qd3+ 26 Ka1 Nc2+ 27 Rxc2 Qxc2–+) 25...Nf1 26 Rd1 (26 Rc2 Qd3 27 Kc1 Qe3+ 28 Kb1 Qd3 also repeats) 26...Ne3 with a draw by repetition. } 1... Bf5+ 2. Kc1 Qxa2 3. Nc3 Qxb3 { 23...Rc8 24 Qxd6++–. } 4. g4 Be6 5. Qxd6+ Kg8 6. Qc7 *

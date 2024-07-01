@@ -1,0 +1,12 @@
+[Event "Rio de Janeiro 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "S. Alonso"]
+[Black "El Debs"]
+[Result "0-1"]
+[Puzzle "336"]
+[FEN "3r2k1/p1R1Rpp1/3P3p/3Q4/5q2/3P1P2/P4PK1/1r6 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Rxd6 $1 2. Qxf7+ { 30 Qa8+ Kh7 31 Qe4+ Rg6+–+. } 2... Qxf7 3. Rxf7 Rg6+ 4. Kh2 { 32 Kh3 Rh1#. } 4... Rb5 $1 { White has no reasonable defence against the threat of 33...Rh5#. } 0-1

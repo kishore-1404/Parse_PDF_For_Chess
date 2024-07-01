@@ -1,0 +1,12 @@
+[Event "Saint Louis rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nakamura"]
+[Black "So"]
+[Result "*"]
+[Puzzle "2"]
+[FEN "r2q1rk1/pb3ppp/1p3n2/2p1N3/1n6/1PN1P1Q1/P2PB1PP/2R2RK1 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Qe7 { The d2-pawn is poisoned, but the game ended 17...Qxd2?? 18 Rfd1 Qb2 19 Nc4 1-0. Black should play } *

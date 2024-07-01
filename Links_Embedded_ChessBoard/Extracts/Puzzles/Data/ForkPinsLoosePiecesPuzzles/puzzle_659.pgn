@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sevian"]
+[Black "Aronian"]
+[Result "1-0"]
+[Puzzle "659"]
+[FEN "8/2pkb1Br/3r3p/p1p2p2/P1B1nP2/2P2K2/5P1P/1R1R4 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Be5 $1 Nd2+ { Now we shall see the pretty idea behind White’s last move. Instead 31...h5 loses to 32 Bd3 Kc8 33 Bxe4 fxe4+ 34 Kxe4+–, while exchanging a pair of rooks with 31...Rxd1 32 Rxd1+ Bd6 33 Bd5 Re7 34 Bxe4 fxe4+ 35 Kxe4+– gives White a winning endgame due to his passed f-pawns. } 2. Rxd2 Rxd2 3. Bg8 $1 { The black rook is trapped. } 1-0

@@ -1,0 +1,12 @@
+[Event "New York 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Oberoi"]
+[Black "J. Yu"]
+[Result "*"]
+[Puzzle "730"]
+[FEN "2r1k2r/4p3/3q1ppb/1p2Nb1p/2pP3P/2P2BQ1/1P3PP1/R4RK1 w k - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Bc6+ $1 Kf8 $1 { In the game 25...Rxc6?? allowed White to win with a deadly knight fork: 26 Ra8+ Rc8 (or 26...Bc8 27 Qxg6+ Kd8 28 Nf7+ Kc7 29 Nxd6+–) 27 Rxc8+ Bxc8 28 Qxg6+ 1-0. } 2. Nd7+ Bxd7 3. Qxd6 exd6 4. Bxd7 Rc7 5. Be6 { White has a slight advantage thanks to his more active bishop, but Black is still in the game. } *

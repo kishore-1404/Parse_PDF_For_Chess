@@ -1,0 +1,12 @@
+[Event "Czech Team Ch 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "J. Pribyl"]
+[Black "Cuhra"]
+[Result "0-1"]
+[Puzzle "54"]
+[FEN "7k/5B2/3q1bQ1/8/3p1P2/4pPK1/8/8 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Bh4+ $1 2. Kxh4 { Or 44 Kg2 Qxg6+ 45 Bxg6 e2–+. } 2... Qxg6 3. Bxg6 e2 { White is unable to cope with the black e-pawn. } 0-1

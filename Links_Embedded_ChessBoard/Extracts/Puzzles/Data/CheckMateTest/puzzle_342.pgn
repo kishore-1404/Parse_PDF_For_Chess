@@ -1,0 +1,12 @@
+[Event "Belgian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pijpers"]
+[Black "Kabos"]
+[Result "*"]
+[Puzzle "342"]
+[FEN "6k1/2p1bp2/1p1q1p2/6P1/p1BNbP2/7Q/PP6/K7 w - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1. Qh5 $1 { White can ignore his loose knight on d4 because Black has no good way to defend the f7-pawn. } 1... Bd5 2. g6 $1 Bxc4 { The game ended 30...fxg6 31 Qxg6+ Kf8 32 Qh6+ Kg8 33 Nf5 Bxc4 34 Qg7# (1-0). } 3. Qh7+ Kf8 4. Qh8# *

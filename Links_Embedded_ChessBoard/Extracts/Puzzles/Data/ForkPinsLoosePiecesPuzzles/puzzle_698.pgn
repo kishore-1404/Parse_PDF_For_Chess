@@ -1,0 +1,12 @@
+[Event "Czech Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kantans"]
+[Black "Warakomski"]
+[Result "*"]
+[Puzzle "698"]
+[FEN "1r2k3/p3pp1Q/2p1bpr1/3pP3/N1P2bPp/Pq5P/1P6/1K1R3R w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Qh8+ Kd7 2. Nc5+ Kc7 3. Na6+ Kd7 { (variation) } 4. Nxb8+ Kc7 5. Na6+ Kb6 { 25...Kb7 26 Qxb8+ Kxa6 27 Qxb3+–. } 6. Qb8+ Kxa6 7. Qxb3 { 27...Kd7 28 Nc5+ Kc7 29 Nxb3+–. } *

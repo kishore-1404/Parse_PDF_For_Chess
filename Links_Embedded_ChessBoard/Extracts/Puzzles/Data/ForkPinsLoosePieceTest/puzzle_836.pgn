@@ -1,0 +1,12 @@
+[Event "European Ch, Vrnjačka Banja 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kobalia"]
+[Black "Shevchenko"]
+[Result "0-1"]
+[Puzzle "836"]
+[FEN "2r3k1/5p2/p4Qp1/8/4p3/2n1B3/q2R1KPP/8 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... Qxd2+ $1 { White’s king and queen are in position to be forked by the black knight. } 2. Bxd2 e3+ { Black wins after 36 Bxe3 Ne4+, 36 Kxe3 Nd5+, 36 Ke1 exd2+ 37 Kxd2 Ne4+ or 36 Kf3 exd2. } 0-1

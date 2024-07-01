@@ -1,0 +1,12 @@
+[Event "Villa Martelli 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "P. Acosta"]
+[Black "Villanueva"]
+[Result "*"]
+[Puzzle "585"]
+[FEN "4r1k1/4qp1p/1R4p1/3p4/3P4/5Q1P/PP2r1P1/2R3K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Rxg2+ $1 2. Kxg2 { The combination works because of White’s loose rook on c1; for example, 29 Qxg2 Qe3+ 30 Qf2 Qxc1+ 31 Kg2 Qd1–+. After 29 Kh1 (as played in the game) Black could have dominated the e-file to snuff out resistance: 29...Re2 30 Rf6 Rxb2 31 Qf1 Qe3–+. } 2... Qg5+ 3. Qg3 Re2+ 4. Kf1 Qxg3 5. Kxe2 Qg2+ 6. Kd1 Qxh3 *

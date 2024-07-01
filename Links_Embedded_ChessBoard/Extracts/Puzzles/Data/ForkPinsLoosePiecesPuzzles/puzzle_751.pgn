@@ -1,0 +1,12 @@
+[Event "Bangladeshi Ch, Dhaka 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Subrota"]
+[Black "Minhazuddin"]
+[Result "*"]
+[Puzzle "751"]
+[FEN "r3r1nk/p2q1ppp/1p1p4/2nP2B1/3R4/P4Q1P/1P2NPP1/1R4K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Rxe2 $1 2. Qxe2 Qf5 { The queen fork nets Black two knights for a rook. } 3. Re1 Qxg5 *

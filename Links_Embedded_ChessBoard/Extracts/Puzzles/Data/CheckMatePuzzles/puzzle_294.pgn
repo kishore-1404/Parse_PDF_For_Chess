@@ -1,0 +1,12 @@
+[Event "Astana 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Matinian"]
+[Black "Niemann"]
+[Result "*"]
+[Puzzle "294"]
+[FEN "3r4/p4q2/1p4kp/2p1R1p1/P4n2/2B5/2P2PbP/3RQ1K1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Qb7 $1 { Black protects his bishop and threatens 30...Nh3#. } 2. Re6+ Kh5 $1 3. h4 { Black’s pressure along the long diagonal is too strong; for example, 31 Re3 Nh3+ 32 Rxh3+ Bxh3 33 Qe2+ (33 f3 Qxf3 34 Rd2 Qxc3–+) 33...Bg4 34 Qxg4+ Kxg4 35 Rxd8 Qe4–+. } 3... Bh1 *

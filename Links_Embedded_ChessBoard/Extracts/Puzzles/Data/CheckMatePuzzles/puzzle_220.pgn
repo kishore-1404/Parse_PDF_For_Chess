@@ -1,0 +1,12 @@
+[Event "Budapest 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Z. Varga"]
+[Black "Aveskulov"]
+[Result "0-1"]
+[Puzzle "220"]
+[FEN "1rr5/R5pk/7p/5p1P/2n2B2/8/P1K2PP1/7R b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Ne5+ $1 2. Kd2 Rb2+ 3. Ke3 Ng4+ { 33 Kf3 (33 Kd4 Rb4+ 34 Kd5 Rxf4–+) 33...Rc3+ 34 Be3 Rxf2+ 35 Kg3 Rxe3+ 36 Kh4 Rxg2 and mate follows. } 0-1

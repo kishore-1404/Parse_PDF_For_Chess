@@ -1,0 +1,12 @@
+[Event "Krasnogorsk rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kramnik"]
+[Black "Vallejo Pons"]
+[Result "1-0"]
+[Puzzle "415"]
+[FEN "r3r2k/1p3Qpp/2p1n3/5R2/p1P1N1P1/b6P/1q4B1/5R1K w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. c5 $1 { White cuts off Black’s dark-squared bishop to create some back- rank mating threats. } 1... h6 { 29...Bxc5 30 Nxc5 g6 (30...Nxc5 31 Qxe8+! Rxe8 32 Rf8+ Rxf8 33 Rxf8#) 31 Nxa4+–. } 2. Nd6 Ng5 3. Qg6 Bxc5 { 31...Red8 32 Rxg5! hxg5 33 Be4 followed by mate. } 4. Nxe8 1-0

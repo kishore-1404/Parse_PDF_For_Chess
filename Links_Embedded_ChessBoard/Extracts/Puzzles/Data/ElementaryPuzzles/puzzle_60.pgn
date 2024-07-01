@@ -1,0 +1,12 @@
+[Event "Zahara de la Sierra 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Adan Bermudez"]
+[Black "Starostits"]
+[Result "*"]
+[Puzzle "60"]
+[FEN "r1b2rk1/1p6/pPpp2pQ/4q3/2P4P/8/P3PPB1/1R3K1R b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Qf5 $1 { A real multi-purpose move: Black defends his g6-pawn, threatens mate on f2 and attacks the white rook on b1. } 2. Qxf8+ Qxf8 { White is too much material down. } *

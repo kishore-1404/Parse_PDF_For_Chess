@@ -1,0 +1,12 @@
+[Event "Seville 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fernandez Guillen"]
+[Black "Plazuelo Pascual"]
+[Result "*"]
+[Puzzle "878"]
+[FEN "2r1r1k1/1bq2p2/p3pPp1/1p4Pp/4p2R/1PP1BNbQ/1P5P/3R2K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Rxh5 $1 gxh5 { 28...Bxh2+ 29 Nxh2 gxh5 30 Qxh5 Qg3+ 31 Kh1 Red8 32 Rg1 leads to mate. } 2. Qxh5 Red8 { Black has no good defence to the mate on g7. In the game, 29...Bd6 led to a win for White after 30 g6 fxg6 31 Qxg6+ Kh8 32 Ng5 Rf8 33 f7 Bxh2+ 34 Kh1 1-0. } 3. Qh6 $1 Bxh2+ 4. Kf1 $1 Rxd1+ 5. Ne1 $1 { Not 32 Ke2?? exf3+ 33 Kxd1 Qd6+ 34 Bd4 Qf8–+. } 5... Rxe1+ 6. Kxe1 Qg3+ 7. Bf2 Qxg5 8. Qxg5+ Kf8 9. Qh6+ Ke8 10. Qxh2 *

@@ -1,0 +1,12 @@
+[Event "Finnish Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "H. Salo"]
+[Black "Ahvenjärvi"]
+[Result "*"]
+[Puzzle "495"]
+[FEN "6k1/p1r2pp1/1p2p2p/2Pn4/qP2N3/P2QP3/5KPP/3R4 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... f5 $1 2. Nd6 { White can avoid losing a pawn, but his position collapses after 31 cxb6 axb6 32 Ng3 Rc3–+. } 2... bxc5 3. Rc1 { After 32 Nxf5 (as played in the game) Black won a piece: 32...Rf7 33 Kg1 Rxf5 34 e4 Nf4 0-1. } 3... cxb4 4. Rxc7 Nxc7 *

@@ -1,0 +1,212 @@
+
+
+
+
+1
+Morphy – Schulten
+New York 1857
+(1 e4 e5 2 ♘f3 ♘c6 3 ♗b5 ♗c5 4 c3 ♘ge7 5 0-0 0-0 6 d4 exd4 7 cxd4♗b6 8 d5 ♘b8 9 d6! cxd6)
+White to move
+
+{ The American chess genius Paul Morphy (1837-1884) was the first playerwho really understood the importance of developing the pieces before goingall out for an attack. }
+10 ♗f4
+{ Morphy claimed his 10th move was as an improvement on 10 ♕xd6 whichwas given in the leading treatises of the day (Hanstein – von der Lasa, inStaunton’s “Handbook”). However, this is not true if one consults thecomputer programs Komodo and Stockfish. It’s good to capture the d6-pawnas long as White can maintain pressure on the d-file. What’s more is thatthere is an even better move, suggested by both computers, namely 10 ♘c3!.This is very interesting since Komodo makes good evaluations and Stockfishis good at deep calculations, but they still come up with the same move!This simple knight move also follows Lasker’s principle that a knightshould be developed before the bishop. The idea is to prepare ♗f4 next movewithout allowing the d-file to be closed after ...d5. Morphy played accordingto the principle of development so his move is understandable, but thecomputers’ choice is the most precise. Even if we do know that developmentis on the agenda, we must also think carefully which minor piece to movefirst. }
+10...♗c7?
+{ Correct was 10...d5! exploiting the fact that White cannot capture on d5with a piece. After 11 exd5 d6 followed by ...♘g6 and/or ...♗g4 Black wouldhave a fully playable position. }
+11 ♘c3
+{ The logical follow-up 11 ♗xd6 would most probably lead to the sameposition by transposition after 11...a6 12 ♗c4 b5 13 ♗b3 ♗b7 14 ♘c3 etc. }
+11...a6 12 ♗c4 b5 13 ♗b3 ♗b7 14 ♗xd6 ♗xd6?
+{ This exchange only helps White’s development. It was better to play14...♘bc6. }
+15 ♕xd6 h6?
+{ 15...♘bc6! is correct. }
+16 ♖ad1 ♘c8?
+{ Black plans the neutralisation of the classical bishop but it’s moreimportant to neutralise the knight on f3 with 16...♘bc6.Another problem with the text move is that f5 becomes a really weaksquare. }
+17 ♕f4
+{ It’s a matter of taste whether one prefers to focus on f7 as in the game org7 with 17 ♕g3 followed by 18 ♘h4 and 19 ♘f5, because these squares areequally weak when White has so much activity as here. }
+17...♘b6?
+{ 17...♘c6 still ought to have been played. It’s pretty clear that Morphy’sopponent(s) didn’t understand the importance of bringing all their piecesinto play. }
+18 ♘e5
+{ A good move, exploiting the freedom of the knight White has been given,while the f7-pawn is a problem in Black’s position which forces him toweaken his position further. But moves such as 18 ♘h4 or 18 ♘d4 followedby 19 ♘f5 were even more devastating. }
+18...♕f6
+{ Because of the weak pawn push on the 15th move Black doesn’t have thenatural defensive resource 18...♕e7 due to 19 ♘g6. The other alternatives18...d5 and 18...♘c4 would lose a pawn. }
+19 ♕xf6
+{ To exchange or not exchange? It was Morphy’s trademark to be pragmaticand terminate an attack if he saw an advantageous simplification leading to awinning endgame. Before Morphy, most players would prefer to continue theattack so here 19 ♕g3 suggests itself, which incidentally is the computer’schoice. }
+19...gxf6 20 ♘g4 ♔g721 ♘xf6
+{ This is the point of Morphy’s exchange of queens, exploiting theunprotected knight on b6. More precise however was 21 ♘e3! followed by 22♘f5+ and Black will slowly be suffocated. This kind of “strangulation play”was not Morphy’s cup of tea. We had to wait for players like Schlechter andTarrasch at the beginning of the 19th century for that kind of “torturous” play. }
+21...♗c6?
+{ Better was 21...♔xf6 22 ♖d6+ ♔e7 23 ♖xb6 ♗c6 and White’s rook istemporarily trapped. Black can catch it by the manoeuvre ...♔d8-c7 but thisis just an illusion after 24 ♖c1 due to the manoeuvring point d5.22 ♘h5+! would simultaneously hit all three weaknesses, the king on g7and the pawns on f7 and h6. 22...♔h7 (22...♔g6 23 ♖d6+! ♔xh5 24 ♗d1+♔h4 [Or 24...♔g5 25 f4+ ♔h4 26 ♖xh6 mate] 25 g3+ ♔g5 [If 25...♔h3 then26 ♖xh6 mate] 26 f4 mate) 23 ♖d6 followed by 24 e5 is a tough nut forBlack to crack. 23...♘c8 is answered by 24 ♖f6 and the f7-pawn is lost. }
+22...a5 23 ♖d3
+{ Morphy’s plan is to play on the g-file rather than the sixth rank. }
+23...♖h8 24 ♘cd5 ♘c4 25 ♗xc4 bxc4 26 ♖g3+ ♔f8 27 ♘b6 ♖a728 ♖d1 ♗b5 29 ♖d4 ♖c7 30 ♖dg4 Black resigns.
+{ “Winning by force,” says Morphy. “This game has certainly no claims tobrilliancy, but illustrates the difficulty of a correct defence to the Ruy Lopezgame” (A.C.M. 1858).Maróczy, however, claims the game as one of Morphy’s best performances,owing to the iron precision of his moves. Note that one important reason forBlack’s loss in this game was a reluctance to develop his b8-knight. Inessence Black played a piece down right from the start. It seems thatSchulten just forgot about this knight after it returned to the stable with themove 8...♘b8.Don’t forget to assimilate games played by Morphy even though he didn’tmeet the toughest opponents, because his games are nevertheless veryinstructive. He’s one of the most important players in chess history to studyin depth and really understand. It’s no coincidence that geniuses like BobbyFischer and Anatoly Karpov regarded him very highly.One of the best English language books about his play and contributions isPaul Morphy – A Modern Perspective by the Austrian GM Valeri Beim. }
+
+
+
+
+2
+Bernstein – Spielmann
+Ostend 1906
+(1 d4 d5 2 c4 e6 3 ♘c3 c5 4 cxd5 exd5 5 dxc5 d4 6 ♘a4 ♗xc5? 7 ♘xc5♕a5+ 8 ♕d2 ♕xc5 9 b4 ♕b6 10 ♗b2 ♘c6 11 a3 ♗e6 12 ♘f3 ♖d8 13 ♕g5♘f6? 14 ♕xg7 ♔e7 15 ♕h6 ♖hg8 16 ♖d1 a5)
+White to move
+
+{ This hair-raising position has been discussed by several authorities suchas Spielmann himself in The Art of Sacrifice in Chess, Suetin in Plan Like AGrandmaster, Tarrasch in the Berliner Lokal-Anzeiger (1883-1945) andMarco in the Wiener Schachzeitung (1855-1949) Interestingly, they made thesame mistake of overestimating Black’s position, probably because of histhree-tempi lead in development. However, it’s not possible to open thecentral files, according to Morphy’s principles, so White can calmly proceedwith......followed by ♗g2 and 0-0 and catching up the three tempi he is down onthe kingside. Black has no antidote to this simple plan of development.Black’s best variation appears to be... }
+17...axb4 18 ♗g2 ♕a5 19 axb4 ♕xb4+ 20 ♕d2 ♕xd2+ 21 ♖xd2♘e4 22 ♖d1
+{ ...with a clear advantage to White due to his bishop pair and better pawnstructure. Black’s initiative evaporates in all relevant variations after... }
+22...♘c3 23 ♖c1 ♘a4
+{ 23...♘a2 is answered by 24 ♖c2 d3 25 ♖d2 ♗c4 26 e3 while 23...b5?,with the idea of ...b5-b4, fails to 24 ♘xd4!. }
+24 ♗a1
+{  etc.In the game the incomprehensible 17 ♕d2??...was followed by 17...♘e4? (17...axb4 should have been played since thereply 18 axb4? would have lost to the devastating 18...♘e4 and then19...♕xb4+.) 18 ♕c2? (White should have returned the queen to h6, because18 ♕h6! axb4? [Better is 18...♘c3] is met by 19 ♕h4+ ♔e8 [19...♘f6? 20♘xd4] 20 ♕xe4.Despite the loss of a piece Black has sufficient compensation after20...bxa3 21 ♗a1 ♖g4 22 ♕xh7 etc.) 18...f5 Now Black is completely lost. 19bxa5 ♕xa5+ 20 ♘d2 ♘e5 21 ♗c1 In a hopeless position White plans theexchange of queens on b4 to reduce the pressure somewhat. 21...♖d6 Afterthis move, one of the best teachers in chess history, Dr Siegbert Tarrasch(1862-1934), makes the following remark: “One of many good moves whichBlack has in this customary strong position.”The direct way to mate (and one must play for no less in such strongpositions) in my opinion was 21...♘g4 with the continuation 22 f3 ♘e3 23♕b2 ♕a4 (According to the silicon monster Black could play more preciselywith the incredible “family fork” 23...♘f2!!.First the knight forks two rooks and if the knight is taken both king andqueen are forked by the other knight. I’ve never seen anything like thisbefore. White’s best according to the computer is 24 ♕xb7+ [24 ♔xf2♘xd1+] 24...♖d7 25 ♕b4+ ♕xb4 26 axb4. The main variation goes26...♘xh1 27 ♘b1 ♘xd1 etc. A funny variation in which all of White’s pieces,as well as two of the enemies’, end up on the first rank! Sometimes one candiscover the most amazing variations with “brute force”.) 24 fxe4 (24 ♕b4+♕xb4 25 axb4 ♘c2 mate) mate) 24...♕xd1+ 25 ♔f2 ♘g4+ 26 ♔g1 ♕e1 and...♕f2 mate”.) 22 f3 ♘c3 (Morphy would probably have played 22...d3 23exd3 ♘c5 24 d4 ♖xd4 25 ♗e2 ♖xg2 and all of Black’s six pieces are readyfor an attack on the king!) 23 g3 ♖b6 24 ♔f2 ♖c8 25 ♔g1 “Escaping from25...♘e4+ but overlooking 25...♘xe2+” – Hoffer. White resigns.To summarise, one must say that it’s surprising that so many highlycompetent chess players, including the player of the white pieces, Bernstein,missed the simple and logical continuation 17 g3, 18 ♗g2 and 19 0-0.However it should also be mentioned that Tarrasch recommended the idea ofcontinuing g3, ♗g2 and 0-0, but only as a follow-up to his rather passivesuggestion 14 ♕c1 which he regarded as the best move but which is farinferior to the consequent and correct move 14 ♕xg7. I think this position isvery illuminating for the fact that it’s not enough to be three tempi ahead indevelopment, unless there is an effective way of opening the central linesagainst the opponent’s king. This was Morphy’s most important discoverybut surprisingly not fully comprehended by the above mentioned respectedplayers and commentators, who underestimated Black’s position andtherefore failed to discover the correct continuation. }
+
+
+
+
+3
+Spielmann – Flamberg
+Mannheim 1914
+(1 e4 e5 2 ♘c3 ♘f6 3 f4 d5 4 fxe5 ♘xe4 5 ♘f3 ♗g4 6 ♕e2 ♘c5 7 d4 ♗xf38 ♕xf3 ♕h4+)
+White to move
+
+{ Paul Morphy’s great contribution to chess was that a lead in developmentis the most important element in an open position. The Austrian GM RudolfSpielmann (1883-1942) therefore played...9 ♕f2 ♕xf2+ 10 ♔xf2 ♘e6 11 ♘xd5 c6 12 ♘f4 ♘xd4 13 c3 ♘e6 wasperhaps the continuation Flamberg expected. }
+9...♕xd4 10 ♗e3 ♕xe5
+{ Spielmann recommends in his classic The Art of Sacrifice in Chess(Richtig Opfern!, 1935) 10...♕b4 but it’s actually worse because of 11 ♗b5+♘bd7 (11...♘c6 12 0-0-0 0-0-0 13 ♖xd5 ♖xd5 14 ♕xd5 or 11...c6 12 ♖f1 andthe f-pawn falls.) 12 ♗xc5 ♗xc5 13 ♗xd7+ ♔xd7 14 ♕xd5+ ♔c8 15 0-0-0etc. }
+11 0-0-0 c6
+{  ... }
+
+
+
+
+4
+Spielmann – Flamberg
+Mannheim 1914
+
+White to move
+
+{ Spielmann maintained that in the majority of cases a lead of three tempishould almost automatically ensure a won position. Here Black needs threemoves to connect his rooks but only two to place his king in safety so Whitemust act fast, in the tradition of Morphy, and open the central files. }
+12 ♘xd5!
+{ This is the most principled move but it was also possible to accelerate hisdevelopment by playing 12 ♗h3. }
+12...cxd5 13 ♖xd5
+{ Stronger was 13 ♗xc5! ♗xc5 14 ♗b5+ ♔f8 15 ♖he1 ♕g5+ 16 ♔b1 ♘c617 ♖xd5 ♘d4 18 ♕g2 and White regains his piece with a decisive advantage. }
+13...♕e6?
+{ 13...♕e4? was also bad on account of 14 ♗b5+ ♘c6 15 ♗xc5 with the idea15...♕xf3 16 ♗xc6+ bxc6 17 ♖e1+ ♗e7 18 ♖xe7+ ♔f8 19 ♖xa7+ ♔g8 20♖xa8 mate.The best defence was 13...♕c7 when Spielmann planned 14 ♗f4 (Ratherthan 14 ♗b5+ ♘c6 15 ♗xc5 ♗xc5 16 ♖xc5 0-0 17 ♗xc6 ♖ac8 [17...bxc6 18♖xc6] 18 ♗xb7 ♕xc5 19 ♗xc8 ♖xc8 which only wins a pawn.) 14...♕b6 15♗xb8! ♗e7! (15...♖xb8 is answered by the devastating continuation 16 ♕f4!♖c8 17 ♗b5+! ♕xb5 18 ♖e1+ ♗e7 19 ♖xe7+ ♔xe7 20 ♕d6+ ♔e8 21 ♖e5+♘e6 22 ♖xb5).According to Spielmann White’s attack is then so strong that there wouldbe no question about the result. Presumably he would have continued 16 ♗e50-0 17 ♗c4 so he was indeed right when he preferred to continue the attackinstead of being satisfied with winning a pawn. }
+14 ♗c4 ♕e4? 15 ♗xc5 Black resigns.
+{ After 15...♕xf3 16 ♖e1+ it is mate in three. }
+
+
+
+
+5
+Osnos – Stein
+Leningrad 1963
+(1 d4 ♘f6 2 c4 c5 3 d5 d6 4 ♘c3 g6 5 e4 ♗g7 6 ♗e2 0-0 7 ♘f3 a6 8 0-0 e59 dxe6 ♗xe6 10 ♗f4)
+Black to move
+
+{ A common decision during calculation or when choosing openings orstrategies is whether one should be active or passive. }
+10...♕b6!?
+{ Faithful to his style Stein chooses the most active as well as the more riskymove. Compare the move played with the continuation 10...♘e8 11 ♕d2 ♘c612 ♖fd1 ♕a5 followed by ...♖ad8 which defends the d6-pawn instead ofsacrificing it. This more passive continuation was not inferior to the activecontinuation in the game. }
+11 ♗xd6?!
+{ Critical was 11 ♕xd6 ♕xb2 12 ♗d2 ♘c6 13 ♖ab1 ♕xc3! 14 ♗xc3 (14♕xf8+ ♗xf8 15 ♗xc3 ♘xe4 16 ♗a1 is enough for a slight advantage.)14...♘xe4 15 ♗xg7 ♘xd6 16 ♗xf8 ♔xf8 17 ♖fd1 ♔e7 and Black must fightfor the draw. This was the concrete risk Stein took. 11 ♘a4 ♕c6 12 e5 is notas dangerous as it looks. After 12...♘h5 13 ♗e3 dxe5 Black isn’t worse. }
+11...♖d8 12 ♗xc5
+{ An important continuation is 12 e5 ♘e8 13 ♗xc5 ♕c7 14 ♗d4 (or 14 ♗d6♘xd6 15 exd6 ♖xd6 when Black has enough compensation for the pawndeficit due to his bishop pair.) 14...♘c6 15 ♘d5 ♗xd5 16 cxd5 ♖xd5 17 ♗c4♖dd8 18 e6 ♘xd4 19 exf7+ ♔h8 20 fxe8♕+ ♖xe8 21 ♖c1 ♖ad8. Black’sactive pieces secure full compensation for the f-pawn. }
+12...♕c7 13 ♗d4 ♘xe4
+{ 13...♘c6! was the strongest continuation with enough compensation forthe two central pawns. }
+14 ♕c2
+{ White is slightly on top but nevertheless lost the game after 42 moves. }
+
+
+
+
+6
+C. Bergstroem – L. Karlsson
+Stockholm 1984
+(1 c4 c5 2 ♘f3 ♘c6 3 ♘c3 e5 4 e3 ♘f6 5 d4 cxd4 6 exd4 e4 7 ♘g5 ♗b4 8♗e2 h6 9 ♘h3 d5 10 ♘f4 0-0 11 a3 ♗xc3+ 12 bxc3 ♘a5 13 ♘xd5 ♘xd5 14cxd5 ♕xd5 15 0-0)
+Black to move
+
+{ In my youth I was impressed by Karlsson’s play in this game. Which is thebest square for Black to develop his bishop? There are three interestingoptions. }
+15...♗d7
+{ Black hopes to be able to exchange the bishop on b5 for the bishop on e2.If this mini-plan succeeds Black has not only split White’s bishop pair but hasalso secured control of the light squares in White’s position. 15...♗e6 wasalso a good move followed perhaps by a future ...♗e6-c4. }
+16 f3 ♗f5
+{ Now this is the correct square for the bishop, because Black wouldobviously be happy to centralise his bishop on e4 if an exchange shouldoccur. }
+17 ♖b1 exf3
+{ Stronger would be to maintain the tension in the centre by playing17...a6 followed by 18...♖ac8. }
+18 ♗xf3 ♕d7 19 ♖b2 ♖ac8 20 ♖bf220...♖xc3
+{ Safer was 20...b6 but, being fond of dynamic and risky play, Karlssonprefers to sacrifice the exchange. }
+21 ♕e1 ♖xc1 22 ♕xc1 ♕xd4
+{ Quite a brave decision considering the fact that White’s pieces are veryactive whereas Black’s are hanging and don’t coordinate well. }
+23 ♖d1 ♕b6 24 ♕f424...♗e6
+{ Definitely the best square for the bishop, where it not only defends f7 butis also defended by the f7-pawn. It’s important to have the pieces anchoredwhen the sea is stormy. }
+25 ♖d6
+{ It was better to play 25 ♕b4 at once. }
+25...♕c5 26 ♕b4 ♕xb4 27 axb4
+{ From here on it’s interesting to note all the important tempi Black gets forfree in return for his knight. }
+27...♘c4 28 ♖d4 a5!
+{ 28...b5 can be met by 29 ♖a2. }
+29 ♗g4 ♗xg4 30 ♖xg4
+{ 30 ♖xc4 ♗e6 31 ♖c7 axb4 32 ♖xb7 b3 33 ♖b2 would end in a draw. }
+30...♘e5 31 ♖e4 ♘d3 32 ♖f5 a4 33 ♖a5 ♖c8 34 ♔f1 ♘b2
+{ It looks like the knight’s only purpose is to defend the pawn on a4 but ahideous trap is contained within this move. }
+35 b5?? ♘c4
+{ Such a trap makes a stronger impact if one is aware of the fact that b2, b7,g2 or g7 are normally regarded as very bad squares to place a knight.Remember that on an empty board a rook on d4 traps a knight on b2 – buthere it proves to be a tricky grasshopper. }
+36 ♖xa4
+{ Unfortunately for White 36 ♖xc4 ♖xc4 37 ♖a7 will not help. Black plays37...a3! 38 ♖xa3 (38 ♖xb7 a2 39 ♖a7 ♖c1+) 38...♖b4 39 ♖a5 b6 andremains two pawns up. }
+36...♘d2+ 37 ♔e2 ♘xe4 38 ♖xe4 ♖c2+ 39 ♔f3 ♔f8 40 h4 ♖c541 ♖b4 ♔e7 42 g4 ♔d6 43 ♔e4 ♖e5+ 44 ♔d4 f5 45 gxf5 ♖xf5 46♔e3 ♔c5 47 ♖g4 g5 48 hxg5 ♖xg5 White resigns.
+
+
+
+7
+Carlsen – Van Wely
+Tata Steel 2013
+(1 c4 g6 2 d4 ♘f6 3 ♘c3 ♗g7 4 e4 d6 5 ♗e2 0-0 6 ♗g5 c5 7 d5 e6 8 ♕d2exd5 9 exd5 ♕b6 10 ♘f3 ♗f5 11 ♘h4 ♘e4 12 ♘xe4 ♗xe4)
+White to move
+
+
+{ How does White meet the threat against b2 in the best way?It’s important to understand that the developing move 13 0-0-0?? is aserious mistake and alarm bells should ring when one sees that three piecesare pointing in the king’s direction and a fourth can be introduced by theknight manoeuvre ...♘b8-a6-b4. Black’s attack will be too strong for White toresist since there aren’t enough defending pieces on that sector of the board.The game Zukaev – Tal, USSR Championship 1956, continued 13...♘a6! 14 f3(14 a3 ♕b3! 15 f3 ♕a2 16 fxe4 ♕a1+ 17 ♔c2 ♕xb2+ 18 ♔d3 ♕b3+)14...♘b4! 15 fxe4 (15 b3 ♗c3!) 15...♘xa2+ 16 ♔b1 (16 ♔c2? ♕xb2+ 17 ♔d3♕b3+) 16...♘c3+ 17 ♔c1 ♘xe4 White’s queen is overloaded since it has todefend both b2 and g5 at the same time. Black won with the help of the twoextra pawns after the moves 18 ♕c2 ♘xg5.Note the fast super knight which manoeuvred from b8 to g5 via a6-b4-a2-c3-e4-g5. Such knight manoeuvres can be difficult to predict and that is whyone must never underestimate a knight’s capability even when it’s at homesitting on its original starting square! The lesson to be learned is that oneshould never forget the concrete nuances of a position, because chess is fullof exceptions when there are better moves than pure developing ones. }
+13...♕xb2?!
+{ The strongest continuation was 13...h6 14 ♗xh6 ♗xh6 15 ♕xh6 ♕xb2 16♖c1 ♗c2 with an equal game. 13...♗xb2 was not good due to 14 ♖d1 ♗f5 15♘xf5 gxf5 16 0-0 and White has good winning chances thanks to Black’sweakened kingside. }
+14 ♖c1 ♗f5 15 ♘xf5 gxf5 16 ♕xb2 ♗xb2 17 ♖b1!
+{ This natural move was actually a novelty when the game was played.Earlier 17 ♖c2 was seen in a high-level game but Black had no problems after17...♗e5. }
+17...♗c3+ 18 ♔d1
+{ White threatens to take on b7 but also ♗e7 is a threat. }
+18...♖e8 19 ♖xb7 ♘a6 20 a3
+{ Black’s knight has to be neutralised! }
+20...♖ab821 ♖xb8
+{ An even stronger continuation was 21 ♖xa7! ♖b1+ 22 ♗c1 ♗b2 23 ♔c2♖xc1+ 24 ♖xc1 ♗xc1 (24...♖xe2+ 25 ♔d3) 25 ♔xc1 ♖xe2 26 ♖xa6 ♖xg227 ♖xd6 ♖xh2 28 ♖c6 ♔f8 29 d6 ♔e8 30 ♖xc5 ♔d7 31 ♖d5 and Whitewins the rook ending. The main threat is 32 c5 followed by 33 c6+. }
+21...♘xb8
+{ If 21...♖xb8 then 22 ♔c2. }
+22 ♗d3 ♘d7 23 ♔c2
+{ 23 ♗xf5? is met by 23...♘e5 24 ♔c2 ♗d4 25 ♗d3 ♖b8. }
+23...♗d4 24 ♖b1 ♘b6 25 ♗f4 ♗e5 26 ♖e1
+{ A further tactical motif arises, namely the pin on the e-file. }
+26...♔g7 27 ♗g3! ♖e7 28 f4 ♗f6 29 ♖xe7 ♗xe7 30 ♗e1 h5 31 g3♗f6 32 ♔b3 ♔g6 33 h3 Black resigns.
+{ The f5-pawn is pinned by the bishop on d3 so there is nothing to doagainst g3-g4. A very fine game by Carlsen with many tactical points. }
+
+
+
+
+8
+Dus-Chotimirsky – Lasker
+St. Petersburg 1909
+(1 d4 d5 2 ♘f3 ♘f6 3 c4 e6 4 ♘c3 ♗e7 5 ♗f4 0-0 6 e3 ♘bd7 7 ♗d3 c6 8♕e2 dxc4 9 ♗xc4 ♕a5 10 0-0 ♘d5 11 ♗g3 ♘xc3 12 bxc3 ♘f6 13 ♗d3 h6 14♘e5 ♕d8 15 f4 ♘d5 16 ♖f3 c5 17 e4 ♘f6 18 ♗f2 cxd4 19 cxd4 ♗d7)
+White to move
+
+{ Sometimes the Pillsbury-knight can be exchanged for a bad bishop. Thenthe advantage of a strong knight is transformed into other advantages such asthe bishop pair and the pawns’ desire to attack the kingside. An earlyexample of this idea is the following where Dus-Chotimirsky played thesurprising capture (especially in those days before the famous 22 ♘xd7!! inFischer – Petrosian, Buenos Aires 1971). }
+20 ♘xd7!
+{ Lasker, who lost this game, confirms the strength of this creative exchangein the tournament book: “White shows splendid judgment of position byplaying for the two bishops; this gives him a lasting superiority.” Stockfishchooses this as the best move after thinking 15 moves deep which to a highdegree confirms the objective value of the exchange. After all, although theknight is stronger than the bishop, the pieces that remain on the board areeven stronger. According to the computer White’s advantage is actuallyaround 1.5 pawn(s) at this point. }
+20...♕xd7 21 h3
+{ This is both a defensive move against ...♘g4 as well as preparation for♔g1-h2 followed by g2-g4. More circumspect was 21 ♔h1 with the idea21...♘g4 22 ♗g1. }
+21...♖ac8 22 ♕e2 ♖c7 23 f5 ♘h7?
+{ Black must stop the threat of e4-e5 followed by f5-f6. 23...exf5 24 ♖xf5with an absolute centre was apparently not Lasker’s cup of tea.Lasker gives 24...♘g5 25 f6. }
+25 ♗xf5 ♕d8 26 ♖d1 g6 27 ♗c2 ♕c8 28 ♗b3 ♖c1 29 ♔h2
+{ There was no need for this circumspect move. More aggressive moveswere either 29 h4! to take away the knight’s only square or an immediateexpansion in the centre with 29 d5. }
+29...♘g5
+{ 29...♖xd1 30 ♕xd1 ♘g5 was more precise. }
+30 ♖fd3 ♖xd1 31 ♖xd1
+{ White’s pieces act in perfect harmony. Everything is prepared for thepawn push d4-d5. }
+31...♗d8 32 h4
+{ 32 d5! before h3-h4 would effectively shut the knight out of the game. }
+32...♘e6 33 d5 ♘f4 34 ♕e4 ♕g4
+{ Lasker comments: “A swindle. Owing to White’s two bishops and thestrong passed pawn, Black can defend himself only by counterattack.”Simpler and best was 35 ♗g3 g5 36 ♗c2 f5 37 exf6 ♖xf6 38 ♕h7+ ♔f839 ♖d4! with the idea that 39...gxh4 is answered by 40 ♗xf4 ♖xf4 41♕xh6+ and White wins the rook. }
+35...♗xh4 36 gxh4 ♖c837 ♖d3!
+{ Lasker: “The only, but sufficient, defence against 37...♖c3.” Indeed so, 37♗e1?? is met by 37...♖c3!! 38 ♗xc3 ♕xh4+ 39 ♔g1 ♘h3+ 40 ♔h2 ♕xe4 41♔xh3 ♕f3+ 42 ♔h2 ♕xc3 43 e6 fxe6 44 d6 (44 dxe6 ♔f8) 44...♔f7 45 d7♕c7+ 46 ♔h3 ♕d8 and Black should win with precise play. Dus-Chotimirsky must be very careful not to fall into a Lasker swindle! }
+37...♖c1 38 ♕f3
+{ The pawns cry out to be pushed. 38 e6! was the most crushing move. }
+38...♕f5 39 ♖d4 g5 40 e6! ♕e5 41 ♖e4 ♕d6 42 e7

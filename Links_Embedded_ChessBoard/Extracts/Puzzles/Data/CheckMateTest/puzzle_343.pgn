@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Le Tuan Minh"]
+[Black "D. Anton"]
+[Result "*"]
+[Puzzle "343"]
+[FEN "1r1r4/4Q2p/6pk/8/P7/3q3P/5PP1/4R1K1 w - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1. Qh4+ Kg7 2. Re7+ Kg8 { 35...Kf8 36 Qf6+ Kg8 37 Qg7#. } 3. Qxh7+ Kf8 4. Qg7# *

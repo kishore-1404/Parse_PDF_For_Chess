@@ -1,0 +1,12 @@
+[Event "Swiss Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "S. Georges"]
+[Black "Mäser"]
+[Result "*"]
+[Puzzle "488"]
+[FEN "2rr1nk1/pb2bp1p/1p4pQ/n3N1q1/2Pp2N1/6P1/PB3P1P/1BRR2K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. h4 $1 { 24 Rxd4? was played in the game. Black then exchanged a set of rooks and simplified the position with 24...Rxd4 25 Bxd4 Ne6 =. } 1... Qxh6 2. Nxh6+ Kg7 3. Nhxf7 Re8 4. Bxd4 *

@@ -1,0 +1,12 @@
+[Event "Hungarian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Szeberenyi"]
+[Black "P. Balint"]
+[Result "*"]
+[Puzzle "925"]
+[FEN "4r1k1/p4p1p/q5p1/2pP2B1/8/7P/Pb3PP1/R2Q2K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. d6 $1 Bxa1 2. d7 Rb8 3. d8=Q+ Rxd8 4. Qxd8+ Kg7 5. Be7 $1 { Black must fatally weaken his pawn-structure to deal with the threat of Qf8#. } 5... g5 { Or 25...h5 26 Qf8+ Kh7 27 Qxf7+ Bg7 28 Bxc5+–. } 6. Bxc5 Bf6 { Or 26...Qxa2 27 Qxg5+ Kh8 28 Qd8+ Kg7 29 Qf8+ Kg6 30 Qg8+ Kf6 31 Qxh7+–. } 7. Qf8+ Kg6 8. Qg8+ Kf5 9. Qxf7 { White has won a critical pawn. } *

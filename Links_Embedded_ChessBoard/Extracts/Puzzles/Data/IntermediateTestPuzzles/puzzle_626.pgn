@@ -1,0 +1,12 @@
+[Event "Wijk aan Zee 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ding Liren"]
+[Black "Giri"]
+[Result "0-1"]
+[Puzzle "626"]
+[FEN "4r1k1/2q1rp1p/bp3P2/p1pRnR2/P7/1PQ4P/6B1/6K1 b - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... Nf3+ $1 2. Rxf3 { Or: 36 Bxf3 Qg3+ leads to mate; 36 Kf2 Re2+ 37 Kxf3 Qh2–+; 36 Qxf3 Re1+ 37 Kf2 R8e2+ 38 Qxe2 Rxe2+–+. } 2... Re1+ 3. Bf1 Kh8 { 38 Rd2 Bxf1 39 Rxf1 R8e3–+. } 0-1

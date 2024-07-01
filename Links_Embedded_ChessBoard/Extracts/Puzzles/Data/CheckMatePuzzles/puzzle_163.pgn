@@ -1,0 +1,12 @@
+[Event "Commonwealth Ch, Waskaduwa 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dushyant"]
+[Black "Karthik"]
+[Result "0-1"]
+[Puzzle "163"]
+[FEN "6k1/5p2/3q2p1/Q2Pn2p/2p5/P6P/1r4P1/2R2B1K b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Nf3 $1 { Black is threatening mate on h2, and 45 gxf3 also allows 45...Qh2#. } 0-1

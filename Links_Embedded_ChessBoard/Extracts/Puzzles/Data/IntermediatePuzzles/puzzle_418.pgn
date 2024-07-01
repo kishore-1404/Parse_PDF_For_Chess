@@ -1,0 +1,12 @@
+[Event "Finnish Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Külaots"]
+[Black "Sklyarov"]
+[Result "*"]
+[Puzzle "418"]
+[FEN "r3kb1r/1p4p1/1p2p2p/1P1nP3/q1N5/3Q4/P4PPP/2R2RK1 w kq - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Qg6+ Ke7 { Or: 20...Kd8 21 Qxe6 Qxb5 22 Rfd1+–; 20...Kd7 21 Rfd1 Qxb5 22 Nxb6+ Qxb6 23 Rxd5+ Ke7 (23...exd5 24 Qxb6+–) 24 Rd6+–. } 2. Rfd1 { Black has a material advantage, but his kingside pieces are spectators. } 2... Rd8 { Or 21...Nf4 22 Qe4 Nd5 23 Rxd5 exd5 24 Qxd5 Rd8 25 Nd6+–, while the game ended 21...Qxa2 22 Nxb6 1-0. } 3. Nd6 Rxd6 { 22...Qf4 23 Rc4+–. } 4. exd6+ Kxd6 5. Re1 *

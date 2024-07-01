@@ -1,0 +1,12 @@
+[Event "Sitges 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sumets"]
+[Black "K. Grigoryan"]
+[Result "*"]
+[Puzzle "856"]
+[FEN "4nrk1/7p/2Np2p1/3P4/2PQ4/4ppPP/P2q4/1R3BK1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Qe1 $1 { In the game, 35...Qf2+? 36 Kh1 Nf6 37 Ne7+ Kf7 38 Qa7 = gave White sufficient counterplay against the black king. } 2. Ne7+ { 36 Rxe1 f2+ 37 Kh2 fxe1Q–+. } 2... Kf7 3. Qa7 f2+ 4. Kg2 e2 5. Nf5+ Kg8 { Not 39...Kf6??, when 40 Qd4+ Kf7 (40...Kg5 41 Qh4+ Kxf5 42 Qf4#) 41 Rb7+ leads to mate. } 6. Nh6+ Kh8 7. Bxe2 Qxb1 8. Bf1 Qe4+ 9. Kh2 Qf3 *

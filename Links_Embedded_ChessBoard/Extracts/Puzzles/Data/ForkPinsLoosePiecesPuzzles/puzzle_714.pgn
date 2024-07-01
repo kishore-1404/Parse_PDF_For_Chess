@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Seyb"]
+[Black "Martinović"]
+[Result "0-1"]
+[Puzzle "714"]
+[FEN "1rq3k1/5p1p/p3n1p1/3QPP2/8/8/1Pr4P/1KBR1R2 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Qc3 $1 2. Qa2 { 30 Qd8+ Nxd8 31 Rxd8+ Rxd8 32 bxc3 Rxc3–+. } 2... Nd4 3. Rxd4 { 31 fxg6 Rxc1+ 32 Rxc1 Qd3+ 33 Ka1 Nb3+ 34 Qxb3 Qxb3 35 gxf7+ Kf8–+. } 3... Qxd4 4. fxg6 Rcxb2+ 0-1

@@ -1,0 +1,12 @@
+[Event "Finnish Ch, Helsinki 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nazarova"]
+[Black "Wartiovaara"]
+[Result "*"]
+[Puzzle "314"]
+[FEN "r4k2/4p1bp/p2n2p1/q1nQ4/1p3P2/4BN2/PP4PP/K2R3R b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... b3 $1 { Black’s mating threats are so strong that he can leave a rook to be captured with check. } 2. Qxa8+ { Or 23 a3 Qxa3+ 24 Kb1 Qxb2#. } 2... Ne8 { Followed by mate. } *

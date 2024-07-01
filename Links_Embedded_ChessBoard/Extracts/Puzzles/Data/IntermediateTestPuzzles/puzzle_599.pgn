@@ -1,0 +1,12 @@
+[Event "Chinese Ch, Xinghua 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Xu Yinglun"]
+[Black "Zhao Jun"]
+[Result "1-0"]
+[Puzzle "599"]
+[FEN "3r1bk1/1R3ppp/8/2p5/p1n1P3/4BPPq/P1N1Q2P/6K1 w - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1. Qxc4 $1 Rd1+ 2. Ne1 $1 { Not 37 Kf2?? Qxh2#. 37...Rxe1+ 38 Kf2+–. } 1-0

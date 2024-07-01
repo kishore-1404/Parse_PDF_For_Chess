@@ -1,0 +1,12 @@
+[Event "Rosenheim 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Soham"]
+[Black "Schlegel"]
+[Result "*"]
+[Puzzle "996"]
+[FEN "rnb1k1nr/pp2ppbp/6p1/7q/2B1N3/5N2/Pp3PPP/R1BQ1RK1 w kq - 0 1"]
+[PuzzleType "DeadlyPuzzles"]
+
+1. Bxf7+ $3 { The bishop sacrifice enables White to generate a ferocious attack. } 1... Kxf7 { 10...Kf8? 11 Qd8+ Kxf7 12 Nfg5++–. } 2. Qb3+ Kf8 { 11...Ke8 12 Bxb2+–. } 3. Neg5 Nh6 4. Bxb2 Qg4 { After 13...Rg8 (as played in the game) White could have regained his sacrificed piece and won additional material by 14 Nxh7+ Ke8 15 Bxg7 Rxg7 16 Qc3 Rxh7 17 Qxc8+ Kf7 18 Qxb7+–. } 5. Rad1 Nc6 6. Rfe1 *

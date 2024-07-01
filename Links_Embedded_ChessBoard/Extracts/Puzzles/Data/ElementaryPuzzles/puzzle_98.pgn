@@ -1,0 +1,12 @@
+[Event "Astana rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kramnik"]
+[Black "Hou Yifan"]
+[Result "1-0"]
+[Puzzle "98"]
+[FEN "7k/2b3p1/1p5p/3p4/qP6/2P2Q2/6PP/4B2K w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Qf8+ Kh7 2. Qf5+ Kg8 { Black loses a piece after 34...g6 35 Qf7+ Kh8 36 Qxc7+–. } 3. Qc8+ { White wins the loose bishop. } 1-0

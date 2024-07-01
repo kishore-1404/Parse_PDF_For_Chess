@@ -1,0 +1,12 @@
+[Event "Women’s Candidates, Monaco 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Humpy Koneru"]
+[Black "A. Muzychuk"]
+[Result "0-1"]
+[Puzzle "118"]
+[FEN "2rr2k1/pp1bqppp/5nn1/2b5/3N4/P1N1P3/1PQBBPPP/R4RK1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Bxd4 $1 2. exd4 Qxe2 $1 0-1

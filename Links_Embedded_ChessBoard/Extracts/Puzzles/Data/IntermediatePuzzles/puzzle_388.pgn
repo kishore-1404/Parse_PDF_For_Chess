@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Giri"]
+[Black "Duda"]
+[Result "0-1"]
+[Puzzle "388"]
+[FEN "1r4k1/Q5b1/4p1Bp/1q2N1p1/pp1P1B2/2r3P1/3R1P1K/8 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Qb7 $1 { Black must keep White’s queen away from the kingside; for example, 40...gxf4?? 41 Qf7+ Kh8 42 Be4 fxg3+ 43 Kg2 Qe8 44 Ng6+ Kh7 45 Ne7+ Kh8 46 Qxe6 gxf2 47 Rxf2+–. } 2. Bf7+ Kf8 3. Qa5 { 42 Qxb8+ Qxb8 43 Nd7+ Kxf7 44 Nxb8 gxf4–+. } 3... Ra8 4. Nd7+ Kxf7 0-1

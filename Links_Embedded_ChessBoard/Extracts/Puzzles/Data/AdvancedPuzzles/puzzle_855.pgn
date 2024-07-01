@@ -1,0 +1,12 @@
+[Event "Bangladeshi Team Ch, Dhaka 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "N.S. Mohammad"]
+[Black "S.L. Narayanan"]
+[Result "0-1"]
+[Puzzle "855"]
+[FEN "5rk1/1p3ppp/3Q2n1/p2P3r/P1P1P2q/R2B1P1b/5P1P/2B3RK b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Ne5 2. Bb2 Qxf2 3. Bc2 { 25 Be2 f6 26 Bxe5 fxe5 27 Raa1 Bf1–+. } 3... Rg5 4. Rxg5 Qf1+ { 27 Rg1 Bg2#. } 0-1

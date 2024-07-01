@@ -1,0 +1,12 @@
+[Event "Bassano del Grappa 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Seo"]
+[Black "Nasuta"]
+[Result "*"]
+[Puzzle "438"]
+[FEN "2r3k1/5ppp/p2p4/2qNr1P1/7P/2P5/PP3nQ1/K2R3R w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nf6+ $1 gxf6 2. gxf6+ Kf8 { 32...Rg5 33 hxg5 Nxh1 34 Qxh1 Qf5 35 Qh6 Qg6 36 Rxd6+–. } 3. Rhg1 { Black’s king has no safe haven. } 3... Ke8 { 33...Rg5 34 hxg5 Nxd1 35 Rxd1+–. } 4. Qg8+ Kd7 5. Qxf7+ Kc6 6. Rg7 *

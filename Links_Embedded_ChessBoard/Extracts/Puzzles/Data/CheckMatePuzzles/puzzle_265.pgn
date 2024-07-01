@@ -1,0 +1,12 @@
+[Event "Budapest 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ilamparthi"]
+[Black "S. Grover"]
+[Result "*"]
+[Puzzle "265"]
+[FEN "7Q/p1p1kp2/3b2r1/6N1/4B1q1/2B1P3/PP3K2/8 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Bg3+ $1 2. Kf1 Qd1+ 3. Kg2 Qe2+ 4. Kh3 { 39 Kxg3? Rxg5+ leads to mate. } 4... Rh6+ $1 5. Qxh6 Qh2+ 6. Kg4 Qxh6 { Black has a decisive material advantage. } 7. Kxg3 Qxg5+ 8. Kf3 f5 { White’s exposed king was the deciding factor. } *

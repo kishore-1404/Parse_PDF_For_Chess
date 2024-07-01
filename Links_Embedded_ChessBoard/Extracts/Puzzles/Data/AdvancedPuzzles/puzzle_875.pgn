@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hakobyan"]
+[Black "Matinian"]
+[Result "*"]
+[Puzzle "875"]
+[FEN "8/pp1bp1k1/1q1p1np1/8/2rNPPp1/2N5/PPPQ4/2K4R w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. f5 $1 Ng8 { 21...Kf7? 22 fxg6+ Kxg6 23 Rh6+ Kf7 24 Qg5+–. } 2. Nce2 Qc5 3. Qg5 { After 23 b3?! (as chosen in the game) Black could have bailed out into an endgame, albeit a very bad one, by playing 23...Rxd4 24 Qxd4+ Qxd4 25 Nxd4+–. } 3... Qe5 { 23...Rxd4 24 Qxg6+ Kf8 25 Rh7 leads to mate. } 4. Qxg6+ Kf8 5. Qxg4 Rxd4 6. Rg1 Nh6 7. Qg6 Qf6 { 27...Nf7 28 Qg8#. } 8. Qxf6+ exf6 9. Nxd4 *

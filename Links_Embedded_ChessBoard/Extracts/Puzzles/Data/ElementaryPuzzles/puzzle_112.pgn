@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Erigaisi"]
+[Black "Fedoseev"]
+[Result "*"]
+[Puzzle "112"]
+[FEN "2r1r1k1/pp3qp1/4b1Np/2p1P2Q/2n1R3/P5BP/5PP1/3R2K1 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Kh7 $1 { Black forces an exchange of queens into a winning endgame. } 2. Nf4 Qxh5 3. Nxh5 Nxa3 4. Nf4 Bf5 5. Re3 Nc2 6. Rb3 b6 *

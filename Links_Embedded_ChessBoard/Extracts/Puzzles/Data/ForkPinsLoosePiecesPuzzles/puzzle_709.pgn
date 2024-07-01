@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Darini"]
+[Black "Vetoshko"]
+[Result "1-0"]
+[Puzzle "709"]
+[FEN "6R1/1p3r2/p2k4/6Q1/2P2r2/1P6/4qPK1/8 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Qd5+ Kc7 { White is a rook down, but can take advantage of Black’s unprotected queen on e2. } 2. Qc5+ Kd7 3. Qc8+ Kd6 { 48...Ke7 49 Qd8+ Ke6 50 Re8+ Kf5 51 Rxe2+–. } 4. Rd8+ { 50...Ke7 51 Qe8+ Kf6 52 Qxe2+–. } 4... Rd7 { Or 51 c5+ Kd5 52 Rd8+ Ke5 53 Re8++–. } 5. Rxd7+ { 51...Ke5 52 Re8+ Kf6 53 Rxe2+–. } 1-0

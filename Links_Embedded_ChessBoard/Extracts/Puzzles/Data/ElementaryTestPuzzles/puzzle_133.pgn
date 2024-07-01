@@ -1,0 +1,12 @@
+[Event "Barcelona 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Edouard"]
+[Black "Garcia Ramos"]
+[Result "0-1"]
+[Puzzle "133"]
+[FEN "2k4r/pp1nb1p1/2p1Q3/q2pP2r/2PP4/1P3N2/P2B1P2/R4RK1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Qxd2 $1 { 21 Qxe7 (21 Nxd2 Rg5+ 22 Qg4 Rxg4#) 21...Qf4 followed by mate. } 0-1

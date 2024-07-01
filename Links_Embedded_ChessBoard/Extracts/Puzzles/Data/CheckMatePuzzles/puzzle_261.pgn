@@ -1,0 +1,12 @@
+[Event "European Ch, Vrnjačka Banja 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nyysti"]
+[Black "M. Mitrović"]
+[Result "0-1"]
+[Puzzle "261"]
+[FEN "1k1r4/3r1pp1/p3p2p/2qnP2P/Pp1pRP2/3Q1N2/1PP3P1/1K1R4 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Nc3+ $1 2. bxc3 bxc3 { White is unable to defend his king. } 3. Ka2 { 28 Nxd4 Qb4+ 29 Nb3 Qa3 followed by mate. } 3... Rb7 4. Rb1 Rxb1 5. Kxb1 Qa3 { White cannot avoid ...Qb2#. } 0-1

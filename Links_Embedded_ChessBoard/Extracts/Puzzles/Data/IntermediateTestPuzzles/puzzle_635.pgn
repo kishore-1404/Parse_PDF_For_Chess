@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Paravyan"]
+[Black "Jumabayev"]
+[Result "1-0"]
+[Puzzle "635"]
+[FEN "8/p4p2/3k1p1p/1brp4/3N1P2/2R3P1/P2K3P/8 w - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1. Nf5+ $1 Kc6 2. Ne7+ Kb6 { 35...Kd6 36 Nc8+ Kc6 transposes to the game. } 3. Nc8+ Kc6 { 36...Rxc8 37 Rxc8+–. } 4. Nxa7+ Kd6 { 37...Kb6 38 Rxc5 Kxc5 comes to same thing. } 5. Rxc5 Kxc5 6. Nxb5 Kxb5 7. Kc3 { A beautiful liquidation into a winning king and pawn endgame. } 1-0

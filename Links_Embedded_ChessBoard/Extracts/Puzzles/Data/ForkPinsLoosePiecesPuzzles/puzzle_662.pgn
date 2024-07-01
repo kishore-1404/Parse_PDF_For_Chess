@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vidit"]
+[Black "Popilski"]
+[Result "*"]
+[Puzzle "662"]
+[FEN "r2q1rk1/pp3ppp/n1pb4/3p1b2/2PPn3/PQ1B1N2/1P3PPP/RNB1R1K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Nec5 $1 2. dxc5 Nxc5 3. Qc3 Nxd3 { Black has a lead in development to go along with his extra pawn. } 4. Rd1 { 14 Re2 d4! 15 Nxd4 Be5 16 Rxe5 Nxe5–+. } 4... dxc4 5. Qxc4 Bc5 6. Nc3 { 16 Rf1 Qb6–+. } 6... Bxf2+ 7. Kf1 Bb6 *

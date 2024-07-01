@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Krassowizkij"]
+[Black "L’Ami"]
+[Result "*"]
+[Puzzle "456"]
+[FEN "6k1/5pbp/3P4/6p1/2B3P1/1P3P2/r6q/2RK1Q2 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Qd3 $1 { White’s king is pinned to the back rank, but can he mount a successful defence? } 1... Qg1+ 2. Qf1 Qd4+ 3. Qd3 Qg1+ 4. Qf1 { White needs his strongest piece to play a role in his counterplay, while still retaining it as a defender. In the game White chose 40 Bxf7+??, which loses the ability to interpose the queen on f1 after activating it. Following 40...Kh8 White resigned as he soon runs out of checks: 41 Rc8+ Bf8 42 Rxf8+ Kg7 43 Rg8+ Kf6–+. } *

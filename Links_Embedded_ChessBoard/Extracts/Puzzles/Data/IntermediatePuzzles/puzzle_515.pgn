@@ -1,0 +1,12 @@
+[Event "Chennai Women’s Olympiad 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repkova"]
+[Black "Miranda Llanes"]
+[Result "*"]
+[Puzzle "515"]
+[FEN "1k1r4/1p3p2/1b1P3p/pP4qn/P1QN4/2P3Bn/3N1PK1/R4R2 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... N5f4+ $1 { 29...N3f4+?? was played in the game, allowing the white king to evacuate: 30 Kf3 f5 31 Bxf4 Qg4+ 32 Ke3 Nxf4 33 Nf3+– and White went on to win. } 2. Kh2 { White’s king remains in danger after 30 Kf3?! Rc8 31 Nc6+ bxc6 32 Bxf4 Qh5+ 33 Kg2 Nxf4+ 34 Qxf4 Rg8+ 35 Qg3 Rxg3+ 36 fxg3 Qe2+ 37 Kh3 cxb5=+. } 2... Qh5 3. d7 Ng5+ 4. Kg1 Nh3+ 5. Kh2 Ng5+ { with a draw by repetition. } *

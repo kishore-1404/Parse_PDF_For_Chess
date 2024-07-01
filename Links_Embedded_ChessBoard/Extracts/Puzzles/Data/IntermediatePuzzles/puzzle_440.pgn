@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Indjić"]
+[Black "Bernadskiy"]
+[Result "1-0"]
+[Puzzle "440"]
+[FEN "r1b2rk1/pp1n1pb1/2p3pp/8/3Pq2B/1Q3N2/P3BPPP/R3R1K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Bd3 $1 Qd5 { White wins material after 16...Qf4 17 Bxg6 Nf6 18 Bg3 Qg4 19 Bc2 Bf5 20 Bxf5 Qxf5 21 Qxb7+–. } 2. Bc4 Qf5 { White’s lead in development is decisive after 17...Qh5 18 Be7 b5 19 Be2 Nb6 (19...Re8 20 Ng5+–) 20 Ne5 Qf5 21 Bd3+–. } 3. Be7 Re8 4. Nh4 { 19...Qf4 20 g3+–. } 1-0

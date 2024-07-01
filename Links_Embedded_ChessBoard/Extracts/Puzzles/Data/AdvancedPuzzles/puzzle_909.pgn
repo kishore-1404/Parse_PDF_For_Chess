@@ -1,0 +1,12 @@
+[Event "Xi’an (women) 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mammadzada"]
+[Black "Ning Kaiyu"]
+[Result "*"]
+[Puzzle "909"]
+[FEN "rr4k1/3n1qpp/3Q4/4pb2/p7/1NP1BP1P/P1P3B1/1K1R3R w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. f4 $1 Rxb3+ { 22...axb3 23 Bd5 bxc2++ 24 Ka1 cxd1Q+ 25 Rxd1+–. } 2. Ka1 $1 Ra5 { After 23...e4 24 cxb3 axb3 (as played in the game) White has several good moves, including 25 Rd2+– with an extra rook. } 3. cxb3 axb3 4. a3 *

@@ -1,0 +1,12 @@
+[Event "USA Under-16 Ch, Schaumburg 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mardov"]
+[Black "Ar. Guo"]
+[Result "*"]
+[Puzzle "868"]
+[FEN "5r2/pp4k1/2prbp1p/4Rp1q/3PBR1P/P3Q3/1P4P1/6K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Bxc6 $1 { After 28 Bxf5?? (as played in the game) White loses material. The game ended 28...fxe5 29 Qxe5+ Rf6 30 g4 (30 Rg4+ Qxg4 31 Bxg4 Bxg4–+) 30...Qxh4 31 Qxd6 Qg3+ 0-1. } 1... Qd1+ { 28...fxe5? 29 Qxe5+ Rf6 30 Bf3 Qe8 31 Qxd6+–. } 2. Kh2 Qb3 { 29...fxe5? 30 Qxe5+ Rf6 31 Bf3+–. } 3. Qxb3 Bxb3 4. Re7+ Rf7 5. Rxb7 Bd5 { 32...Rxc6? 33 Rxb3+–. } 6. Bxd5 Rxd5 { Now 34 Rxf7+?! Kxf7 leaves White’s rook too passive for him to have real winning chances, so he should stay in a four-rook ending with, e.g., 34 Rb3. Then White’s extra pawn will provide some prospects of victory once he has stabilized the position and activated his pieces. } *

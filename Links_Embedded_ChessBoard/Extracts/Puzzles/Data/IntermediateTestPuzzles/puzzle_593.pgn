@@ -1,0 +1,12 @@
+[Event "2nd Bundesliga 2021/2"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lubbe"]
+[Black "Parligras"]
+[Result "*"]
+[Puzzle "593"]
+[FEN "4r1k1/3n3p/1q2pppQ/1b1p4/p2P3N/1P2R3/Pr3PPP/3R2K1 w - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1. Nf5 $1 { Not 27 Nxg6? Qxd4 28 Rde1 Qd2 29 Nh4 Qxf2+ 30 Kh1 Re2–+. } 1... exf5 { 27...gxf5 28 Rg3+ Kf7 29 Qg7#. } 2. Rxe8+ Kf7 3. Rde1 *

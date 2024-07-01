@@ -1,0 +1,12 @@
+[Event "Catalonian Ch, Lloret de Mar 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alonso Rosell"]
+[Black "Aroshidze"]
+[Result "0-1"]
+[Puzzle "126"]
+[FEN "6k1/pb5p/1p1q4/1P1pr1p1/3R4/6QB/P2B1K2/8 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Re2+ $1 2. Kf3 Qa3+ $1 { White loses his queen. } 0-1

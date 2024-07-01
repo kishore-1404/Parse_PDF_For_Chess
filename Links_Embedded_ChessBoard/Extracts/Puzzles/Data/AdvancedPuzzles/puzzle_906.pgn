@@ -1,0 +1,12 @@
+[Event "World Rapid Ch, Almaty 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Giri"]
+[Black "Dubov"]
+[Result "0-1"]
+[Puzzle "906"]
+[FEN "5r1k/p5bp/2B3p1/2Q1P1q1/8/1P1K1P1b/P3P2P/R6R b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Rd8+ 2. Kc4 { White’s king is too exposed and his rooks are passive bystanders; for example, 30 Bd5 Qxe5 31 e4 Rc8 32 Qb4 Rc3+ 33 Ke2 Qf4–+ or 30 Kc2 Bf5+ 31 Be4 Qd2+ 32 Kb1 Rc8–+. } 2... Be6+ 3. Kb5 { 31 Bd5 Qxe5 32 Bxe6 Qc3+ 33 Kb5 Rb8+ 34 Kc6 Rb6+ leads to mate. } 3... Bf8 4. Qc3 Rb8+ { Or 32...Qe7–+. } 5. Ka4 Qe7 6. a3 Bxb3+ { Or 34...Rb6–+. } 7. Qxb3 Rxb3 8. Kxb3 Qe6+ 0-1

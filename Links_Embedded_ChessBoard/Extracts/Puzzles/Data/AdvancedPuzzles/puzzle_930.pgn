@@ -1,0 +1,12 @@
+[Event "Budapest 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pham Tran Gia"]
+[Black "Halak"]
+[Result "*"]
+[Puzzle "930"]
+[FEN "5rk1/p1q2p1p/1rN1pnpP/1p1pN3/3Q1P2/2P2Pn1/PP6/R3K2R w KQ - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Nd7 $1 { Or 20 Ng4! Rxc6 21 Nxf6+, transposing to the main line below. } 1... Rxc6 { Black actually played 20...Qxd7?, when his vulnerable g7-square cost him the game: 21 Qxf6 Nf5 22 Rh5! Re8 (or 22...Nxh6 23 Ne7+ Qxe7 24 Qxe7+–) 23 Rxf5 with mate coming on g7. } 2. Nxf6+ Kh8 3. Nh5+ e5 4. Qb4 Rb8 5. Nxg3 *

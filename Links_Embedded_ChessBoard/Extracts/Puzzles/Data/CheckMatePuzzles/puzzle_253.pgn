@@ -1,0 +1,12 @@
+[Event "Danish Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "M. Andersen"]
+[Black "Schandorff"]
+[Result "*"]
+[Puzzle "253"]
+[FEN "2r1r1k1/bp3pp1/4b2p/p2Q4/3P4/5N1P/1q1B1PP1/2R1R1K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Rxc8 $1 Bxd5 2. Rexe8+ Kh7 3. Ne5 { The threat of Rh8# forces Black to weaken his kingside. } 3... g5 4. Rh8+ Kg7 5. Rcg8+ Kf6 6. Rxh6+ Ke7 { In the game Black was mated after 31...Kf5 32 Rxg5+ Ke4 33 Rh4# (1-0). } 7. Bxg5+ f6 8. Rg7+ Kf8 9. Rc7 Qa2 10. Bxf6 { Black will soon be mated. } *

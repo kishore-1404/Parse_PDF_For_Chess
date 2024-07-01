@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bortnyk"]
+[Black "C. Yoo"]
+[Result "*"]
+[Puzzle "913"]
+[FEN "qn1r2k1/1br1bp1p/1p2p1p1/pP2P3/P6P/2BB1N2/3RQPP1/3R2K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Bxg6 $1 { This combination works because Black’s queen is far away from the kingside. } 1... Rxd2 2. Bxh7+ Kxh7 { 25...Kg7 26 Bxd2 Bxf3 27 gxf3 Kxh7 28 Kh2 Nd7 29 f4+–. } 3. Ng5+ Kg8 { 26...Bxg5 27 Qh5+ Bh6 28 Bxd2+–. } 4. Rxd2 Nd7 5. Qh5 Bxg5 6. Qxg5+ Kh7 7. Rd3 Qf8 8. Rg3 *

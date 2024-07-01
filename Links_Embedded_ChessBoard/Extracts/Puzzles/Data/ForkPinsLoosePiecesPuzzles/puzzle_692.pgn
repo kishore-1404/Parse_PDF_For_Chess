@@ -1,0 +1,12 @@
+[Event "Icelandic Ch, Hafnarfjörður 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hjartarson"]
+[Black "Domalchuk-Jonasson"]
+[Result "0-1"]
+[Puzzle "692"]
+[FEN "6k1/7p/p2p2p1/6P1/2n3RP/3N4/PbP5/1KB4r b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Ne5 $1 { An unusual example of a knight forking another knight. } 2. Nxe5 Bxc1 3. Nf3 Bxg5+ 4. Kb2 Bc1+ { Black is a pawn up with a winning position. } 5. Kb1 { Black wins the pinned knight after 42 Kb3 Rh3–+. } 5... Ba3+ 6. Rg1 Rxg1+ 7. Nxg1 Kg7 8. Ne2 Kf6 0-1

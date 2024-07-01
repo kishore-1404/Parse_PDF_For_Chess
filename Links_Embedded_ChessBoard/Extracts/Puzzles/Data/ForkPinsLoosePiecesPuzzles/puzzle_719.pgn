@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "So"]
+[Black "Aronian"]
+[Result "*"]
+[Puzzle "719"]
+[FEN "r1b1r1k1/pp3ppp/2n5/1B6/Q3P3/2q2N2/P3KPPP/2R4R b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Qb2+ 2. Rc2 Nd4+ $1 3. Nxd4 Rxe4+ 4. Kf3 Qxd4 5. Qxd4 { Black is a pawn up with good winning chances. } 5... Rxd4 6. Rhc1 Be6 *

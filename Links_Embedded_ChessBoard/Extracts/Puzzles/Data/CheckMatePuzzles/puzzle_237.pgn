@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Yuffa"]
+[Black "F. Svane"]
+[Result "*"]
+[Puzzle "237"]
+[FEN "r2r3k/5BpN/p5p1/1p4P1/3q4/P4Q2/1n3P1P/2R3K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Nf8 $1 Qd3 { (variation) } 2. Nxg6+ Qxg6 { Black’s king is mated at the edge of the board after 32...Rxf8 33 Qh3+ Qh4 34 Qxh4#. } 3. Bxg6 { 33...Kh7 34 Qh5#. } *

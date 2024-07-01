@@ -1,0 +1,12 @@
+[Event "2nd Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Agopov"]
+[Black "Souleidis"]
+[Result "0-1"]
+[Puzzle "696"]
+[FEN "r1b2rk1/1p3ppp/pq2pn2/3p4/4P3/2N3Q1/PPPR1PPP/2K2B1R b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... d4 $1 2. Na4 Qa5 3. Rxd4 e5 4. Qg5 b6 { White loses a piece. } 0-1

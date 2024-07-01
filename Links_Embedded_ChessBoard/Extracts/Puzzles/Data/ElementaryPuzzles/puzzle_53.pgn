@@ -1,0 +1,12 @@
+[Event "Danish Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L. Hansen"]
+[Black "S.B. Hansen"]
+[Result "1-0"]
+[Puzzle "53"]
+[FEN "rn2qnk1/1b2b1pp/p3p3/1pppP1B1/5Q1N/2NP2PB/PPP4P/5RK1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Bxe7 Qxe7 2. Qxf8+ $1 Qxf8 3. Bxe6+ { The combination works because Black’s queenside is undeveloped. } 1-0

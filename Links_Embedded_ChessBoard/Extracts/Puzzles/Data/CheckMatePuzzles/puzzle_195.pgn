@@ -1,0 +1,12 @@
+[Event "Cheliabinsk 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Urazayev"]
+[Black "S. Volkov"]
+[Result "*"]
+[Puzzle "195"]
+[FEN "2r1kb2/1B3p2/p3ppp1/1pn5/8/1QB5/PP3PPq/1K1R4 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Bxa6 $1 { White sacrifices his queen for a mating attack. } 1... Nxb3 2. Bxb5+ Ke7 3. Rd7+ Ke8 4. Ra7+ Rc6 { The game ended 24...Kd8 25 Bxf6+ Be7 26 Bxe7# (1-0). } 5. Bxc6+ Kd8 6. axb3 Qh1+ 7. Ka2 Qh5 8. Ba5+ Qxa5+ { 28...Kc8 29 Ra8#. } 9. Rxa5 *

@@ -1,0 +1,12 @@
+[Event "Chennai Women’s Olympiad 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Arabidze"]
+[Black "Buksa"]
+[Result "0-1"]
+[Puzzle "321"]
+[FEN "1r4k1/6pp/2Bp2rq/NP1P1p2/4bP2/2QRP1R1/7P/6K1 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Rxg3+ { White is able to hang on after 34...Qh3? 35 Rd2 Rxg3+ 36 hxg3 Qxg3+ 37 Kf1 Qf3+ 38 Ke1 Qh1+ 39 Ke2 Qf3+ 40 Ke1 Qh1+ with a draw by repetition. } 2. hxg3 Qh1+ 3. Kf2 Qg2+ 4. Ke1 Bf3 0-1

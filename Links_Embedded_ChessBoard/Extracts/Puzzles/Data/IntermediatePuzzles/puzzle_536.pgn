@@ -1,0 +1,12 @@
+[Event "Budapest 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "S. Dev"]
+[Black "Bochnicka"]
+[Result "*"]
+[Puzzle "536"]
+[FEN "r3kb1r/pbqn1pp1/2p1p2p/1p2P1B1/8/1QN3P1/P3PPBP/R2R2K1 w kq - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Rxd7 $1 { White exploits Black’s lack of kingside development. } 1... Qxd7 2. Rd1 Qc7 $6 { White’s queen is stronger than the black rooks after 15...Qc8 16 Rd8+ Qxd8 17 Bxd8 Rxd8 18 Nxb5 Rd7 19 Nd6+ Bxd6 20 exd6 0-0 21 e4+–. } 3. Nxb5 Qa5 { 16...Qc8 17 Rd8+ Qxd8 18 Bxd8 Kxd8 19 Qd3+ Kc8 20 Qf3+–. } 4. Qd3 Bc5 5. Qd7+ Kf8 6. Qxb7 *

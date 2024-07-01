@@ -1,0 +1,12 @@
+[Event "New York 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Andrianov"]
+[Black "La Manna"]
+[Result "*"]
+[Puzzle "748"]
+[FEN "8/8/3NR3/2pPn1p1/P6p/4k2P/6K1/1r6 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Rb2+ { Black must settle for a draw, which he can also achieve with 55...Kf4 56 Rf6+ Ke3 57 Re6 =. Instead in the game Black lost material with 55...Kd4?? 56 Nb5+! Rxb5 (or 56...Kxd5 57 Rd6+, when a knight fork wins a rook after 57...Kc4 58 Na3++– or 57...Ke4 58 Nc3++–) 57 axb5 Kxd5 58 Re8+–. } 2. Kf1 Rb1+ { Or 56...Kd4 57 Rxe5! Rb6 (57...Kxe5?? 58 Nc4+ Kxd5 59 Nxb2+–) 58 Nf7 Rf6+ 59 Ke2 Rxf7 60 Rxg5 Rd7 61 Kd2 =. } 3. Kg2 *

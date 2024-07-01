@@ -1,0 +1,12 @@
+[Event "Sant Ferran de ses Roques 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A. Krzywda"]
+[Black "Alsina Leal"]
+[Result "*"]
+[Puzzle "554"]
+[FEN "6k1/7p/1b4p1/p2Rp1P1/1p2Pr2/2r2PQ1/P3K3/8 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Re3+ $1 2. Kd2 Rexf3 { White’s queen cannot get away from the black rooks. } *

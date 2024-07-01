@@ -1,0 +1,12 @@
+[Event "Stockholm 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Abdrlauf"]
+[Black "Kucuksari"]
+[Result "*"]
+[Puzzle "432"]
+[FEN "2r2rk1/p4ppp/2bppR2/q7/Np2P3/1P2B2P/1PP1Q1P1/2KR4 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bxe4 $1 { Black actually played 20...gxf6?, when White could have maintained the balance by 21 Qg4+ (rather than the game’s 21 Bh6? Kh8 –/+) 21...Kh8 22 Qh4 Qd8 23 Rxd6 Qe7 (23...Qxd6?? 24 Qxf6+ Kg8 25 Bd4 Qxd4 26 Qxd4 Bxa4 27 bxa4+–) 24 Bc5 Bxa4 25 Bxb4 Bxb3 26 Rc6 Qxb4 27 Qxf6+ Kg8 28 Qg5+ Kh8 29 Qf6+ with a draw by repetition. } 2. Rf2 Rxc2+ 3. Qxc2 Bxc2 4. Rxc2 Qe5 *

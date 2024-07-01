@@ -1,0 +1,12 @@
+[Event "Hungarian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "P. Papp"]
+[Black "Ga. Farkas"]
+[Result "*"]
+[Puzzle "946"]
+[FEN "3r1k2/4n1nB/p3p2Q/1pp1P3/3q2P1/PP3b1P/3p1R2/3R2K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Qxf2+ $1 { In the game Black played 37...Ke8??, losing material and the game after 38 Rxd2 (or 38 Bg6+ Nxg6 39 Qxg6++–) 38...Qa1+ 39 Rf1 Qxf1+ 40 Kxf1 Rxd2 41 Qxd2 Nd5 42 Qg5 1-0. } 2. Kxf2 Bxd1 3. Qf6+ Ke8 4. Bg6+ Nxg6 5. Qxg6+ Kd7 { White has no way to stop Black’s passed d-pawn. For example: 42 Qb1 Bxb3 43 Qxb3 Ke7 44 Qd1 c4 45 Ke2 c3–+. } 6. Qxg7+ Kc6 7. Qe7 Bxb3 8. Qxd8 d1=Q *

@@ -1,0 +1,12 @@
+[Event "Slovakian Team Ch 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Černoušek"]
+[Black "B. Jakab"]
+[Result "*"]
+[Puzzle "465"]
+[FEN "r1b3k1/pp2nr1p/4ppn1/2qp2BQ/5P2/P1pB3R/2P1N1PP/R6K w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Bxf6 $1 Rxf6 2. Qxh7+ Kf8 3. Ng3 { White has too many pieces around the black king, while Black’s rook and bishop are still undeveloped on the queenside. 20 Rg3 had been played in some earlier games, and is also strong. } 3... Bd7 4. Nh5 Rf7 { Or 21...Qd4 22 Qg7+ Ke8 23 Nxf6+ Kd8 24 Bxg6+–. } 5. Qh6+ Ke8 6. Ng7+ { The game continuation 23 Bxg6+– is also good enough. } 6... Kd8 7. Bxg6 Nxg6 8. Qxg6 *

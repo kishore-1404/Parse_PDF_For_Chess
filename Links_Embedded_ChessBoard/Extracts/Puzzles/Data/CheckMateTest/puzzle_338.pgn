@@ -1,0 +1,12 @@
+[Event "Chennai Olympiad 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Grandelius"]
+[Black "Giri"]
+[Result "0-1"]
+[Puzzle "338"]
+[FEN "8/8/p5k1/Qp2p3/5p1b/7q/PB2PP2/6K1 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Bg3 $1 2. Qb6+ { Black has two pieces attacking and White has no pieces defending. Black promotes his g-pawn after 54 fxg3 fxg3 55 Qb6+ Kh5 56 Bc1 Qh2+ 57 Kf1 g2+ 58 Ke1 g1Q+–+. } 2... Kh5 3. f3 { 55 fxg3 fxg3 transposes to the previous note. } 3... Qd7 4. Kg2 Qd2 5. Kh3 Qxe2 0-1

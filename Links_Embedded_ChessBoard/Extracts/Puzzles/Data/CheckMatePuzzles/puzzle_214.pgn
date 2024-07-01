@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "J. Pajeken"]
+[Black "Movsesian"]
+[Result "*"]
+[Puzzle "214"]
+[FEN "3qr1k1/Q1p2p2/6p1/3p4/1P4b1/1NB5/4PPp1/4R1K1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Qh4 $1 2. f3 { 30 Kxg2 is met by 30...Bh3+ 31 Kh1 Bf5+. Black has improved the position of his bishop ‘for free’ so that at the end of the combination he controls the b1-square to prevent White from responding to ...Qxc3 with Rb1, viz. 32 Kg1 Qg4+ 33 Kf1 Qh3+ 34 Kg1 Qxc3–+. } 2... Qh1+ 3. Kf2 Qh2 4. Rg1 Qh4+ 5. Kxg2 Bh3+ 6. Kh2 Bf1# *

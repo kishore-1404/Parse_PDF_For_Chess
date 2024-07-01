@@ -1,0 +1,12 @@
+[Event "Braila rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hamitevici"]
+[Black "Bulmaga"]
+[Result "*"]
+[Puzzle "165"]
+[FEN "6k1/5pp1/1pB4p/p2Pn3/P2Q2P1/2P5/1P4KP/4q3 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Qe2+ 2. Kg3 { 48 Qf2 Qxg4+ 49 Kf1 (49 Qg3 Qe4+–+) 49...Nxc6 50 dxc6 Qc4+ 51 Qe2 Qxc6–+. } 2... Qf3+ 3. Kh4 g5+ { Or 49...Ng6+ 50 Kh5 Qh3#. } 4. Kh5 Qh3# *

@@ -1,0 +1,12 @@
+[Event "World Rapid Ch, Almaty 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vokhidov"]
+[Black "Ponkratov"]
+[Result "1-0"]
+[Puzzle "224"]
+[FEN "2k2rr1/p1p5/1p5R/n2p2pQ/3P3P/q3B3/5PP1/2R3K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Qg4+ Kb8 2. Rxc7 $1 gxh4 { 25...Kxc7 26 Rh7+ Kb8 27 Qd7 leads to mate. } 3. Rg7 Rxg7 4. Qxg7 Rc8 5. Rh7 { Black is unable to counter White’s threats along the seventh rank and he soon runs out of checks. } 5... Rc1+ 6. Bxc1 Qxc1+ 7. Kh2 Qf4+ 8. Kh3 Qf5+ 9. Kxh4 Qxf2+ 10. Kh3 Qf5+ 11. Kg3 1-0

@@ -1,0 +1,12 @@
+[Event "Sitges 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sanal"]
+[Black "Krastev"]
+[Result "*"]
+[Puzzle "367"]
+[FEN "2rqk2r/p2b2bp/1p2p1p1/nP1n1pN1/1Bp5/Q1N3P1/3PPPBP/1R2K2R w Kk - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nxd5 Qxg5 { The game ended 17...exd5? 18 Qe3+ (forcing mate) 1-0. } 2. h4 Qd8 { 18...Qh6 19 Ne7 Rd8 20 Nc6+–. } 3. Be7 Bf8 4. Qc3 Bxe7 5. Qxh8+ Bf8 6. Nf6+ Kf7 7. Nxd7 Qxd7 8. Qxh7+ Bg7 9. h5 *

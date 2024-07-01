@@ -1,0 +1,12 @@
+[Event "European Clubs Cup, Mayrhofen 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Van Delft"]
+[Black "Vidit"]
+[Result "*"]
+[Puzzle "416"]
+[FEN "r2r3k/6pp/5p2/2b1p3/1p2P2P/1B3PQ1/P1p1N1P1/2BqR2K b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Qxe1+ $1 2. Qxe1 Rd1 3. Qxd1 cxd1=Q+ 4. Bxd1 Rxa2 { White has two pieces for a rook and pawn, but Black’s passed b- pawn is too strong. } 5. h5 b3 6. Bxb3 Rxe2 *

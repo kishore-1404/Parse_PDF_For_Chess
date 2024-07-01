@@ -1,0 +1,12 @@
+[Event "Stockholm 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rakshitta"]
+[Black "Kupervaser"]
+[Result "1-0"]
+[Puzzle "327"]
+[FEN "r5k1/p3p2p/1p1p1p1Q/4nN1B/2q1b3/2PR3R/P5rP/5K2 w - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1. Qxh7+ $1 { The tempting 28 Nxe7+? Kh8 29 Bg6 is only a draw after 29...Rf2+! 30 Kg1 (30 Kxf2?? Ng4+ 31 Ke1 Nxh6–+; 30 Ke1?? Nxd3+ 31 Rxd3 Rf1+ 32 Kxf1 Qxd3+ 33 Ke1 Bxg6–+) 30...Rg2+ 31 Kf1 Rf2+ with a repetition. } 1... Kf8 { 28...Kxh7 29 Bf7# is a neat mate as Black’s king is pinned to the edge of the board. } 2. Qh6+ { 29...Rg7 30 Qxg7# or 29...Kg8 30 Nxe7#. } 1-0

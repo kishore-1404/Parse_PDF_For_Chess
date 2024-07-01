@@ -1,0 +1,12 @@
+[Event "Saint Louis 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lenderman"]
+[Black "Mikaelyan"]
+[Result "*"]
+[Puzzle "682"]
+[FEN "r1b1r1k1/1p1n1pbp/2pp2p1/2n5/1qPNPP2/1PN1BB2/3Q2PP/1R1R3K w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. e5 $1 dxe5 2. Nc2 Qb6 { Black’s queen is in an uncomfortable position; for example, 23...Nxb3 24 Qxd7 Qf8 25 Qc7 Bf5 26 Ne4 +/– with a piece for two pawns and good chances to win. } 3. b4 exf4 4. Bxc5 Nxc5 5. bxc5 Qxc5 6. Ne4 Qf8 7. Nd6 *

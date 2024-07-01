@@ -1,0 +1,12 @@
+[Event "Geoagiu Bai 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kourkoulos-Arditis"]
+[Black "Parligras"]
+[Result "0-1"]
+[Puzzle "213"]
+[FEN "r4n1k/4bp1p/2n1pNpQ/3pPbP1/2pP1R2/2P1N2P/6BK/2q5 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Nxe5 $1 2. Rh4 { After 34 dxe5 Qxe3 Black’s attack arrives first: 35 Rh4 Qxe5+ 36 Kg1 Qe3+ 37 Kh2 Bd6+ followed by mate. } 2... Nf3+ { 34...Ng4+ is slower, but also leads to mate. } 3. Bxf3 Bd6+ { 36 Kg2 Ra2+ with mate to follow. } 0-1

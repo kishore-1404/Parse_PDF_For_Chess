@@ -1,0 +1,12 @@
+[Event "Chennai Olympiad 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Navara"]
+[Black "Batsuren"]
+[Result "1-0"]
+[Puzzle "322"]
+[FEN "4rqkn/1p1Q3p/3npPpP/8/8/5N2/2P2P2/1N2K2R w K - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1. Qxh7+ $1 { 32...Kxh7 33 Ng5+ Kg8 34 h7#. } 1-0

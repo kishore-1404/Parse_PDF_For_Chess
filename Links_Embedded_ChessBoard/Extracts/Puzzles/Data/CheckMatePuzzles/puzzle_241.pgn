@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caruana"]
+[Black "Mitrabha"]
+[Result "1-0"]
+[Puzzle "241"]
+[FEN "r4rk1/3q2pp/p1bbp3/1p3pN1/1P6/P3P3/1B3PPP/2RQ1RK1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Rxc6 $1 { This is the best move-order. Black survives for the time being after 18 Qh5? h6 19 Rxc6 hxg5! (19...Qxc6? 20 Qg6 transposes to the game continuation) 20 Qxg5. White has an extra pawn and should win, but there is no checkmate. } 1... Qxc6 2. Qh5 h6 { 19...Bxh2+ 20 Kh1 h6 21 Qg6 mates. } 3. Qg6 1-0

@@ -1,0 +1,12 @@
+[Event "Moscow rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Morozevich"]
+[Black "Karpov"]
+[Result "*"]
+[Puzzle "15"]
+[FEN "1r3k1r/1pqR1ppp/p1B1p3/2b1P3/Q7/2P1P3/P4PPP/1R4K1 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... bxc6 $1 { After 19...Qxe5?? (as played in the game) White exploited the poor position of Black’s king by 20 Bxb7 (or 20 Rbxb7 Rxb7 21 Rxb7+–) 20...g6 21 Rbd1 Kg7 22 Qxa6 Qxc3 and Black resigned in view of 23 Qxe6+–. } 2. Rbd1 { 20 Rxc7?? Rxb1+ is a back-rank mate. } 2... Qb6 3. Qh4 Kg8 { Black has an extra piece and good chances to win. } *

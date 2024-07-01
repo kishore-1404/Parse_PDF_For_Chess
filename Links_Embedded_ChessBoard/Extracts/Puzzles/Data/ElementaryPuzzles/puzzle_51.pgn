@@ -1,0 +1,12 @@
+[Event "St Petersburg Ch 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vlasenko"]
+[Black "Timerkhanov"]
+[Result "1-0"]
+[Puzzle "51"]
+[FEN "5rk1/1R1qp2p/p3p1p1/8/2r1Qn2/5N2/P4PPP/5RK1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Qxf4 $1 Qc6 { White also retains his extra piece after 25...Qd5 26 Qe3 (or 26 Qe5+–) 26...Re4 27 Qb3+–. } 2. Qe3 { Or 26 Qe5+–. } 2... Rg4 3. Rb3 { White is a piece ahead. } 1-0

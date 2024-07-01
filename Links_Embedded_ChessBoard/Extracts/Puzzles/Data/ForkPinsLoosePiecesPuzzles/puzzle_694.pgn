@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kramnik"]
+[Black "A. Nesterov"]
+[Result "1-0"]
+[Puzzle "694"]
+[FEN "2r3k1/bp3p2/p6p/4qbpN/4p3/1P2P1PP/P3QPBK/3R4 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Rd5 $1 Qe6 { 27...Qxd5 28 Nf6+ Kg7 29 Nxd5+–. } 2. Qb2 f6 { Or: 28...Kf8 29 Qg7+ Ke7 30 Re5+–; 28...Qg6 29 g4 Bb8+ 30 Kg1 Be6 31 Bxe4 Bxd5 32 Bxg6 Be5 33 Qd2+–. } 3. Qxf6 1-0

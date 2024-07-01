@@ -1,0 +1,12 @@
+[Event "Sharjah 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bernadskiy"]
+[Black "Salem"]
+[Result "0-1"]
+[Puzzle "182"]
+[FEN "3r1k2/pq3p1p/4p1p1/1rp1P3/P1QP1P2/2R5/6PP/3R2K1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Rxd4 $1 2. Rxd4 Rb1+ $1 { White wins a rook after 27...cxd4?? 28 Qc8+ Qxc8 (28...Kg7 29 axb5+–) 29 Rxc8+ Ke7 30 axb5+–. } 3. Kf2 Rb2+ 4. Ke3 { 29 Rc2 cxd4–+. } 4... Qxg2 { 30 Qxc5+ Kg7 (White is a rook up but he must defend against the threat of 31...Qe2#) 31 Qc4 Qf2+ 32 Ke4 (32 Kd3? Qe2#) 32...Re2+ 33 Qxe2 Qxe2+ 34 Re3 Qxh2–+. } 0-1

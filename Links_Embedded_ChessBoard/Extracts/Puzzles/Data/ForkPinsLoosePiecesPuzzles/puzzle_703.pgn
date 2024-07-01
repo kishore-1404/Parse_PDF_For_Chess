@@ -1,0 +1,12 @@
+[Event "Norwegian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hauge"]
+[Black "J. van Foreest"]
+[Result "0-1"]
+[Puzzle "703"]
+[FEN "3q1b2/2R2pk1/3Np1p1/2p1P2p/5BnP/r5P1/4QP2/6K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Ra1+ { Black can equally well capture the knight first, viz. 38...Bxd6 39 exd6 Ra1+ 40 Kg2 with the same position. } 2. Kg2 Bxd6 3. exd6 Qa8+ 4. f3 { White loses his queen after 41 Qf3 Rg1+! 42 Kxg1 Qxf3–+. } 4... Ra2 5. Bd2 Qd5 { White is stuck in a fatal pin. } 6. Bc3+ e5 7. Bb2 Qb3 0-1

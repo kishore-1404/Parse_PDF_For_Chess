@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Tari"]
+[Black "Sadhwani"]
+[Result "0-1"]
+[Puzzle "445"]
+[FEN "1r4k1/p1p1Rp1p/2p1n3/3p2r1/6B1/1P5P/P1P3P1/R5K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Kf8 $1 { The king move is more precise than 23...Rxg4?! 24 hxg4 Kf8 25 Rxe6! (25 Rd7?! transposes to the note to White’s 25th move) 25...fxe6 26 Kf2 Ke7 27 Rh1 Rf8+ 28 Ke3 Rf7 –/+, when Black is a pawn up with good chances to win. } 2. Rd7 { Or 24 Rxe6 fxe6 25 Bxe6 Ke7 26 Bg4 Re5–+. } 2... Rxg4 $1 3. Rf1 { White’s rook is trapped after 25 hxg4 Ke8 26 Rf1 Kxd7 27 Rxf7+ Kd6 28 Rxh7 Rb4 29 Rh4 Rf4–+. } 3... Rg7 4. Rf6 Ke8 { Black is a rook ahead after 27 Rxe6+ Kxd7–+. } 0-1

@@ -1,0 +1,12 @@
+[Event "Chinese Rapid Ch, Shao Xing 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Xu Yi"]
+[Black "Xu Xiangyu"]
+[Result "*"]
+[Puzzle "885"]
+[FEN "r1b4r/qp2k1pp/p2pp3/4n2n/N2NP3/1R6/P1PQ2PP/5RK1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Qg5+ $1 { In the game, 18 Qf2?? allowed Black to develop his queenside and consolidate his extra pawn by 18...Bd7 19 Nb6 Rhf8 20 Qh4+ Nf6–+. } 1... Ke8 2. Nb6 $1 { Not 19 Qxh5+?? g6 20 Qd1 b5 21 Nb2 Nc6 22 c3 e5–+. } 2... g6 { 19...Rb8 20 Qxh5+ g6 21 Qh6+–. } 3. g4 h6 4. Qd2 Ng7 5. c4 { Black is hopelessly tied up; for example: } 5... Bd7 6. c5 dxc5 7. Qf4 *

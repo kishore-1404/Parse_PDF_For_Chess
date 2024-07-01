@@ -1,0 +1,12 @@
+[Event "Ciutadella de Menorca 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Santos Ruiz"]
+[Black "E. Rozen"]
+[Result "1-0"]
+[Puzzle "263"]
+[FEN "3r2k1/p1n1b1r1/bqp1p3/4ppB1/2P5/P5Q1/1P2BPP1/R2NK2R w KQ - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Qh4 $1 { White sacrifices a piece to infiltrate Black’s kingside. The combination works because the black queen is cut off from the defence of the kingside. The alternative queen moves 22 Qh3! and 22 Qh2! are just as good and transpose to the game after 22...Bxg5 23 Qh8+. } 1... Bxg5 { Or 22...Rxg5 23 Qh8+ Kf7 24 Rh7+ Rg7 25 Qxg7+ Ke8 26 Qxe7#. } 2. Qh8+ Kf7 3. Bh5+ Rg6 { Black will be a rook down if he flees with his king: 24...Ke7 25 Qxg7+ Kd6 26 Qxg5+–. } 4. Qh7+ Kf8 5. Bxg6 { Black has no good way to defend the f7-square. } 5... Bd2+ 6. Kf1 Bxc4+ 7. Kg1 { Black’s pieces were unable to defend the kingside. } 1-0

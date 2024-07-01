@@ -1,0 +1,12 @@
+[Event "Bucharest rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "T. Georgescu"]
+[Black "Harikrishna"]
+[Result "*"]
+[Puzzle "787"]
+[FEN "6k1/2p2pp1/7p/p1npP3/8/4qP2/PPB3PP/6QK b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Qd2 $1 2. Qd1 { Black should win the queen and pawn endgame after 28 Qxc5 Qc1+ 29 Qg1 Qxc2 30 h4 Qxb2–+. } 2... Qxd1+ 3. Bxd1 Nd3 4. Bb3 c6 5. Ba4 c5 6. Bc6 d4 *

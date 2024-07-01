@@ -1,0 +1,12 @@
+[Event "Buenos Aires 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Tomeo"]
+[Black "I. Schnaider"]
+[Result "1-0"]
+[Puzzle "268"]
+[FEN "r1b1k3/1pq1bp2/p3p3/6p1/2nN2P1/2N5/PPP3B1/2KR3Q w q - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Qh8+ Bf8 { Black loses his queen after 18...Kd7 19 Ndb5++–. } 2. Ne4 $1 { The opening was a Sicilian Defence that went poorly for Black: his king is stuck in the centre with no defenders. } 2... Qf4+ { After 19...Ne3 White’s queen and knight combine to win the black queen: 20 Nf6+ Ke7 21 Nh7 Bd7 22 Qf6+ Ke8 23 Qxg5 Nxd1 24 Nf6+ Kd8 25 Nd5+ Kc8 26 Nxc7 Kxc7 27 Kxd1+–. } 3. Kb1 Ke7 { Black runs into trouble along the d-file if he chases White’s pieces. For example: 20...Ne3 21 Nf6+ Ke7 (21...Qxf6 22 Qxf6 Nxd1 23 Nf3+–) 22 Nc6+ bxc6 23 Ng8+ Ke8 24 Bxc6+ Bd7 25 Rxd7 leads to mate. } 4. Nf5+ { Black is mated after 21...exf5 22 Qf6+ Ke8 23 Rd8#. } 1-0

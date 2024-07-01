@@ -1,0 +1,12 @@
+[Event "Austrian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Höfelsauer"]
+[Black "Praznik"]
+[Result "*"]
+[Puzzle "928"]
+[FEN "6rk/1p4bp/1p1Pb3/1P4q1/4Q3/7P/2B2PP1/3R2K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Qg6 $1 { The game continued 29...Qh6? 30 d7 Rd8 31 Rd6! +/–, when Black had difficulty coping with White’s far-advanced d-pawn. } 2. d7 Qxe4 3. Bxe4 Rd8 4. Rd6 Bc4 5. g4 Bxb5 6. Rxb6 Bxd7 { Black has a slight material advantage, but a draw is likely because of the reduced material. } 7. Rxb7 *

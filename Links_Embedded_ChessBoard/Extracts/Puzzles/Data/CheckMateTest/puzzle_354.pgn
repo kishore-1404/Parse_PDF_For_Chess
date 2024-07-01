@@ -1,0 +1,12 @@
+[Event "Jamundi 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Cardoso Cardoso"]
+[Black "Henriquez Villagra"]
+[Result "*"]
+[Puzzle "354"]
+[FEN "8/kp5r/8/p1p2Qp1/P5P1/2r2NK1/4R1R1/2q5 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Rh3+ $1 2. Kf2 { 58 Kxh3 Qh1+ 59 Rh2 (59 Kg3 Qh4#) 59...Rxf3+ 60 Qxf3 Qxf3#. } 2... Rcxf3+ $1 { 58...Rhxf3+! 59 Qxf3 Rxf3+ comes to the same thing. } 3. Qxf3 Rxf3+ 4. Kxf3 Qf4# *

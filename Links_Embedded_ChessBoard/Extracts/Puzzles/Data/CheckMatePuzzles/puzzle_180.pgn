@@ -1,0 +1,12 @@
+[Event "Kiel 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Do. Horvath"]
+[Black "Rosner"]
+[Result "1-0"]
+[Puzzle "180"]
+[FEN "r1N3k1/8/2p1P1pb/p7/3P4/1qP3Q1/6P1/6K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Qxg6+ { Not 39 Ne7+?? Kh8! 40 Nxg6+ (40 Qxg6? Qd1+ 41 Kh2 Qd2–+) 40...Kh7, when White is clearly failing to mate, and after 41 Qd3 Kg7 42 Qf5 Be3+ 43 Kh2 Qb8+ 44 Ne5 Qh8+ 45 Kg3 Qg8, Black’s accurate defence leaves White fighting for a draw. } 1... Bg7 { 39...Kh8 40 Qxh6+ Kg8 41 Ne7#. } 2. Ne7+ Kh8 3. Qh5+ { 41...Bh6 42 Qxh6#. Queen and knight are a good mating team. } 1-0

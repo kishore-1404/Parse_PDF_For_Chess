@@ -1,0 +1,12 @@
+[Event "Baku 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nigmatov"]
+[Black "Aradhya"]
+[Result "*"]
+[Puzzle "583"]
+[FEN "4Qrk1/6pp/1pnq4/p7/2Pp4/1P1P3P/6P1/4R1BK w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Re6 $1 Rxe8 2. Rxd6 Rc8 3. g4 $1 { There is no rush to take the d4-pawn. In the game 38 Bxd4?! Nxd4 39 Rxd4 b5+= gave Black drawing chances. } 3... Kf7 4. Rd7+ Kf6 5. Kg2 Re8 6. Rb7 Re6 7. Rxb6 *

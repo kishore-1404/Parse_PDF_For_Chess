@@ -1,0 +1,12 @@
+[Event "Croatia 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pechač"]
+[Black "Palac"]
+[Result "1-0"]
+[Puzzle "57"]
+[FEN "r4rk1/pp1nqp1p/2bbp1p1/2ppB3/P2P1P2/2PBP2R/1P1N2PP/R2Q2K1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Qh5 $1 { White must avoid 15 Rxh7?? Bxe5!–+. White wins a piece after 15...f5 (15...gxh5 16 Rg3+ Qg5 17 Rxg5#) 16 Bxd6 gxh5 17 Bxe7+–. } 1-0

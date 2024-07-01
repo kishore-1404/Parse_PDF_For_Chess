@@ -1,0 +1,12 @@
+[Event "Dimitrovgrad 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kostov"]
+[Black "Koutlas"]
+[Result "*"]
+[Puzzle "744"]
+[FEN "r2q2k1/5pp1/p1p2n1p/p2pr2b/4P2B/2N2P2/PPQ3PP/2KRR3 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. g4 $1 Bg6 2. f4 $1 { White advances his kingside pawns to crowd Black’s pieces. } 2... Rxe4 { Black’s light-squared bishop is buried alive after 19...Re7 20 Bxf6 gxf6 21 f5 Bh7 22 Qd2 Kg7 23 Re3 Qf8 24 Rh3+–. } 3. Nxe4 Bxe4 4. Rxe4 g5 { White has several ways to keep a decisive advantage here, including 22 Rc4 gxh4 23 Rxc6+–. } *

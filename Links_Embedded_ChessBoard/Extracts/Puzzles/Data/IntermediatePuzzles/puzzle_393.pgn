@@ -1,0 +1,12 @@
+[Event "Paleochora 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "M. Pap"]
+[Black "Kelires"]
+[Result "0-1"]
+[Puzzle "393"]
+[FEN "r5k1/2p2pp1/b3n3/2p1P2p/2Pp4/rP1N1PP1/4RKP1/1RB5 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bxc4 $1 2. Nxc5 { Or: 37 bxc4 Rxd3–+; 37 Bxa3 Bxd3–+. } 2... Bxe2 3. Bxa3 { 38 Nxe6 Bd3 39 Bxa3 Bxb1–+. } 3... Rxa3 4. Nxe6 Ra2 5. Nxd4 Bd3+ 0-1

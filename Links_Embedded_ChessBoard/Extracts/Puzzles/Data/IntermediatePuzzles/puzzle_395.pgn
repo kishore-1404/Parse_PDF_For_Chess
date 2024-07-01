@@ -1,0 +1,12 @@
+[Event "Jyväskylä 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kevlishvili"]
+[Black "Agopov"]
+[Result "*"]
+[Puzzle "395"]
+[FEN "3r3k/p1q4p/2p1p1p1/2b1Pp2/5Q1P/P1B5/1P3PP1/3R2K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Rd6 $1 Kg8 { White wins material after 29...Re8 30 b4 Bb6 31 Qc4+–. } 2. Rxe6 Rd1+ { 30...Qd7 31 Rf6+–. } 3. Kh2 Qd7 4. Rf6 *

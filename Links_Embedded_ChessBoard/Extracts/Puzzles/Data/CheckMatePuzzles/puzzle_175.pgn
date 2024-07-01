@@ -1,0 +1,12 @@
+[Event "Sitges 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sankalp"]
+[Black "A. Bai"]
+[Result "1-0"]
+[Puzzle "175"]
+[FEN "r3r2b/2qnQ3/p1p3kp/4pppN/1PP5/3P3P/1B3PP1/R2BR1K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Nf4+ $1 gxf4 { 26...exf4 27 Re6+ Nf6 28 Rxf6+ Bxf6 29 Qxf6+ Kh7 30 Bh5 leads to mate. } 2. Bh5+ { Black’s king is drawn forward into a mating-net. } 2... Kxh5 3. Qf7+ Kg5 { 28...Kh4 29 Qxf5 Rg8 30 g3+ fxg3 31 Re4+ Rg4 32 Qxg4#. } 4. h4+ Kxh4 5. Qxf5 e4 { 30...Rg8 31 g3+ Rxg3+ (31...fxg3 32 Re4+ Rg4 33 Qxg4#) 32 fxg3+ Kxg3 33 Re3+ fxe3 34 Bc3 e2 35 Be1#. } 6. g3+ fxg3 7. Kg2 { 32...gxf2 33 Rh1+ Qh2+ 34 Rxh2#. } 1-0

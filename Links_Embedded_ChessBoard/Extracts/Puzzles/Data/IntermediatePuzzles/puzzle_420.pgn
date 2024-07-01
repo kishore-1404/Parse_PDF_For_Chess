@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Giri"]
+[Black "Vidit"]
+[Result "*"]
+[Puzzle "420"]
+[FEN "r3r1k1/pp2bpp1/1qn2n1p/8/3pNB2/3BPQ1P/PP3PP1/2RR2K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Bxh6 $1 Nb4 { 17...gxh6 18 Nxf6+ Bxf6 19 Qxf6+–. } 2. Bc4 gxh6 3. Rxd4 Rad8 { After 19...Kh8 (as played in the game) White won back his piece with a decisive material advantage: 20 Rd6! Nc6 (20...Bxd6 21 Qxf6+ Kh7 22 Qxf7+ Kh8 23 Qf6+ Kh7 24 Nxd6 Rf8 25 Bf7 leads to mate) 21 Rxf6+–. } 4. Rcd1 Rxd4 5. Rxd4 Rd8 6. Nxf6+ Bxf6 { 22...Qxf6 23 Rf4+–. } 7. Rf4 { White has two pawns and a relentless attack for the sacrificed piece. } *

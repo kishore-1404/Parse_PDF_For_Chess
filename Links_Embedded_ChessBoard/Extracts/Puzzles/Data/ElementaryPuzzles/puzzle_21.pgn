@@ -1,0 +1,12 @@
+[Event "Dubai 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "S.P. Sethuraman"]
+[Black "Kamalidenova"]
+[Result "1-0"]
+[Puzzle "21"]
+[FEN "2Q2r2/2BP1qpk/2p1n2p/1P1b1p2/4p3/4P2P/5PPK/3R4 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. b6 $1 { Passed pawns must be pushed! } 1... Nxc7 2. bxc7 Rxc8 3. dxc8=Q f4 4. Qb8 { White’s king is safe and his c7-pawn will promote. } 1-0

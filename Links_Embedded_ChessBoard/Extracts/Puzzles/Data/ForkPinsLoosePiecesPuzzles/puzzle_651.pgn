@@ -1,0 +1,12 @@
+[Event "Romanian Rapid Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Secheres"]
+[Black "T. Anton"]
+[Result "*"]
+[Puzzle "651"]
+[FEN "5rk1/1q4pp/1p1npp2/3b4/1P6/3RQNP1/r3PPBP/2R3K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Nd4 $1 { After 26 Bh3? (as played in the game) Black stabilized his position with 26...Re8 =. } 1... Nc4 { 26...Bxg2 27 Qxe6+ Qf7 (27...Kh8 28 Qxa2+–) 28 Kxg2+–. } 2. Rxc4 Ra1+ 3. Rc1 Rxc1+ 4. Qxc1 Bxg2 5. Nxe6 Bh3 6. Nf4 *

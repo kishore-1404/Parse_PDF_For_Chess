@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Oparin"]
+[Black "Caruana"]
+[Result "0-1"]
+[Puzzle "240"]
+[FEN "2r4k/2p3p1/7p/3P3q/R2Qpp2/2P4P/1r3PP1/4R1K1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... e3 $1 2. fxe3 { Black wins the double-rook ending after 40 Rf1 Rf8 41 Qe4 Qe2 42 Qf3 Qxf3 43 gxf3 Rf5–+. } 2... f3 $1 { White is mated after 41 Kh1 Rxg2 42 Qh4 Qg6 (threatening 43...Rh2+) 43 Qf4 Rg3 44 Kh2 Rxh3+ 45 Kxh3 Qg2+ 46 Kh4 g5+–+ followed by mate. } 0-1

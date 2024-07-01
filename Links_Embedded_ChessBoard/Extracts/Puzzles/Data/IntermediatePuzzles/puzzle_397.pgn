@@ -1,0 +1,12 @@
+[Event "African Ch, Giza 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Wageih"]
+[Black "Djabri"]
+[Result "0-1"]
+[Puzzle "397"]
+[FEN "5Bk1/R4pbp/Q5p1/8/8/6P1/b3nPBP/4qN1K b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bd5 $1 { This intermezzo wins for Black; not 26...Bxf8? 27 Qf6 Bd5 28 Ra1 Nc1 29 f3+–. } 2. Qxe2 { Or: 27 Bxd5 Qxf1#; 27 f3 Bxf3–+. } 2... Qxe2 3. Kg1 Bd4 0-1

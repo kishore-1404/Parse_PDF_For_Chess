@@ -1,0 +1,12 @@
+[Event "Norwegian Ch, Kongsvinger 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L. Tallaksen"]
+[Black "I. Sjøberg"]
+[Result "1-0"]
+[Puzzle "507"]
+[FEN "2r2rk1/4R1bp/2qnR3/6n1/2p3p1/2N2P2/PPQ2B1P/3B1K2 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Rxg7+ $1 Kxg7 2. Bd4+ Kf7 { Black loses a piece and his king will quickly perish after 35...Kg8 36 Rg6+! Kf7 37 Rxg5+–. } 3. Rf6+ Ke7 { 36...Ke8 37 Qe2+ Kd7 reaches the same position. } 4. Qe2+ Kd7 5. Ba4 1-0

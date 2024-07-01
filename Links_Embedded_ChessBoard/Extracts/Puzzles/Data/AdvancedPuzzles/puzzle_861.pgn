@@ -1,0 +1,12 @@
+[Event "Bundesliga 2021/2"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Jones"]
+[Black "Huschenbeth"]
+[Result "*"]
+[Puzzle "861"]
+[FEN "8/3nQppk/5n1p/4N3/4q3/2r3P1/3B1P1P/4R1K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Rc1 $1 2. Rxc1 { Black wins a piece after 34 Bxc1 Qxe1+ 35 Kg2 Nxe5–+. } 2... Nxe5 3. Bb4 Nd5 4. Qc5 Nf3+ 5. Kg2 { 37 Kf1 Nd4 (threatening 38...Qh1#) 38 Kg1 transposes to the main line. } 5... Nd4+ { The game continuation 37...Ne1++ 38 Kf1 Nd3–+ was also good enough. } 6. Kg1 Ne2+ 7. Kf1 Nxc1 *

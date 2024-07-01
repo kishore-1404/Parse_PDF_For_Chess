@@ -1,0 +1,12 @@
+[Event "Stockholm 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Külaots"]
+[Black "Prraneeth"]
+[Result "*"]
+[Puzzle "908"]
+[FEN "1r1qr1k1/1b2npp1/pb5p/1ppnP3/7N/P3B2P/1PBN1PP1/R2QR1K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Bxh6 $1 Ng6 { After 19...gxh6?!, as played in the game, White obtained a winning attack with 20 Qh5 Kg7 21 e6 Rf8 (21...fxe6 22 Rxe6 Nf6 23 Rxf6 Kxf6 24 Qxh6+ Kf7 25 Ndf3+–) 22 Nf5+ Nxf5 23 Qxf5+–. } 2. Nf5 gxh6 3. Qh5 Re6 4. Nxh6+ Kg7 5. Nxf7 $1 Qg8 6. Ng5 { White has a powerful and unrelenting attack, though Black can certainly put up stern resistance. } 6... Ndf4 7. Qg4 Re7 8. Ndf3 *

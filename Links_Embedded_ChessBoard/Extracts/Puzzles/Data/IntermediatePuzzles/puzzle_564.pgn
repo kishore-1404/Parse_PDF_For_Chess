@@ -1,0 +1,12 @@
+[Event "Ayvalik 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Atakhan"]
+[Black "Baglan"]
+[Result "1-0"]
+[Puzzle "564"]
+[FEN "5kr1/1r1n2pR/4ppPB/pp6/2pPP3/2P2P2/P7/1K5R w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Bxg7+ $1 Rxg7 2. Rh8+ Rg8 { After 34...Ke7 35 R1h7 Rxh7 36 gxh7+– White’s h-pawn will promote. } 3. R1h7 { 35...Nc5 (35...Rxh8 36 g7++–) 36 dxc5 Rxh7 37 Rxg8+ Kxg8 38 gxh7+ Kxh7 39 c6+–. } 1-0

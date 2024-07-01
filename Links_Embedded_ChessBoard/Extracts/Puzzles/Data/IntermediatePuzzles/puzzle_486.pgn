@@ -1,0 +1,12 @@
+[Event "European Over-65 Team Ch, Dresden 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Renman"]
+[Black "B. Baum"]
+[Result "*"]
+[Puzzle "486"]
+[FEN "6k1/1p3r1p/2n2qp1/p2p4/1r1N2P1/PP2PP1R/3Q1K2/2R5 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Nxd4 $1 2. exd4 { White will defend a pawn-down endgame. After 32 axb4? (as played in the game) Black infiltrated along the f-file by 32...Nxf3 33 Rxf3 Qxf3+ 34 Kg1 Qg3+ 35 Kh1 Rf2, with a decisive attack. } 2... Rxb3 3. Rc8+ Rf8 { 33...Kg7?? allows 34 Qh6#. } 4. Rxf8+ Kxf8 5. a4 Kg8 *

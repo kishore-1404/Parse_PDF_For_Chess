@@ -1,0 +1,12 @@
+[Event "Portuguese Ch, Leiria 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A. Fidalgo"]
+[Black "S. Rocha"]
+[Result "*"]
+[Puzzle "534"]
+[FEN "5r1k/1p4pp/p1n2b2/2Pp3r/1P3BQ1/N1q5/P3RP1P/2R4K b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Rh4 $1 { In the game 26...Qh3? allowed White to simplify into an equal endgame by 27 Qxh3 Rxh3. Then 28 Bg3 = looks clearest. } 2. Qg3 { 27 Qxh4? loses to 27...Qf3+ 28 Kg1 Bxh4, while Black has a pawn- up endgame after 27 Rxc3 Rxg4 28 Bd6 Bxc3 29 Bxf8 Kg8 30 Bd6 Rxb4–+. } 2... Qxb4 3. Bd6 Nd4 $1 4. Bxf8 Nxe2 5. Bxg7+ Kg8 $1 { 30...Bxg7?? 31 Qb8+ Bf8 32 Qxf8#. } 6. Qg2 Nf4 *

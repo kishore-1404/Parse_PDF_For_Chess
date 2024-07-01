@@ -1,0 +1,12 @@
+[Event "Cheliabinsk 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Averin"]
+[Black "Zablotsky"]
+[Result "1-0"]
+[Puzzle "197"]
+[FEN "1Q6/1b2R1pk/5p1p/1r2p3/4P3/2PnNP2/4q1PP/3R2K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Rxg7+ $1 Kxg7 2. Nf5+ { In view of 42...Kg6 43 Qg8+ Kh5 44 Qg4# (or 44 g4#) or 42...Kf7 43 Qc7+ Kf8 44 Qe7+ (or 44 Qg7+ Ke8 45 Qe7#) 44...Kg8 45 Qg7#. } 1-0

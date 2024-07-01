@@ -1,0 +1,12 @@
+[Event "Israeli Ch, Arad 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "N. Zemach"]
+[Black "Tzidkiya"]
+[Result "0-1"]
+[Puzzle "364"]
+[FEN "r1q2rk1/p1p3bp/np1p1np1/3Pp3/1PP1PpbP/2NN1BP1/P4P2/R1BQR1K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... fxg3 2. Bxg4 { After 21 fxg3 Bxf3 22 Qxf3 Nxd5 Black wins material. } 2... Qxg4 3. Qxg4 Nxg4 4. Kg2 { 23 fxg3 Rf3 24 Rd1 Rxg3+–+. } 4... Nxf2 5. Re3 Nxd3 0-1

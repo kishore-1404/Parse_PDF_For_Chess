@@ -1,0 +1,12 @@
+[Event "Braila rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "G. Guseinov"]
+[Black "Zajić"]
+[Result "*"]
+[Puzzle "623"]
+[FEN "r1bqk1nr/1p1p1pbp/p3p3/4P3/6p1/2NP1N2/1B1P1PPP/R2Q1RK1 w kq - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1. Ne4 $1 gxf3 { 13...Bf8 14 Nd4 h5 15 Nb5+–. } 2. Nd6+ Kf8 3. Ba3 Bxe5 { 15...Ne7 16 Qxf3+–. } 4. Nxb7+ Qe7 5. Bxe7+ Kxe7 6. Rb1 *

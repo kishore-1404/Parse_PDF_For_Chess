@@ -1,0 +1,12 @@
+[Event "Heusenstamm 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Neukirchner"]
+[Black "Gahan"]
+[Result "*"]
+[Puzzle "493"]
+[FEN "r2r2k1/1pq1ppbp/6p1/p4b2/1nPP4/PN2Q1P1/1B3PBP/2RR2K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Nc2 $1 2. Qe2 { After 26 Qf3?! (as played in the game) Black wins material because of the looseness of White’s queenside pieces: 26...Qxc4 27 Na1 and now Black could have chosen 27...Bh6 28 Bf1 Qa2–+. } 2... a4 3. Rxc2 Bxc2 4. Qxc2 axb3 5. Qxb3 Rab8 { Black has a material advantage and good winning chances. } *

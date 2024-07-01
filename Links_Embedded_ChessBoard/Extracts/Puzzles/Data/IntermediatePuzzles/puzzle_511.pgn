@@ -1,0 +1,12 @@
+[Event "London 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fitzsimons"]
+[Black "T. Wall"]
+[Result "*"]
+[Puzzle "511"]
+[FEN "r1b2rk1/1pp2ppp/1nnb2q1/p3p3/P7/1B1PBNNP/1PP2PP1/R2QR1K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nh4 $1 Qf6 2. Ne4 $1 Qd8 { Black’s queen is trapped after 16...Qxh4? 17 Bg5+–. } 3. Qh5 { White is threatening Ng5. } 3... Be7 4. Nf3 { Black is unable to defend his e5-pawn. } 4... Nd5 5. Nxe5 Nxe5 6. Qxe5 *

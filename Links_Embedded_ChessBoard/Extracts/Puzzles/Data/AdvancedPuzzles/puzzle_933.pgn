@@ -1,0 +1,12 @@
+[Event "Tashkent 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vokhidov"]
+[Black "Nigmatov"]
+[Result "*"]
+[Puzzle "933"]
+[FEN "1rr4k/R4Bp1/3p1q1p/5P2/1p1NP3/2pQ3P/5PK1/8 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Qg5+ 2. Kf1 Qc1+ 3. Ke2 Qb2+ $1 { Black positions his queen on the optimal square before advancing his passed pawns. Too hasty is 41...c2? 42 Ra2! b3 43 Bxb3 Rxb3 44 Nxb3 Qb1 45 Ra6 Qxb3 46 Qxb3 c1N+ 47 Kf3 Nxb3 48 Rxd6 with a likely draw. } 4. Nc2 { 42 Qc2 b3 43 Bxb3 Rxb3–+. } 4... b3 5. Bxb3 Qxb3 *

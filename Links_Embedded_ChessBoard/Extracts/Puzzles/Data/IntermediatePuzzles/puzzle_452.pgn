@@ -1,0 +1,12 @@
+[Event "Bad Wörishofen 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Visakh"]
+[Black "Kovchan"]
+[Result "*"]
+[Puzzle "452"]
+[FEN "3r2k1/3r3p/pQ2p1p1/3bP1q1/p3p3/B3P1P1/1P3P1P/2RR2K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Rxd5 $1 exd5 { 28...Rxd5 29 Qxe6+ Kg7 30 Rc7+ Kh6 31 Qf7+–. } 2. e6 Rg7 { White’s combination works because of the poor position of Black’s queen; e.g., 29...Qf6 30 Bc5+–. } 3. e7 Re8 4. Qe6+ Rf7 5. Rc8 *

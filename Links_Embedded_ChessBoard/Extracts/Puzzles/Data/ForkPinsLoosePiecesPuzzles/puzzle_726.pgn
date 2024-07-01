@@ -1,0 +1,12 @@
+[Event "Webster Groves (team event) 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dragun"]
+[Black "Oparin"]
+[Result "0-1"]
+[Puzzle "726"]
+[FEN "7r/pkp1b3/4p1pp/3r1p2/3n3P/PN5R/1P3PP1/2B1RK2 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Nc2 $1 { Black gains a decisive material advantage after 28 Rxe6 Rd1+ 29 Ke2 Re1+ 30 Kd2 Rxe6 31 Kxc2 Re2+ 32 Kb1 Rxf2–+. } 0-1

@@ -1,0 +1,12 @@
+[Event "Polish Rapid Team Ch 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Wojtaszek"]
+[Black "Brodowski"]
+[Result "*"]
+[Puzzle "747"]
+[FEN "4rbk1/2r2p1p/1qb1p1p1/p2p4/Pp1P4/1P1QP1P1/1BR1BP1P/2R3K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Ra8 $1 { This is the way to counter White’s pressure along the c-file: Black keeps the white queen out of the a6-square and maintains equality. Instead in the game Black lost material after 31...Rec8?? 32 Qa6!+–. } *

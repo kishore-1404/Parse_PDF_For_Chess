@@ -1,0 +1,12 @@
+[Event "Slovakian Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "I. Jelen"]
+[Black "Sirnik"]
+[Result "*"]
+[Puzzle "545"]
+[FEN "6k1/5p2/p5p1/3P1q1p/P7/4P1P1/1r3PKP/3RQ3 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... h4 $1 { In the game, 36...Qe4+?? left Black’s queen misplaced: 37 Kg1 h4 38 d6 Rb8 and 1-0 in view of 39 d7 Rd8 40 Qa5 Qe7 41 Qxa6+–. } 2. gxh4 { White is also unable to make progress by 37 d6 h3+ 38 Kf1 (38 Kg1?! Qf3 39 Qf1 Rxf2! 40 Qxf2 Qxd1+ 41 Qf1 Qxd6 42 Qxh3 Qd1+ 43 Kf2 Qxa4=+) 38...Qe4 39 Rd2 Qc4+ (or 39...Rb1 40 Qxb1 Qxb1+ 41 Ke2 Qb6 42 d7 Qd8 =) 40 Kg1 Qe4 41 Kf1 Qc4+, repeating. } 2... Qg4+ 3. Kf1 Qh3+ 4. Kg1 Qg4+ 5. Kf1 { with a draw by repetition. } *

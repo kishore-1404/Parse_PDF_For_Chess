@@ -1,0 +1,12 @@
+[Event "Budapest 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Csiki"]
+[Black "Arhan"]
+[Result "*"]
+[Puzzle "560"]
+[FEN "6k1/3R4/p3N3/5p2/2n1pP2/2b4R/Pr4P1/3K4 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... e3 $1 { In the game Black allowed the white king to escape after 37...Rb1+?? 38 Kc2+–. } 2. Rg3+ Kh8 3. Rh3+ { Or 39 Rd8+ Kh7 40 Ng5+ Kh6 41 Nf7+ Kh7 42 Ng5+ Kh6 =. } 3... Kg8 4. Rg3+ { It’s a draw by repetition. } *

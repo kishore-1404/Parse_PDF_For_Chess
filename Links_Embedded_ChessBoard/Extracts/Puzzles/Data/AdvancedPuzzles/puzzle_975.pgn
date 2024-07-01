@@ -1,0 +1,12 @@
+[Event "Croatia Cup, Mali Lošinj 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B. Jukić"]
+[Black "Bertović"]
+[Result "0-1"]
+[Puzzle "975"]
+[FEN "4r1k1/2q2pp1/B6p/1Q2n3/1P1p1P2/P3n3/1BP3PP/3R2K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Qxc2 $1 2. Qxe8+ Kh7 3. Bf1 { 27 Bd3+ Nxd3 28 Qe4+ f5! 29 Qf3 Qxb2–+. } 3... Qxd1 4. Qb5 N5c4 { Or 28...d3–+. } 0-1

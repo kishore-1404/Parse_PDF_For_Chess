@@ -1,0 +1,12 @@
+[Event "Hungarian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Borhy"]
+[Black "Szalai"]
+[Result "*"]
+[Puzzle "569"]
+[FEN "r1b1rbk1/1pq2p1p/p2p1np1/2pP3n/P1P1PP2/2NQBN2/1P4BP/R3R1K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Nxe4 $1 { Both players must always be aware of this tactic in Benoni pawn- structures. } 2. Nxe4 Rxe4 3. Qxe4 { 21 Ng5 Re7–+. } 3... Bf5 4. Qxf5 gxf5 *

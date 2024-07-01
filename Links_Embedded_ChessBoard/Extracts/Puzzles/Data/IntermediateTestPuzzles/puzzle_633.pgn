@@ -1,0 +1,12 @@
+[Event "Viljandi 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Shvyrjov"]
+[Black "Pultinevicius"]
+[Result "0-1"]
+[Puzzle "633"]
+[FEN "6k1/pB3p2/P3b3/1Q1Nq3/6p1/6P1/6PK/2b5 b - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... Qh5+ $1 2. Kg1 Be3+ $1 3. Kf1 { 44 Nxe3 Qxb5–+. } 3... Qf5+ 4. Ke2 { 45 Ke1 Qf2+ 46 Kd1 Qd2#. } 4... Qf2+ 5. Kd3 { 46 Kd1 Qd2#. } 5... Qf1+ 0-1

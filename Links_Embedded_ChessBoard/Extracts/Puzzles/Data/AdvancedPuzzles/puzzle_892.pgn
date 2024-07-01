@@ -1,0 +1,12 @@
+[Event "Cheliabinsk 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Khegay"]
+[Black "Vorobiov"]
+[Result "1-0"]
+[Puzzle "892"]
+[FEN "2rq1b1r/1b1nk2p/p2p4/1p2ppPQ/2n1P3/PPN4R/2P2PB1/R1B1K3 w Q - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. exf5 $1 Bxg2 2. f6+ Ke6 { 20...Nxf6 21 gxf6+ Kd7 22 Qg4+ Kc7 23 Qxg2 Nb6 24 a4+–. } 3. Qg4+ Kf7 4. Qxg2 Ncb6 5. Rxh7+ Rxh7 { 23...Kg8 24 Rxh8+ Kxh8 25 Ne4+–. } 6. g6+ Kg8 { 24...Kxf6 25 Bg5++–. } 7. gxh7+ Kxh7 8. Ne4 Qe8 { After 26...Nxf6 27 Ng5+ the black queen is lost. } 9. f7 1-0

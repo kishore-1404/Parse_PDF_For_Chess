@@ -1,0 +1,12 @@
+[Event "Baku 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "K. Balajayeva"]
+[Black "Harsha Bharathakoti"]
+[Result "1-0"]
+[Puzzle "581"]
+[FEN "r3k2r/pp1bpp1p/2n3pb/qN1Q4/8/2P2N2/PP3PPP/R3KB1R w KQkq - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Ne5 $1 O-O { Or: 12...Nxe5 13 Nd6+! exd6 14 Qxa5+–; 12...0-0-0 13 Qc5 Qa4 14 Bc4+–. } 2. Nxd7 Rad8 3. Rd1 Nb8 4. b4 $1 Qa6 { 15...Qa4 16 Nc5 Qc2 17 Qxd8 Rxd8 18 Rxd8+ Kg7 19 Bc4+–. } 5. Nxb8 1-0

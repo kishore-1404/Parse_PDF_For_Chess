@@ -1,0 +1,12 @@
+[Event "British League (4NCL) 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Speelman"]
+[Black "Roberson"]
+[Result "*"]
+[Puzzle "918"]
+[FEN "4r1k1/1Q3pb1/4r1pp/p1B2n2/P3R3/2PP2Pq/1P3P1N/R5K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Rxe4 2. dxe4 Nxg3 $1 3. fxg3 { Or 25 Qb5 Re5 26 fxg3 Qxg3+ 27 Kh1 Rh5 28 Qe2 Rxc5–+. } 3... Qxg3+ 4. Kh1 Be5 $1 { The game ended 26...Rb8?! 0-1?, but White could have resisted with 27 Bf2! Qxh2+ (27...Qf4 28 Be3) 28 Kxh2 Rxb7 29 Ra2 Be5+ 30 Kg2 Rb3 –/+. } 5. Bg1 Rb8 *

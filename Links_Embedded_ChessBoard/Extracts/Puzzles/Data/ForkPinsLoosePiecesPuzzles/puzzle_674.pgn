@@ -1,0 +1,12 @@
+[Event "Spanish Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Suarez Gomez"]
+[Black "Naiditsch"]
+[Result "0-1"]
+[Puzzle "674"]
+[FEN "r3r1k1/pp1bq1bp/2pp4/3P1pP1/2PNnp1P/2N5/PPQ1BP2/3R1KR1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Nxf2 $1 { Black exploits White’s missing dark-squared bishop. } 2. Kxf2 Bxd4+ 3. Kg2 { 22 Rxd4 Qe3+ 23 Kg2 Qxd4–+. } 3... Bxc3 4. Bh5 f3+ 5. Kxf3 { 24 Bxf3 Bg7–+. } 5... Qe3+ 6. Kg2 Be5 7. Bxe8 Qg3+ { 27 Kf1 Qf3+ 28 Ke1 Rxe8 followed by mate. } 0-1

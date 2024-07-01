@@ -1,0 +1,12 @@
+[Event "Serbian Team Ch, Vrnjačka Banja 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Radusinović"]
+[Black "D. Rajković"]
+[Result "*"]
+[Puzzle "85"]
+[FEN "2r3k1/4b1p1/2n2pQ1/4pN2/6K1/4p1P1/1B1r3q/R1R5 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Bf8 $1 { Black defends the g7-pawn and White has no good way to continue the attack. In the game 33...Qh7?? allowed White to exploit Black’s vulnerable back rank with 34 Nxe7+, when Black resigned in view of 34...Nxe7 35 Rxc8+ Nxc8 36 Qe8#. } 2. Bc3 Qh7 3. Qxh7+ Kxh7 4. Bxd2 exd2 5. Rc2 g6 6. Rh1+ { Black’s central pawns are decisive. } 6... Kg8 7. Ne3 f5+ 8. Kh3 Bh6 *

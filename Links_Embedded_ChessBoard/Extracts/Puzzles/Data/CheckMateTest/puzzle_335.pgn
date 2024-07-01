@@ -1,0 +1,12 @@
+[Event "Bangladeshi Team Ch, Dhaka 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Koustav"]
+[Black "Ghosh"]
+[Result "0-1"]
+[Puzzle "335"]
+[FEN "6k1/p1pq1pp1/1rn1r3/7b/B1QPpP1p/8/PP1B1PPP/R1R3K1 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Rg6 $1 { White’s kingside lacks defenders. } 2. Be3 { 24 Kh1 Bf3 25 Rg1 Qg4 26 Qf1 h3 leads to mate. } 2... Bf3 3. Kf1 { After 25 g3 Rxb2 White is unable to take advantage of his pressure along the c-file. For example: 26 Bxc6 Qh3 27 Qf1 Rxg3+ 28 fxg3 (28 hxg3 Qh1#) 28...Qxh2#. } 3... Rxg2 4. b3 Rg1+ 5. Kxg1 Qh3 { 28 Qf1 Qg4+ 29 Qg2 Qxg2#. } 0-1

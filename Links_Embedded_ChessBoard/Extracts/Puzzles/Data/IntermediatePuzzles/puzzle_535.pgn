@@ -1,0 +1,12 @@
+[Event "Budapest 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E. Player"]
+[Black "S. Dev"]
+[Result "*"]
+[Puzzle "535"]
+[FEN "5rk1/b7/p1p4p/1p1p1p2/3P1q1r/3Q1P1P/1PB2BP1/4R1K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. g3 $1 { 39 Bxh4?? (as played in the game) allows Black a decisive advantage on the dark squares: 39...Qxh4 40 Re6 (40 Rd1 Re8–+) 40...Qxd4+ 41 Qxd4 Bxd4+ 42 Kf1 Rf6–+ and Black went on to win. } 1... Qg5 2. Kh2 Re4 { 40...Bb8? 41 f4 Bxf4 42 gxf4 Qxf4+ 43 Kg2+–. } 3. fxe4 fxe4 4. Qe2 { White has a material advantage and good chances to win. } *

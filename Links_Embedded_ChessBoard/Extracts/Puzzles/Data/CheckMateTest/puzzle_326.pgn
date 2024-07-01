@@ -1,0 +1,12 @@
+[Event "World Rapid Ch, Almaty 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "J.S. Christiansen"]
+[Black "Burmakin"]
+[Result "*"]
+[Puzzle "326"]
+[FEN "r4rk1/pp3ppp/7q/3p1P2/1nP5/8/PB2Q2P/6RK w - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1. Qh5 $1 Qxh5 { The game ended 25...Qg6 26 fxg6 hxg6 27 Qe5 f6 28 Qe6+ Rf7 29 Rxg6 1-0. } 2. Rxg7+ Kh8 3. Rxf7+ d4 4. Bxd4+ Kg8 5. Rg7+ Kh8 6. Rg6+ { White could also move his rook to any square along the g-file (except for g8). } 6... Rf6 7. Bxf6# *

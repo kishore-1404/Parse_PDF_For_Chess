@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sevian"]
+[Black "Nihal"]
+[Result "0-1"]
+[Puzzle "125"]
+[FEN "3r1kr1/2Q1bp2/4p3/p3P2p/5P1P/P7/1q2BP1R/3R1K2 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Rxd1+ 2. Bxd1 Qb5+ 3. Ke1 Rg1+ 4. Kd2 Qd5+ 0-1

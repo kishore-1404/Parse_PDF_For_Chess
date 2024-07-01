@@ -1,0 +1,12 @@
+[Event "Slovakian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Haring"]
+[Black "Zilka"]
+[Result "*"]
+[Puzzle "723"]
+[FEN "r3k2r/1b3pp1/p2p1b2/1pnPp1N1/qP6/5Q1P/P1PB1P2/R3KBR1 b Qkq - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Bxg5 $1 2. Rxg5 Ne6 $1 { Black is able to utilize the pin to reposition his knight. } 3. Rh5 { No relief is offered by 20 Rg4 Qxc2! 21 Bd3 Nd4 22 Qe3 (22 Rxd4 Qb2–+) 22...Qb2 23 Rb1 Nc2+ 24 Bxc2 Qxc2 25 Rc1 Qf5–+, when White’s d5- and h3-pawns will soon fall. } 3... Rxh5 4. Qxh5 Bxd5 { Black’s king is safe and he is a pawn up with more to follow. } *

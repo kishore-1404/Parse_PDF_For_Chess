@@ -1,0 +1,12 @@
+[Event "Italian Junior Ch, Cagliari 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Cappelletto"]
+[Black "Hercegovac"]
+[Result "*"]
+[Puzzle "489"]
+[FEN "5rk1/pb3ppp/1pr5/P3P3/4p2q/P5P1/3NBP2/R2Q1RK1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Rg6 $1 2. Kg2 { White’s kingside pawn-structure is ripped apart after 21 Bh5 e3!–+. } 2... e3+ 3. Nf3 exf2 4. Kxf2 Qxg3+ 5. Ke3 Bxf3 6. Bxf3 Qxe5+ { The white king is caught in a mating-net after 26 Kf2 Re8 27 Rh1 Qg3+ 28 Kf1 Rf6–+. Now (after 26 Be4) Black has several good options, but the clearest path to victory is 26...Re8 27 Rf4 (Black wins the white queen after 27 Qd4 Rg3+–+) 27...Rg3+–+. } 7. Be4 *

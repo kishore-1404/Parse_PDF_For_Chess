@@ -1,0 +1,12 @@
+[Event "Benasque 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ya. Quesada Perez"]
+[Black "K. Holm"]
+[Result "*"]
+[Puzzle "380"]
+[FEN "3rr1k1/ppp5/b1n2pp1/3pq1N1/7R/1PP2BP1/P2Q1P2/2R3K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nf7 $1 Kxf7 2. Rh7+ Ke6 { Or: 25...Kf8? 26 Qh6+ Kg8 27 Qg7#; 25...Kg8? 26 Qh6 also leads to mate. } 3. Re1 *

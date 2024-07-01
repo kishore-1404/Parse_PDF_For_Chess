@@ -1,0 +1,1 @@
+Error processing game 118 in C:\Users\omkis\PyEnv\Chess\Extracts\Puzzles\IntermediatePuzzles.pgn: list index out of range

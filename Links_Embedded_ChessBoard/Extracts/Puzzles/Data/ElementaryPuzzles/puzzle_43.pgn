@@ -1,0 +1,12 @@
+[Event "Krakow 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kyc"]
+[Black "Meurs"]
+[Result "1-0"]
+[Puzzle "43"]
+[FEN "5b2/5pk1/5Nqp/4P3/5Q1P/1p6/5P1K/8 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. h5 $1 Qg5 2. Qe4 { Black’s king is caught in a mating-net; for example, 55...Ba3 56 Qh7+ Kf8 57 Qh8+ Ke7 58 Qe8#. } 1-0

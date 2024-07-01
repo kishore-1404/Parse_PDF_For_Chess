@@ -1,0 +1,12 @@
+[Event "Belgian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Krivolapov"]
+[Black "Van Delft"]
+[Result "1-0"]
+[Puzzle "601"]
+[FEN "5k2/3b4/pp1r1p2/P2Pp1n1/1N4p1/1B4P1/1P3PK1/2R5 w - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1. Rc6 $1 { 41...Bxc6 42 dxc6+–. } 1-0

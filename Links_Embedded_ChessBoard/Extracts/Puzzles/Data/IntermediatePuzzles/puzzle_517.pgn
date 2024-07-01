@@ -1,0 +1,12 @@
+[Event "Chennai Olympiad 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Djabri"]
+[Black "R. Mendoza"]
+[Result "*"]
+[Puzzle "517"]
+[FEN "r1bq2k1/5ppn/1p1p1n1p/pN1r3P/1PBNp3/P3P1Q1/5PP1/R4RK1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Rg5 $1 { After 23...Nxh5?? (as played in the game) White won the important d6-pawn and then the f7-pawn fell: 24 Qh2 Rg5 25 Nxd6 Bh3 26 Nxf7 1-0. } 2. Qh2 Ne8 3. Be2 Nhf6 { Black has an extra pawn and good chances to win. } *

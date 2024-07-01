@@ -1,0 +1,12 @@
+[Event "Havana 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Albornoz Cabrera"]
+[Black "Miranda Mesa"]
+[Result "1-0"]
+[Puzzle "968"]
+[FEN "7r/1k1b1p1p/1p2p1q1/3pP1p1/3Q4/BP6/2r2PPP/R3R1K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Bc1 $1 { The bishop switches diagonals to target Black’s vulnerable b6- pawn. } 1... Rhc8 2. Be3 R8c5 { 30...R8c6 31 Qa4+–. } 3. Qb4 Qd3 { 31...Rc6 32 Qa3+–. } 4. Bxc5 Rxc5 5. Qa3 1-0

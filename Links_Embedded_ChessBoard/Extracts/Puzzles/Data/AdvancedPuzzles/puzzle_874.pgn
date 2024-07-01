@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Duda"]
+[Black "Aronian"]
+[Result "*"]
+[Puzzle "874"]
+[FEN "r1br2k1/pp2qppp/2p2n2/4n3/1b2PP2/1BN4P/PPQ1N1P1/R1B2RK1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Bc5+ 2. Kh1 Nd3 3. e5 { 15 f5 Ng4! 16 g3 Ngf2+ 17 Kh2 b6–+. } 3... Ng4 $1 4. Ne4 { 16 hxg4?? allows 16...Qh4#. } 4... Bf5 { White has no answer to Black’s swarming minor pieces. } 5. N2g3 Ndf2+ 6. Nxf2 Bxc2 7. Nxg4 Bxb3 8. axb3 Rd3 *

@@ -1,0 +1,12 @@
+[Event "Saint Louis 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "J. Williams"]
+[Black "Nyzhnyk"]
+[Result "*"]
+[Puzzle "666"]
+[FEN "r2r2k1/4qppp/8/p1nbp3/P1N1n3/1p2P2P/1P2BPP1/RQR1B1K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Ng3 $1 2. fxg3 { 26 Bd3 Nxd3 27 Qxd3 e4–+. } 2... Be4 { An unusual way to trap the queen. } 3. Qxe4 Nxe4 *

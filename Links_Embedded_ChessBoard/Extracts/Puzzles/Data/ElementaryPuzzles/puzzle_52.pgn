@@ -1,0 +1,12 @@
+[Event "Danish Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "J. Lauridsen"]
+[Black "F. Pedersen"]
+[Result "1-0"]
+[Puzzle "52"]
+[FEN "r2qr2k/pb2bp1N/1pn1p2p/8/3P2QP/2PB4/P4PP1/R3R1K1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Qh5 $1 Bf8 { 19...Bf6 20 Qxf7 Qe7 (20...Bg7 21 Qxb7+–) 21 Qxf6+ Qxf6 22 Nxf6+–. } 2. Nxf8 Qf6 3. Nd7 Qg7 4. Re3 f5 5. Rg3 { Black must give up his queen to avoid being mated. } 1-0

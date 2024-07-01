@@ -1,0 +1,12 @@
+[Event "Baku 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Safarli"]
+[Black "Abasov"]
+[Result "*"]
+[Puzzle "910"]
+[FEN "r1b2rk1/2q1bpp1/4pn2/p2pP2Q/3N1B2/1R6/P5PP/4R2K w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. exf6 $1 Qxf4 2. fxg7 Kxg7 3. Rh3 Rg8 { 24...Bg5 25 Qh7+ Kf6 26 Rf3+–. } 4. Qh7+ Kf8 { 25...Kf6 26 Rh6+ Rg6 27 Qh8+ Kg5 28 Rh5+ Kg4 29 Ne2 leads to mate. } 5. Rf3 Qxf3 6. Nxf3 *

@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mamedyarov"]
+[Black "Duda"]
+[Result "0-1"]
+[Puzzle "160"]
+[FEN "rn1r4/pp2kp1p/1qb1pp2/1B5Q/4P3/5NP1/P4PKP/1R5R b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Bxe4 $1 2. Be8 { 19 Rb3 Rd2 20 Rf1 Qd4 21 Kg1 Qd5–+. } 2... Bg6 $1 { White loses material after 20 Rxb6 Bxh5–+. } 0-1

@@ -1,0 +1,12 @@
+[Event "Belgrade (women) 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ana. Rakhmangulova"]
+[Black "J. Eric"]
+[Result "1-0"]
+[Puzzle "303"]
+[FEN "3r1rk1/1p3p2/p1pb3p/P2pRPq1/1P1P2P1/2PQ4/2B3K1/7R w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. f6 $1 Qg6 { Black is unable to defend the h7-square after 37...Qxg4+ 38 Kf2 Qf4+ 39 Ke1+–. } 2. Qd2 Qxg4+ { 38...Qxf6 39 Rxh6 leads to mate. } 3. Kf2 Bxe5 4. dxe5 { Mate follows after 40...Rfe8 41 Qxh6. } 1-0

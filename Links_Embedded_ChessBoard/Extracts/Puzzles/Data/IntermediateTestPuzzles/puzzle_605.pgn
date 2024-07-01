@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Erigaisi"]
+[Black "Carlsen"]
+[Result "0-1"]
+[Puzzle "605"]
+[FEN "1k6/bpp2p2/5n1p/5Pp1/QPBN1n2/2P1q3/P5PP/3R1K2 b - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... N4d5 $1 { Black must avoid 28...N6d5?? 29 Re1+– and 28...Ng4?? 29 Nc6+! bxc6 30 Rd8+ Kb7 31 Qa6#. } 2. Bxd5 { 29 Re1 Qf4+–+. } 2... Ng4 0-1

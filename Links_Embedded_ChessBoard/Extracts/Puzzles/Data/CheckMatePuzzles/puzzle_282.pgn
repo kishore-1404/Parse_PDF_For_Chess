@@ -1,0 +1,12 @@
+[Event "Newcastle 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "G. Wall"]
+[Black "H. Olson"]
+[Result "1-0"]
+[Puzzle "282"]
+[FEN "r3k2r/1pp2p2/p1n1b3/2QpP1n1/6p1/BB2R1N1/P4PPq/R4K2 w kq - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Ba4 $1 { Black has difficulty dealing with the threat of Qe7#. } 1... O-O-O 2. Bxc6 bxc6 { 26...d4 27 Rc1!+–. } 3. Qxc6 Ne4 4. Rxe4 { 28...dxe4 29 Qa8+ leads to mate. } 1-0

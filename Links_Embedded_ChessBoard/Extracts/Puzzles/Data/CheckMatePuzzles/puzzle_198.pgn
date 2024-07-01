@@ -1,0 +1,12 @@
+[Event "Paris 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B. Clarke"]
+[Black "Bellahcene"]
+[Result "*"]
+[Puzzle "198"]
+[FEN "5rk1/p4p2/4p2K/3pQ1p1/8/Pr3qP1/1P3b1P/R1B2B1R b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Bd4 $1 2. Qxd4 { (variation) } 2... e5 $1 { 27 Qxg5+ Kh8 28 Bf4 Qxh1–+. } 3. Qxa7 { Black opens his third rank for his rook. } 3... Qf6+ 4. Kh5 Kg7 { 28 Qxe5 Rb6+ 29 Kxg5 Rg6+ 30 Kh4 Qg4#. } *

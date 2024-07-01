@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Maghsoodloo"]
+[Black "Beerdsen"]
+[Result "*"]
+[Puzzle "464"]
+[FEN "r3k2r/1bq2ppp/p3pP1b/1p1P4/2p5/2N5/PPB1Q1PP/R3R1K1 w kq - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. dxe6 $1 O-O-O { Or 19...0-0 20 e7 Rfe8 21 Ne4+–. } 2. e7 Rde8 3. Be4 { White exchanges light-squared bishops so that he can place an uncontested knight on the d5-square. } 3... gxf6 4. Bxb7+ Qxb7 5. Rad1 Rhg8 6. Nd5 f5 7. Qh5 *

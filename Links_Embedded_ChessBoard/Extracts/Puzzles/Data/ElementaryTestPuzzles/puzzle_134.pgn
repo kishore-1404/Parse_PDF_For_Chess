@@ -1,0 +1,12 @@
+[Event "Aix-en-Provence 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lamard"]
+[Black "Laurent-Paoli"]
+[Result "1-0"]
+[Puzzle "134"]
+[FEN "5b2/2q2k2/4p2p/p2p2p1/3N2P1/1P2P3/5PP1/3Q2K1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. Qf3+ { 39...Ke7 40 Qxf8+! Kxf8 41 Nxe6+ Ke7 42 Nxc7+–. } 1-0

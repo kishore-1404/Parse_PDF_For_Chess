@@ -1,0 +1,12 @@
+[Event "New York 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Oberoi"]
+[Black "Vettese"]
+[Result "*"]
+[Puzzle "93"]
+[FEN "r1br2k1/p4p2/2p4p/q1P1R1p1/3p1n2/P1N2N1P/1P1Q1PP1/R5K1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Nxd4 $1 { White wins a pawn as he has calculated that Black is unable to exploit the pin along the d-file because of his undeveloped queenside. } 1... f6 { White has a decisive attack after 24...Bd7 25 Rae1 Ng6 26 R5e3 Qxc5 27 Ne4 Qf8 28 Nf6+ Kh8 29 Qc3+–. } 2. b4 Qc7 { Or 25...Qa6 26 Re4 (26 Re7 is also strong) 26...f5 (the game ended 26...Ne6 27 Qa2 1-0) 27 Re7+–. } 3. Re3 { White has an extra pawn and the safer king. } *

@@ -1,0 +1,12 @@
+[Event "European Rapid Ch, Katowice 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gunnarsson"]
+[Black "Santos Latasa"]
+[Result "0-1"]
+[Puzzle "128"]
+[FEN "3r2k1/q4pp1/4p2p/p1N5/1p2b3/1P4PP/PQ2PP2/2R3K1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Qxc5 $1 { 29 Rxc5 Rd1+ 30 Kh2 Rh1#. } 0-1

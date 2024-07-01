@@ -1,0 +1,12 @@
+[Event "Bosnian Team Ch, Neum 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mrndjić"]
+[Black "Hadzović"]
+[Result "*"]
+[Puzzle "81"]
+[FEN "r1bq1rk1/ppp1bppp/3p1n2/8/2QRP3/5N1P/PPP2PP1/RNB3K1 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Nxe4 $1 2. Rd1 { After 11 Rxe4? d5–+ Black wins material. } 2... Nf6 3. Nc3 c6 { Black has an extra pawn and every reason to expect to win the game. } *

@@ -1,0 +1,12 @@
+[Event "New York 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Al. Ostrovskiy"]
+[Black "Dragun"]
+[Result "*"]
+[Puzzle "319"]
+[FEN "5r1k/1q4pp/1p1p2n1/4p3/pQP5/4N1P1/PP3rBP/N1R4K b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Qxg2+ $1 2. Nxg2 Rf1+ 3. Rxf1 Rxf1# *

@@ -1,0 +1,12 @@
+[Event "Germany (team event) 2021/2"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "J. Engelmann"]
+[Black "D. Müller"]
+[Result "*"]
+[Puzzle "753"]
+[FEN "r3r1k1/1p3pp1/1qp3p1/p2p1bP1/1b1P1B2/4P2P/PPB1QP2/1KR4R b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Qxd4 $1 2. Bg3 { In the game, 22 Bxf5? allowed Black to win a second pawn by 22...Qxf4! 23 Bd3 Qxg5–+. } 2... Bxc2+ 3. Qxc2 Qe4 { Black has an extra pawn and good chances to win. } *

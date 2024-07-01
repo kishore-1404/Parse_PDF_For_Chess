@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gavrilescu"]
+[Black "Huschenbeth"]
+[Result "*"]
+[Puzzle "610"]
+[FEN "r5k1/1b4q1/p2p1n2/2p1r1B1/P6Q/6R1/1PP3PP/5R1K b - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... Ne4 $1 2. Bf6 Nxg3+ $1 { In the game, 29...Qxg3?? allowed White to launch a mating attack: 30 Qh8+ Kf7 31 Qh7+ Kf8 32 Bxe5+ Nf2+ 33 Rxf2+ and Black resigned in view of 33...Qxf2 34 Bxd6+ Ke8 35 Qe7#. } 3. hxg3 Re4 { Or 30...Rf8 31 Bxg7 Rxf1+ 32 Kh2 Kxg7–+. } 4. Bxg7 Rxh4+ 5. gxh4 Kxg7 *

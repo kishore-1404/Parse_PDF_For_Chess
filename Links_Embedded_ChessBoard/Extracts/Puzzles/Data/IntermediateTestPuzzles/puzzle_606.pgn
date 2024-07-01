@@ -1,0 +1,12 @@
+[Event "European Clubs Cup, Mayrhofen 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pechač"]
+[Black "Blomqvist"]
+[Result "*"]
+[Puzzle "606"]
+[FEN "r3kb1r/p2b1pp1/2ppp2p/q7/4P1nB/1BNQ4/PPP2PPP/R4RK1 b kq - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... Nxh2 $1 2. Rfe1 { 13 Kxh2 Qh5 14 Qh3 e5 15 Qf3 (15 g4? Bxg4 16 Qg3 Be7–+) 15...Qxh4+ 16 Kg1 Qf6 –/+ gives Black a clear extra pawn. } 2... Ng4 3. Rad1 Ne5 4. Qh3 h5 { Black is a pawn up with good chances to win. } *

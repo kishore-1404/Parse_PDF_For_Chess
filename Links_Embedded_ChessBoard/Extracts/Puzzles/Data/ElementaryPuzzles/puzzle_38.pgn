@@ -1,0 +1,12 @@
+[Event "New York 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kaliksteyn"]
+[Black "Stremavicius"]
+[Result "0-1"]
+[Puzzle "38"]
+[FEN "3r2k1/2q2p2/1p1rp1p1/pB5p/P2b1P1P/6P1/1P1R1PQ1/3R2K1 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Bxf2+ $1 { 28 Qxf2 (28 Rxf2 Rxd1+ 29 Kh2 Qc1–+) 28...Rxd2 29 Rxd2 Qc1+ 30 Qf1 Qxd2–+. } 0-1

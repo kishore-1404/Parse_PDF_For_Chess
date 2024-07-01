@@ -1,0 +1,12 @@
+[Event "Khanty-Mansiisk rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ponkratov"]
+[Black "Goganov"]
+[Result "1-0"]
+[Puzzle "428"]
+[FEN "2r2rk1/1bq1bppp/pp1ppn2/8/2PNP3/1PN3Q1/PB3PPP/3RR1K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nd5 $1 exd5 { 16...Bxd5 17 exd5 e5 18 Nf5 g6 19 f4+– with a relentless attack. } 2. Nf5 Nh5 3. Qg4 { 18...f6 19 exd5 Rce8 20 Qxh5+–. } 1-0

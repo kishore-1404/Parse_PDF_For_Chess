@@ -1,0 +1,12 @@
+[Event "Sitges 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bracker"]
+[Black "Anuj"]
+[Result "*"]
+[Puzzle "399"]
+[FEN "2r1k2r/1bqp1ppp/p4n2/1p2p3/4P3/P1N1Q3/1PPRBPPP/R5K1 w k - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Bxb5 $1 axb5 { After 17...0-0 18 Be2+– (or any other sensible retreat) White has a clear extra pawn. } 2. Nxb5 Qc6 3. Nd6+ Kf8 { 19...Ke7 20 Qb3+–. } 4. Qb3 Ke7 5. Qxf7+ Kd8 6. Qxg7 *

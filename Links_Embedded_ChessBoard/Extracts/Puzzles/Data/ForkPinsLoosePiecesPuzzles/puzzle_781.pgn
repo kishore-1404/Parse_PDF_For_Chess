@@ -1,0 +1,12 @@
+[Event "Catalonian Team Ch, Barcelona 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dvirnyy"]
+[Black "Dardha"]
+[Result "0-1"]
+[Puzzle "781"]
+[FEN "2q3k1/p4pp1/5n2/3p1b1p/3QnN2/4BRPP/PPr2PB1/6K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Ng5 $1 2. Nxh5 $6 { 27 Nxd5 Nxf3+ 28 Bxf3 Nxd5 29 Bxd5 Be6 30 Bf3 Qb8–+. } 2... Nxf3+ 3. Bxf3 Nxh5 4. Bxh5 Be4 5. Kh2 Qc4 6. Qxc4 dxc4 0-1

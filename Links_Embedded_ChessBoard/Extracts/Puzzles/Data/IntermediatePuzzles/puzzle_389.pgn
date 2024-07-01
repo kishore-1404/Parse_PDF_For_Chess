@@ -1,0 +1,12 @@
+[Event "London 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "J. Willow"]
+[Black "McPhillips"]
+[Result "*"]
+[Puzzle "389"]
+[FEN "r2b1qk1/1ppbnppp/p2p4/3N4/2PP1B2/P7/1P1Q1PPP/4RBK1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nf6+ $1 Kh8 { Black’s queen runs low on squares after 19...gxf6 20 Bh6 Qe8 21 Qf4+–. } 2. Nxd7 Qe8 3. Nb6 cxb6 4. Bxd6 Qd7 5. Qf4 *

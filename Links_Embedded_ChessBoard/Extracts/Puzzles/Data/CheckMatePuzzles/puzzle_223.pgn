@@ -1,0 +1,12 @@
+[Event "World Rapid Ch, Almaty 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Matlakov"]
+[Black "Alonso Rosell"]
+[Result "1-0"]
+[Puzzle "223"]
+[FEN "r3r1k1/p4ppp/2n1q3/1p2p1BP/2b2P2/P5R1/2B3P1/R2Q2K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. f5 $1 Qd5 2. Bf6 $1 g6 { 29...Qxd1+ 30 Rxd1 g6 31 hxg6 fxg6 32 Rd7+–. } 3. hxg6 fxg6 { 30...Qxd1+ 31 Rxd1 fxg6 32 Rd7+–. } 4. Qh5 Qd4+ 5. Kh2 Kf7 6. Qxh7+ Kxf6 { Black resigned before White could play 34 Rxg6#. } 1-0

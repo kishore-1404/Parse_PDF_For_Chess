@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fedoseev"]
+[Black "Nakamura"]
+[Result "0-1"]
+[Puzzle "718"]
+[FEN "2r1k2r/4qppp/p1nQ4/P3p3/1p2Pnb1/2P2N2/1PB2PPP/RN1R2K1 b k - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Bxf3 2. Qxe7+ Kxe7 3. gxf3 Nd4 $1 4. Ba4 { White is unable to free his queenside after 21 cxd4 Rxc2 22 d5 Rhc8 23 Nd2 Rxb2 24 Rab1 Rbc2–+. } 4... Nxf3+ 5. Kh1 Rhd8 6. Rxd8 Kxd8 7. Bd1 Ng5 8. Ra4 Ngh3 9. Nd2 Rc6 10. Nf1 bxc3 0-1

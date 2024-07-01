@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Aronian"]
+[Black "Carlsen"]
+[Result "0-1"]
+[Puzzle "25"]
+[FEN "r3k2r/pp3ppp/2n1b3/2P5/5q2/3B1N2/PP3PPP/R2QK2R b KQkq - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... O-O-O $1 { White’s bishop is caught in a deadly pin along the d-file. } 2. O-O { Black wins the white queen after 13 g3 Qb4+ 14 Kf1 Rxd3! 15 Qxd3 Bc4–+. } 2... Nb4 3. Qa4 { 14 Ne1 Nxd3 15 Nxd3 Qe4–+. } 3... Nxd3 { Black has won a piece. } 0-1

@@ -1,0 +1,12 @@
+[Event "Gijon 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Suarez Uriel"]
+[Black "Martin Duque"]
+[Result "*"]
+[Puzzle "891"]
+[FEN "7r/2kp1p2/2b1p1p1/2q1P3/1p3P1p/n1PR3B/P2Q4/K2R4 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... b3 $1 2. axb3 { 36 Rxd7+ Kb6 37 Rd6 Nc4–+. } 2... Ra8 3. Qc1 { White’s line-up of major pieces along the d-file forms a wall that prevents his own king from escaping after 37 Rxd7+ Kb6 38 Kb2 Nc4+ 39 bxc4 Qa3+ 40 Kc2 (40 Kb1 Be4+ 41 Rd3 Bxd3+ 42 Qxd3 Qa1+ 43 Kc2 Ra2+ 44 Kb3 Rb2#) 40...Be4+ 41 Rd3 Qa2+ 42 Kc1 Qa1+ 43 Kc2 Bxd3+ 44 Kxd3 (44 Qxd3 Ra2+ 45 Kb3 Rb2#) 44...Rd8+–+. } 3... Nc4+ 4. Kb1 Qa7 { The game continuation 38...Qf2 was also good enough after 39 R1d2 Nxd2+ 40 Qxd2 Qa7 41 Kc2 Be4 0-1. } *

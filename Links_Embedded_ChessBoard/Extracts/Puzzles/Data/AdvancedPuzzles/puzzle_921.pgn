@@ -1,0 +1,12 @@
+[Event "Slovakian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Balog"]
+[Black "Aczel"]
+[Result "*"]
+[Puzzle "921"]
+[FEN "r4rk1/pp3p2/2n4p/3Ppbp1/2P4P/q1P1p1B1/2Q2PP1/3RKB1R w K - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Qxf5 $1 { After 19 Bd3? (as played in the game) Black could have maintained the balance by exploiting the position of the white king with 19...e2! 20 Qxe2 Qxc3+ 21 Qd2 (21 Rd2? Nd4 22 Qe3 f6=+) 21...Qxd3 22 Qxd3 Bxd3 23 Rxd3 Na5, when the chances are roughly equal. } 1... Qxc3+ 2. Ke2 Nd4+ { Black’s attack also runs out of fuel after 20...Qxc4+ 21 Kxe3 Qc3+ 22 Rd3 Qc5+ 23 Kf3 Nd4+ 24 Rxd4 Qxd4 25 Bd3 g4+ 26 Qxg4+ Qxg4+ 27 Kxg4+–. White’s two bishops and passed d-pawn will be too much for the black rooks. } 3. Rxd4 exd4 { Or 21...Qxd4 22 fxe3 Qxc4+ 23 Kf2 Qxd5 24 Bd3 Rfd8 25 Be4 Qe6 26 Qxe6 fxe6 27 hxg5+–. } 4. hxg5 Rae8 5. Qd3 Qb2+ 6. Kf3 f5 7. gxh6 *

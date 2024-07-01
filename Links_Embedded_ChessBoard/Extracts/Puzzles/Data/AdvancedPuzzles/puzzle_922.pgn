@@ -1,0 +1,12 @@
+[Event "Slovakian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Navara"]
+[Black "Ftačnik"]
+[Result "*"]
+[Puzzle "922"]
+[FEN "2kr3r/1bq1pp1p/p2p2p1/3n4/Pp5Q/1N1B1P2/1PP3PP/2KRR3 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Bxa6 $1 Bxa6 2. Rxd5 Bc4 { White picks up the loose b-pawn after 20...e6 21 Rd4+–. } 3. Rxe7 Qc6 4. Ra5 $1 Bxb3 5. Qe4 $1 d5 { White’s idea is that after 23...Qxe4 24 fxe4 he wins the bishop because of the mate threat on a8. } 6. Qd3 Rd7 { Another nice point is 24...Bxa4 25 Rc5! Qxc5 26 Qa6+ Kb8 27 Qb7#. } 7. Rxd7 Bc4 8. Qd4 *

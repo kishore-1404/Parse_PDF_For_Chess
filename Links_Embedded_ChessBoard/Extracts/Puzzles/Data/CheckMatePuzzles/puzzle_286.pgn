@@ -1,0 +1,12 @@
+[Event "Belgian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E. Roebers"]
+[Black "Pijpers"]
+[Result "0-1"]
+[Puzzle "286"]
+[FEN "rr4k1/5pb1/6p1/q1P4p/4P3/1P1R4/1BQ3PP/1K1R4 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Qa1+ $1 { 33 Bxa1 Rxa1#. } 0-1

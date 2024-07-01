@@ -1,0 +1,12 @@
+[Event "European Over-65 Team Ch, Dresden 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Large"]
+[Black "Boidman"]
+[Result "*"]
+[Puzzle "551"]
+[FEN "8/p4Qpk/6q1/1p6/3p1R1P/1P1P2p1/P1P3K1/7r b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Qc6+ $1 { After 38...Rh2+? (as played in the game) White escaped to an equal rook endgame by 39 Kg1 Rxc2 40 Qxg6+ Kxg6, when 41 a4 = would have been one viable path. } 2. Rf3 { 39 Kxg3? walks into 39...Rg1+ 40 Kf2 Qg2#. } 2... Qxc2+ 3. Kxg3 { 40 Kxh1? Qh2#. } 3... Qh2+ 4. Kg4 Qxh4+ 5. Kf5 Re1 { White is a pawn down and his king is in grave danger. } *

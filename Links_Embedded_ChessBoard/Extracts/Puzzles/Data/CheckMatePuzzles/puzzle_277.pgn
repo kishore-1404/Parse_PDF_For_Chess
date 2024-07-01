@@ -1,0 +1,12 @@
+[Event "Swedish Junior Ch, Uppsala 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "W. Olsson"]
+[Black "A. Soderström"]
+[Result "*"]
+[Puzzle "277"]
+[FEN "r4rk1/pb2qpp1/4pn1p/2b5/7Q/5N2/PB2BPPP/1R3RK1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Bxf6 $1 gxf6 2. Qxh6 { White wins back his pawn, but more importantly he weakens Black’s kingside pawn-structure. } 2... Be4 { White breaks through along the b1-h7 diagonal after 21...Bd5 22 Bd3 f5 23 Rbe1 f6 24 Bxf5+–. } 3. Rb3 Bd5 { White’s rook is ready to swing over to the kingside after 22...Rfd8 23 Nd2+–. } 4. Ng5 $1 fxg5 5. Rh3 f5 6. Qh8+ Kf7 7. Bh5# *

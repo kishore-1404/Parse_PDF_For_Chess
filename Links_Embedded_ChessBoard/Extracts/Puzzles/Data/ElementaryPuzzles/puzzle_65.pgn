@@ -1,0 +1,12 @@
+[Event "Charlotte 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Martin del Campo"]
+[Black "Rorrer"]
+[Result "*"]
+[Puzzle "65"]
+[FEN "r4rk1/1R3p1p/1q1p2p1/1p1P4/p2b1P2/3BQ3/PPPN2PP/2KR4 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Bxb2+ $1 { Not 19...Bxe3? 20 Rxb6 Bxb6 21 Bxb5 with a slight advantage for White. } 2. Kxb2 Qxe3 { White’s two minor pieces are no match for the black queen. } *

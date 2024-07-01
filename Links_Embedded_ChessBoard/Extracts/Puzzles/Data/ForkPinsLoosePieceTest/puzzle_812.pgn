@@ -1,0 +1,12 @@
+[Event "Charlotte 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Beradze"]
+[Black "Paragua"]
+[Result "*"]
+[Puzzle "812"]
+[FEN "6k1/p1r2pp1/4pb1p/1q6/1p6/1Qn1P2P/PPRN1PP1/4B1K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... Ne2+ 2. Kh1 Nc1 $1 { White’s queen is trapped. } 3. Rxc7 Nxb3 4. axb3 Qe2 *

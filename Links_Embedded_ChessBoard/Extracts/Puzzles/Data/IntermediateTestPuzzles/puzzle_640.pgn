@@ -1,0 +1,12 @@
+[Event "Platja d’Aro 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Romero Pallares"]
+[Black "Valle Luis"]
+[Result "*"]
+[Puzzle "640"]
+[FEN "4rbQ1/pp4pr/5pk1/5N2/5qPp/8/PPP1pP2/1K2R2R w - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1. Rxh4 $1 Rxh4 2. Nxh4+ Kg5 3. Qf7 Qxf2 4. Ng2 $1 { After 31 Qh5+? (as played in the game) Black can maintain the balance: 31...Kf4 32 Ng2+ (White played 32 Ng6+? and went on to lose after 32...Ke3–+, though in such a wild ending it is no surprise that the play was not accurate) 32...Kf3 33 Qxe8 Qxg2 (or 33...Bb4 =) 34 Qb5 Qf2 35 Qd5+ Kf4 36 Qc4+ Kf3 37 Qd5+ Kf4 = with a draw by repetition. } 4... Qxg2 5. Qxe8 Bd6 6. Rxe2 Qxg4 7. Re1 *

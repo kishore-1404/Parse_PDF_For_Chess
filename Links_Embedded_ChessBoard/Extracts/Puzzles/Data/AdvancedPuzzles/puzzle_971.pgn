@@ -1,0 +1,12 @@
+[Event "Villa Martelli 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Valerga"]
+[Black "Paveto"]
+[Result "*"]
+[Puzzle "971"]
+[FEN "q7/1R4bk/6p1/1Pp1p1Pp/2N1P3/2Bn1B2/5PP1/6K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Rd7 $1 { 34 Na5? was played in the game, allowing Black to solve the problem of his e5-pawn by 34...Qd8 35 Be2 Nf4. White should then have settled for 36 Bf3 Qxg5 with equal chances. } 1... Qa2 2. Nb2 $1 Nxb2 { 35...Qb1+ 36 Kh2 Nxf2 37 Bxe5+–. } 3. Bxe5 Kg8 4. Rxg7+ Kf8 5. Rxg6 *

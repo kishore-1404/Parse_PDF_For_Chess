@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Tabatabaei"]
+[Black "Popilski"]
+[Result "1-0"]
+[Puzzle "391"]
+[FEN "r3r3/6pk/p3p1pp/1pb1B2n/3PQ1P1/5N1P/qP3P2/4R1K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. gxh5 $1 { Black is in trouble because his queen is far away from the kingside. Less effective is 27 dxc5? Nf6 28 Bxf6 gxf6 with roughly equal chances. } 1... Bf8 2. Qxg6+ Kg8 3. Nh2 Qa5 4. Re3 Qd8 5. Rg3 Ra7 6. Ng4 Kh8 7. Nf6 1-0

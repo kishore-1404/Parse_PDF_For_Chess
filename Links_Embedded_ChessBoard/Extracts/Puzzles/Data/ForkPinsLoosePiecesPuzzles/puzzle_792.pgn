@@ -1,0 +1,12 @@
+[Event "Villa Martelli 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Melian"]
+[Black "Diaz Hollemaert"]
+[Result "1-0"]
+[Puzzle "792"]
+[FEN "3q1rk1/4bb1p/p5p1/nr6/N2pBN2/1P1Q2PP/P4R2/5RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Bxg6 $1 { White has five pieces pointing at Black’s kingside so it’s no surprise that this piece sacrifice works. } 1... hxg6 2. Nxg6 { 26...Rb7 (26...Bxg6 27 Qxg6+ Kh8 28 Rf7 mates) 27 Rf4 Bg5 28 Nxf8 Bxf4 29 Rxf4 Kxf8 30 Nc5 Re7 (30...Qd6 31 Nxb7 Nxb7 32 Qxd4+–) 31 Qh7+–. } 1-0

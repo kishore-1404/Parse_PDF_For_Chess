@@ -1,0 +1,12 @@
+[Event "European Ch, Vrnjačka Banja 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Carbonell Sancho"]
+[Black "Velten"]
+[Result "*"]
+[Puzzle "915"]
+[FEN "5r2/rp2q1pk/2p1p2p/p7/P3PnNn/2P1N2P/1P3PP1/3RRQK1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... h5 $1 2. Ne5 { In the game, White’s position quickly collapsed: 24 Nh2? Nhxg2! 25 Kh1 (or 25 Nxg2 Nxh3+ 26 Kh1 Nxf2+ 27 Kg1 Nxd1 28 Nf3 Qc5+ 29 Kh2 Nf2–+) 25...Nxe1 26 Rxe1 Qh4 0-1. } 2... Qg5 3. Nd3 { White’s kingside is fatally weak after 25 g3 Qxe5 26 gxh4 b5–+, followed by doubling rooks along the f-file. } 3... Nf3+ 4. Kh1 Nxd3 5. Rxd3 Nxe1 6. Qxe1 b5 { Black has a material advantage and good chances to win. } *

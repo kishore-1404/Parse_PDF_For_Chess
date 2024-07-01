@@ -1,0 +1,12 @@
+[Event "French Junior Ch, Agen 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "M. Zachary"]
+[Black "Boyer"]
+[Result "0-1"]
+[Puzzle "284"]
+[FEN "4r1k1/1pb1rpp1/p6p/3R1Q2/1PP4q/P3Bn1P/5PB1/3R3K b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Rxe3 $1 2. Bxf3 { 39 fxe3 Qg3 leads to mate. } 2... Qxf2 { White is unable to deal with the dual threats of 40...Qh2# and 40...Re1+ followed by mate. } 0-1

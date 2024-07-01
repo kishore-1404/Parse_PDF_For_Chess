@@ -1,0 +1,12 @@
+[Event "Hungarian Ch, Budapest 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Grigoriants"]
+[Black "A. Horvath"]
+[Result "1-0"]
+[Puzzle "851"]
+[FEN "r2qr1k1/pp5p/2b2p1P/3Nn1pR/2P5/P2p2Q1/2B2PP1/4RK2 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Rxg5+ $1 fxg5 2. Rxe5 Bxd5 { 25...Rxe5 26 Qxe5 Qf8 27 Qxg5+ Kf7 (27...Kh8 28 Ne7 and White wins due to the threat of Qe5+) 28 Qf5+ Ke8 29 Nc7+ Ke7 30 Qe5+ Kd7 31 Bxd3+–. } 3. Rxg5+ { 26...Kf7 27 Qf4+ Ke6 28 Re5+ Kd6 29 Rxd5+++–. } 1-0

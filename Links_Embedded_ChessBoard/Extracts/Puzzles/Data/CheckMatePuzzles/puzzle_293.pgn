@@ -1,0 +1,12 @@
+[Event "Sant Ferran de ses Roques 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Belezky"]
+[Black "Zhao Yuanhe"]
+[Result "*"]
+[Puzzle "293"]
+[FEN "8/5pk1/8/2bR1r1p/P7/5PPK/5q1P/3Q4 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Rxd5 2. Qxd5 Qf1+ 3. Kh4 Be7+ 4. Kxh5 Qh3# *

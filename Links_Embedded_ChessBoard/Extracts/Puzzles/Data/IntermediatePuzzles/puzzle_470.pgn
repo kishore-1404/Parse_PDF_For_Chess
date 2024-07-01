@@ -1,0 +1,12 @@
+[Event "Pozarevac 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Çitak"]
+[Black "M. Krstić"]
+[Result "*"]
+[Puzzle "470"]
+[FEN "2rrb1k1/p4ppp/1p3n2/3P4/1B1p4/PQ3BPP/1P2qP2/R2R2K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Ba4 $1 { After 20...Qc2? (as played in the game) Black is unable to cope with White’s powerful passed d-pawn and active pieces: 21 Qxc2 Rxc2 22 Rxd4 Rxb2 and now White should have played 23 Rc1+–. } 2. Bxe2 Bxb3 3. Rxd4 Rxd5 *

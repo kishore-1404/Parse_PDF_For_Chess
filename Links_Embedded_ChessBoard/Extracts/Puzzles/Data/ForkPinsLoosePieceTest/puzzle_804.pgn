@@ -1,0 +1,12 @@
+[Event "European Ch, Vrnjačka Banja 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Agdelen"]
+[Black "Goriachkina"]
+[Result "0-1"]
+[Puzzle "804"]
+[FEN "8/3Q2pk/3Ppq1p/2p5/2P3R1/5PKP/6P1/7r b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... h5 $1 { Black forces the white rook to leave the g-file. } 2. Re4 Qg5+ 3. Kf2 Rh2 0-1

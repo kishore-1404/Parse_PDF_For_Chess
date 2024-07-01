@@ -1,0 +1,12 @@
+[Event "Catalonian Team Ch, Barcelona 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A. Rizouk"]
+[Black "Garcia Ramos"]
+[Result "0-1"]
+[Puzzle "289"]
+[FEN "6k1/pp3p1p/8/2P5/5b2/5B2/PP1r1P1q/3RQK2 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Qh3+ $1 2. Kg1 { 28 Bg2 Qd3+–+. } 2... Bh2+ { White is mated after 29 Kh1 Bg3+ 30 Kg1 Qh2+ 31 Kf1 Rxf2+ 32 Qxf2 Qxf2#. } 0-1

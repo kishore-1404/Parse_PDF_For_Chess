@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rustemov"]
+[Black "Sadhwani"]
+[Result "*"]
+[Puzzle "658"]
+[FEN "2rr2k1/1p3pb1/p1bppnp1/q3n2p/2P1P3/1PNNB1PP/P2Q1PB1/2R1R1K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Nxe4 $1 2. Nxe4 { Black has an extra pawn and the bishop-pair after 21 Bxe4 Bxe4 22 Nxe5 dxe5–+. } 2... Qxd2 3. Nxe5 { 22 Bxd2 Nxd3–+. } 3... Qxa2 *

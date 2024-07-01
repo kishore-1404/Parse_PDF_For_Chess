@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sankalp"]
+[Black "Ter-Sahakyan"]
+[Result "0-1"]
+[Puzzle "818"]
+[FEN "r5k1/1pq1bppp/8/2P1Q2b/1PB1n3/r3BN1P/5PP1/2R1K2R b K - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... Rxe3+ $1 2. fxe3 Bh4+ 3. Kf1 { 22 Nxh4 Qxe5–+. } 3... Nd2+ 0-1

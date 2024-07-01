@@ -1,0 +1,12 @@
+[Event "Riyadh rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B. Amin"]
+[Black "El Gindy"]
+[Result "1-0"]
+[Puzzle "820"]
+[FEN "r1b3R1/pp1p1kNp/6q1/2p1p3/4P3/2PP4/PP2Q1PP/7K w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1. Nf5 $1 { As we have already noted, retreating knight moves that set up a fork can be difficult to see. } 1... Kxg8 { Or: 25...Qxg8 26 Nh6++–; 25...Qf6 26 Rg7+ Kf8 27 Qh5+–. } 2. Ne7+ Kg7 3. Nxg6 hxg6 4. Qf2 d6 5. Qh4 Kf7 1-0

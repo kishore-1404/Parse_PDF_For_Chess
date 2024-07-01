@@ -1,0 +1,12 @@
+[Event "Swiss Team Ch 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kaczmarczyk"]
+[Black "S. Brunello"]
+[Result "*"]
+[Puzzle "966"]
+[FEN "1r3r1k/6bB/p7/1pq2N2/3R4/2P2bP1/1PQ4P/4R1K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Rxf5 $1 { 32...Kxh7? was played in the game, when White could have forced a draw by repetition; e.g., 33 Ne7+ Kh8 34 Ng6+ Kg8 35 Ne7+ Kh8 36 Ng6+ =. } 2. Bxf5 { 33 Qxf5? Bxd4+ 34 cxd4 Qxd4+ 35 Kf1 Bg4 36 Qf7 Bh3+ 37 Ke2 Qe5+ 38 Kd1 Rd8+–+. } 2... Rf8 3. Re6 Rxf5 4. Qd2 Bxd4+ 5. cxd4 Qf8 6. Rxa6 Kg8 { Black has good winning chances. } *

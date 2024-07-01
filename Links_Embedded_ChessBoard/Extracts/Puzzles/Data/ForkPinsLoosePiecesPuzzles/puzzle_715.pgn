@@ -1,0 +1,12 @@
+[Event "Saint Louis rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caruana"]
+[Black "Aronian"]
+[Result "*"]
+[Puzzle "715"]
+[FEN "r2q3r/pppk4/2n1p2p/4b1pB/8/Q2P2B1/PP3PKP/R4R2 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Bxe5 Nxe5 2. d4 Nc6 3. d5 $1 { White sacrifices another pawn to keep the black king trapped in the centre. } 3... exd5 4. Bg4+ Ke8 5. Qf3 Rf8 6. Rae1+ Ne7 7. Bh5+ Kd7 8. Qh3+ Nf5 9. Re5 c6 10. Rxf5 *

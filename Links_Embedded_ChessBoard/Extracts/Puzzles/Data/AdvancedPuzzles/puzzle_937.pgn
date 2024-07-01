@@ -1,0 +1,12 @@
+[Event "Tashkent 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Tsydypov"]
+[Black "Fayzullaev"]
+[Result "1-0"]
+[Puzzle "937"]
+[FEN "r1b2r2/1p4k1/2n1pNpp/4q3/8/p1P5/PP3QPP/1K1R1R2 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Ne8+ $1 { 24 Nh5+? Kh7 25 Qxf8 Qe4+ 26 Kc1 (26 Ka1 axb2+ 27 Kxb2 Rxa2+ 28 Kxa2 Qc2+ 29 Ka3 Qxc3+ 30 Ka4 Qc4+ 31 Ka3 Qc3+ =) 26...axb2+ 27 Kd2 Qd5+ 28 Ke3 Qe5+ 29 Kf2 (29 Kd3 Qd5+ 30 Ke3 Qe5+ repeats) 29...Qf5+ 30 Qxf5 gxf5 with roughly equal chances. } 1... Kh7 2. Qxf8 Qe4+ 3. Kc1 axb2+ 4. Kd2 $1 { White has no escape from the checks after 27 Kxb2? Rxa2+! 28 Kxa2 Qc2+ 29 Ka1 (or 29 Ka3 Qxc3+ 30 Ka4 Qc2+ 31 Ka3 Qc3+ =) 29...Qxc3+ 30 Kb1 (30 Ka2?? Nb4+ 31 Qxb4 Qxb4–+) 30...Qb3+ 31 Kc1 Qc3+ 32 Kb1 Qb3+ = with a draw by repetition. } 4... Qd5+ 5. Ke3 Qe5+ { Black runs out of useful checks after 28...Qg5+? 29 Rf4 Qe5+ 30 Kf2+– and will be mated shortly. } 6. Kf2 Qf5+ { Black’s king is trapped in a mating-net after 29...g5? 30 Kg1+–. } 7. Qxf5 $2 { White should have played 30 Kg1 Qxf8 31 Rxf8 Rxa2 32 Nd6 Bd7 (32...Ra1 33 Rff1+–) 33 Nc4+–. } 7... exf5 $2 { 30...gxf5! makes it harder for the white rooks to penetrate, and offers Black real chances of saving the game. } 8. Rfe1 Rxa2 9. Rb1 Na5 $6 10. Nd6 1-0

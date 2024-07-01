@@ -1,0 +1,12 @@
+[Event "São Paulo 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Languidey"]
+[Black "N. Filgueiras"]
+[Result "*"]
+[Puzzle "798"]
+[FEN "5rk1/4q2p/4Pr2/8/3Q1N2/6P1/P7/4R2K b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... Rxf4 $1 2. gxf4 Qh4+ 3. Kg2 Qxe1 *

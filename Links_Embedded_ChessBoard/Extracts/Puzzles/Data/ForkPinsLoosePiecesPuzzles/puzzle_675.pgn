@@ -1,0 +1,12 @@
+[Event "Croatian Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kožul"]
+[Black "Shevchenko"]
+[Result "0-1"]
+[Puzzle "675"]
+[FEN "1r1qr1k1/p2bnppp/3b4/8/1P1P4/P1n1NN2/3QBPPP/R1B1K2R b KQ - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Nxe2 $1 2. Qxe2 Bb5 3. Qd2 Nd5 { White has two extra pawns, but his king is trapped in the centre. } 4. g3 { 20 Bb2 Rc8 21 Rc1 Nf4–+. } 4... Qf6 5. Ne5 Bxe5 6. dxe5 Qf3 7. Rg1 Rbd8 0-1

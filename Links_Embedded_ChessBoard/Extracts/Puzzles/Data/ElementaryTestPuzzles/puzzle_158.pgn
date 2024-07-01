@@ -1,0 +1,12 @@
+[Event "Zagreb rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nepomniashchy"]
+[Black "Topalov"]
+[Result "1-0"]
+[Puzzle "158"]
+[FEN "1q2r1k1/5p1p/6p1/4p3/1b2Q3/1b3P2/1P3BPP/R4BK1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. Ra6 $1 { Black has no good defence against the threat of 25 Rb6; for example, 24...f5 25 Qe3+–. } 1-0

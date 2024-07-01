@@ -1,0 +1,12 @@
+[Event "2nd Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "H. Schaffer"]
+[Black "Suvorov"]
+[Result "*"]
+[Puzzle "45"]
+[FEN "r3r1k1/pb1nqp1p/1pppn1p1/4b3/PPP1P3/2N1BP2/2NQ2PP/3RRBK1 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Qh4 $1 2. g3 { Worse is 21 h3? Qg3–+ as Black’s queen infiltrates White’s king position. } 2... Qf6 3. Nd4 { White obtains less counterplay after 22 Ne2? (as played in the game) 22...Qxf3 23 Bg2 Qf6 24 Rf1 Qe7–+. Black has an extra pawn and is ready to weaken White’s queenside pawn-structure with ...a5. } 3... Nxd4 4. Bxd4 Qxf3 { Black is a pawn up with good chances to win. } *

@@ -1,0 +1,12 @@
+[Event "Catalonian Team Ch, Barcelona 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "J.A. Gonzalez Rodriguez"]
+[Black "Cuartas Medina"]
+[Result "0-1"]
+[Puzzle "103"]
+[FEN "r1bqkb1r/ppp2ppp/8/3pn3/4n3/1P2PN2/PBP2PPP/RN1QKB1R b KQkq - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Ng4 $1 { There is no way to defend the f2-pawn. } 0-1

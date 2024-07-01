@@ -1,0 +1,12 @@
+[Event "Polish Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Santos Latasa"]
+[Black "Blübaum"]
+[Result "1-0"]
+[Puzzle "409"]
+[FEN "4k2r/1p2bppp/1q2p2n/3pP3/RP1P2P1/5N2/4QP1P/2B3K1 w k - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Ra8+ Bd8 2. Bg5 O-O { 24...Kd7 25 Qc2 Qc6 26 Rxd8+ Rxd8 27 Qxh7+–. } 3. Bxd8 Rxd8 4. Qb5 $1 { Black is back-rank mated after 26...Qc7 27 Qe8+ Rxe8 28 Rxe8#. } 1-0

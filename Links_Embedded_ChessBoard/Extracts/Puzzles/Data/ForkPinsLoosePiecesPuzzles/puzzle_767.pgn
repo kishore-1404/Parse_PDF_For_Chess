@@ -1,0 +1,12 @@
+[Event "Pirot 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Jocev"]
+[Black "Mushini"]
+[Result "*"]
+[Puzzle "767"]
+[FEN "8/1p1r2pk/p1p3p1/P7/1P2q2P/2B2RP1/3b2K1/3Q4 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Rd3 $1 2. Bxd2 Qd5 $1 { Black simplifies into a winning endgame. } 3. Qf1 Rxf3 { Or 40...Rxd2+ 41 Kh3 Qe6+ 42 g4 Rb2–+. } 4. Qxf3 Qxd2+ 5. Kh3 Qxb4 6. h5 Qxa5 7. hxg6+ Kxg6 *

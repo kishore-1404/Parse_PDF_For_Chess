@@ -1,0 +1,12 @@
+[Event "New York 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Poliannikov"]
+[Black "J. Chen"]
+[Result "*"]
+[Puzzle "528"]
+[FEN "2q1r1k1/5p2/3B2p1/1B5b/1P1QP2p/2P4P/r4P1K/6R1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Rxe4 $1 2. Qxe4 { After 34 Qc5?! Qe6 (as played in the game) Black will infiltrate along his sixth rank. For example: 35 Rf1 Re3–+. } 2... Rxf2+ 3. Rg2 Bf3 4. Qxg6+ { 36 Rxf2?! Bxe4–+. } 4... fxg6 5. Rxf2 Qxc3 6. Bf1 Qe3 7. Kg1 { This is a tricky ending where the question is how Black can make progress. After 39...g5?! 40 Bc5 Qb3 41 Rxf3! Qxf3 42 Bc4+ Kh7 43 Be6 it appears that White actually has a fortress, so Black should drop his bishop back on the long diagonal (e.g., 39...Bc6) and then use his queen to target White’s various loose pieces and create threats. In the end this will stretch the white position to breaking point. } *

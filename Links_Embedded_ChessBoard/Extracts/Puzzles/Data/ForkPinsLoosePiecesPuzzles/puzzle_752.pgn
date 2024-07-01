@@ -1,0 +1,12 @@
+[Event "Baku 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "P. Gasimov"]
+[Black "Ghaffarifar"]
+[Result "*"]
+[Puzzle "752"]
+[FEN "r1b2rk1/pp5p/5bp1/q2Pp1N1/2B1p3/2P5/P2Q1PPP/2R2RK1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Qc5 $1 2. Bb3 e3 $1 { Black wins the loose knight on g5. } 3. Qxe3 { Or 19 d6+ Kg7–+. } 3... Qxe3 4. fxe3 Bxg5 5. d6+ Kg7 6. Rxf8 Kxf8 *

@@ -1,0 +1,12 @@
+[Event "Frydek Mistek 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klima"]
+[Black "Babula Jr"]
+[Result "*"]
+[Puzzle "59"]
+[FEN "2r2r1k/1b2qppp/p2p1b2/1p2pP1N/4P1Q1/P1NR2R1/BnP3PP/6K1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Nxf6 Qxf6 2. Rxd6 $1 { Black’s queen is overloaded defending against the mate threat on g7. } 2... Rxc3 3. Rxf6 Rxg3 4. Rxf7 Rxf7 5. Qxg3 { White has a decisive material advantage. } *

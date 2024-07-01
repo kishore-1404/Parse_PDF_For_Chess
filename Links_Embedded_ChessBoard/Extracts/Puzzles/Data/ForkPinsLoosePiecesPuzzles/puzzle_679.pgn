@@ -1,0 +1,12 @@
+[Event "Plovdiv 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ki. Georgiev"]
+[Black "Stoyanov"]
+[Result "*"]
+[Puzzle "679"]
+[FEN "r1r2bk1/pb3ppp/2p1pn2/1p2N1B1/8/6P1/PP2PPBP/2RR2K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Bxf6 gxf6 2. Nxf7 $1 Kxf7 { 20...Rab8 21 Nd6 Bxd6 22 Rxd6 c5 23 Rxe6 +/–. } 3. Rd7+ Kg6 4. Rxb7 *

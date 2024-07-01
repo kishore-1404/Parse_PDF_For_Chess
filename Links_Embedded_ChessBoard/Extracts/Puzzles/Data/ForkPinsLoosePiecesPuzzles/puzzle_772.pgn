@@ -1,0 +1,12 @@
+[Event "Mitropa Cup, Mali Lošinj 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Besou"]
+[Black "Droin"]
+[Result "0-1"]
+[Puzzle "772"]
+[FEN "5k2/5p2/2p5/1b6/2RQ4/6P1/4KP2/7q b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Qd5 $1 2. Qh8+ { Black wins the pinned rook after 40 Qxd5 cxd5–+. } 2... Ke7 0-1

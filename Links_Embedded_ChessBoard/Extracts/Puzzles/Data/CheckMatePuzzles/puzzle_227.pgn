@@ -1,0 +1,12 @@
+[Event "Augsburg 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bromberger"]
+[Black "Stanković"]
+[Result "0-1"]
+[Puzzle "227"]
+[FEN "4rr1k/1p2q2p/p2pB1pP/2BPb3/P3Qn2/8/1P3PP1/R4RK1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Qh4 $1 { White loses his queen after 28 f3 (28 Rfe1 Ne2+! 29 Rxe2 Qh2+ 30 Kf1 Qh1#) 28...Ne2+ 29 Qxe2 Bh2+ 30 Kh1 Bg3+ 31 Bh3 Rxe2–+. } 0-1

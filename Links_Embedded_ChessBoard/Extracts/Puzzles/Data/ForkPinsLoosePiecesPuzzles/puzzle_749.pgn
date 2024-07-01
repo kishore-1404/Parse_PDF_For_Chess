@@ -1,0 +1,12 @@
+[Event "Charlotte 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kunka"]
+[Black "Krishnakumar"]
+[Result "*"]
+[Puzzle "749"]
+[FEN "r2q1rk1/pppb1pp1/1bnp1n1p/1B2p3/3PP2B/2P2N2/PP3PPP/RNQ2RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. dxe5 $1 Nxe5 { 10...dxe5?! is even worse since White has an extra pawn and a superior position after 11 Rd1 Kh7 (Black protects his h6-pawn so that he can meet Bxf6 with ...gxf6; White crashes through after 11...g5 12 Nxg5!+–) 12 Bxc6 bxc6 13 Nxe5 g5 14 Bg3+–. } 2. Nxe5 Bxb5 3. Ng4 $1 Nxg4 { 12...Bxf1 13 Bxf6+–. } 4. Bxd8 Bxf1 5. Bh4 { White has a material advantage and good winning prospects. } *

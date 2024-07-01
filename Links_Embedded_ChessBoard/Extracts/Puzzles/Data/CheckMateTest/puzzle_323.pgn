@@ -1,0 +1,12 @@
+[Event "Cheliabinsk 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Riazantsev"]
+[Black "Lintchevski"]
+[Result "*"]
+[Puzzle "323"]
+[FEN "r2kr3/1b1pb2p/4pp2/p1p5/4q2N/6Q1/PPPB1PPP/R4RK1 w - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1. Bxa5+ $1 { After 19 Rfe1? (as played in the game) Black could have averted White’s threat by 19...Qc6! (the game ended 19...Qxc2?? 20 Bxa5+! 1-0) 20 c4 with just a slight advantage for White because of his safer king. } 1... Rxa5 { 19...Kc8 20 Qc7#. } 2. Qb8+ Bc8 3. Qb6# *

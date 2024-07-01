@@ -1,0 +1,12 @@
+[Event "Austrian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Krivoborodov"]
+[Black "Novković"]
+[Result "*"]
+[Puzzle "779"]
+[FEN "r1bqk2r/3nbppp/2p1pn2/p2p4/P2P1B2/2N2NP1/1PQ1PPBP/R4RK1 w kq - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Nb5 $1 { Black must be wary of this idea when he has not castled. } 1... cxb5 { White wins material after 11...0-0 12 Bc7 Qe8 13 Nd6 Bxd6 14 Bxd6+–. } 2. Bc7 b4 3. Bxd8 Bxd8 4. Ne5 *

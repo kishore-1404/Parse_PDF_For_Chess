@@ -1,0 +1,12 @@
+[Event "Chennai Olympiad 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Erdos"]
+[Black "Korobov"]
+[Result "1-0"]
+[Puzzle "132"]
+[FEN "r2q1b1r/1b2k2p/p2p2p1/4pp2/4n3/R4N2/1P3PPP/1NBQR1K1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. Rxe4 $1 Qc7 { 18...fxe4 19 Bg5++–. } 2. Rc3 1-0

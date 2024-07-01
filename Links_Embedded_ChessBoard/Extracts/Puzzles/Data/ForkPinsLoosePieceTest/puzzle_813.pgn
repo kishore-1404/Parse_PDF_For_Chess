@@ -1,0 +1,12 @@
+[Event "Moscow rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Malakhov"]
+[Black "Khismatullin"]
+[Result "*"]
+[Puzzle "813"]
+[FEN "2r3k1/1p1rqnp1/1Q3p1p/1PP1p3/4N3/7P/5PP1/3RR1K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1. Rxd7 Qxd7 2. Qxf6 $1 Rxc5 { 31...gxf6 32 Nxf6+ Kg7 33 Nxd7+–. } 3. Qg6 Qxb5 4. Nxc5 Qxc5 5. Qe6 *

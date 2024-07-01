@@ -1,0 +1,12 @@
+[Event "Chennai Olympiad 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Panjwani"]
+[Black "Miezis"]
+[Result "1-0"]
+[Puzzle "809"]
+[FEN "r4rk1/1bp1qppp/1pn2n2/p2pN3/3P4/2N3P1/PPQ1PPBP/R4RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1. Nxd5 $1 Nxd5 2. Nxc6 Qd6 { 15...Bxc6 16 Qxc6+–. } 3. Bxd5 { 16...Qxd5 17 Ne7++–. } 1-0

@@ -1,0 +1,12 @@
+[Event "Budapest 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Prraneeth"]
+[Black "Krstulović"]
+[Result "*"]
+[Puzzle "615"]
+[FEN "r4rk1/p2b1ppp/1n1Np3/4P3/1p1P1P2/2qBp3/6PP/R2Q1R1K w - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1. Bxh7+ $1 { After 26 Ne4? the game ended 26...Qc7?? 27 Nf6+! gxf6 28 exf6 1- 0, but Black could have repelled White’s attack with 26...Qxd4! 27 Nf6+ Kh8! (27...gxf6?? 28 Bxh7+ Kxh7 29 Qxd4+–) 28 Nxh7 g6! 29 Nxf8 Rxf8 30 Rxa7 Bc6 –/+. } 1... Kxh7 2. Ne4 Qc4 $2 { 27...Qc6? 28 Qh5+ Kg8 29 Nf6+ gxf6 30 exf6 Qe4 31 f5 also leads to mate. Black can only put up resistance by giving up his queen; e.g., 27...g6 28 Nxc3 bxc3 29 Qf3. White should then go on to win, but has some work to do. It is important that 29...Nd5?! is strongly met by 30 f5!. } 3. Qh5+ Kg8 4. Nf6+ gxf6 5. Qg4+ Kh7 6. Rf3 { Mate follows. } *

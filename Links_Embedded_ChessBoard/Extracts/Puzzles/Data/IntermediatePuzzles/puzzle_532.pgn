@@ -1,0 +1,12 @@
+[Event "World Under-16 Ch, Mamaia 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nguyen Quoc Hy"]
+[Black "Talibov"]
+[Result "*"]
+[Puzzle "532"]
+[FEN "8/pp3p2/2r3kp/3PQ1p1/8/8/P3K1PP/1q3BR1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Qc2+ $1 { Black is a piece down, but he can take advantage of White’s lack of development to win the white queen. } 2. Ke1 { 30 Ke3 Rc3+–+. } 2... Qc1+ 3. Ke2 { 31 Kf2 Rf6+ 32 Ke2 Qc2+ 33 Ke3 (33 Ke1 Qf2+ 34 Kd1 Qxg1–+) 33...Qf2+ 34 Kd3 Qxg1–+. } 3... Rc2+ 4. Kf3 { 32 Kd3 Rd2+ 33 Ke3 Qe1+ leads to mate. } 4... Rc3+ 5. Kf2 Qb2+ 6. Be2 { 34 Qe2 Rc2–+. } 6... Qb6+ { 34...Rf3+ also wins but the game continuation is much quicker. } 7. Ke1 Qxg1+ 8. Kd2 { 36 Bf1 Rc1+ 37 Kd2 Rxf1–+. } 8... Qc1# *

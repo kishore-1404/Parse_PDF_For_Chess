@@ -1,0 +1,12 @@
+[Event "European Ch, Vrnjačka Banja 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nyysti"]
+[Black "Ozdemir"]
+[Result "*"]
+[Puzzle "927"]
+[FEN "4k2r/3p2p1/p1bbp3/4qp2/1p2P1p1/5BP1/PP1B2QP/R3R2K w k - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Bf4 $1 { In the game, 26 Bxg4? Qxg3 27 Qxg3 Bxg3 28 Re2 fxg4 29 Bxb4 Bf4=+ gave Black reasonable compensation for his slight material deficit thanks to his active bishop-pair. } 1... gxf3 2. Qd2 $1 Qb5 { The queen is dominant after 27...f2 28 Bxe5 fxe1Q+ 29 Rxe1 Bxe5 30 Kg1 Bxe4 31 Qxb4 d5 32 Re3 +/–. } 3. Bxd6 fxe4 4. Qf2 *

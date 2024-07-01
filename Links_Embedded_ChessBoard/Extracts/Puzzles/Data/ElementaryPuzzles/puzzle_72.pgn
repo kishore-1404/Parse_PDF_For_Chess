@@ -1,0 +1,12 @@
+[Event "Pardubice 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kulon"]
+[Black "Shpanko"]
+[Result "*"]
+[Puzzle "72"]
+[FEN "r4rk1/4nppp/2n5/1Np5/pqPp4/1N1P4/P3QPPP/R4RK1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. a3 $1 Qxb3 2. Rab1 { The black queen is stuck behind enemy lines. } 2... Ng6 3. Rxb3 axb3 4. Rb1 { The white queen is in charge. } *

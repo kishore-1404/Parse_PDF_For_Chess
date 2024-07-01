@@ -1,0 +1,12 @@
+[Event "Hungarian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Palczert"]
+[Black "Lakos"]
+[Result "*"]
+[Puzzle "501"]
+[FEN "1r5k/2p3p1/p3Q2p/q7/4N3/2P2P1P/1n4P1/4R2K w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nf6 $1 { Threatening Qe8+ followed by mate. } 1... Qa4 { The knight is immune from capture as 33...gxf6 34 Qxf6+ Kg8 35 Re7 leads to mate. Now (after 33...Qa4) White has a choice of winning ideas; the clearest is 34 Qf5 gxf6 35 Qxf6+ Kg8 36 Qg6+ Kf8 37 Qxh6+ Kg8 38 Qg6+ Kf8 39 Re6 as Black loses too much material. } *

@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Erigaisi"]
+[Black "Indjić"]
+[Result "*"]
+[Puzzle "629"]
+[FEN "q7/3R4/5pkp/4p1p1/1Bp1P1P1/1r3NK1/6P1/3R4 b - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... Qxe4 $1 { The game ended 41...Rxb4?? 42 Nxe5+ fxe5 43 R1d6# (1-0). } 2. Bf8 Qf4+ 3. Kh3 { 43 Kf2 Rb2+–+. } 3... Rxf3+ $1 4. gxf3 Qxf3+ 5. Kh2 Qf2+ 6. Kh1 Qh4+ 7. Kg2 Qxg4+ 8. Kf2 Qf4+ 9. Kg2 c3 *

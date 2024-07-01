@@ -1,0 +1,12 @@
+[Event "Finnish Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Meškovs"]
+[Black "Sipilä"]
+[Result "1-0"]
+[Puzzle "819"]
+[FEN "3r2k1/pp1rq2p/3pb1p1/1p3p2/2P2P2/2QR4/P3PPBP/3R2K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1. Re3 $1 b4 2. Qb2 { Black has no good defence against the dual threats of 24 Rxe6 and 24 Bd5. } 2... d5 3. Bxd5 Kf7 4. Rxe6 1-0

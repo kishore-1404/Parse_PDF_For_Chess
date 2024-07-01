@@ -1,0 +1,12 @@
+[Event "Austrian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Manhardt"]
+[Black "Casagrande"]
+[Result "*"]
+[Puzzle "288"]
+[FEN "r1r5/1p1b1k1p/p2pN1pb/3Pnp2/PP1Qp1nq/1B5P/1BP1NPP1/R4RK1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Nf3+ $1 2. gxf3 Ne5 3. Qb6 Qxh3 $1 { After 21...exf3? 22 N2f4 Bxf4 (as played in the game) White could have held the balance by 23 Qxd6! Qxh3 (23...Bxe6 24 Qxe6+ Kf8 25 Qd6+ Kf7 26 Qe6+ is also a draw) 24 Nxf4 Qg4+ 25 Kh1 Qh4+ 26 Kg1 Qg5+ 27 Kh1 Qh4+ = with a draw by repetition. } 4. Bxe5 exf3 { White’s queen is unable to assist with kingside defence. } 5. N6f4 Bxf4 6. Nxf4 Qg4+ 7. Kh2 dxe5 8. Rg1 Qh4+ 9. Nh3 f4 *

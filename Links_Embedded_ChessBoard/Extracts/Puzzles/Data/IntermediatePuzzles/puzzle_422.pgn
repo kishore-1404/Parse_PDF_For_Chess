@@ -1,0 +1,12 @@
+[Event "Sochi rapid (team event) 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lysy"]
+[Black "Khubukshanov"]
+[Result "*"]
+[Puzzle "422"]
+[FEN "2r2rk1/p1q2p1p/1p4p1/2bbn3/3N1Q2/1P6/PB2BPPP/3R1RK1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nf5 $1 { Black has loose pieces and an exposed king. } 1... f6 { Or: 20...Nf3+ 21 Qxf3 Bxf3 22 Nh6#; 20...gxf5 21 Bxe5 Qc6 22 Rxd5 Qxd5 23 Qg5#. } 2. Nh6+ Kg7 3. Rxd5 *

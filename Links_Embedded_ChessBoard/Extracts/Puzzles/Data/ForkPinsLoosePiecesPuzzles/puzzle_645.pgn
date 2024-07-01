@@ -1,0 +1,12 @@
+[Event "Swiss Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kurmann"]
+[Black "Pelletier"]
+[Result "1-0"]
+[Puzzle "645"]
+[FEN "6R1/3k1r2/p1p1q3/1p2p3/6N1/P7/1PP2bQ1/2K5 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Rg6 $1 { 33...Qf5 (33...Qxg6 34 Nxe5++–) 34 Qxc6+ Kd8 35 Nxe5 Qxe5 36 Rg8+ Ke7 37 Re8#. } 1-0

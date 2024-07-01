@@ -1,0 +1,12 @@
+[Event "Greek Team Ch, Thessaloniki 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vlachos"]
+[Black "Kalesis"]
+[Result "1-0"]
+[Puzzle "193"]
+[FEN "6kr/p1p2pb1/3p2p1/6P1/2qPQ2N/8/PP3P2/1K2R3 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Nxg6 $1 { Black’s king is fatally exposed after 28...fxg6 29 Qe8+ Kh7 (29...Bf8 30 Qxg6+ Bg7 31 Re8#) 30 Rh1+ Bh6 31 Rxh6+ Kg7 32 Qxg6+ Kf8 33 Rxh8+ Ke7 34 Qe8#. } 1-0

@@ -1,0 +1,304 @@
+1
+0
+White to move
+
+2
+5
+White to move
+
+3
+8
+White to move
+
+4
+9
+White to move
+
+5
+11
+Black to move
+
+6
+12
+Black to move
+
+7
+16
+White to move
+
+8
+18
+White to move
+
+9
+21
+Black to move
+
+10
+25
+White to move
+
+11
+26
+White to move
+
+12
+30
+Black to move
+
+13
+33
+White to move
+
+14
+34
+White to move
+
+15
+36
+White to move
+
+16
+39
+White to move
+
+17
+41
+White to move
+
+18
+45
+White to move
+
+19
+47
+Black to move
+
+20
+52
+White to move
+
+21
+54
+White to move
+
+22
+58
+Black to move
+
+23
+60
+White to move
+
+24
+63
+White to move
+
+25
+65
+White to move
+
+26
+67
+White to move
+
+26
+69
+Black to move
+
+27
+71
+White to move
+
+28
+72
+White to move
+
+29
+74
+Black to move
+
+30
+79
+White to move
+
+31
+81
+White to move
+
+32
+83
+Black to move
+
+33
+85
+White to move
+
+34
+87
+Black to play
+
+35
+94
+Black to move
+
+36
+97
+White to move
+
+37
+99
+Black to move
+
+38
+101
+White to move
+
+39
+104
+White to move
+
+40
+108
+Black to move
+
+41
+109
+White to move
+
+42
+110
+White to move
+
+43
+111
+White to move
+
+44
+113
+White to move
+
+45
+115
+White to move
+
+46
+117
+White to move
+
+47
+118
+White to move
+
+48
+122
+White to move
+
+49
+124
+White to move
+
+50
+126
+Black to move
+
+51
+130
+White to move
+
+52
+132
+White to move
+
+53
+133
+White to move
+
+54
+137
+White to play
+
+55
+142
+White to play
+
+56
+144
+Black to move
+
+57
+146
+White to play
+
+58
+148
+White to move
+
+59
+150
+Black to move
+
+60
+151
+White to move
+
+61
+155
+White to move
+
+62
+159
+Black to move
+
+63
+163
+White to move
+
+64
+164
+White to move
+
+65
+166
+White to move
+
+66
+170
+Black to move
+
+67
+172
+Black to move
+
+68
+176
+White to move
+
+69
+178
+White to move
+
+70
+182
+Black to move
+
+71
+184
+White to play
+
+72
+188
+White to move
+
+73
+190
+Black to move
+
+74
+192
+White to move
+
+75
+195
+Black to move
+

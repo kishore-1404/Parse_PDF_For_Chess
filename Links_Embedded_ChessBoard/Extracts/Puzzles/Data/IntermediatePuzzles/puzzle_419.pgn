@@ -1,0 +1,12 @@
+[Event "USA Ch, Saint Louis 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Moradiabadi"]
+[Black "Niemann"]
+[Result "*"]
+[Puzzle "419"]
+[FEN "6k1/1Q2p2q/p4r2/P2P1r2/2P2Npp/6P1/5PP1/5RK1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... hxg3 2. Qc8+ $1 { The game ended with the beautiful tactical idea 38 fxg3? e5! 0-1 in view of 39 Qc8+ (39 dxe6 Qxb7–+) 39...Rf8 40 Qe6+ Qf7 41 Qxf7+ R8xf7–+. } 2... Kf7 3. fxg3 Rh6 4. Kf2 Re5 5. Qc5 Re4 { Black has an advantage, but White can resist. } *

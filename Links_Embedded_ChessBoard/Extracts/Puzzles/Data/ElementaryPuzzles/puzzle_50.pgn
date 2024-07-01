@@ -1,0 +1,12 @@
+[Event "Charlotte 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Do. Johnson"]
+[Black "Quesada Vera"]
+[Result "0-1"]
+[Puzzle "50"]
+[FEN "r3rbk1/1p3ppp/p1bp4/2p1nPP1/Pq2NB2/1N5P/BPP3Q1/R3R2K b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Nf3 $1 2. Qxf3 Rxe4 { White is too exposed along the h1-a8 diagonal. } 0-1

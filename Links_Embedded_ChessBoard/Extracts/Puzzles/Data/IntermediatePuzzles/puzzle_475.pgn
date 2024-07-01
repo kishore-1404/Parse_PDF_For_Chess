@@ -1,0 +1,12 @@
+[Event "European Women’s Ch, Petrovac 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gajčin"]
+[Black "Savina"]
+[Result "*"]
+[Puzzle "475"]
+[FEN "R7/4rppk/2p2q2/3p2P1/1P2bP1p/2P4P/5Q2/6K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Qxc3 $1 { After 37...Qd6?? (as played in the game) White can generate a mating attack: 38 Qxh4+ Kg6 39 Rh8! f6 40 Qh5+ Kf5 41 Qg4+ Kg6 42 f5+ (Black resigned here) 42...Bxf5 (42...Kf7 43 g6#) 43 Qh5#. } 2. Qxh4+ { 38 Kh2 Bf5–+ leads to mate. } 2... Kg6 { White’s king is hopelessly exposed. } 3. Rh8 Qc1+ 4. Kf2 Qd2+ 5. Kf1 Qg2+ 6. Ke1 Bc2# *

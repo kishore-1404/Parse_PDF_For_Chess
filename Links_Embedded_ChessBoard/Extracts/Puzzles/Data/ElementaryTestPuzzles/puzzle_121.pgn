@@ -1,0 +1,12 @@
+[Event "Marianske Lazne 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Krejči"]
+[Black "J. Pajeken"]
+[Result "0-1"]
+[Puzzle "121"]
+[FEN "6k1/6b1/3Br1p1/3qP2p/7P/4Q1P1/8/4R1K1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Rxd6 $1 { Black wins the white queen after 34 exd6 Bd4–+. } 0-1

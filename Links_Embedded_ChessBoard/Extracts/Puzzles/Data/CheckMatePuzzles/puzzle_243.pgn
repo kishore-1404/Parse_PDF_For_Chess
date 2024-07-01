@@ -1,0 +1,12 @@
+[Event "Munich (women) 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Abdumalik"]
+[Black "Di. Wagner"]
+[Result "*"]
+[Puzzle "243"]
+[FEN "3r1r2/kq2ppb1/p2pb2p/Q6R/2p1P3/NB4P1/PPP2P2/2K4R w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Rb5 Qc6 2. Ba4 $1 Rc8 3. Rb4 { White has too many pieces swarming around the black king. } 3... Qc5 4. Nb5+ Kb8 5. Nxd6+ { The game ended 36 Nc7+ Qxb4 37 Nxa6+ 1-0. } 5... Ka8 6. Qxa6+ Qa7 7. Bc6+ Rxc6 8. Qxc6+ Qb7 9. Qxb7# *

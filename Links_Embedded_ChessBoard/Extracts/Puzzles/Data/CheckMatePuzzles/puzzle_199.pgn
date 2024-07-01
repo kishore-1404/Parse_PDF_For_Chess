@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Niemann"]
+[Black "Aronian"]
+[Result "1-0"]
+[Puzzle "199"]
+[FEN "2r1k2r/1bqn1pbp/pp1pp1p1/4n1P1/3NPP2/1PN1B3/P1PQB2P/R4RK1 w k - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Ndb5 $1 axb5 2. Nxb5 Qxc2 3. Nxd6+ { White is able to keep Black’s king in the centre. } 3... Ke7 4. fxe5 Nxe5 { White wins a piece after 19...Qxd2 20 Rxf7+ Kd8 21 Bxd2 Bxe5 22 Nxb7+ Ke8 23 Raf1+–. } 5. Qb4 Qxe2 { 20...Rc5 21 Qxb6+–. } 6. Nf5+ { 21...Kd7 22 Qe7+ Kc6 23 Nd4#. } 1-0

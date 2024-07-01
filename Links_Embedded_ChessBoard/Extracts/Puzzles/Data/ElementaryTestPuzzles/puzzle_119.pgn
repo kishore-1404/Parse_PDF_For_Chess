@@ -1,0 +1,12 @@
+[Event "Cap d’Agde rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dardha"]
+[Black "Sebag"]
+[Result "1-0"]
+[Puzzle "119"]
+[FEN "5r1k/1p2N1Rp/p3bP2/2p3Rp/6r1/8/PPP4P/2K5 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. Rxh7+ $1 { 31...Kxh7 32 Rxh5#. } 1-0

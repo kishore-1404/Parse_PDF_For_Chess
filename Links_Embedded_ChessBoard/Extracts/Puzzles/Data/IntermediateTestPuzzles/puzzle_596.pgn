@@ -1,0 +1,12 @@
+[Event "World Rapid Ch, Almaty 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rapport"]
+[Black "Mazé"]
+[Result "*"]
+[Puzzle "596"]
+[FEN "3r3r/1k2pp2/1pp3pb/p1pqP1Np/P2nR3/3P3P/1PPB1PP1/3QR1K1 w - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1. c4 $1 { Once Black’s queen is driven away from the defence of the f7- pawn, his position collapses. } 1... Qd7 2. Nxf7 Bxd2 3. e6 Qc7 4. Qxd2 *

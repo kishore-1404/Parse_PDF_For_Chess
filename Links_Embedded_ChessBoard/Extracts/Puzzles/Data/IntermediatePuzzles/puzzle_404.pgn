@@ -1,0 +1,12 @@
+[Event "Budapest 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Foldes"]
+[Black "Yamada"]
+[Result "*"]
+[Puzzle "404"]
+[FEN "r3kb1r/1p2pp1p/p4p2/8/6Q1/2N3P1/PPP2P1P/R3KB1q w Qkq - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Qa4+ b5 { 13...Qc6 14 Bb5! axb5 15 Qxa8+ Kd7 was played in the game Pechač-Aczel, Skalica 2022; then one promising line is 16 0-0-0+ Ke6 17 f4+– with a winning attack for White because of Black’s vulnerable king position. } 2. Nxb5 $1 Bh6 { 14...axb5 15 Qxb5+ Kd8 16 Rd1+ Kc7 17 Rd7+ Kc8 18 Rd4 leads to mate. } 3. Nc7+ Kf8 4. Nxa8 Qxa8 5. Qxa6 { White has a decisive material advantage. This sequence had also occurred in some earlier games, including the GM encounter Artemiev-Bok, Tbilisi 2017. } *

@@ -1,0 +1,12 @@
+[Event "World Rapid Ch, Almaty 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rapport"]
+[Black "Niemann"]
+[Result "*"]
+[Puzzle "608"]
+[FEN "Q4nk1/1p4p1/2p3b1/3pP2p/2q5/2P1B1N1/1P4PP/7K b - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... d4 $1 { Black sacrifices a pawn to control the e6-square since 27...h4? allows White to maintain the balance with 28 e6!. } 2. Bxd4 h4 3. b3 Qf7 4. e6 Qxe6 5. Qxb7 Qe1+ 6. Bg1 hxg3 *

@@ -1,0 +1,12 @@
+[Event "Copenhagen 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hilwerda"]
+[Black "Vesterli"]
+[Result "*"]
+[Puzzle "281"]
+[FEN "1rbq1rk1/pp2bppp/2np1n2/2pNp1N1/2B1P2P/3P4/PPP2PP1/R1BQK2R w KQ - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Nxf6+ $1 Bxf6 { 9...gxf6 10 Qh5 fxg5 11 hxg5 leads to mate. } 2. Qh5 h6 { Black is unable to defend the h7-pawn after 10...Bxg5 11 hxg5+–. } 3. Bxf7+ { The game continuation 11 Nxf7 Rxf7 12 Qxf7+ Kh7 13 Bg5+– was also good enough. } 3... Kh8 4. Qg6 { Black must give up lots of material to avoid mate. } *

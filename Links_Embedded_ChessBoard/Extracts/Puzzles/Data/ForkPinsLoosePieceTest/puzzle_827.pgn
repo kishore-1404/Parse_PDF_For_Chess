@@ -1,0 +1,12 @@
+[Event "Chennai Olympiad 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Maerevoet"]
+[Black "Parligras"]
+[Result "1-0"]
+[Puzzle "827"]
+[FEN "r4rk1/2R3pp/3p4/p2qpQ2/8/1P6/P4PPP/4R1K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1. Qg4 $1 { The white queen threatens mate, while also preparing to drive the black queen away from controlling the critical e6-square. } 1... Rf7 { 25...g6 26 Rd1 Rf4 (26...Qb5 27 Qe6+ Kh8 28 Qe7 mates) 27 Rc8++–. } 2. Rd1 $1 { In view of 26...Rxc7 27 Rxd5 Rc1+ 28 Rd1+– and 26...Qxd1+ 27 Qxd1 Rxc7 28 Qd5+ Kf8 29 Qxa8++–. } 1-0

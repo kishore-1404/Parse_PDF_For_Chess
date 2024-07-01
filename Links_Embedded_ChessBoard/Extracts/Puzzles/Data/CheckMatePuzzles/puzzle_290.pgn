@@ -1,0 +1,12 @@
+[Event "Catalonian Team Ch, Barcelona 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Jimenez Ruano"]
+[Black "Perez Manas"]
+[Result "1-0"]
+[Puzzle "290"]
+[FEN "2R5/5pk1/p4qpp/r2P4/4Q2P/5P2/6PK/8 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Qb4 $1 Qe5+ { Black does not have a perpetual check after 38...h5 39 Qxa5 Qxh4+ 40 Kg1 Qd4+ 41 Kf1 Qd1+ 42 Qe1 Qd3+ 43 Kf2 Qd4+ 44 Qe3 Qb2+ 45 Kg1+–. } 2. f4 Qxd5 { 39...Qa1 40 Qf8+ Kf6 41 Re8+– leads to mate. } 3. Qc3+ { 40...f6 (40...Kh7 41 Rh8#) 41 Qc7+ (or 41 Rc7++–) 41...Qf7 42 Qxa5+–. } 1-0

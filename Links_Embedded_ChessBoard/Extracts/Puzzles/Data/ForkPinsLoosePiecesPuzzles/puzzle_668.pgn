@@ -1,0 +1,12 @@
+[Event "British Ch, Torquay 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Grieve"]
+[Black "Gormally"]
+[Result "1-0"]
+[Puzzle "668"]
+[FEN "1rbq1rnk/6pp/p1pb1p2/3p3P/5B2/2N1Q1R1/PPP1BPP1/2KR4 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Rxg7 $1 Re8 { Or: 18...Bxf4 19 Qxf4 Kxg7 20 Qxb8+–; 18...Kxg7 19 Qg3+ Kh8 20 Bxd6 Ra8 21 Bxf8 Qxf8 22 Qc7+–. } 2. Qg3 Bxf4+ 3. Qxf4 Qb6 4. h6 Qxb2+ 5. Kd2 Rb4 6. Bd3 { 23...Rb7 24 Rb1+–. } 1-0

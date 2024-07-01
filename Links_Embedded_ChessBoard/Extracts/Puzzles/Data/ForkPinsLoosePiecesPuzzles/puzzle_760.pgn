@@ -1,0 +1,12 @@
+[Event "St Petersburg Over-65 Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pozin"]
+[Black "Ponfilenok"]
+[Result "*"]
+[Puzzle "760"]
+[FEN "r1b2Bk1/pp4pp/2p1pn2/3pn2q/2P2b2/1PNP1N2/P1Q1PPBP/R3R1K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Nxf3+ 2. Bxf3 { Black has a decisive attack after 15 exf3 Qxh2+ 16 Kf1 Kxf8 17 Ne2 Bd6 18 Qd2 h6–+. } 2... Qxh2+ 3. Kf1 Be3 4. fxe3 { In the game White resigned after 17 Nd1 e5 in view of 18 Nxe3 Bh3+ 19 Ng2 (19 Bg2 Qh1#) 19...Qh1#. } 4... e5 5. Bg2 Bh3 6. Red1 Qg3 7. Bxh3 Rxf8 { White will be mated. } *

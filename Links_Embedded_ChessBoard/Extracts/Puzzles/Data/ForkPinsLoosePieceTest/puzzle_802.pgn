@@ -1,0 +1,12 @@
+[Event "World Rapid Ch, Almaty 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "T.L. Petrosian"]
+[Black "Yilmaz"]
+[Result "*"]
+[Puzzle "802"]
+[FEN "2rr1k2/pp1Rp1bp/2b1P1p1/q4p2/4pB2/1QN3P1/PP2PP1P/R5K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1. Bc7 $1 Qxc7 { 20...Rxc7? 21 Rxd8+ Be8 22 Rad1+–. } 2. Rxc7 Rxc7 3. Rd1 { White has a decisive material advantage. } *

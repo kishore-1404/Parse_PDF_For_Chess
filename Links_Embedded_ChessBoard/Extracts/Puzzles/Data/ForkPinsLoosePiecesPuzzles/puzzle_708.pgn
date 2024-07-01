@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Iskusnykh"]
+[Black "Pranav"]
+[Result "0-1"]
+[Puzzle "708"]
+[FEN "2rrb1k1/qp2bpp1/p2pp1n1/7p/2P1PPnP/1PN1N1P1/PB2Q1B1/2R1R1K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... d5 $1 { White is caught in a fatal pin along the g1-a7 diagonal. } 2. cxd5 { Black wins a piece after 21 Nd1 Nxe3 22 Nxe3 d4–+. } 2... Nxe3 0-1

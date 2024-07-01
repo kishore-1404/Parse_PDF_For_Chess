@@ -1,0 +1,12 @@
+[Event "Serbian Women’s Team Ch, Vrnjačka Banja 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bulmaga"]
+[Black "Mkrtchian"]
+[Result "*"]
+[Puzzle "642"]
+[FEN "8/1n3p2/1p2kp1r/p3p3/P4PKN/1P5P/2PR4/8 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... f5+ $1 2. Kg5 { 31 Nxf5 Rg6+ 32 Kf3 Kxf5–+. } 2... Rh8 3. fxe5 Nc5 4. Nf3 Ne4+ 5. Kf4 Nxd2 6. Nxd2 Rxh3 *

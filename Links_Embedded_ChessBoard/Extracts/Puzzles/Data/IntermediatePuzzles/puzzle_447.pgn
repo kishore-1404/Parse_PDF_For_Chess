@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Iturrizaga"]
+[Black "Malakhov"]
+[Result "1-0"]
+[Puzzle "447"]
+[FEN "r4rk1/p4ppp/7q/N2p4/8/1P2Pb2/PB3PPn/R2QR1K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Qd4 $1 { White must avoid 19 gxf3?? Qh3–+. } 1... Ng4 { Pinning White’s g-pawn with 19...Qg6 runs into 20 Qxg7+! Qxg7 21 Bxg7 Kxg7 22 Kxh2+– with an extra pawn and a superior minor piece. } 2. Qf4 g5 { White wins a piece after 20...Qxf4 21 exf4 Be4 22 f3+–. } 3. Qxf3 Qh2+ 4. Kf1 h5 5. Qh3 Qc7 6. Qxh5 1-0

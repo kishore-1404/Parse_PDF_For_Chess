@@ -1,0 +1,12 @@
+[Event "Israeli Team Ch 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Volokitin"]
+[Black "Yaniv"]
+[Result "1-0"]
+[Puzzle "832"]
+[FEN "3k3r/R1r2p1p/3p4/5P2/1p4B1/7P/1bP4P/R6K w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1. Ra8+ Rc8 { White wins material after 30...Kd7 31 f6+ Kc6 32 R1a6+ Kb5 33 Be2+ Kc5 34 Rxh8+– or 30...Ke7 31 Re1+ Kd7 (31...Kf6 32 Rxh8) 32 f6+ Kc6 33 Rxh8+–. } 2. f6 $1 Kc7 3. R1a7+ Kb6 4. Ra6+ 1-0

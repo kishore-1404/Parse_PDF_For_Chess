@@ -1,0 +1,12 @@
+[Event "New York 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kaliksteyn"]
+[Black "L. Zhou"]
+[Result "*"]
+[Puzzle "381"]
+[FEN "5k2/4R3/8/1p3b1p/2p1PP1B/2P1r3/PP4K1/8 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Re5 $1 { The king and pawn endgame is a draw after 47 exf5? Rxe7 48 Bxe7+ Kxe7 49 b4! (the game ended 49 b3?? b4! 0-1) 49...Kf7 =. } 1... Bxe4+ { 47...Bg4 48 Bf2 Rd3 49 f5+–. } 2. Kg1 Re2 3. Bf2 Bf3 4. Rxb5 *

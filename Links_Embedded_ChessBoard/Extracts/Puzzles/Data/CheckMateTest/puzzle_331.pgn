@@ -1,0 +1,12 @@
+[Event "Serbian Women’s Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Javakhishvili"]
+[Black "Batsiashvili"]
+[Result "0-1"]
+[Puzzle "331"]
+[FEN "8/6pk/6q1/P2p3P/1P3Q2/5KP1/5R2/6r1 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Rxg3+ $3 { This idea is easy to miss if you have not seen it before. } 2. Ke2 { 52 Qxg3 Qe4#. } 2... Qd3+ 3. Ke1 Re3+ 4. Qxe3 Qxe3+ 0-1

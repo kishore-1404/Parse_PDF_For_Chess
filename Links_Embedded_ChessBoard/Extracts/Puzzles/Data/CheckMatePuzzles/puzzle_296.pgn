@@ -1,0 +1,12 @@
+[Event "Baku 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Korobov"]
+[Black "Nigmatov"]
+[Result "1-0"]
+[Puzzle "296"]
+[FEN "4qr1k/2p1r1pp/p4n2/1p2BQRP/8/1P1BbP2/P3K3/6R1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Rxg7 $1 Rxg7 { 33...Rxe5 34 Rxh7+ Nxh7 35 Qxh7#. } 2. Rxg7 { 34...Kxg7 35 Qxh7#. A good demonstration of the strength of the bishop-pair aimed at Black’s kingside. } 1-0

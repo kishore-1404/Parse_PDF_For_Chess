@@ -1,0 +1,12 @@
+[Event "Hungarian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Issa"]
+[Black "Straubinger"]
+[Result "*"]
+[Puzzle "274"]
+[FEN "3R4/5r2/p1p4r/3p1p1P/k1q2P2/6BK/1Q5P/8 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Qa1+ $1 { The key move. White avoids the tempting 55 Rb8? Qf1+ 56 Kh4 Rxh5+! 57 Kxh5 Qh3+ 58 Kg5 Qg4+ 59 Kh6 Qh3+ 60 Kg5 Qg4+ = with a draw by repetition. } 1... Kb4 { Or 55...Kb3 56 Rb8+ Kc2 57 Rb2+ Kd3 58 Qb1+ Ke3 59 Qe1+ followed by mate. } 2. Rb8+ { 56 Be1+ Kb3 57 Rb8+ also leads to mate. } 2... Kc5 3. Qa3+ Kd4 4. Bf2+ Ke4 5. Qe3# *

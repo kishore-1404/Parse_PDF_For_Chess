@@ -1,0 +1,12 @@
+[Event "Cali 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lopez Rayo"]
+[Black "Arango Arenas"]
+[Result "*"]
+[Puzzle "728"]
+[FEN "2r2k2/5p1p/p3q3/P2br3/BP1Qpp1P/8/1P3P2/3RK2R w K - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Bd7 $1 { White wins material. } 1... Rc4 { 30...Qxd7 31 Qxe5+–. } 2. Bxe6 Rxd4 3. Rxd4 fxe6 4. Rg1 { White’s material advantage is sufficient for victory. } *

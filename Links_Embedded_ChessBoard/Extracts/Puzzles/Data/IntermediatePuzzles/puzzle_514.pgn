@@ -1,0 +1,12 @@
+[Event "Chennai Women’s Olympiad 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nazarova"]
+[Black "T. Blagojević"]
+[Result "*"]
+[Puzzle "514"]
+[FEN "1rb2rk1/p1p2ppp/8/b2nN3/3P4/2N5/PP1B1PPP/R3K2R b KQ - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Rxb2 $1 2. Nxd5 Bxd2+ 3. Kd1 Bg5 { Black’s rook on its seventh rank in combination with the bishop-pair gives her a decisive advantage as White’s rooks are idle onlookers. } 4. f4 { Now Black could have played 18...Bb7 19 fxg5 Bxd5 20 Rg1 Bxg2–+. } *

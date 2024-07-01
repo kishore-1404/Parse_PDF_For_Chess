@@ -1,0 +1,12 @@
+[Event "Astana rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lahno"]
+[Black "Sindarov"]
+[Result "0-1"]
+[Puzzle "770"]
+[FEN "3r3k/6pp/p2r4/b2N1p2/b1B5/4RP2/6PP/R4K2 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Rxd5 $1 2. Rxa4 { 35 Bxd5 Bb5+ 36 Kf2 Bb6–+. } 2... Rd1+ { 36 Kf2 (36 Ke2 R8d2#) 36...Bb6–+. } 0-1

@@ -1,0 +1,12 @@
+[Event "Catalonian Team Ch, Barcelona 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Asis Gargatagli"]
+[Black "Muñoz Pantoja"]
+[Result "1-0"]
+[Puzzle "349"]
+[FEN "8/1p3q2/p1p1rkp1/3pRp1p/3P3P/1P2Q3/1PP2PP1/6K1 w - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1. Rxf5+ $3 { 32...Kxf5 33 Qf3# or 32...gxf5 33 Qg5#. } 1-0

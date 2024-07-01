@@ -1,0 +1,12 @@
+[Event "Frydek Mistek 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lever"]
+[Black "Babula Jr"]
+[Result "*"]
+[Puzzle "357"]
+[FEN "7r/R1p1k3/2Qb2nq/2pPp3/4PpP1/2B2B2/6P1/6K1 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Qh1+ 2. Kf2 Qc1 $1 { Black threatens 44...Qe3+ followed by 45...Rh1#. } 3. Rxc7+ Kf6 $1 { Black must avoid 44...Bxc7?? 45 Qe6+ (45 Qxc7+ Kf6 46 Bxe5+ Nxe5 47 Qd6+ Kf7 48 Qc7+ also leads to a draw) 45...Kd8 46 Qf6+ Kc8 47 Qa6+ Kb8 48 Qb5+ Ka7 49 Qa4+ Kb8 50 Qb5+ Kc8 51 Qa6+, with a draw by repetition. } 4. Qxd6+ Kg5 { Black’s king is safe on g5 because his knight on g6 controls all the checking squares. } 5. Qxc5 Rh1 6. Ke2 Qd1+ 7. Kf2 Qf1# *

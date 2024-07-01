@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pranav"]
+[Black "Harika"]
+[Result "*"]
+[Puzzle "710"]
+[FEN "4Q3/1p4k1/2bpp2p/2q2pr1/1pPN4/8/PP3PP1/3RRK2 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Qxc4+ { In the game Black blundered with 29...Bxe8?? and lost after 30 Nxe6+ Kf7 31 Nxc5 dxc5 32 f3+–. } 2. Re2 Bxe8 3. Nxe6+ Kf6 4. Nxg5 Bb5 *

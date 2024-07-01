@@ -1,0 +1,12 @@
+[Event "London 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Da. Johnson"]
+[Black "Large"]
+[Result "1-0"]
+[Puzzle "80"]
+[FEN "7r/5pk1/2n2np1/p1q3N1/4pP1N/Pp4Q1/7P/3R3K w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Ne6+ $1 fxe6 2. Qxg6+ Kf8 3. Qxf6+ { White wins back his piece and has a mating attack. } 3... Kg8 4. Qxe6+ Kf8 5. Ng6+ Kg7 6. Rd7+ { Black is checkmated after 45...Kh6 46 Nxh8+ Kh5 47 Qh3#. } 1-0

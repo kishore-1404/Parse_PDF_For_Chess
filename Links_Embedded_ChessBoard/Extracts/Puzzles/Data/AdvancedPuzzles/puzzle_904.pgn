@@ -1,0 +1,12 @@
+[Event "Gijon 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Panelo Muñoz"]
+[Black "Fier"]
+[Result "*"]
+[Puzzle "904"]
+[FEN "2r4r/1b2kpQ1/pq1pNp2/n3pP2/1p2P2P/3B4/PPP5/1K1R3R w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Ng5 $1 fxg5 2. f6+ Kd7 { 29...Ke6 30 Be2+–. } 3. Qxf7+ Kc6 4. hxg5 Rhf8 5. Qe6 Rce8 $4 { The game was agreed drawn here, but after 33 Qf5 Bc8 34 Qf1 Bg4 35 Rc1+– White’s advanced kingside pawns are unstoppable. } *

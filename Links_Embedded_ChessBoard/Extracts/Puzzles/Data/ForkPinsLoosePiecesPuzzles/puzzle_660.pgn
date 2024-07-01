@@ -1,0 +1,12 @@
+[Event "Alushta rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lugovskoy"]
+[Black "A. Rychagov"]
+[Result "1-0"]
+[Puzzle "660"]
+[FEN "r3r1k1/ppp2pp1/7p/3Pqb1Q/2B4n/P1P1B3/1P4PP/R4RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Bf2 $1 Nxg2 { 19...Qd6 20 Bd4+–. } 2. Bd4 $1 { Black has too many loose pieces. White must avoid 20 Kxg2?? Be4+ 21 Kg1 Qxh5–+. } 2... Nf4 3. Bxe5 Nxh5 4. Rxf5 g6 5. Rxh5 gxh5 6. Bxc7 Re4 7. Bd3 Rg4+ 8. Kf2 1-0

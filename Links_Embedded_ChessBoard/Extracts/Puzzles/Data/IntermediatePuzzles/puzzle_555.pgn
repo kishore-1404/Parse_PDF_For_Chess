@@ -1,0 +1,12 @@
+[Event "Sant Ferran de ses Roques 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Xu Xiangyu"]
+[Black "Mike Ivanov"]
+[Result "*"]
+[Puzzle "555"]
+[FEN "rnb2rk1/ppN2ppp/3P1q2/4p3/1b2n3/4PP2/PP1N2PP/R1BQKB1R b KQ - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Qh4+ $1 { 11...Bxd2+? was played in the game, but White unravelled his queenside pieces by 12 Bxd2 Qh4+ 13 g3 Nxg3 14 hxg3 Qxg3+ 15 Ke2 e4 16 Bc3 +/– and went on to win. } 2. g3 Nxg3 3. hxg3 Qxh1 4. Nxa8 Bh3 5. Qe2 e4 6. f4 Rd8 { Black has strong pressure as it is difficult for White to complete his development. } *

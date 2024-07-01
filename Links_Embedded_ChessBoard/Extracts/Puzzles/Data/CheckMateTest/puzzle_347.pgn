@@ -1,0 +1,12 @@
+[Event "New York 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nakada"]
+[Black "Hardaway"]
+[Result "0-1"]
+[Puzzle "347"]
+[FEN "8/5r1k/P2B2bP/2P3Q1/8/6PK/8/4r3 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Rh1+ 2. Kg4 { Or 70 Kg2 Be4#. } 2... Bc2 $1 { White’s king is caught in a mating-net as there is no good defence to the threat of 71...Bd1#. } 3. Qg7+ { 71 Qd2 Bd1+ 72 Kg5 Rh5#. } 3... Rxg7+ 4. hxg7 Ra1 0-1

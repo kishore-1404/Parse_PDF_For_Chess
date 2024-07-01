@@ -1,0 +1,12 @@
+[Event "Croatian Ch, Split 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Zelčić"]
+[Black "Bukal"]
+[Result "1-0"]
+[Puzzle "903"]
+[FEN "r1b2r1k/3n1ppp/p3p3/4P1N1/1q6/5NQ1/5RPP/4R2K w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Nxh7 $1 Kxh7 2. Ng5+ Kg8 3. Rf4 Qd2 4. Qh4 Qd3 5. Rfe4 { Black is unable to defend the h7-square. } 5... Rd8 6. Qh7+ Kf8 7. Nxf7 $1 Bb7 { 33...Kxf7 34 Rf4+ Nf6 35 Rxf6+ Ke8 36 Qxg7 followed by mate. } 8. Ng5 Nxe5 9. Qh8+ Ke7 10. Qxg7+ 1-0

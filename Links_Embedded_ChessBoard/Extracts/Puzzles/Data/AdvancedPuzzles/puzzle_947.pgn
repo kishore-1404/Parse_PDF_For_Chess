@@ -1,0 +1,12 @@
+[Event "Austrian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Belke"]
+[Black "Konaplev"]
+[Result "*"]
+[Puzzle "947"]
+[FEN "6k1/5pp1/2N1q3/5n2/P4nPp/1NQ5/P4P1P/6K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Qe5 $1 { White prevents the black queen from infiltrating. In the game, 44 gxf5?? allowed Black a forced mate: 44...Qe4 45 f3 Qe2 0-1. } 1... Nh3+ 2. Kf1 Qc4+ 3. Ke1 Nf4 4. Qb5 Qc3+ 5. Kd1 Qf3+ { Neither side has anything better than repeating. } 6. Kc1 Qc3+ 7. Kd1 Qf3+ *

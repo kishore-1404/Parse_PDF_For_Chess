@@ -1,0 +1,12 @@
+[Event "Ayvalik 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gunduz"]
+[Black "Ipek"]
+[Result "*"]
+[Puzzle "110"]
+[FEN "2r1k2r/qb3ppp/p3p3/1pn5/4PP2/2QPB2P/PP2N1P1/2R3K1 b k - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... O-O $1 { In the game 19...Na4?? was played, and White won material by 20 Qxc8+ Bxc8 21 Bxa7 0-0 22 Bd4 b4 23 b3 Nc3 24 Bxc3 bxc3 25 Rxc3+–. } 2. Bxc5 Qb8 3. Qd2 Rfe8 { White has insufficient compensation for the sacrificed exchange. } *

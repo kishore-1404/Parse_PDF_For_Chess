@@ -1,0 +1,12 @@
+[Event "Stavanger 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Loftgård"]
+[Black "Galperin"]
+[Result "*"]
+[Puzzle "598"]
+[FEN "4r1k1/5p2/4b1p1/K6p/P2Q1B1P/5qP1/1PPR4/8 b - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... Qb7 $1 2. Qb6 { Black has a decisive material advantage after 39 Qd8 Rxd8 40 Rxd8+ Kg7–+ (as played in the game). } 2... Ra8+ 3. Kb5 Bc4+ { Black also wins but in slower fashion after 40...Bd7+ 41 Rxd7 Qxd7+–+. } 4. Kc5 Rc8+ *

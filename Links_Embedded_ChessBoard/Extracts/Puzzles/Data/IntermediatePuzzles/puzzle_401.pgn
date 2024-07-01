@@ -1,0 +1,12 @@
+[Event "Chennai Olympiad 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repka"]
+[Black "Durarbayli"]
+[Result "*"]
+[Puzzle "401"]
+[FEN "3q1rk1/ppr1nppp/2bNp3/4P3/PnB5/R4N2/1P3PPP/1Q3RK1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Ng5 Ng6 2. Nxe6 $1 fxe6 3. Bxe6+ Rff7 { 20...Kh8 21 Qxg6! hxg6 22 Rh3+ Qh4 23 Rxh4#. } 4. Nxf7 Rxf7 5. Qf5 *

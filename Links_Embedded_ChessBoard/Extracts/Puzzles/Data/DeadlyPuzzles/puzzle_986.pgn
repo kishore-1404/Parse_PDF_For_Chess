@@ -1,0 +1,12 @@
+[Event "Tashkent 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sindarov"]
+[Black "Gareyev"]
+[Result "1-0"]
+[Puzzle "986"]
+[FEN "3R4/1q3pk1/5np1/4p1p1/5rN1/7P/3Q1PPK/8 w - - 0 1"]
+[PuzzleType "DeadlyPuzzles"]
+
+1. Qd6 $1 Nxg4+ $2 { 48...Qb4 puts up more resistance. White wins a piece after 49 Nxf6 Qxd6 50 Ne8+ Kf8 51 Nxd6+ Ke7 52 Nb7 Rxf2 53 Rc8 +/–, though the endgame is not so easy to convert. } 2. hxg4 Rxg4 3. g3 { Black has a two-pawn advantage, but his king is under attack. } 3... Re4 4. Rb8 Qa7 5. Qf8+ Kf6 6. Qd8+ Kf5 { 53...Kg7 54 Qh8#. } 7. Rb6 Rd4 8. Qf6+ Ke4 9. Qc6+ Kf5 { 56...Rd5 57 f3+ Ke3 58 Rb3+ Ke2 59 Qc4+ Ke1 60 Rb1+ Rd1 61 Qc3+ Kf2 62 Rb2+ mates. There would follow 57 Qf3+ Rf4 58 g4#. } 1-0

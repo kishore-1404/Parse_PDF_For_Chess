@@ -1,0 +1,12 @@
+[Event "Sant Boi 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bartel"]
+[Black "Dvirnyy"]
+[Result "*"]
+[Puzzle "854"]
+[FEN "3r2k1/1bq2rp1/p1n1R2p/2Q5/8/P1P5/B4PPP/R5K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Kh8 $1 2. Rxc6 Rfd7 $1 { Black threatens mate with an intermezzo. } 3. Rxc7 { White allows himself to be mated rather than play on a rook down. } 3... Rd1+ 4. Rxd1 Rxd1# *

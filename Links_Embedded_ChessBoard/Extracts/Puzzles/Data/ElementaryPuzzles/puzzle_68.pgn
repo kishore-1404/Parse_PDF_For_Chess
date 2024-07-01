@@ -1,0 +1,12 @@
+[Event "European Rapid Ch, Katowice 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "T. Pähtz"]
+[Black "Klepek"]
+[Result "1-0"]
+[Puzzle "68"]
+[FEN "r1b2rk1/4bppp/1p2pq2/pP1p4/4nB1P/P1P3P1/2B1QP2/RN2R1K1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Bxe4 $1 dxe4 2. Bg5 { Black’s queen was in a vulnerable position. } 1-0

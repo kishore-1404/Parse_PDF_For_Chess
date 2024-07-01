@@ -1,0 +1,12 @@
+[Event "Serbian Team Ch, Vrnjačka Banja 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Omorjan"]
+[Black "Parezanin"]
+[Result "*"]
+[Puzzle "63"]
+[FEN "3rk2r/pp2bppn/2p3q1/4PbP1/2P1NB1p/P2BP2P/1PQK1P2/2R4R w k - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Nd6+ $1 Bxd6 2. Bxf5 Be7+ { Black is unable to do any damage with a discovered check because he does not have any pieces near White’s king. For example: 23...Bxe5+ 24 Ke2 Qd6 (24...Qh5+ 25 Bg4 Qg6 26 Qxg6 fxg6 27 Bxe5+–) 25 Rcd1 Qe7 26 Rxd8+ Qxd8 (26...Kxd8 27 Rd1+ Ke8 28 Bxe5 Qxe5 29 f4 Qe7 30 Bxh7+–) 27 Bxh7+–. } 3. Kc3 Qh5 4. g6 { White has a decisive material advantage. } *

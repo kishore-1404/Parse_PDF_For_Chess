@@ -1,0 +1,12 @@
+[Event "Dutch League 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Strating"]
+[Black "Rademakers"]
+[Result "*"]
+[Puzzle "258"]
+[FEN "2br2k1/2q2p1p/p5p1/2pp1P2/P1p1B1PQ/4n2P/1P2P3/3R1RK1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. f6 $1 { White is threatening to construct a mating-net with Qh6. } 1... h5 { Or 31...Rd6 32 Qh6 Rxf6 33 Qxe3+–. } 2. gxh5 $1 Nxf1 3. Rxf1 dxe4 4. hxg6 { Black’s pieces are unable to assist with the defence of his kingside. } 4... fxg6 5. f7+ Kg7 6. Qf6+ Kh7 7. Rf4 *

@@ -1,0 +1,12 @@
+[Event "New York 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Zeltsan"]
+[Black "D. Khamrakulov"]
+[Result "*"]
+[Puzzle "888"]
+[FEN "1q3b2/R1nk4/4pB1r/4P3/2p3QP/8/5PP1/6K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Qd1+ $1 { After 34 Ra1?! (as played in the game) Black could have resisted with 34...Nd5 35 Rd1 Qa8 36 g3 +/–. } 1... Ke8 { 34...Kc6 35 Qa4+ Kb6 36 Bg5 Bc5 (36...Qxa7 37 Be3++–) 37 Qa5+ Kc6 38 Qxc7+ Qxc7 39 Rxc7+ Kxc7 40 Bxh6+–. } 2. Qa4+ Qb5 3. Ra8+ Kf7 4. Rxf8+ Kxf8 5. Qa3+ Kf7 { 38...Kg8 39 Qg3+ mates. } 6. Qe7+ Kg6 7. Qg7+ Kf5 8. Qxh6 *

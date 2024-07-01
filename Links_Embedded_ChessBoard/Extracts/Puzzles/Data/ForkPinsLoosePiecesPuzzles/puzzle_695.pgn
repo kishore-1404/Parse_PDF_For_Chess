@@ -1,0 +1,12 @@
+[Event "Munich (women) 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Di. Wagner"]
+[Black "Zhu Jiner"]
+[Result "*"]
+[Puzzle "695"]
+[FEN "5rk1/pb2q1p1/1p3p1p/2p1nB2/2P5/P3PP2/1BQ3PP/3R2K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Nxf3+ $1 2. gxf3 Qxe3+ 3. Qf2 Qg5+ 4. Bg4 h5 5. Qd2 Qg6 6. Qd3 f5 *

@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bortnyk"]
+[Black "Harika"]
+[Result "*"]
+[Puzzle "454"]
+[FEN "3r1r2/pp2qpbk/1nn4p/6pP/4p3/1BP2NQ1/PP3PP1/R1B1R1K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Bxg5 $1 { Black’s b6-knight is out of play, so White is able to sacrifice a piece and rip open Black’s kingside. } 1... hxg5 2. Rxe4 Qd7 { Or 25...Qxe4 26 Nxg5+ Kh8 27 Nxe4+–. } 3. Nxg5+ Kh8 4. h6 Bf6 { Black’s king is hopelessly exposed after 27...Bxh6 28 Qh4 Kg7 29 Rg4+–. } 5. Rd1 Qxd1+ { 28...Qf5 29 Nxf7+ Rxf7 30 Rxd8+ Nxd8 31 Bxf7 Nxf7 32 Re8+ Kh7 33 Qg8+ Kxh6 34 Qxf7+–. } 6. Bxd1 Rxd1+ 7. Kh2 *

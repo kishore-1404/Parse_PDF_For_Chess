@@ -1,0 +1,12 @@
+[Event "Los Angeles 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Khanin"]
+[Black "Daggupati"]
+[Result "1-0"]
+[Puzzle "408"]
+[FEN "b2q1rk1/2p1np1n/7p/2bBpN2/1p2P3/3P1N2/1PPQ1PPP/5RK1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nxh6+ Kg7 2. Nxf7 Rxf7 3. Bxf7 Kxf7 4. Qh6 { 21...Nf8 22 Nxe5+ Kg8 23 Qg5+ Kh7 24 Ra1+–. } 1-0

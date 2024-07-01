@@ -1,0 +1,12 @@
+[Event "Charlotte 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Naroditsky"]
+[Black "Ippolito"]
+[Result "1-0"]
+[Puzzle "690"]
+[FEN "6k1/pb3rrp/1p1p1qpQ/5pR1/4pN1P/8/PPP2PP1/3R2K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. h5 $1 gxh5 { 27...Rf8 28 hxg6 hxg6 29 Nxg6+–. } 2. Qxf6 Rxf6 3. Rxg7+ Kxg7 4. Nxh5+ 1-0

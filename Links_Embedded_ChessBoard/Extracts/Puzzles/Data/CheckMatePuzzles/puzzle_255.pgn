@@ -1,0 +1,12 @@
+[Event "Reykjavik 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mardov"]
+[Black "Pranav"]
+[Result "0-1"]
+[Puzzle "255"]
+[FEN "5rk1/p3bppp/7q/3P4/3p4/3Q2P1/PB1nPPbP/2R1R1K1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Be4 $1 2. Qxd4 Bf6 3. Qb4 Qh3 { The white king is left to fend for himself on the kingside. } 4. f3 Bxf3 $1 5. Kf2 { 27 exf3 Nxf3+ 28 Kf2 Nxe1 29 Kxe1 (29 Bxf6 Nd3+–+) 29...Re8+ 30 Kd1 Bxb2 31 Qxb2 Qf1+ 32 Kc2 Re2+–+. } 5... Bg5 0-1

@@ -1,0 +1,12 @@
+[Event "Stockholm 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kilgus"]
+[Black "Parkhov"]
+[Result "0-1"]
+[Puzzle "225"]
+[FEN "r3r1k1/ppp2ppp/2nb1q1n/3p4/3P4/3BPPP1/PP1B1KNP/1R1Q1R2 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Ng4+ 2. Kg1 Nxh2 $1 { 16 Kxh2 Qh6+ 17 Kg1 Bxg3 gives Black two pawns for a piece that he immediately regains, together with a crushing attack: 18 Nh4 (18 Re1 Qh2+ 19 Kf1 Qh1+ 20 Ke2 Qxg2#) 18...Qxh4 19 Qe2 Re6–+. } 0-1

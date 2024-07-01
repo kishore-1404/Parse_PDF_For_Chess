@@ -1,0 +1,12 @@
+[Event "French Ch, Albi 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Cornette"]
+[Black "Feller"]
+[Result "1-0"]
+[Puzzle "312"]
+[FEN "r3kb1r/pp1n1pp1/2p1b2p/6B1/3PQ3/2qBPN2/P4PPP/1R1K3R w kq - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1. Qxe6+ $1 { 14...fxe6 (14...Be7 15 Qxe7#) 15 Bg6#. } 1-0

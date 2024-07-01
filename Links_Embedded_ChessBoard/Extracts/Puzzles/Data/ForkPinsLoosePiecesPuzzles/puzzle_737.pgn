@@ -1,0 +1,12 @@
+[Event "Tashkent 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Zhakshylykov"]
+[Black "Vokhidov"]
+[Result "0-1"]
+[Puzzle "737"]
+[FEN "2r3k1/q3Bpp1/p2P3p/1p6/2b4P/P3RP2/2r3P1/1Q2R1K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Be2 $1 { A nice interference move to cut off the protection of the rook on e3. } 2. Kf2 { White loses a piece after 39 d7 Qxe3+ 40 Kh1 Qxe7 41 dxc8Q+ Rxc8–+. } 2... R8c3 0-1

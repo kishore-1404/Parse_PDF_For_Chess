@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Robson"]
+[Black "Raja Harshit"]
+[Result "1-0"]
+[Puzzle "123"]
+[FEN "r1r3k1/p3p1bp/Q1q1p1p1/8/8/4B2P/PP3PP1/R2R2K1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. Rd8+ $1 { 23...Kf7 24 Qxc6 Rxc6 25 Rxa8+–. } 1-0

@@ -1,0 +1,12 @@
+[Event "Paris 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Defromont"]
+[Black "K. Le Quang"]
+[Result "*"]
+[Puzzle "278"]
+[FEN "r1r3k1/5ppp/1b1N4/2nP4/1B2P3/1P3P1q/4QP2/1R2R1K1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Nd3 $1 { The combination works because White’s two minor pieces are far away from the kingside. } 2. Qxd3 { 30 Rf1 Nf4 followed by mate. } 2... Qg3+ 3. Kh1 Bxf2 { White has no good defence to the threat of 32...Qh3#. } 4. Qf1 Qh4+ 5. Kg2 Rc2 { Black will mate in a few moves. } *

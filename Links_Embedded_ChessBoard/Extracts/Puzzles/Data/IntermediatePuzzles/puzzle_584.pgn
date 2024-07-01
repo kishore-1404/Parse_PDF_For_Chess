@@ -1,0 +1,12 @@
+[Event "Baku 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fishchuk"]
+[Black "Manafov"]
+[Result "*"]
+[Puzzle "584"]
+[FEN "2rq1rk1/p4pp1/bp1p1n1p/2nPp3/1P2P2B/P4Q2/2BN1PPP/R3K2R b KQ - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Ne6 $1 2. Bxf6 { The game ended 18 Bd3? Nd4 19 Qe3 Rc3 0-1. Also bad is 18 dxe6? Rxc2 19 Bxf6 Qxf6 20 Qxf6 gxf6 21 Kd1 Rc3 22 exf7+ Kxf7 23 Re1 Rfc8–+, when White’s king is trapped in the centre under a terrific bind. } 2... Qxf6 3. Qxf6 gxf6 4. Ba4 Nd4 { Black has good chances to win due to White’s poor king position. } *

@@ -1,0 +1,12 @@
+[Event "Long Island City 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Al. Ostrovskiy"]
+[Black "J. Williams"]
+[Result "1-0"]
+[Puzzle "157"]
+[FEN "r1bqk2r/5p1p/p2pp1pB/1p4bn/4P3/1N1B3P/PPP1QPP1/R4RK1 w kq - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. Bxb5+ $1 { Black loses material after 16...axb5 (16...Bd7 17 Bxd7+ Kxd7 18 Nc5+ Kc6 19 Bxg5 Qxg5 20 Nd3+–) 17 Qxb5+ Bd7 18 Qxg5+–. } 1-0

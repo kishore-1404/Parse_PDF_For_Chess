@@ -1,0 +1,12 @@
+[Event "Shusha rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Maghsoodloo"]
+[Black "Yilmaz"]
+[Result "1-0"]
+[Puzzle "604"]
+[FEN "6k1/2q2r1p/3R2p1/p1p4n/P1P4Q/7P/1PB1r1P1/3R3K w - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1. Bxg6 $1 hxg6 2. Rxg6+ { In view of 37...Rg7 38 Qxh5+–, 37...Kf8 38 Qxh5+– or 37...Ng7 38 Rd8+ Rf8 39 Rxf8+ Kxf8 40 Qh8++–. } 1-0

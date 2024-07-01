@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fedoseev"]
+[Black "Sevian"]
+[Result "*"]
+[Puzzle "40"]
+[FEN "3r1rk1/2p1bppp/p1B5/4P3/Pp4b1/2P1B3/1P3PpP/R1R3K1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. cxb4 Bf5 { In the game Black lost a piece after 18...Bxb4? 19 Rc4 1-0. } 2. b5 a5 3. Bxg2 { White has a decisive advantage thanks to his extra pawn. Also, Black’s remaining queenside pawns are vulnerable. } *

@@ -1,0 +1,12 @@
+[Event "World Under-16 Ch, Mamaia 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Elmi"]
+[Black "Ars. Davtyan"]
+[Result "*"]
+[Puzzle "999"]
+[FEN "1R6/RP6/3r2kp/5p1q/4p3/6P1/5PP1/6K1 w - - 0 1"]
+[PuzzleType "DeadlyPuzzles"]
+
+1. Rg8+ $1 { 59 Ra1?? was played in the game, when Black exploited the poor position of the white rook to win White’s b7-pawn: 59...Rd1+ 60 Rxd1 Qxd1+ 61 Kh2 Qd5 (Black prevents Rg8+; he can also play 61...Qb3–+) 62 Kg1 Kg7 63 Kh2 Qf7 0-1 (in view of 64 Kg1 Qc7–+). } 1... Kf6 2. Rf8+ $5 { This rook check gives Black a chance to go wrong. The direct path to a draw is 60 Ra1 Rd1+ 61 Rxd1 Qxd1+ 62 Kh2 Qh5+ 63 Kg1 Qd1+ =. } 2... Ke6 { Black could also play 60...Kg6 61 Rg8+ =, but must avoid 60...Ke5?? 61 Rxf5+!! Kxf5 (61...Qxf5 62 b8Q+–) 62 Ra5+ Kg6 63 Rxh5 Rb6 64 Re5 Rxb7 65 Rxe4+–. } 3. Ra1 Rd1+ 4. Rxd1 Qxd1+ 5. Kh2 Qh5+ 6. Kg1 Qd1+ { Black delivers perpetual check. } *

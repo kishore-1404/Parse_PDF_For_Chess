@@ -1,0 +1,12 @@
+[Event "New York 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Almeida Saenz"]
+[Black "Tanenbaum"]
+[Result "*"]
+[Puzzle "734"]
+[FEN "r3kb1r/pp1n1pp1/2B1pn1p/4Nb2/1qQP1B2/2N3P1/P3PP1P/R4RK1 b kq - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Qxc4 $1 { White was hoping for 12...bxc6? 13 Qxc6 Rd8 14 e4 with good compensation for the piece. } 2. Bxd7+ Nxd7 3. Nxc4 Rc8 { Black wins a piece because of the pressure along the c-file. } 4. Nd6+ Bxd6 5. Bxd6 Rxc3 *

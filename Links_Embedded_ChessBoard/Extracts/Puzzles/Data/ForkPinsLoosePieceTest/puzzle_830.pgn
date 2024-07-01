@@ -1,0 +1,12 @@
+[Event "World Rapid Ch, Almaty 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sindarov"]
+[Black "Yudin"]
+[Result "0-1"]
+[Puzzle "830"]
+[FEN "3rb1k1/2q2pp1/7p/p7/nb1N1P2/5B2/1P3QPP/2BR2K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... Rxd4 $1 2. Rxd4 { 30 Qxd4 Bc5–+. } 2... Qxc1+ 3. Rd1 { Or: 31 Bd1 Bc5–+; 31 Qf1 Qe3+ 32 Qf2 Qxf2+ 33 Kxf2 Bc5 34 Ke3 Nxb2–+. } 3... Qxd1+ { Black wins a piece after 32 Bxd1 Bc5–+. } 0-1

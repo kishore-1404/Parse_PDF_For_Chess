@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mitrabha"]
+[Black "Abdusattorov"]
+[Result "0-1"]
+[Puzzle "13"]
+[FEN "6B1/1Q5p/3b1ppk/8/1P6/2r3PP/3r1PK1/8 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Bxg3 $1 2. Qxh7+ Kg5 { White has no good defence to the threat of 39...Rxf2+. } 0-1

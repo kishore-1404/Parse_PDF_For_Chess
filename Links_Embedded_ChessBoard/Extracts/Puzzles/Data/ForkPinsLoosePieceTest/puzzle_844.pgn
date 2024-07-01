@@ -1,0 +1,12 @@
+[Event "Las Vegas 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Khanin"]
+[Black "Raja Harshit"]
+[Result "*"]
+[Puzzle "844"]
+[FEN "1r1r2k1/p3qpp1/b7/4R2N/2PP3n/P3P2n/B3Q2P/B4R1K b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... Qxe5 $1 2. dxe5 Bb7+ 3. e4 Bxe4+ $1 4. Qxe4 Nf2+ 5. Kg1 { The key point is that 34 Rxf2 allows a back-rank mate with 34...Rd1+. } 5... Nxe4 *

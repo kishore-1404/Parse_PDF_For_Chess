@@ -1,0 +1,12 @@
+[Event "Swiss Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Georgiadis"]
+[Black "M. Krämer"]
+[Result "0-1"]
+[Puzzle "656"]
+[FEN "1r2r1k1/5q1p/2p3p1/p1Nb1p2/1n1P1QPR/1P6/5P1P/1B1R2K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Qe7 $1 { Black is threatening 39...Qe1+ followed by mate and the white rook is loose on h4. } 0-1

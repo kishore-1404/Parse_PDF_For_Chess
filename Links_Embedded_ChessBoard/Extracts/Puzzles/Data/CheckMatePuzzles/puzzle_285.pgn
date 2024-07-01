@@ -1,0 +1,12 @@
+[Event "Villa Martelli 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "F. Oro"]
+[Black "Almiron"]
+[Result "1-0"]
+[Puzzle "285"]
+[FEN "b1r1rb1k/5Q1p/p5pP/4q3/1n1Np3/2N1B3/1PP5/3R1RK1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Nde2 $1 { The knight retreat defends against ...Qg3+ and also threatens to win the black queen with Bd4. } 1... Nxc2 { 28...Nd3 29 cxd3 exd3 30 Rxd3 Bc5 31 Rf2+–. } 2. Rd7 $1 Be7 3. Bf4 Qf6 4. Bd6 { Black is mated after 31...Qxf7 32 Rxf7 Bxd6 33 Rxh7+ Kg8 34 Rdg7+ Kf8 35 Rh8#. } 1-0

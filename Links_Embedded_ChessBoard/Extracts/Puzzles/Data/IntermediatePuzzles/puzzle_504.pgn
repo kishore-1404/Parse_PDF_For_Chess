@@ -1,0 +1,12 @@
+[Event "Casablanca 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E. Berend"]
+[Black "S. Naoum"]
+[Result "*"]
+[Puzzle "504"]
+[FEN "4rrk1/8/2R4p/2Pp3q/1P1Q1p2/5PP1/6K1/5R2 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Re2+ 2. Rf2 Re1 $1 { White is unable to protect his back rank. } 3. Rf1 { White runs out of checks after 34 Rxh6 Qxh6 35 Qxd5+ Kh8 36 Qd4+ Rf6 37 Qd8+ Kg7 38 Qd7+ Kf8 39 Qc8+ Re8–+. } 3... Rxf1 4. Kxf1 Qh1+ 5. Qg1 { 36 Ke2 Re8+ 37 Kd3 Qxf3+ 38 Kc2 Re2+ 39 Kc1 Qf1+ 40 Qd1 Re1–+. } 5... Qxf3+ 6. Qf2 { Or 37 Ke1 Re8+, leading to mate. } 6... Qh1+ 7. Ke2 Re8+ 8. Kd2 { Now the clearest win is 39...Qb1–+. } *

@@ -1,0 +1,12 @@
+[Event "Balikesir 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ozsakallioglu"]
+[Black "Br. Maksimović"]
+[Result "*"]
+[Puzzle "257"]
+[FEN "3q1rk1/6rp/4R1p1/1b1p4/p5Q1/P5P1/1PB2PK1/7R w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Rxh7 $1 Kxh7 { 30...Rxh7 was played in the game and lost quickly after 31 Rxg6+ Kf7 (or 31...Kh8 32 Qd4+ Rf6 33 Rxf6+–) 32 Qe6# (1-0). } 2. Rxg6 $1 Rxf2+ { Black gives back the extra rook to provide his king with an escape- square. Otherwise he is quickly mated: 31...Kh8 32 Qh5+ Kg8 (32...Rh7 33 Rg8+ Kxg8 34 Qxh7#) 33 Rxg7+ Kxg7 34 Qg6+ Kh8 35 Qh7#. } 3. Kxf2 Kh8 4. Rxg7 Qf6+ 5. Ke3 Qxg7 6. Qh5+ Kg8 7. Qxd5+ *

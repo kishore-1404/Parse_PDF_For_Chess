@@ -1,0 +1,12 @@
+[Event "Zahara de la Sierra 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Aguero Jimenez"]
+[Black "Aarav"]
+[Result "0-1"]
+[Puzzle "484"]
+[FEN "6k1/5pB1/p3p2p/1rq5/5Q1b/8/PPP3P1/1K5R b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bg5 $1 2. Qd4 Qf5 $1 { Black is threatening to win the wayward bishop with ...e5. } 3. Bxh6 { The weakness of White’s back rank is fatal after 30 g4 Qf3 31 Re1 Rd5–+. } 3... Bxh6 4. Qh4 { 31 Rxh6 is impossible due to the simple back-rank mate with 31...Qf1+. } 4... Qe5 5. b3 Bg5 0-1

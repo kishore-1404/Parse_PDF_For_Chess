@@ -1,0 +1,12 @@
+[Event "Sharjah 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "M. Petrosyan"]
+[Black "Predke"]
+[Result "1-0"]
+[Puzzle "233"]
+[FEN "r1q1nr1k/1p3p1p/2pR4/p4Pp1/6P1/PBp1PQ2/1PP3P1/5RK1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Rh6 $1 { White has the simple plan of attacking Black’s h7-pawn. } 1... Qd8 { 26...f6 is answered with 27 Rxh7+! Kxh7 28 Qh3+ Kg7 29 Qh5 Qd7 30 Qg6+ Kh8 31 Qh6+ followed by mate. } 2. f6 cxb2 3. Qf5 Nxf6 4. Rxf6 a4 5. Rh6 1-0

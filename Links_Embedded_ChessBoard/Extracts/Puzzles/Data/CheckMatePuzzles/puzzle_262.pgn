@@ -1,0 +1,12 @@
+[Event "Ciutadella de Menorca 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fier"]
+[Black "Raja Rithvik"]
+[Result "0-1"]
+[Puzzle "262"]
+[FEN "2b2rk1/2p2ppq/1pr5/p2pP3/5P2/4B2P/PRP2QP1/3R2K1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Bxh3 $1 { The bishop sacrifice works because the white rook on d1 is unprotected. } 2. Qf3 { After 22 gxh3 Qxh3 White has no good defence to the threat of 23...Rg6+. For example: 23 f5 Qg4+ 24 Kh2 Qxd1–+. } 2... Bf5 3. Qxd5 Be4 4. Qd7 Rh6 5. Rdb1 Rh2 { White is unable to protect the g2-pawn. } 0-1

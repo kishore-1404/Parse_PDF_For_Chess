@@ -1,0 +1,12 @@
+[Event "Austrian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Peyrer"]
+[Black "Naiditsch"]
+[Result "0-1"]
+[Puzzle "252"]
+[FEN "b2r2k1/p4p2/4nb2/1Q1p2p1/1P2n3/P3P1B1/6PP/2R3K1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... d4 $1 { Black opens up the position for his minor pieces. } 2. exd4 { 31 Rd1 Bd5–+. } 2... Bxd4+ 3. Kh1 { 32 Kf1 Nd2+ 33 Ke1 Bxg2–+. } 3... Nxg3+ 4. hxg3 Kg7 { White has no good defence to the threat of ...Rh8#. } 0-1

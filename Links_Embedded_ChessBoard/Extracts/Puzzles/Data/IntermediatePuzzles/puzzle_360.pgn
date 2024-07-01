@@ -1,0 +1,12 @@
+[Event "Malaga 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sumets"]
+[Black "Jarmula"]
+[Result "*"]
+[Puzzle "360"]
+[FEN "4r1k1/1q3pb1/4r1pp/8/2Rp3P/1P1Q1NP1/5P2/3R2K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Re3 $1 2. fxe3 Rxe3 3. Nxd4 $2 { 36 Qf1? Rxf3–+. White’s best try is 36 Ne1 Rxd3 37 Rxd3, though the endgame after 37...Qe4 38 Kf2 f5 is unpleasant for White. } 3... Rxd3 4. Rxd3 Qe4 5. Rd1 Qe3+ 6. Kf1 Qxg3 *

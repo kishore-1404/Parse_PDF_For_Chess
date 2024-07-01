@@ -1,0 +1,12 @@
+[Event "Austrian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nisipeanu"]
+[Black "Markus"]
+[Result "0-1"]
+[Puzzle "716"]
+[FEN "r5k1/1p3pp1/p1q2b1p/3R4/2B3Q1/2P4P/Pr3PP1/R5K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... b5 $1 2. Bb3 Rxb3 $1 { 26 axb3 Qxd5–+. } 0-1

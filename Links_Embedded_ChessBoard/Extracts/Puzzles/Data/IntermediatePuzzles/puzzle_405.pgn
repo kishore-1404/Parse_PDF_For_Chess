@@ -1,0 +1,12 @@
+[Event "Maia 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Van Delft"]
+[Black "Almeida Quintana"]
+[Result "*"]
+[Puzzle "405"]
+[FEN "2r3k1/1p1bbpp1/3p3p/pB1Pr3/P2N2n1/1P4P1/2P3P1/R2Q2K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bg5 $1 2. Bxd7 Be3+ 3. Kf1 { 28 Kh1? Rh5#. } 3... Nh2+ 4. Ke2 Bxd4+ 5. Kd3 Bxa1 6. Qxa1 Rxd5+ 7. Ke4 { Black’s active rooks are too much for the white queen. } 7... Rcc5 *

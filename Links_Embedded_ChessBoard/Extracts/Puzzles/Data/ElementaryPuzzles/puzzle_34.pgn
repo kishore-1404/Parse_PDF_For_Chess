@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Praggnanandhaa"]
+[Black "So"]
+[Result "0-1"]
+[Puzzle "34"]
+[FEN "6k1/5pp1/2NQ2n1/1pPp4/1P1P3p/4PPN1/5K2/7q b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Qh2+ $1 2. Ke1 hxg3 { White cannot prevent Black’s far-advanced g-pawn from promoting. } 3. Kd1 Qh1+ 4. Kc2 g2 { White runs out of checks after 39 Qd8+ Kh7–+. } 0-1

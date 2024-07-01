@@ -1,0 +1,12 @@
+[Event "Ayvalik 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nikčević"]
+[Black "Gokerkan"]
+[Result "*"]
+[Puzzle "102"]
+[FEN "r3k3/pb1n1qp1/1ppBp1R1/2Pp4/3P4/1P1Q3p/P2Nr2P/3R3K b q - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Ba6 $1 2. Qxa6 Rxd2 3. Rxd2 Qxg6 { Black has two extra pawns and mating threats. } *

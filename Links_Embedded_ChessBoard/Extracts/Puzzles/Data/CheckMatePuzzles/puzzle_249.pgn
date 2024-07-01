@@ -1,0 +1,12 @@
+[Event "Budapest 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "M. Pap"]
+[Black "Dudin"]
+[Result "1-0"]
+[Puzzle "249"]
+[FEN "4bb1k/4Npp1/p5Q1/3r4/3BP3/7P/5RPK/2q5 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Nxd5 $1 fxg6 { Black may as well take the queen as White wins easily after 42...Qc6 43 Qh5+ Kg8 44 Nf6+ gxf6 45 Bxf6 Bg7 46 Qg5 Qd6+ 47 e5 Qf8 48 Rf3+–. } 2. Rxf8+ Kh7 3. Rxe8 a5 { 44...Qf1 45 Re7+–. } 4. Re7 Kg8 5. Bxg7 { Black has no good defence to the threat of 47 Nf6#. } 1-0

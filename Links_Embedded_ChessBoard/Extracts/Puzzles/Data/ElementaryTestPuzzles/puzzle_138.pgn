@@ -1,0 +1,12 @@
+[Event "Stockholm 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Y. Sokolovsky"]
+[Black "Dann"]
+[Result "1-0"]
+[Puzzle "138"]
+[FEN "3rk2r/p1q2ppp/2b1pn2/2p5/2N1B2Q/8/PPP2PPP/2R1R1K1 w k - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. Qg3 $1 { 19...Rc8 (19...Qxg3 20 Bxc6+ Ke7 21 hxg3+–) 20 Qxg7 Nxe4 21 Qxh8+ Ke7 22 Qe5+–. } 1-0

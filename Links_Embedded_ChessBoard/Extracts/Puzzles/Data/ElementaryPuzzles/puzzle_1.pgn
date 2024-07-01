@@ -1,0 +1,12 @@
+[Event "Braila rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mamedov"]
+[Black "Navara"]
+[Result "*"]
+[Puzzle "1"]
+[FEN "r3k2r/1p4b1/p5p1/1R2p2p/4p3/8/PP3PPP/R1B3K1 w kq - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Rb6 $1 { The b7-pawn is poisoned and White lost a rook after 23 Rxb7?? 0- 0-0! 0-1. Black is attacking the white rook and also threatening 24...Rd1#. } 1... Rd8 2. Be3 Rd7 3. Rxg6 Kf7 4. Rb6 { White has an obvious advantage because of Black’s weak pawns. } *

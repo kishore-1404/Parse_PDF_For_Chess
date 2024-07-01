@@ -1,0 +1,12 @@
+[Event "London rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "M. Taylor"]
+[Black "D. Haydon"]
+[Result "*"]
+[Puzzle "83"]
+[FEN "4rk2/1bR4p/p1Nnp1p1/1p1p4/1P1PpPB1/P3P2P/6P1/6K1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Rd7 $1 { White simplifies into a winning endgame with an extra pawn. After 33 Na5? (as played in the game) Black expelled the white rook with 33...Re7 =. } 1... Bxc6 2. Rxd6 Rc8 3. Bxe6 Rc7 4. Rd8+ Ke7 5. Rc8 Rxc8 { 37...Kd6 38 Rxc7 Kxc7 39 Kf2+–. } 6. Bxc8 { White’s extra pawn is decisive. } *

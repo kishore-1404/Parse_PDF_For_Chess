@@ -1,0 +1,12 @@
+[Event "Paris 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dauletova"]
+[Black "Defromont"]
+[Result "*"]
+[Puzzle "510"]
+[FEN "r1b2rk1/2p2ppp/8/p2pP3/P2Pn2q/RB5P/5PP1/1N1QR1K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Bxd5 $1 { 18 Qf3? was played in the game, when Black could have consolidated his position with 18...Ng5 19 Qc3 (19 Qxd5? Bxh3=+) 19...c6 =. } 1... Qxf2+ { Black lacks compensation for the piece after 18...Nxf2 19 Qd2 Nxh3+ 20 gxh3 Ra6 21 Qf2 Rg6+ 22 Bg2+–. } 2. Kh1 Bg4 3. Qc1 Ng3+ 4. Rxg3 Qxg3 5. Bxa8 Rxa8 6. hxg4 *

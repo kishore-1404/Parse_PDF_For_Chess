@@ -1,0 +1,12 @@
+[Event "Delhi (women) 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pandey"]
+[Black "Karavade"]
+[Result "*"]
+[Puzzle "485"]
+[FEN "4Q3/pp3pkp/6p1/1B6/3r4/2q4P/P4PP1/1K5R w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Ba4 $1 { 30 Qe5+? (as played in the game) is hopeless because Black forces a transition to a rook endgame: 30...Kh6 31 Qe3+ Qxe3 32 fxe3 Rb4+ 33 Kc2 Rxb5–+ and Black went on to win. } 1... Rb4+ { Or 30...Rd2 31 Qb5 a6 32 Qb3 with roughly equal chances. } 2. Bb3 Rxb3+ 3. axb3 Qxb3+ 4. Kc1 Qc3+ 5. Kb1 { White gains nothing by running to the kingside: 34 Kd1 Qd3+ 35 Ke1 Qb1+ 36 Ke2 Qxh1 and White must give perpetual check with 37 Qe5+ f6 38 Qe7+ Kh6 39 Qxf6 Qxg2 40 Qh4+ Kg7 41 Qe7+ Kh6 42 Qh4+. } 5... Qb3+ { with a draw by repetition. } *

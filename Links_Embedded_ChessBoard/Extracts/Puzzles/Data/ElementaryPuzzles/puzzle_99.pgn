@@ -1,0 +1,12 @@
+[Event "Budapest 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Daroczi"]
+[Black "Leszko"]
+[Result "0-1"]
+[Puzzle "99"]
+[FEN "2bkr3/3n1ppp/1q6/1p6/1bpPn3/2N2P2/1PQ1N1PP/R3KB1R b KQ - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Nxc3 2. bxc3 Qxd4 $1 { Three pins is enough for Black to win the game! } 0-1

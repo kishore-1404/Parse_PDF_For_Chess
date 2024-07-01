@@ -1,0 +1,12 @@
+[Event "German Junior Team Ch, Wiesbaden 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Schmider"]
+[Black "Färber"]
+[Result "*"]
+[Puzzle "204"]
+[FEN "6k1/p4r1p/2p3pq/2p2rn1/4p1Q1/2P3P1/P3RPB1/5RK1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Nf3+ $1 2. Bxf3 exf3 { White is unable to counter Black’s plan of doubling major pieces on the h-file. } 3. Re3 { 40 Re4 Rh5 41 Qh4 Rxh4 42 Rxh4 Qg5–+. } 3... Rh5 4. Rxf3 { 41 Qxh5 Qxh5–+. } 4... Rh1+ 5. Kg2 Qh2# *

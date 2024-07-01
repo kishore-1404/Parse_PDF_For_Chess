@@ -1,0 +1,12 @@
+[Event "German Junior Team Ch, Wiesbaden 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "V. Petrovskiy"]
+[Black "Holinka"]
+[Result "*"]
+[Puzzle "542"]
+[FEN "1r4k1/1q3p1p/6p1/1Pn1p3/3b2N1/5Q2/r4PPP/2R1RBK1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Qf6 $1 h5 { Black has no good way to prevent White’s light-squared bishop from making a decisive entrance into the game. For example: 36...Ne6 37 Red1 h5 38 Bc4+– or 36...Rxf2 37 Nxf2 Ne4 38 Rxe4 Qxe4 39 Bc4+–. } 2. Bc4 hxg4 3. Bxa2 *

@@ -1,0 +1,12 @@
+[Event "Abu Dhabi 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chopra"]
+[Black "Z. Rahman"]
+[Result "1-0"]
+[Puzzle "617"]
+[FEN "1r1n1nk1/4qp1p/1N2p1pP/3pP1N1/1p1P1Q2/P4RP1/1Pb2PB1/6K1 w - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1. Nxd5 $1 exd5 2. e6 Rb7 { 40...Be4 41 Qxb8 Qxg5 42 exf7+ Nxf7 43 Rf4+–. } 3. exf7+ Nxf7 { 41...Kh8 42 Re3+–. } 4. Qxf7+ Qxf7 5. Rxf7 { 43...Rxf7 44 Bxd5+–. } 1-0

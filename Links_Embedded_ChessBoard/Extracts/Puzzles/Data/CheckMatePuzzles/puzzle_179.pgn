@@ -1,0 +1,12 @@
+[Event "Juan Dolio 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Henriquez Villagra"]
+[Black "Kaidanov"]
+[Result "1-0"]
+[Puzzle "179"]
+[FEN "6k1/p5p1/3qp3/1p2RQP1/1Pr5/7R/6PK/2r5 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Qh7+ Kf8 { 60...Kf7 61 Rf3+ Ke7 62 Qxg7+ Ke8 (62...Kd8 63 Rf8++–) 63 Qg8+ Kd7 64 Rf7+ Kc6 65 Qc8+ Kb6 66 Qb7#. } 2. Rf3+ { 61 Qh8+ also leads to mate. } 2... Ke8 3. Qg8+ Kd7 4. Rf7+ { 63...Kc6 64 Qc8+ Kb6 65 Qb7#. } 1-0

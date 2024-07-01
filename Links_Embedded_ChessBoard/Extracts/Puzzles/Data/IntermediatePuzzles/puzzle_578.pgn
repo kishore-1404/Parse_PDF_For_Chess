@@ -1,0 +1,12 @@
+[Event "Dutch League 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Beerdsen"]
+[Black "Pijpers"]
+[Result "*"]
+[Puzzle "578"]
+[FEN "k1r5/pp6/3Bp2b/3pP2P/3Pqp2/P3nN2/KP6/3Q2R1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Qa4 $1 Nc4 { White infiltrates Black’s weak back rank after 32...Qxf3 33 Qd7 Rh8 34 Qxe6 Qg3 (34...a6 35 Rg8+ leads to mate) 35 Rxg3 fxg3 36 Qf6 Rg8 37 Qf7 Rh8 38 e6+–. } 2. Qd7 $1 Nb6 3. Qxe6 Qxf3 4. Rg8 Bf8 5. Rxf8 Rxf8 6. Bxf8 { White threatens 38 Qe8+. } 6... Qxh5 7. Bg7 { Now the threat is 39 Qg8+. } 7... Kb8 8. Qd6+ Kc8 9. e6 *

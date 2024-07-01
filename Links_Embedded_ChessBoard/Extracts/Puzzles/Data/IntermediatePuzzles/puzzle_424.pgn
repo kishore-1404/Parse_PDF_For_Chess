@@ -1,0 +1,12 @@
+[Event "Skara 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Blomqvist"]
+[Black "P. Cramling"]
+[Result "*"]
+[Puzzle "424"]
+[FEN "5rk1/p5p1/1p2n3/2q1PN2/6Q1/8/PP1p2PP/5R1K w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nh6+ { After 28 h3? (as played in the game) Black could have eliminated the kingside danger by 28...g5!; e.g., 29 Nh6+ Kg7 30 Nf5+ Kg8 31 Nh6+ with a draw by repetition. } 1... Kh7 2. Nf7 $1 Rxf7 { 29...Kg8 30 Qxe6 Qc8 31 Qb3+–. } 3. Qh5+ Kg8 4. Qxf7+ Kh7 5. Qxe6 *

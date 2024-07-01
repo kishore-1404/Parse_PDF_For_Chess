@@ -1,0 +1,12 @@
+[Event "Chinese Team Ch 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Zeng Chongsheng"]
+[Black "Chen Qi"]
+[Result "*"]
+[Puzzle "355"]
+[FEN "r2r1k2/p5pp/1p6/4B3/5P2/PQ6/5qPP/4R2K w - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1. Bxg7+ $1 Kxg7 2. Re7+ Kh8 { 32...Kg6 33 Qe6+ Kh5 34 Rxh7#. } 3. Qb1 $1 { White defends his back rank and threatens mate on h7. } 3... Qh4 { 33...Rd1+ 34 Qxd1 Qb2 35 h3+–. } 4. Qa1+ Kg8 5. Qg7# *

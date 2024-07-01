@@ -1,0 +1,12 @@
+[Event "Rosenheim 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lohvinov"]
+[Black "Ja. Schneider"]
+[Result "*"]
+[Puzzle "995"]
+[FEN "r2q1rk1/p1p2p1p/bp1bnP1B/3Np1n1/6Q1/6P1/PPP2PKP/3RR3 w - - 0 1"]
+[PuzzleType "DeadlyPuzzles"]
+
+1. Ne7+ Bxe7 $1 { The best try. The game ended in checkmate after 22...Kh8? 23 Bg7+ Nxg7 24 fxg7+ Kxg7 25 Qxg5+ Kh8 26 Qf6# (1-0). } 2. Rxd8 Bb7+ 3. Kf1 $1 { This is the correct square for the white king to avoid a potential knight check on the f3-square. After 24 Kg1? Rfxd8 25 fxe7 (25 Bxg5 Bd6 26 Bh6+ Kh8 27 Bg7+ Kg8 =) Black survives by 25...f5!! 26 exd8Q+ Rxd8 27 Qxf5 (27 Qxg5+ Nxg5 28 Bxg5 Rd5 =) 27...Nf3+ 28 Kf1 (28 Kh1?? Nh4+–+) 28...Nxh2+ 29 Kg1 (29 Ke2?? Nd4+–+) 29...Nf3+ = with a draw by repetition. } 3... Rfxd8 4. fxe7 Rd4 5. f4 Bf3 6. Qh4 *

@@ -1,0 +1,12 @@
+[Event "Austrian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Michalik"]
+[Black "J. Kranzl"]
+[Result "*"]
+[Puzzle "566"]
+[FEN "5r1k/2R5/4p1B1/8/2pP1n2/8/8/4BK2 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Bb4 $1 Rb8 { 42...Nxg6+ 43 Bxf8 Nxf8 44 Re7+–. } 2. Be7 $1 Nd5 { After 43...Nxg6 White regains his extra piece with 44 Bf6+ Kg8 45 Rg7+ Kf8 46 Rxg6 Rb1+ 47 Ke2 Kf7 48 Rh6+–. } 3. Ra7 *

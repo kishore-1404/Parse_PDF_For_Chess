@@ -1,0 +1,12 @@
+[Event "Benalmadena rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Striković"]
+[Black "Cheparinov"]
+[Result "0-1"]
+[Puzzle "246"]
+[FEN "4r1k1/5p2/2p1rn2/1pp3p1/7p/P3PqPP/1PQ1NP1K/3R1R2 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Ng4+ $1 { A nice idea to open the h-file for Black’s rook. } 2. hxg4 { 35 Kg1 hxg3 36 Nxg3 Nxe3 37 fxe3 Qxg3+ 38 Qg2 Qxe3+–+. } 2... Rh6 $1 { The only other playable move is 35...h3, which should win, but there is no forced mate. Black threatens 36...hxg3++ 37 Kg1 Rh1#, and 36 Kg1 is answered with 36...h3 followed by mate. } 0-1

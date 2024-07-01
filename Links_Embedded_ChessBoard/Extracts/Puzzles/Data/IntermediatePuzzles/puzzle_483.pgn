@@ -1,0 +1,12 @@
+[Event "Zahara de la Sierra 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Y. Lin"]
+[Black "Adan Bermudez"]
+[Result "*"]
+[Puzzle "483"]
+[FEN "q1r2bk1/5pp1/3B3p/3n1p2/1p1Pp3/1N2P2P/rP2Q1R1/6RK b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... g6 $1 { In the game Black blundered with 36...Qa6??, allowing White to triple along the g-file and deliver mate: 37 Rxg7+! Kh8 (or 37...Bxg7 38 Qg2 followed by 39 Qxg7#) 38 Qg2 h5 (38...Nf6 is answered with 39 Rg8+ Kh7 40 Qg7+ Bxg7 41 R1xg7#) 39 Rg8+ Kh7 40 Rh8+ and Black resigned in view of 40...Kxh8 41 Qg8#. } 2. Rxg6+ { White also runs out of firepower after 37 Qh5 Bg7 38 Rxg6 fxg6 39 Qxg6 Ra7–+. } 2... fxg6 3. Rxg6+ Bg7 4. Be5 Ra7 *

@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Giri"]
+[Black "Carlsen"]
+[Result "*"]
+[Puzzle "217"]
+[FEN "5rk1/1p6/p3p2p/1P1pP1q1/1Q4p1/1P4n1/2r2PBP/2NRR1K1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Rfxf2 $1 2. Ne2 Nxe2+ $1 { The knight check leads to a forced mate, although the game continuation was good enough: 27...Rfxe2 28 Rxe2 Nxe2+ 29 Kh1 (29 Kf1 Qf5+ 30 Ke1 Nc3 leads to mate) 29...Rc1–+. } 3. Kxf2 { 28 Kh1 Ng3+ 29 hxg3 Qh5+ with mate to follow. } 3... g3+ 4. hxg3 { Or: 29 Kf1 Qf5+ followed by mate; 29 Kf3 Ng1+ 30 Rxg1 Rf2#. } 4... Qxg3+ 5. Kf1 Nc3 { White will soon be mated. } *

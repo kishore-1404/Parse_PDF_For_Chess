@@ -1,0 +1,12 @@
+[Event "Cheliabinsk (women) 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Yakimova"]
+[Black "Tomilova"]
+[Result "*"]
+[Puzzle "950"]
+[FEN "6rk/1R4pp/2p1Qn2/p7/P1PP1P2/4P2r/4KP1q/1R6 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Rxg7 $1 Kxg7 { Black loses her queen after 28...Rxg7 29 Qxf6 Rxe3+ 30 Kxe3 Qh3+ 31 f3 Qc8 32 Qe5 followed by 33 Rb8+–. } 2. Rb7+ Kg6 3. Rf7 { White simplifies into a winning pawn endgame. This is much easier to calculate than 30 Qf7+ Kf5 31 e4+ Kxe4 32 Qe6+ Kxd4 33 Qxf6+ Kc5 34 Qe7+ Kxc4 35 Qe4+ Kc5 36 Qc2+ Kd6 37 Qd2+, leading to mate. } 3... Rxe3+ 4. Kxe3 Qh4 5. Rxf6+ Qxf6 6. Qxg8+ Kh6 7. Qg5+ Qxg5 8. fxg5+ Kxg5 9. f4+ *

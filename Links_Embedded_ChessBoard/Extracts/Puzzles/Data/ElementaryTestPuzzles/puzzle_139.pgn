@@ -1,0 +1,12 @@
+[Event "Xi’an (women) rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Efroimski"]
+[Black "Khotenashvili"]
+[Result "1-0"]
+[Puzzle "139"]
+[FEN "r1b2r1k/ppqn2bp/2pN4/5p2/3PN3/1QPB3P/PP3P2/R3K2R w KQ - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. Nf7+ Rxf7 { White has a smothered mate after 17...Kg8 18 Nh6++ Kh8 19 Qg8+! Rxg8 20 Nf7#. } 2. Qxf7 fxe4 3. Rg1 Ne5 4. Qe8+ 1-0

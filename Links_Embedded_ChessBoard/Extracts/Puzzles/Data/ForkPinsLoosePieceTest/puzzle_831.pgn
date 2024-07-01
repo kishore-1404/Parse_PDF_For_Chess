@@ -1,0 +1,12 @@
+[Event "Tallinn rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bernadskiy"]
+[Black "Grigoriants"]
+[Result "1-0"]
+[Puzzle "831"]
+[FEN "6k1/3q1pp1/4b2p/1Q2P3/4N3/2br1N2/5PPP/5RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1. Qb8+ $1 Qc8 { After 28...Kh7 29 Nc5 Qd8 30 Qb1! Bf5 31 Nxd3 Bxd3 32 Rd1 Bxb1 33 Rxd8+– White emerges ahead on material. } 2. Qxc8+ Bxc8 3. Rc1 1-0

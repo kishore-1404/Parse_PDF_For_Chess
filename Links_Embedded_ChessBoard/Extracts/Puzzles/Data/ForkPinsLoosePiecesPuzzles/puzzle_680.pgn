@@ -1,0 +1,12 @@
+[Event "Plovdiv 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "M. Petrov"]
+[Black "Rusev"]
+[Result "1-0"]
+[Puzzle "680"]
+[FEN "2r5/qp1n1pk1/p3p1p1/4P2p/1n1PpP1N/1N2Q3/PP3RPP/6K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. f5 $1 Nxe5 { 28...Nf8 29 fxg6 fxg6 30 Nc5+–. } 2. fxe6 f5 { 29...Nbd3 30 Qg5 fxe6 31 Qe7+ Kh8 32 Qxe6+–. } 3. Nxf5+ Kg8 { 30...gxf5 31 Rxf5+–. } 4. Ne7+ 1-0

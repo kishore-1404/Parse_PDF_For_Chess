@@ -1,0 +1,12 @@
+[Event "New Delhi 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A. Fedorov"]
+[Black "Paichadze"]
+[Result "0-1"]
+[Puzzle "461"]
+[FEN "r2qk2r/1b2bp2/1p2p1p1/pPnpPn1p/P2N1Q2/3BB3/2PN1PPP/R4RK1 b kq - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Nxd3 2. cxd3 Nxd4 { Black exploits the vulnerability of White’s pieces on the dark squares. } 3. Qxd4 { After 18 Bxd4 Bg5 19 Qf3 Bxd2–+ Black wins a piece. } 3... Bc5 $1 4. Qf4 d4 5. Nc4 Qd5 0-1

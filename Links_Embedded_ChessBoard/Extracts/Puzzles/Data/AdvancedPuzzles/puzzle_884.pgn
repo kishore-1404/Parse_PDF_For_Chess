@@ -1,0 +1,12 @@
+[Event "Turkish Team Ch, Konya 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Safarli"]
+[Black "Mosadeghpour"]
+[Result "1-0"]
+[Puzzle "884"]
+[FEN "1k1r4/p2qb3/Q3Nr1p/2pp4/4p3/7R/PPP2PP1/1K1R4 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Rb3+ Ka8 2. Rb6 $1 e3 { 34...d4 35 Rc6+–. } 3. fxe3 Qc8 4. Rxd5 Rdf8 { 36...Qxa6? allows 37 Nc7#. } 5. a3 { Black is hopelessly tied up; for example, 37...Rxe6 38 Qxc8+ Rxc8 39 Rxe6+– or 37...Rh8 38 e4 Rg8 39 e5 Rfg6 40 Nc7+ Qxc7 41 Rxg6+–. } 1-0

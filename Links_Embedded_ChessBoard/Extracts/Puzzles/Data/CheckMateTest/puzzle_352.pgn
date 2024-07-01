@@ -1,0 +1,12 @@
+[Event "Charlotte 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "T. Luo"]
+[Black "Naroditsky"]
+[Result "0-1"]
+[Puzzle "352"]
+[FEN "Q4bk1/5ppp/8/8/1B2PP2/4K1P1/1Pr4n/5b2 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Ng4+ 2. Kf3 h5 $1 3. Qxf8+ Kh7 { White is unable to parry the dual threats of 43...Rf2# and 43...Bg2#. } 0-1

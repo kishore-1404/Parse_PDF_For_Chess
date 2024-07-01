@@ -1,0 +1,12 @@
+[Event "Marianske Lazne 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stinka"]
+[Black "Pourquet"]
+[Result "*"]
+[Puzzle "731"]
+[FEN "r2r2k1/1p1bbppp/p3pn2/4N3/P2P4/4BQ2/1qB2PPP/2R2RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Nc4 $1 { A retreating knight move to trap a piece can be easy to overlook. } 1... Qb4 { Or 19...Qa2 20 Qe2 g6 (20...Bxa4 21 Bxh7++–) 21 Ra1+–. } 2. Bd2 Qxc4 3. Bxh7+ Kxh7 4. Rxc4 *

@@ -1,0 +1,12 @@
+[Event "Charlotte 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rorrer"]
+[Black "Caglar"]
+[Result "*"]
+[Puzzle "491"]
+[FEN "6k1/1Q3p2/5p2/3Bbq2/2P3b1/1P3n2/P4P1p/2KRR3 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Ng5 $1 { Black pauses to protect her king before continuing the attack. Instead 43...Qg5+? (as played in the game) leaves the black king with no shelter. After 44 Re3 Ng1 White could have played 45 Bxf7+! Kg7 46 Bg8+ followed by mate. } 2. Rd2 { White’s king is too exposed and the h2-pawn too strong after 44 Bh1 Qxf2 45 Rd8+ Kg7 46 Rxe5 Qf4+ 47 Kc2 Qxe5–+. } 2... Bf4 3. Re3 Kg7 4. Kb2 Bxe3 5. fxe3 Qe5+ 6. Rd4 Bf5 *

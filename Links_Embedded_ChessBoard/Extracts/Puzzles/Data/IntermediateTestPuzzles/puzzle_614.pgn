@@ -1,0 +1,12 @@
+[Event "Jerusalem 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "G. Ginsburg"]
+[Black "Kobo"]
+[Result "0-1"]
+[Puzzle "614"]
+[FEN "5r1k/6pp/pp1pB3/4b1q1/1PP5/6P1/P1N1Qn1P/5RK1 b - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... Bxg3 $1 2. Qg4 { 35 Bd5 Bf4+ 36 Bg2 Ng4 37 h3 Ne5–+. } 2... Bxh2+ $1 3. Kg2 { 36 Kxh2 Nxg4+–+. } 3... Qd2 4. Qd4 Nd3+ 0-1

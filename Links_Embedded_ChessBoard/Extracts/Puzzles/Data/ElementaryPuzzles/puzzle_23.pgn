@@ -1,0 +1,12 @@
+[Event "Juan Dolio 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Jimenez Garcia"]
+[Black "J. Johnson"]
+[Result "1-0"]
+[Puzzle "23"]
+[FEN "6k1/p3n1pp/1p3p2/3np3/bP6/Pq2PBP1/5P1P/B1Q1N1K1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. e4 $1 { Black’s knight is trapped in the middle of the board. } 1... Nc6 2. exd5 { White is a piece up. } 1-0

@@ -1,0 +1,12 @@
+[Event "Bucharest rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ghimpu"]
+[Black "Baranciuc"]
+[Result "*"]
+[Puzzle "105"]
+[FEN "2r3k1/1p2bpp1/1qB1p2p/8/Q2P4/4P1P1/5P1P/B1R3K1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. d5 $1 Bf8 { Black also loses a critical pawn after 34...bxc6 35 Qg4 Bf8 36 dxe6+–, while the game ended 34...exd5? 35 Qg4 1-0. } 2. Bd4 Qc7 3. e4 exd5 4. exd5 *

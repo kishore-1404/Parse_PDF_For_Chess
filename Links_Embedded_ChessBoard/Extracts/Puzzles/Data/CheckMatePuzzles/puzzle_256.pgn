@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dragnev"]
+[Black "Hausrath"]
+[Result "1-0"]
+[Puzzle "256"]
+[FEN "7k/pp1b1pp1/2pb1qn1/5P2/2BP2Qp/P1P4P/1P1B2P1/6K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Qh5+ $1 Kg8 2. fxg6 { White’s pressure on the f7-pawn is decisive. } 2... Be6 { 26...Kf8 27 Bg5+–. } 3. Bg5 { 27...Qf5 28 Qh7+ Kf8 29 Qh8#. } 1-0

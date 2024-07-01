@@ -1,0 +1,12 @@
+[Event "Dortmund 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Heimann"]
+[Black "Bilovil"]
+[Result "*"]
+[Puzzle "187"]
+[FEN "3R4/2r1Bkpp/5p2/p7/r1b1R3/P1P2PP1/5K1P/8 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Rf8+ Kg6 2. Rg4+ Kh6 { 33...Kf5 34 Rxg7+–. } 3. Bxf6 $1 Rxa3 { White’s active rooks make all the difference here. After 34...gxf6 35 Rxf6+ Kh5 36 Rh4+ Kg5 37 Rhh6 it is mate in two more moves. } 4. Bg5+ Kh5 5. Bd2 h6 { 36...Rf7 37 Rxf7 Bxf7 38 Rxg7 Bg6 39 Rd7+–. } 6. Rh8 { The game ended 37 Rf5+ g5 38 Rf6 Rc5 39 Rh4+ gxh4 40 g4# (1- 0). } 6... Rc5 7. Rxg7 Rc6 8. Rg5# *

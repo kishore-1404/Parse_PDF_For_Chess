@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "W. Watson"]
+[Black "H. Möhn"]
+[Result "*"]
+[Puzzle "993"]
+[FEN "6r1/5pk1/p7/1p3bN1/5qPQ/P7/1PP4P/1K1R4 w - - 0 1"]
+[PuzzleType "DeadlyPuzzles"]
+
+1. Qe1 $3 { After 32 Nxf7?? (as played in the game) Black drew White’s king out into the open by 32...Bxc2+! 33 Kxc2 Qe4+ 34 Rd3 (34 Kb3 Qc4#) 34...Qe2+ 35 Kc3 (35 Rd2 Rc8+–+) 35...Rc8+ 36 Kb4 Qxd3 – + and won the game shortly. } 1... Bxc2+ { Black has to try this. Other moves are bad: a) 32...Bxg4? 33 Qh4! Rh8 34 Ne6+! fxe6 35 Rd7+ Kg6 36 Qxh8 Qf1+ 37 Ka2 Qc4+ 38 b3 Qxc2+ 39 Qb2+–. b) 32...Qxg4? 33 Qe5+ f6 34 Qe7+ Kh6 (34...Kg6 35 Qh7+ Kxg5 36 Qxg8++–) 35 Qxf6+ Kh5 36 Qf7+ Bg6 (36...Kh4 37 Rd4+–) 37 Qf3 Kxg5 38 h4+! Kh5 39 Rd5+ Kxh4 40 Qf2+ Kh3 41 Rd4 Be4 42 Qe3+ Qf3 43 Qxe4 Qxe4 44 Rxe4+–. } 2. Kxc2 Rc8+ 3. Kb1 Qxg5 4. h3 { White has an extra pawn and winning chances. } *

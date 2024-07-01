@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A. Donchenko"]
+[Black "Parvanyan"]
+[Result "*"]
+[Puzzle "899"]
+[FEN "6k1/5p1p/2N3p1/p2R1b2/4qQ1P/1r2P3/5PP1/6K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Rxf5 $1 { After 36 Qh6? Rb8 37 f3 (as played in the game) Black could have avoided tactical issues on the kingside by 37...Qe6! 38 Qf4 Re8, with equal chances. } 1... Rb1+ 2. Kh2 gxf5 { 37...Qxf5? 38 Ne7++–. } 3. Qg5+ Kf8 { Black loses his queen after 38...Kh8 39 Qf6+ Kg8 40 Ne7+ Kf8 41 Nxf5 Ke8 42 Nd6+ Kd7 43 Nxe4+–. } 4. Qf6 Qg4 { 39...Kg8 transposes to the note to Black’s 38th move. } 5. Ne5 Qh5 6. Nd7+ Ke8 7. Qd4 { White’s queen and knight give him a relentless initiative and Black will have to give up a couple of pawns to avoid mate; for example: 42...Ke7 43 Nf6 Qd1 44 Qe5+ Kd8 45 Qxa5+ Ke7 46 Nd5+ Ke6 47 Nf4+ Kf6 48 Qc3+ Ke7 49 Qe5++–. } *

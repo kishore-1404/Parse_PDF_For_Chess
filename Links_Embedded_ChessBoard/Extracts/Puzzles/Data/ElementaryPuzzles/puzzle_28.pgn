@@ -1,0 +1,12 @@
+[Event "Krasnogorsk rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Inarkiev"]
+[Black "Radjabov"]
+[Result "0-1"]
+[Puzzle "28"]
+[FEN "4Q3/p4ppk/1p2p2p/4P3/3p1q2/P4N2/1P3PPP/2r2RK1 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... d3 $1 { The passed pawn threatens to advance and it also prevents White’s king from escaping via the e2-square. } 2. Qd7 Rxf1+ 3. Kxf1 Qc1+ 4. Ne1 d2 { The pin on the e1-knight is fatal. } 0-1

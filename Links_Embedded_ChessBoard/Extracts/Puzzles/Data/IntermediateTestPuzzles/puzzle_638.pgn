@@ -1,0 +1,12 @@
+[Event "Krasnogorsk rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kramnik"]
+[Black "Morozevich"]
+[Result "*"]
+[Puzzle "638"]
+[FEN "8/3B1K1k/5B1p/6p1/2p1N1P1/5P2/p1b5/4r3 b - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... Bxe4 2. fxe4 Rf1 $1 { The game ended 55...h5?? 56 Bf5+ Kh6 57 Bg7# (1-0). } 3. Bf5+ Rxf5 4. exf5 h5 $1 { Liquidating to a queen and pawn endgame. } 5. Bd4 hxg4 6. f6 c3 7. Bxc3 g3 8. Ke6 g2 9. f7 g1=Q 10. f8=Q { After 64 Kd7 Black forces an exchange of queens followed by a pawn promotion: 64...Qd3+ 65 Ke7 Qe4+ 66 Kd7 Qa4+ 67 Ke6 Qc6+ 68 Kf7 Qc4+ 69 Ke8 Qc8+ 70 Ke7 Qxf8+ 71 Kxf8 g4–+. } 10... Qe3+ 11. Kd5 { The queen ending is winning for Black. } 11... Qxc3 12. Qf7+ Kh6 13. Qe6+ Kh5 *

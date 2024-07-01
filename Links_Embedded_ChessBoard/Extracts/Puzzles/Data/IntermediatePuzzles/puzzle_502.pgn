@@ -1,0 +1,12 @@
+[Event "Hungarian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bodi"]
+[Black "A. Jakab"]
+[Result "*"]
+[Puzzle "502"]
+[FEN "6k1/p4pp1/2R4p/3p2n1/3P4/2N1P1q1/P2r2B1/R4QK1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Rc8+ $1 { 29 Nd1?? was played in the game, when Black forced mate by 29...Rxg2+! 30 Qxg2 Nf3+ 0-1. } 1... Kh7 2. Qf5+ g6 3. Rh8+ $1 { White gives back a rook to simplify into a piece-up endgame. The greedy 31 Qf1? runs into problems after 31...Rf2! 32 Qxf2 Nh3+ 33 Kh1 Nxf2+ 34 Kg1 Qxe3=+. } 3... Kxh8 4. Qe5+ Qxe5 5. dxe5 d4 6. exd4 Rxd4 7. a4 *

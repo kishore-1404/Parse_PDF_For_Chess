@@ -1,0 +1,12 @@
+[Event "Colombian Team Ch, Santa Marta 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Escobar Medina"]
+[Black "Prasca Sosa"]
+[Result "*"]
+[Puzzle "553"]
+[FEN "5rk1/pp3qp1/2n5/2pbP1B1/5R1P/P1PQ4/2P2PP1/6K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Qd7 $1 { This is the correct place for the queen to give the light-squared bishop a retreat-square. After 26...Qe6? 27 c4! Rxf4 28 cxd5 Nxe5 (as played in the game) the chances are roughly equal. For example: 29 Qg3 (the game’s 29 Qe3 should have been answered with 29...Rd4! 30 dxe6 Rd1+ 31 Kh2 Ng4+) 29...Nf3+ 30 gxf3 Qe1+ 31 Kg2 Rf7 32 Qg4 =. 26...c4!? is playable, though the ending after 27 Rxf7 cxd3 will be less clearly winning for Black as White’s pawns are improved. } 2. Rxf8+ Kxf8 3. f4 Be6 { White has three pawns for the knight but they are solidly blockaded. } *

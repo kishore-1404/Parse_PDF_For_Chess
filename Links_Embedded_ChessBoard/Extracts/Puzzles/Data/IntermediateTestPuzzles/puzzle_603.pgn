@@ -1,0 +1,12 @@
+[Event "New York 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "D. Khamrakulov"]
+[Black "Sarkar"]
+[Result "1-0"]
+[Puzzle "603"]
+[FEN "6k1/p4ppp/2Bb4/3p4/6bq/P2Q4/1PP3PP/R1B1rRK1 w - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1. Bf4 $1 { White connects his rooks. Black is OK after 20 g3? Bc5+ 21 Be3! (21 Kh1?? Bf3+ 22 Qxf3 Rxf1+ 23 Qxf1 Qe4+ 24 Qg2 Qe1+ 25 Qg1 Qxg1#) 21...Rxe3 22 gxh4 Rxd3+ 23 Kh1 Rd2 =. } 1... Bxf4 2. g3 1-0

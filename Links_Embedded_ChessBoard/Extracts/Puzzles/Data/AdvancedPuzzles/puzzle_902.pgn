@@ -1,0 +1,12 @@
+[Event "Saint Louis 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B. Jacobson"]
+[Black "Sadhwani"]
+[Result "0-1"]
+[Puzzle "902"]
+[FEN "2rr2k1/pb2q1p1/1p2p1n1/2P2Pn1/2P5/P2N1PPp/1B2Q2P/2R1RBK1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Nh4 $1 { 25 gxh4 Nxf3+ 26 Kf2 Qxh4+ 27 Ke3 Qg5+ 28 Nf4 (28 Kf2 Qg1#) 28...exf5 29 Qxf3 (29 Bxh3 Re8+–+) 29...Qg1+ 30 Qf2 Re8+ 31 Kd3 Qxf2–+. } 0-1

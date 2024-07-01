@@ -1,0 +1,12 @@
+[Event "Catalonian Team Ch, Barcelona 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Demidov"]
+[Black "Campos Moreno"]
+[Result "1-0"]
+[Puzzle "142"]
+[FEN "2r1r1k1/5ppp/p1b1q3/1p1p3n/1BpP4/P3PP2/1P2R1PP/1B2QR1K w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. g4 $1 { Black loses a piece after 23...Nf4 (23...Nf6 24 Bf5+– traps the black queen) 24 Bf5 Qf6 25 exf4+–. } 1-0

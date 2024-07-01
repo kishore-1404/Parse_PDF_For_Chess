@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Tabatabaei"]
+[Black "Rustemov"]
+[Result "1-0"]
+[Puzzle "181"]
+[FEN "r1q1Nr2/pppn1p1p/6pk/4Q3/8/P3P3/1PP3PP/5RK1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Qg7+ $1 { Not 21 Qf4+? g5 22 Qf6+ Nxf6 23 Rxf6+ Kh5 24 Ng7+ Kg4! (24...Kh4?? 25 g3+ Kh3 26 Rh6+ Kg4 27 Kg2 Qe6 28 h3#) 25 Rh6 Qe6! 26 h3+ Kg3 27 Nh5+ Kh4 28 Nf6+ Kg3 29 Nh5+ = with a draw by repetition. } 1... Kg5 { 21...Kh5 22 Qxh7+ Kg5 23 Rf4 and mate next move. } 2. h4+ { Also decisive is 22 Rf4 h6 (22...Qxe8 23 h4+ Kh5 24 Qxh7#) 23 Qf6+ Nxf6 24 h4+ Kh5 25 Nxf6#. } 2... Kh5 { 22...Kg4 allows several mates, including 23 Qh6 Qd8 24 Qf4+ Kh5 25 Ng7#. } 3. Rf5+ { 23...Kxh4 24 Qh6+ Kg4 25 Rg5#. } 1-0

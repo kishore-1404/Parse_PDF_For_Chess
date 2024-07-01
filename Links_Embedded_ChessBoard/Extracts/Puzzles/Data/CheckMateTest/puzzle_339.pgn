@@ -1,0 +1,12 @@
+[Event "La Nucia 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Carbonell Sancho"]
+[Black "Vasquez Schroder"]
+[Result "1-0"]
+[Puzzle "339"]
+[FEN "2k1b1r1/4bp2/4p1q1/4p2N/6n1/1p3BPQ/1PP5/1K1R2B1 w - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1. Qf1 { White’s queen and bishops control the entire queenside. } 1... Kb8 { Or: 34...bxc2+ 35 Ka2 cxd1Q 36 Qa6+ Kd8 37 Qb6+ Kc8 38 Qb7+ Kd8 39 Bb6#; 34...Qxc2+ 35 Ka1 Bd7 36 Bb6 leads to mate. } 2. Qa6 Qxc2+ 3. Ka1 Bc6 4. Ba7+ { 37...Kc7 38 Qb6+ Kc8 39 Qb8# or 37...Ka8 38 Bb6+ Kb8 39 Qa7+ Kc8 40 Qc7#. } 1-0

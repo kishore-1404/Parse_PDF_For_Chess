@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bok"]
+[Black "So"]
+[Result "*"]
+[Puzzle "840"]
+[FEN "1r4k1/p4pp1/Q2R1n1p/q1P5/2P1p1b1/P1P1P3/2K2PPP/5B1R b - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... Bd1+ $3 { Black takes advantage of White’s overloaded rook to generate a mating attack. } 2. Kxd1 { 22 Rxd1 Qxa6–+. } 2... Qxc3 3. Qb5 { 23 Rb6 axb6 24 cxb6 Rd8+ leads to mate. } 3... Rxb5 4. cxb5 Qxc5 5. Rd8+ Kh7 *

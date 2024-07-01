@@ -1,0 +1,12 @@
+[Event "Pardubice 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "P. Keller"]
+[Black "Stachowiak"]
+[Result "0-1"]
+[Puzzle "131"]
+[FEN "2b4R/1k3p2/p1qB4/1p2P3/8/3r4/PP6/1KQ5 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Rxd6 $1 2. Rxc8 { 35 exd6 Bf5+ both wins the white queen and mates. } 2... Qxc8 { The pawn ending after 36 Qxc8+ Kxc8 37 exd6 Kd7–+ is a simple win. } 0-1

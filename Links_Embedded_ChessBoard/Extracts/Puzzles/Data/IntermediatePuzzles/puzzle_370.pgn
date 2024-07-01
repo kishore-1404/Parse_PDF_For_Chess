@@ -1,0 +1,12 @@
+[Event "Budapest 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Aveskulov"]
+[Black "Krishnater"]
+[Result "1-0"]
+[Puzzle "370"]
+[FEN "3rkbnr/1bp3pp/p4q2/1p2pB2/2np4/2PQ1N2/PP3PPP/RNB1R1K1 w k - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Bg5 $1 dxc3 2. Bxf6 { 15 Nxe5 Rxd3 16 Bxf6 transposes. } 2... Rxd3 3. Nxe5 gxf6 { 16...Nxf6 17 Nxd3+ Kd8 18 Nxc3+–. } 4. Nxd3+ Ne7 5. Nxc3 Nd6 6. Be6 1-0

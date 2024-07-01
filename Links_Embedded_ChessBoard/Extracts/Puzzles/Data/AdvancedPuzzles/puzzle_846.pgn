@@ -1,0 +1,12 @@
+[Event "World Rapid Team Ch, Jerusalem 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sindarov"]
+[Black "Nihal"]
+[Result "*"]
+[Puzzle "846"]
+[FEN "8/4r1k1/3P3p/2Q1pBq1/1P2Pp2/5P2/2P3r1/5K1R b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Rd2 $1 { The game ended 42...Qg3? 43 Rh3! Qg5 44 dxe7 1-0. } 2. Ke1 Qg2 $1 3. Rg1 { Or 44 Qg1 Re2+ 45 Kd1 Rd2+ 46 Ke1 Re2+ with perpetual check. } 3... Re2+ 4. Kd1 Rd2+ 5. Kc1 { 46 Ke1 Re2+ also repeats. } 5... Rxc2+ $1 6. Kb1 { 47 Qxc2?? Qxg1+–+. } 6... Rb2+ { The game ends in a draw by repetition. } *

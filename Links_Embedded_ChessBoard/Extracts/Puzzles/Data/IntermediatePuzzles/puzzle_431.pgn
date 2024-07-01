@@ -1,0 +1,12 @@
+[Event "Stockholm 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Y. Milikow"]
+[Black "M. Pranesh"]
+[Result "*"]
+[Puzzle "431"]
+[FEN "r3kb1r/1bqn1ppp/p2Rp3/2p1P1B1/Pp2N3/1Q4P1/4PPBP/R5K1 b kq - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Nxe5 $1 2. Rxe6+ { Black has two extra pawns after 17 Rdd1 Bxe4 18 Bxe4 c4 19 Qc2 Rc8–+. } 2... fxe6 3. Qxe6+ Be7 4. Bf4 Qd7 5. Qxe5 O-O *

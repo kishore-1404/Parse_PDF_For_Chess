@@ -1,0 +1,12 @@
+[Event "Chennai Women’s Olympiad 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E. Roebers"]
+[Black "Ouellet"]
+[Result "*"]
+[Puzzle "513"]
+[FEN "8/5p2/1pkN1P2/3pP2K/3Q4/1P4P1/r6P/2q5 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Qc2 $1 { After 81...Rxh2+?? 82 Kg4 (as played in the game) White is able to win Black’s f7-pawn and create an escape-path for her king. For example: 82...Qc5 (82...Qb1 was played in the game, and allows 83 Qc3+ Kd7 84 Qc8#) 83 Qa4+ b5 84 Qa8+ Kb6 85 Qb7+ Ka5 86 Qxf7+–. } 2. h3 Qg6+ 3. Kh4 Qh6+ 4. Kg4 Qg6+ 5. Kh4 { with a draw by repetition. } *

@@ -1,0 +1,12 @@
+[Event "Catalonian Team Ch, Barcelona 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gozzoli"]
+[Black "Gines Esteo"]
+[Result "*"]
+[Puzzle "568"]
+[FEN "5rk1/3q1r2/pp1p2pb/2pPp2n/P1P1P3/1PN2PPp/2N1QR2/6RK b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... h2 $1 2. Rxh2 { White’s king is in an unfortunate position after 35 Rgg2 Qh3–+ or 35 Kxh2 Rh7 36 Rh1 (36 Kg2 Nxg3–+) 36...Bf4–+. } 2... Rxf3 3. g4 Ng3+ 4. Rxg3 Rxg3 5. Rxh6 Qg7 *

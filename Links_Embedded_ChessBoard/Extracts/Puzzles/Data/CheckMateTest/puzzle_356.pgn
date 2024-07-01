@@ -1,0 +1,12 @@
+[Event "Dutch League 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Maatman"]
+[Black "Baselmans"]
+[Result "*"]
+[Puzzle "356"]
+[FEN "3r2k1/5ppp/2P5/4Q3/1P1r1P2/5P1q/2R1P2P/R5K1 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Rd1+ 2. Rxd1 Rxd1+ 3. Kf2 Qxh2+ { Black should avoid 30...Qf1+? 31 Kg3 Qg1+ 32 Kh3 Qf1+ 33 Kg3 with a draw by repetition. } 4. Ke3 Qg1+ 5. Ke4 f5+ $3 6. Kxf5 { Or 33 Qxf5 Qd4#. } 6... Qg6# *

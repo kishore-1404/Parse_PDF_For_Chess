@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A. Sorokin"]
+[Black "Fedoseev"]
+[Result "0-1"]
+[Puzzle "663"]
+[FEN "4r1k1/pB3pp1/7p/4n1q1/8/4N2b/PP1Q1PP1/2R3K1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Bxg2 $1 2. f4 { 26 Bxg2 Nf3+–+. } 2... Bxb7+ { 27 fxg5 Nf3+ 28 Kf2 Nxd2–+. } 0-1

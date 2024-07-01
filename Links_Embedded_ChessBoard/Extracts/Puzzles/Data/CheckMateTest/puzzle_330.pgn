@@ -1,0 +1,12 @@
+[Event "Budapest 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Zo. Nemeth"]
+[Black "Halak"]
+[Result "0-1"]
+[Puzzle "330"]
+[FEN "r5k1/5pp1/4p1b1/1p1p2Pp/1PpP3P/2K1PP2/rP4B1/4R2R b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... R8a3+ $1 { 28 Kd2 (28 bxa3 Rc2#) 28...Rxb2+ 29 Kc1 c3 30 e4 Ra1#. } 0-1

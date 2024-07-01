@@ -1,0 +1,12 @@
+[Event "Austrian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Renner"]
+[Black "Höfelsauer"]
+[Result "*"]
+[Puzzle "960"]
+[FEN "r1qr2k1/pp3pp1/2nbp2p/3nNb2/3P4/1Q3NB1/PP2BPPP/2R2RK1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Ba6 $1 Bxe5 { 16...bxa6 17 Nxc6+–. } 2. Bxb7 { After 17 Nxe5 (as played in the game) White obtains a material advantage, but Black could have resisted for a while because of his knight outpost on the d5-square: 17...bxa6 18 Nxc6 Re8 19 Ne7+ Rxe7 20 Rxc8+ Rxc8 21 h4+–. } 2... Rb8 3. Bxc8 Rxb3 4. axb3 Bxg3 5. Rxc6 *

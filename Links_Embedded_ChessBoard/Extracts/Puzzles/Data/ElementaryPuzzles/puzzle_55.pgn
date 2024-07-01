@@ -1,0 +1,12 @@
+[Event "Warsaw 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Piorun"]
+[Black "Janik"]
+[Result "*"]
+[Puzzle "55"]
+[FEN "rn3r1k/pp1q1ppp/8/3p1b2/3P1B2/2N2PR1/PP1Q2P1/4R1K1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Rxg7 $1 Kxg7 { Or 22...Nc6 23 Bh6+–. } 2. Bh6+ Kh8 { 23...Kg8 24 Qg5+ Bg6 25 Qf6 leads to mate. } 3. Bxf8 { White’s queen will infiltrate Black’s kingside with decisive effect. } *

@@ -1,0 +1,12 @@
+[Event "Budapest 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pacher"]
+[Black "Kwon"]
+[Result "*"]
+[Puzzle "482"]
+[FEN "6Q1/8/2p3Q1/p1knp3/np6/8/1PP5/1KN1q3 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Ndc3+ { (variation) } 2. bxc3 Nxc3+ 3. Kb2 Na4+ { 38...Nac3+ 39 bxc3 Nxc3+ transposes. } 4. Kb1 { 40...Nd1+ 41 Kb1 (41 Ka1?? Qc3+ 42 Kb1 Qb2#) 41...Nc3+ comes to the same thing. } 4... Nc3+ 5. Kb2 Na4+ { White is mated after 41 Kb3?? Qc3+ 42 Kxa4 Qa3#. } 6. Ka2 { Or 42...Nd1+ =. } 6... Nc3+ 7. Kb3 { Not 43 Ka1?? Qc3+ 44 Ka2 Qb2#. } 7... a4+ 8. Kb2 Nd1+ 9. Kb1 Nc3+ 10. Kb2 Nd1+ { 44 Kb2 repeats the position. } *

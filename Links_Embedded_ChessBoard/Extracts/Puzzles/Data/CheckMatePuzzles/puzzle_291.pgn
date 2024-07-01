@@ -1,0 +1,12 @@
+[Event "Catalonian Team Ch, Barcelona 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Garcia Ramos"]
+[Black "Gonzalez Perez"]
+[Result "*"]
+[Puzzle "291"]
+[FEN "8/6kp/1rnN1R2/1pR3P1/5p2/p1P5/1r5P/6K1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Ne8+ $1 Kg8 2. Rcf5 $1 { Black’s king is caught in a mating-net. } 2... h5 3. Rf8+ { The game ended 37 g6 Rb1+ 38 Kg2 1-0. } 3... Kh7 4. R5f7+ Kg6 5. Rg7# *

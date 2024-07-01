@@ -1,0 +1,12 @@
+[Event "Nakhchivan 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "S. Mammadov"]
+[Black "P. Gasimov"]
+[Result "*"]
+[Puzzle "94"]
+[FEN "r2qr1k1/1p3ppp/p1n1bn2/2bp4/8/P1NBP2P/1PQ1NPP1/R1BR2K1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Nxd5 $1 Nxd5 { 14...Bxd5?! 15 Qxc5 Rc8 16 Nf4 gives White an extra pawn and good chances to win. After 14...Ba7? 15 Nxf6+ Qxf6 16 Bxh7+ Kh8 (as played in the game) Black has no compensation for the pawn; then 17 Bd2+– would have been best. } 2. Qxc5 Rc8 3. Qc2 Na5 4. Qa4 b5 5. Qe4 Nf6 6. Qf4 Nb3 { Black has a little compensation for the pawn as White still has to unravel his queenside. } 7. Rb1 *

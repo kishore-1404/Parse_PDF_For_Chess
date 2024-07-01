@@ -1,0 +1,12 @@
+[Event "Catalonian Team Ch, Barcelona 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Edouard"]
+[Black "H. Barseghyan"]
+[Result "*"]
+[Puzzle "567"]
+[FEN "3r4/1p1nk3/2p1n2r/2p1PR2/P3P1B1/2N1P3/2K5/5R2 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nd5+ $1 cxd5 { 51...Ke8 52 Rh5+–. } 2. exd5 Rf8 { Black must give up the knight or he will be steamrolled by the white pawns; for example, 52...Nef8 53 Rf7+ Ke8 54 d6 Ng6 55 e6+–. } 3. dxe6 Rxf5 4. Rxf5 Rxe6 { The game ended 54...Rh4 55 Rf7+ 1-0. } 5. Rh5 Rxe5 6. Rh7+ Kd6 7. Rxd7+ Kc6 8. Rd3 *

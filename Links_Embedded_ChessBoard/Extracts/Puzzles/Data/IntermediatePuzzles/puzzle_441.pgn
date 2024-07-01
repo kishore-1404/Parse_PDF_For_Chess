@@ -1,0 +1,12 @@
+[Event "ASEAN Ch, Quezon City 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Quizon"]
+[Black "Bersamina"]
+[Result "*"]
+[Puzzle "441"]
+[FEN "2r3k1/1p2bppp/4bn2/1q2p3/3rP3/p2NB1P1/PP3PBP/RQ1R2K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Rxd3 $1 2. Qxd3 { 21 Rxd3 axb2–+. } 2... Qxd3 3. Rxd3 axb2 4. Rb1 Rc2 5. Rbd1 h6 { White has no good defence to the threat of 25...Bxa2. } *

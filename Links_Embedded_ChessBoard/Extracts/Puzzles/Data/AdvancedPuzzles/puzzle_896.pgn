@@ -1,0 +1,12 @@
+[Event "Tsaghkadzor 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A. Barseghyan"]
+[Black "Pultinevicius"]
+[Result "*"]
+[Puzzle "896"]
+[FEN "6R1/4Qp2/p5pk/7p/Ppr4P/1p2P3/5PPK/2q5 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Rc8 $1 2. Rxc8 { (variation) } 2... Qxc8 3. Qxf7 Qb8+ 4. g3 b2 { 38 Qxf7?? loses to 38...Qc7+! 39 Qxc7 Rxc7 40 Rb8 a5–+. } 5. Qf6 { 40...a5 41 Qxb3 Qf8 42 Kg1 is equal; although Black has a protected passed b-pawn, his king is too exposed to checks from the white queen. } 5... b1=Q 6. Qg5+ Kg7 7. Qe7+ Kg8 8. Qe6+ Kh7 { 41 Qe7 b1Q 42 Qg5+ comes to the same thing. } 9. Qe7+ Kh6 10. Qg5+ { With 44...Kf8 45 Qf6+ Ke8 46 Qh8+ Kd7 47 Qxb8 Black gives back one queen to avoid an immediate draw, but he won’t be able to make anything of his passed b-pawn without allowing a later perpetual check. So the queen endgame is level. } *

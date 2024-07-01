@@ -1,0 +1,12 @@
+[Event "Pozarevac 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "N. Ristić"]
+[Black "Shoshin"]
+[Result "*"]
+[Puzzle "949"]
+[FEN "r3k1r1/1b1n4/pq2pn1p/1pb3N1/2p1N3/4P2P/PPB1QPP1/R1BR2K1 w q - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Rxd7 $1 Nxd7 2. Qh5+ Kd8 3. Qxh6 Bd5 { White’s more active pieces and safer king give him a decisive advantage after 19...Kc7 20 Nxc5 Nxc5 21 Qh7+ Nd7 22 e4 e5 23 Be3+–. } 4. Nxc5 Nxc5 5. e4 Bc6 6. Be3 { White is winning because the black king has no safe haven. } *

@@ -1,0 +1,358 @@
+The games 
+ 
+Game 1 – Italian Game 
+Adolf Anderssen 
+Jean Dufresne 
+Berlin 1852 
+This is one of Anderssen’s two most famous 
+games, the ‘Immortal’ against Kieseritzky being 
+the other. This one has attracted a great deal of 
+analysis over the years, especially Black’s 19th 
+move. We hope we have now finally been able 
+to answer the questions once and for all. 
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 
+The Evans Gambit has proved one of the more 
+enduring of the classical gambit openings, 
+bringing Kasparov two devastating wins in his 
+only two serious outings with it, and also 
+proving a useful point-scorer for Nigel Short. 
+But nowadays it is believed to have finally been 
+pretty much ‘solved’ at top level. One might 
+think that such gambits would be the first to be 
+refuted in the modern engine age. However, it’s 
+turned out that piece activity and open lines and 
+diagonals are the most valuable of all currencies 
+for modern engines, and that a lost pawn in the 
+opening is often just a minor inconvenience if 
+dynamic chances are present. This was brought 
+home to me (Matthew) most recently when I 
+submitted the Evans-esque 1.e4 1...Nc6 2.b4?!? 
+(the brainchild of English IM Richard Palliser) 
+as an opening for the TCEC (the leading engine 
+competition) Superfinal (a 100-game match 
+played at long time controls from pre-specified 
+opening 
+positions) 
+between 
+top 
+engines 
+Stockfish and Leela. The games were played at 
+classical time controls on extremely impressive 
+hardware, but neither engine made any 
+impression as Black. The tempo gained on the 
+black knight after capturing on b4, and the open 
+lines and diagonals created by the absence of a 
+b-pawn were more than enough to balance the 
+game with counterplay. 
+4...Bxb4 5.c3 Ba5 6.d4 
+ 
+6...exd4 
+Subsequently, Black normally followed a solid 
+plan of defence attributed to Lasker but which 
+was first played by Salwe in 1908 against Rudolf 
+Spielmann: 6...d6 7.Qb3 Qd7 8.0-0 Bb6. This is 
+the linchpin of the plan, and Salwe also played 
+this manoeuvre twice in 1906 when he faced the 
+Evans Gambit (though White did not play 
+7.Qb3). The loose bishop on a5 is brought back 
+to safety; by doing so the a5-square is freed 
+which the knight on c6 can use profitably to 
+exchange off a key white attacker: the bishop on 
+c4. 9.Nbd2 Na5 10.Qc2 and now: 
+ 
+analysis diagram 
+A) 10...Nxc4 11.Nxc4 Qc6 is an alternative way of 
+returning the pawn to blunt the white initiative. 
+It has been tried a few times in human games, 
+mostly in rapid and blitz: 12.Nxb6 axb6 13.dxe5 
+dxe5 14.Nxe5 Qa4 15.Qd3 Nf6 16.Re1 (16.Qg3 has 
+been the human choice in blitz and obviously 
+caused some worries and problems for the black 
+player!: 16...0-0 17.Bh6 Nh5 18.Qf3 and now the 
+engine line is the lovely 18...f6 19.Qxh5 Qe8 
+
+20.Qxe8 Rxe8 21.Nd3 gxh6 with no problems for 
+Black) 16...0-0 17.Bg5 Nd7 18.Nxd7 Qxd7 19.Qg3 
+Ra4 20.Bf4 Rc4 21.f3 ½-½ Dragon 3.1-Stockfish, 
+Classics 2022; 
+B) 10...Qe7 11.Ba3 Qf6 12.Bb5+ c6 13.Be2 Ne7 
+14.Bb4 Bc7 15.Rfd1 0-0 was a Stockfish attempt 
+to keep the extra pawn. The offside knight on a5 
+gives Black a few headaches but Black’s position 
+is basically solid, ½-½ (25) Dragon 3.1-Stockfish, 
+Classics 2022; 
+C) 10...Ne7. This line, returning the sacrificed 
+pawn for easy development has the been the 
+most popular in the modern game. 11.dxe5 Ng6 
+12.exd6 Qxd6 13.e5 Qc6 14.Be2 Nf4 15.Bd1 0-0 
+16.Ne4 Ng6 17.Re1 Nc4 18.Ned2 Nxd2 19.Bxd2 
+Be6 20.a4 Rad8 ½-½ Stockfish-Dragon 3.1, 
+Classics 2022. 
+7.0-0 
+7.Qb3 is of course also typical and interesting, 
+hitting f7 immediately to disrupt Black’s 
+development. 7...Qe7 8.0-0 Bb6 9.cxd4 Nxd4 
+10.Nxd4 Bxd4 11.Nc3 has been seen fairly 
+frequently in human games with pretty good 
+results for White. 
+ 
+7...d3 
+Not the engine choice, but a very reasonable 
+idea to destroy any hope White might have of 
+gaining a double pawn centre as compensation 
+for the sacrificed pawn. On the downside, it is a 
+non-developing pawn move in response to 
+White’s lead in development, so it obviously 
+involves some risk. But the text, though not best, 
+is certainly not so bad. 
+7...Nge7 is the main choice at top level these 
+days. 
+7...Nf6 was the engine preference, though it too 
+is not without risk: 8.Ba3 d6 9.e5 Ne4 10.exd6 
+cxd6 11.Qe2 d5 12.Nxd4 Nxd4 13.cxd4. Black is 
+now unable to castle, but finds a good spot for 
+the king on g6! 13...f5 14.Bb3 Kf7 15.Qb5 Kg6 
+16.Bxd5 h6 17.Bxe4 fxe4 18.Bb4 Bb6 19.Nc3 a6 
+20.Qd5 Qxd5 ½-½ Stockfish-Dragon 3.1, Classics 
+2022. 
+8.Qb3 Qf6 9.e5 Qg6 
+ 
+10.Re1?! 
+Very natural, but the engines much preferred 
+10.Rd1. The point is that they consider ...d6 to be 
+mandatory to free Black’s position, even at the 
+cost of a pawn. 10.Rd1 already lines up against 
+the isolated d-pawn that will be created after 
+exd6 ...cxd6. 
+The engine assesses the position as equal after 
+10...Nge7 11.Bxd3 Qh5 12.Nbd2 0-0 13.Ba3 d6 
+14.exd6 cxd6 15.Bxd6 Rd8 16.Ne4 Be6 17.Qb2 
+Nf5 18.Bf4 Qg4 19.Qc1 h6 20.h3 Qh5 21.Rb1 Bb6 
+22.Kh2 Nh4 23.Nxh4 ½-½ Dragon 3.2-Stockfish, 
+Classics 2023. 
+10...Nge7 11.Ba3?! 
+Now White should be somewhat worse. The 
+engine prefers to eliminate the d3-pawn by 
+11.Qd1 or 11.Re3. 
+ 
+11...b5? 
+A creative and ingenious idea to free Black’s 
+queenside pieces with gain of tempo and give 
+
+the light-squared bishop not just access to the 
+c8-h3 diagonal, but to the a8-h1 diagonal. It 
+doesn’t work particularly well however, because 
+until Anderssen very helpfully opens the g-file 
+with 17.Nf6+, Black doesn’t have much to 
+combine with the light-squared bishop to create 
+danger against the white position. And without 
+the assistance of the light-squared bishop in 
+covering the kingside light squares, Black’s 
+queen is extremely vulnerable to attack by 
+White’s minor pieces. 
+11...d5 was again the sensible engine choice to 
+free the light-squared bishop and Black’s 
+queenside pieces. 12.exd6 cxd6 13.Re3 0-0 
+14.Bxd3 Qh6 15.Nbd2 Be6 is a very pleasant 
+position for Black, ½-½ (40) Stockfish-Dragon 
+3.2, Classics 2023. 
+12.Qxb5 
+12.Bxb5 Rb8 13.Qa4 was the engine favourite but 
+it ends up very similar to the game. Not 13...0-0? 
+14.Bxe7, winning a piece. 
+12...Rb8 13.Qa4 
+ 
+13...Bb6 
+Putting the bishop to safety, allowing Black to 
+castle and also preventing Re3 and Bxd3. 
+13...Bb7 was Dragon’s favourite, leading to some 
+crazy games after 14.Re3 Bb6 15.Bxd3 f5 16.exf6 
+Qxf6 17.Re2 Kd8 18.Be4 g5. A great idea, Dragon 
+channelling its inner Basman to bring some new 
+life into a 19th century game! 19.Nbd2 g4 20.Nd4 
+Nxd4 21.cxd4 Nc6 22.Rae1 Nxd4 23.Bxb7 Nxe2+ 
+24.Rxe2 Re8 25.Be4 Bd4 26.Qc4 c6 27.Bxh7 Kc7 
+28.Nf1 Qf4 29.Qd3 Rxe2 30.Qxe2 Re8 31.Ne3 
+Bxe3 32.fxe3 Qxe3+ 33.Qxe3 Rxe3 and Black had 
+enough play with the passed c- and d-pawns to 
+keep the two bishops at bay! Super play! ½-½ (57) 
+Stockfish-Dragon 3.1, Classics 2022. 
+14.Nbd2 
+14.Qd1 0-0 15.Bxd3 Qh6 16.Nbd2 was the calm 
+engine preference, when Black needs to hurry to 
+secure some control over some kingside squares 
+or the queen will become a target for Re1-e4-h4 
+or Ne4 and Bc1: 16...d5 17.exd6 cxd6 18.Rb1 Rd8 
+19.Qc2 Bg4 20.h3 Bh5 21.Bc1 Bg6 22.Ne4 Qh5 
+23.Bg5 ½-½ (75) Stockfish-Dragon 3.1, Classics 
+2022. Black fought out of this but it was very 
+uncomfortable. 
+ 
+14...Bb7? 
+This natural move is the one the engines really 
+dislike! 
+It’s 
+the 
+logical 
+continuation 
+of 
+Dufresne’s concept but now it’s open season for 
+White’s minor pieces on the black queen. 
+It is now essential to get the king out of trouble 
+by means of 14...0-0. White still has a decent 
+initiative after 15.Re4!, intending Bxd3, but at 
+least 15...d5 was still just about holding with 
+some very fraught tactics: 16.exd6 cxd6 17.Bxd3 
+Bh3 18.g3 Qf6 when his position looks rather 
+shaky, but is not a complete calamity: 19.Rh4 h6 
+20.Qc2 (20.Rxh3? Qxc3, forking the bishop on d3 
+and rook on a1, is the tactical point) 20...Ne5 
+21.Rxh3 Nxf3+ 22.Nxf3 Qxf3 23.Bxd6 Rbe8 
+24.Bh7+ Kh8 25.Be4 Bxf2+ 26.Qxf2 Qxe4 27.Re1 
+Qf5 28.Rh4 Qd7 29.Rd4 Nc6 30.Bxf8 Nxd4 
+31.Rxe8 Qxe8 32.Bxg7+ Kxg7 33.Qxd4+ Kg8 and 
+Dragon had miraculously reached a holdable 
+endgame! ½-½ (39) Stockfish-Dragon 3.1, 
+Classics 2022. If 34.Qxa7, 34...Qe1+ 35.Kg2 Qe4+ 
+36.Kf2 Qc2+ recovers the c-pawn with check 
+and the resulting queen endgame is a trivial 
+draw for these monsters. 
+15.Ne4 Qf5?! 
+A very odd move that doesn’t help matters, but 
+Black’s position was in dire straits anyway. 
+
+15...d2, to distract the white knight with 
+16.Nexd2, was Black’s best, but it’s clear 
+something has gone a bit wrong for Black: 16...0-
+0 17.Ne4 when the threat of Bd3 leaves the black 
+queen in severe trouble. 
+15...0-0 16.Bxd3 Kh8 17.Nc5 wins the bishop pair 
+and removes any danger against the white 
+kingside with a great position to boot. 
+16.Bxd3 Qh5 
+ 
+17.Nf6+? 
+An irresistible move: it might well be the first 
+move one whacks out in a simultaneous display 
+without a second thought! However, decisive as 
+it looks, it is a serious mistake that throws away 
+all of White’s advantage! In one fell swoop it 
+opens the g-file and adds a rook to Black’s 
+firepower against White’s kingside and that’s 
+just what Black needs to make use of the activity 
+Dufresne created with 11...b5. White could have 
+obtained a much more crushing position after 
+either of the two prosaic moves. Firstly, 17.Ng3; 
+for example, 17...Qh6 18.Bc1 (Kasparov’s choice; 
+18.Rad1 and even 18.Nf5 Nxf5 19.Bxf5 are at least 
+equally overwhelming, but chasing the queen is 
+very natural) 18...Qe6 19.Bc4 Nd5 (19...Qg6 
+20.Nh4 wins the queen, in view of 20...Qg4 
+21.Bxf7+) 20.Ng5 Qg4 21.Re4 and again the 
+queen perishes (Kasparov). 
+Secondly, 17.Rad1 0-0 18.Ng3 Qh6 19.Bc1 Qe6 
+20.Ng5 with catastrophic material loss for Black 
+in a variety of ways, 1-0 (25) Dragon 3.1-Stockfish, 
+Classics 2022. 
+17...gxf6 18.exf6 Rg8! 
+ 
+Dufresne finds the best move, setting up some 
+counter-threats along the open g-file. Now we 
+have reached the critical position, to which page 
+after page of analysis has been devoted over the 
+years. 
+19.Rad1! 
+Anderssen chooses the sacrificial move, setting 
+up a beautiful trap, which duly succeeds and is 
+the reason this game acquired its nickname and 
+its anthological popularity. But objectively, the 
+position is only equal. 
+The alternative was 19.Be4, which was White’s 
+best move objectively, still with a chance of a 
+slight advantage in a crazy position. 19...Qh3 
+20.g3 Rxg3+ 21.hxg3 Qxg3+ 22.Kh1 Bxf2 (if 
+22...Qh3+?, 23.Nh2 wins) 
+ 
+analysis diagram 
+A) If 23.Re2??, 23...Nd4 wins; 
+B) 23.Bd5 Bxe1 (23...Qh3+ 24.Nh2 Bxe1 25.Rxe1 
+Ne5 26.Bxb7 Rxb7 27.Qa6 Rb6 28.Qxa7 d6 29.fxe7 
+½-½ Dragon 3.2-Stockfish, Classics 2023) 24.Rxe1 
+Ne5! 25.Bxb7 Rxb7 26.Qe4 Qxf3+ 27.Qxf3 Nxf3 
+28.Rxe7+ Kd8 29.Rxf7 ½-½ Stockfish-Dragon 3.2, 
+Classics 2023. The ending should be drawn, e.g. 
+29...d6 30.Rxh7 Ng5 31.Rg7 Rb5 followed by ...Rf5; 
+C) 23.Bxe7 Qh3+ 24.Nh2 Bxe1 25.Rxe1 
+
+ 
+analysis diagram 
+½-½ Stockfish-Dragon 3.1, Classics 2022. 
+A simple draw for the engines... let’s carry on the 
+game for a few more moves: 25...Qh4! (the only 
+move: 25...Qxc3 26.Nf3 is winning for White) 
+26.Qd1 (also the only move to hold the balance 
+against the threat of ...Nxe7) 26...Nxe7 27.Bxb7 
+Qxf6! 28.Bg2 Rb2 and Black has enough 
+counterplay to hold the balance: 29.Qg4 Kd8 
+30.Nf3 Qg6 31.Qh3 Rb1 32.Qh4 Rxe1+ and the 
+engines again called it a day here! 
+ 
+19...Qxf3? 
+Grabbing material was almost seen as a moral 
+duty in those days, but this allows Anderssen to 
+show his genius idea. 
+A) Decades of analysis have been devoted to 
+19...Rg4 and it seems like a perfectly reasonable 
+continuation for Black, though not in the 
+engines’ top choices. Now: 
+A1) 20.Re4 Rxe4 21.Qxe4 d6 22.Re1 Qg6 23.Qxe7+ 
+Nxe7 24.Rxe7+ Kf8 25.Bxg6 hxg6 26.Bc1 Bd5 
+27.h3 Bxa2 28.Re4 Kg8 29.Bh6 Bd5 30.Rh4 Bxf3 
+31.gxf3 g5 (necessary to free the black king 
+before Bg7 happens) 32.Bxg5 Bc5 33.Kg2 Rb2 
+34.Rg4 ½-½ Dragon 3.2-Stockfish, Classics 2023. 
+Equal for the engines, still a sharp, unbalanced 
+endgame for humans; 
+A2) 20.Bc4 was punted by Stockfish and leads to 
+some crazy tactics: 20...Qf5 21.Rxd7 Kxd7 
+(21...Qxd7 22.Rxe7+ Nxe7 23.Bxf7+ is the point: 
+23...Kxf7 24.Ne5+ Kxf6 25.Nxd7+; 21...Rxg2+ 
+22.Kxg2 Qg4+ 23.Kf1 Qh3+ 24.Ke2 Qxd7. 
+(threatening ...Nd4+) 25.Qb5 Ng6 26.Qg5 and 
+the attack continues) 22.Ne5+ Kc8 23.Nxg4 Nd5 
+24.Re8+ Nd8 25.Be7 c6 26.Bxd8 Bxd8 27.Ne5 
+Kc7 28.Qa5+ Nb6 29.Rf8 ½-½ Stockfish-Dragon 
+3.2, Classics 2023. 29...Bxf6 30.Rxf7+ Kc8 and all 
+three results are possible! White can take a draw 
+by repetition with 31.Rf8+ to start with. 
+B) Instead, the engine’s first choice is 19...Bd4!, 
+a desperado sacrifice to block the d-file. After 
+20.cxd4 (20.Bf1 Bxf6 eliminates the f6-pawn and 
+leaves White only fighting to hold the balance; 
+20.Bxe7 Rxg2+ 21.Kxg2 Ne5 is the amazing idea, 
+finally revealing the genius behind 11...b5!) 
+20...Qxf3 21.Be4 Rxg2+ 22.Kh1 Rxh2+ 23.Kxh2 
+Qxf2+ 24.Kh1. 
+ 
+analysis diagram 
+Black can give perpetual check by 24...Qh4+ 
+25.Kg2 with a draw by perpetual, ½-½ Stockfish-
+Dragon 3.1, Classics 2022, and can even do so 
+more 
+spectacularly 
+with 
+24...Nf5 
+25.Bg2+ 
+(25.Bxf5+ Ne5+ 26.d5 Qxf5 is also only a draw) 
+25...Ne3 26.Rxe3+ Qxe3 27.d5 Qh6+ 28.Kg1 Qe3+ 
+etc.; 
+C) 19...Qh3 is the engine’s second choice, and 
+also leads to some sort of equality after 20.Bf1 
+Qf5 and now – amazingly for such a sharp 
+position – there seem to be multiple ways White 
+can play that do not affect the balance of the 
+position, among which 21.Bd3, 21.Kh1 and even 
+21.h4 ! We’ll show you the most outrageous: 21.c4 
+Ba8 22.Kh1 Qxf6 23.Bxe7 Nxe7 24.Rxd7 Kf8 
+25.Rexe7 Qxf3 26.c5 Qxg2+ 27.Bxg2 ½-½ Dragon 
+

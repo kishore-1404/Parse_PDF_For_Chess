@@ -1,0 +1,12 @@
+[Event "Lisbon rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "M. Pein"]
+[Black "Sismeiro"]
+[Result "0-1"]
+[Puzzle "75"]
+[FEN "7r/p5k1/1p4p1/2pP4/4n3/4Q1N1/P4PPq/2R2K2 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Nxg3+ 2. fxg3 { Black wins a rook after 36 Qxg3 Qxg3 37 fxg3 Rh1+ 38 Kf2 Rxc1 – +. } 2... Rf8+ 3. Ke1 Qh1+ 4. Kd2 Qxg2+ { Black will win the white queen. } 0-1

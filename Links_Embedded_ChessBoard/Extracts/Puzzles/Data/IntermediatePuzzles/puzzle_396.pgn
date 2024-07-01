@@ -1,0 +1,12 @@
+[Event "Internet rapid (6) 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Duda"]
+[Black "Ivanchuk"]
+[Result "*"]
+[Puzzle "396"]
+[FEN "8/p4qpk/BP1R3p/5p1P/5Qn1/4P1K1/2r2PP1/8 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Qxh5 $1 { After 37...Nxf2? 38 bxa7 Ne4+ (as played in the game) White could have safeguarded his king by 39 Kh2 Qxh5+ 40 Kg1 Ra2, with equal chances in a very sharp position. } 2. Qxf5+ { 38 Rxh6+ gxh6 39 Qc7+ Rxc7 40 bxc7 Qh2+ 41 Kf3 Qxc7–+. } 2... Qxf5 3. Bd3 Qxd3 4. Rxd3 Nf6 5. bxa7 Ra2 *

@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Yakubboev"]
+[Black "A. Liang"]
+[Result "1-0"]
+[Puzzle "706"]
+[FEN "r5k1/pp1q3p/2pp2p1/4pr1n/1PP5/P1NP2P1/5P1P/R2Q1RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. g4 $1 { Although it looks risky to advance pawns in front of the king, White has calculated that Black’s pieces cannot do any damage. } 1... Rg5 { 20...Rf4 21 gxh5 Qh3 22 f3+–. } 2. f3 Nf4 3. h4 Rh5 4. gxh5 Qh3 5. Ra2 1-0

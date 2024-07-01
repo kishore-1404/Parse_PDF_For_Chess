@@ -1,0 +1,12 @@
+[Event "Trzcianka 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Luch"]
+[Black "Cyborowski"]
+[Result "0-1"]
+[Puzzle "8"]
+[FEN "6k1/2q3p1/3npp1p/1p1P4/p4P2/3QPN1P/1P4PK/8 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Qc4 $1 2. Qa3 { 32 Qxc4 Nxc4 33 dxe6 b4–+. } 2... Qxd5 { Black’s extra pawn is decisive. } 0-1

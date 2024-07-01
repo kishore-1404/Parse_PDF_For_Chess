@@ -1,0 +1,12 @@
+[Event "Budapest 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "J. Pein"]
+[Black "Urhegyi"]
+[Result "*"]
+[Puzzle "954"]
+[FEN "3rb2r/1k3pqp/pb2p3/2Q2p2/1R3B2/8/5PPP/1B2R1K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Bb5 $1 2. Rxb5 axb5 3. Qe7+ { Or 30 Qxb5 Rd5–+. } 3... Ka6 $1 { After 30...Ka8? (as played in the game) White could have generated a decisive attack by 31 Bxf5! exf5 32 Qa3+ Kb7 33 Qf3+ Ka6 34 Be5+–. } 4. Qa3+ Ba5 5. Bc7 Qc3 *

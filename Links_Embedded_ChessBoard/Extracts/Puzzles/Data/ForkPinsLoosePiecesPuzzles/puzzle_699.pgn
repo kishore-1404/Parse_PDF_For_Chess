@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sadhwani"]
+[Black "Carlsen"]
+[Result "0-1"]
+[Puzzle "699"]
+[FEN "2r2rk1/1pq2ppp/p2pbn2/4p3/P2nPP2/2N1Q1PP/1PPN2B1/2R2RK1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Qb6 $1 { Black wins material because of the threat of ...Ne2+. } 2. Kh2 Qxb2 3. fxe5 dxe5 4. Nd5 Bxd5 5. exd5 Nxc2 0-1

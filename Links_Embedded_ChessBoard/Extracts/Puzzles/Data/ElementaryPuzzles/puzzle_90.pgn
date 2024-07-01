@@ -1,0 +1,12 @@
+[Event "European Seniors Team Ch, Dresden 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Raitza"]
+[Black "Thinius"]
+[Result "*"]
+[Puzzle "90"]
+[FEN "3r2k1/1p1r1ppp/pBn5/4pQ2/8/P1P5/q4PPP/1R3RK1 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... g6 $1 { Black loses material after 21...Ne7? 22 Qg4! h5 23 Qa4+–. } 2. Qg4 { In the game White failed to notice the back-rank mate threat and lost after 22 Qf6? Qxb1! 23 Bxd8? (White is still lost after 23 Qxd8+ Rxd8 24 Rxb1 Rd3–+) 23...Rd1 0-1. } 2... h5 3. Qa4 Rc8 { Black has an extra pawn and good winning chances. } *

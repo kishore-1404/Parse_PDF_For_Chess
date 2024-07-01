@@ -1,0 +1,12 @@
+[Event "New York 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dragun"]
+[Black "M. Song"]
+[Result "*"]
+[Puzzle "11"]
+[FEN "4rr1k/1bq2pp1/pb5p/2p5/4Bn2/1P3N2/PBQ2PPP/3R1RK1 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Be5 $1 Rxe5 2. Nxe5 Bc8 { 23...Re8 24 Bxb7 Qxb7 25 Nf3+–. } 3. Nc4 Ba7 4. g3 { White has a decisive material advantage. } *

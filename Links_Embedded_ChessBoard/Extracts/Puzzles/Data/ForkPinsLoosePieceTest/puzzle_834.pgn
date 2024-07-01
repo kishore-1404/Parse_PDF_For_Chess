@@ -1,0 +1,12 @@
+[Event "Cuban Ch, Holguin 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fernandez Cardoso"]
+[Black "Diaz Murgada"]
+[Result "1-0"]
+[Puzzle "834"]
+[FEN "7k/6p1/pbR5/3pp1Qp/4N1b1/3P1qP1/PP3P1P/6K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1. Qxh5+ $1 { In view of 30...Kg8 31 Qe8+ Qf8 32 Qxf8+ Kxf8 33 Rxb6 dxe4 34 dxe4+– and 30...Bxh5 31 Rc8+ Kh7 32 Ng5+ Kg6 33 Nxf3 Bxf3 34 Rc6+ Kf5 35 Rxb6+–. } 1-0

@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rapport"]
+[Black "Mamedyarov"]
+[Result "0-1"]
+[Puzzle "208"]
+[FEN "3r3r/pQpk1pp1/5n2/4n1p1/2Pqp1b1/3P2P1/PBP2PBP/1R3RK1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Rxh2 $1 { White’s king is caught in a mating-net after 17 Bxd4 Rxg2+ 18 Kxg2 Bf3+ 19 Kg1 Rh8 20 Qb5+ c6 21 Qb7+ Ke6 followed by mate. } 0-1

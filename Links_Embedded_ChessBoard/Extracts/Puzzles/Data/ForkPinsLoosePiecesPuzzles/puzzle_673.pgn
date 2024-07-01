@@ -1,0 +1,12 @@
+[Event "Tashkent 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kazhgaleyev"]
+[Black "Gareyev"]
+[Result "1-0"]
+[Puzzle "673"]
+[FEN "r4r1k/1pn1p1bp/1q1p1np1/3P1p2/1P1N4/1Q2P3/1B2BPPP/1R1R2K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Nxf5 $1 e5 { 21...gxf5 22 Bd4+– traps the black queen. } 2. dxe6 $1 gxf5 3. Bd4 Qc6 4. Rdc1 { 24...Qd5 25 Rxc7 Qxb3 26 Rxb3+–. } 1-0

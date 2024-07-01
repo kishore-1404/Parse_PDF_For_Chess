@@ -1,0 +1,12 @@
+[Event "World Over-65 Ch, Assisi 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nunn"]
+[Black "Birnboim"]
+[Result "1-0"]
+[Puzzle "218"]
+[FEN "2r3k1/3b1p1p/7B/4p3/3pP3/3P4/1Q3PPP/4qBK1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Qb6 $1 Be6 { 28...Bc6 29 Qa6 Rc7 30 Qa3 Rc8 31 Qe7 leads to mate. } 2. Qb5 $1 { A ‘creeping move’ threatening 30 Qxe5 followed by mate on g7. Now 29...Qd1 is met by 30 f3+–. } 1-0

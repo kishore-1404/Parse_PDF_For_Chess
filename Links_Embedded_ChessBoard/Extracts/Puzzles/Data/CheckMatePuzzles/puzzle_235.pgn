@@ -1,0 +1,12 @@
+[Event "Tashkent 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Abdisalimov"]
+[Black "Madaminov"]
+[Result "*"]
+[Puzzle "235"]
+[FEN "5rk1/pp1b3p/3P2p1/2r5/1qP1P3/2n2N2/PQ4P1/K3RB1R b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Ra5 $1 { Black piles up on the a2-pawn. } 2. Rb1 Qa4 3. a3 Nd1 4. Rxd1 Qxd1+ 5. Ka2 Rb5 $1 { The rook move is more precise than the game continuation of 29...Qxd6–+. } 6. Qxb5 { 30 cxb5 Be6+ mates. } 6... Bxb5 7. cxb5 Qc2+ 8. Ka1 Qc3+ 9. Ka2 Rc8 { Mate follows soon. } *

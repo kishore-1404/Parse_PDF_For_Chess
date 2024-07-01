@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Babula Sr"]
+[Black "A. Kovačević"]
+[Result "*"]
+[Puzzle "353"]
+[FEN "1rq1r3/4kNQ1/p2pb3/8/3P4/7P/1P1BnP2/1K1R3R b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... Qc2+ $3 2. Kxc2 { 29 Ka1 Qxb2#. } 2... Bf5# *

@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Santos Ruiz"]
+[Black "Larino Nieto"]
+[Result "1-0"]
+[Puzzle "251"]
+[FEN "2N5/2Q5/p2p2pp/1p6/1k2B1P1/2b2P2/Pr5q/K2R4 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. a3+ $1 Kb3 { Black is quickly mated after 32...Kxa3? 33 Qxc3+ Rb3 (33...Ka4 34 Nb6#) 34 Qa5#, while 32...Ka4? 33 Qxc3 Ra2+ 34 Kb1 also leads to mate. } 2. Bd5+ Kc2 3. Rc1+ $1 Kxc1 4. Qxc3+ Kd1 { Or: 35...Rc2 36 Qe1#; 35...Qc2 36 Qe1+ Qd1 37 Qxd1+ Kxd1 38 Kxb2+–. } 5. Qxb2 1-0

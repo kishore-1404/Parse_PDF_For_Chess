@@ -1,0 +1,12 @@
+[Event "World Under-16 Ch, Mamaia 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ars. Davtyan"]
+[Black "Nguyen Quoc Hy"]
+[Result "1-0"]
+[Puzzle "531"]
+[FEN "4r1k1/p4bp1/7p/2p1PN2/2P1BQ1P/2q5/6PK/8 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nxh6+ $1 gxh6 2. Bh7+ Kg7 { Or: 43...Kf8 44 Qxh6+ Ke7 45 Qd6#; 43...Kh8 44 Qf6+ Kxh7 transposes to the game. } 3. Qf6+ Kxh7 4. Qxf7+ Kh8 5. Qxe8+ Kg7 6. Qe7+ Kg6 { 51...Qg6 52 g4#. } 7. Qf6+ Kh5 8. g3 Qd3 9. Kh3 Qe4 10. Qf7+ 1-0

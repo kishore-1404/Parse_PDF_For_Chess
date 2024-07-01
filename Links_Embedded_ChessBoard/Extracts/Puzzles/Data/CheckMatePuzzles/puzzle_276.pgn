@@ -1,0 +1,12 @@
+[Event "Ankara 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Tarhan"]
+[Black "Akbas"]
+[Result "*"]
+[Puzzle "276"]
+[FEN "3r1k2/2r3b1/3p2Q1/p6R/4pP2/P1Pq4/1P1B4/2KR4 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Bxc3 $1 { Both kings are exposed, but Black is able to strike first. } 2. Rf5+ { Or 34 Bxc3 Rxc3+ 35 bxc3 Qxc3+ followed by mate. } 2... Bf6+ 3. Bc3 Rxc3+ 4. bxc3 Qxc3+ 5. Kb1 Qb2# *

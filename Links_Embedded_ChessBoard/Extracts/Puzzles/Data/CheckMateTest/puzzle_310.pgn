@@ -1,0 +1,12 @@
+[Event "St Louis 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chirila"]
+[Black "Mikaelyan"]
+[Result "1-0"]
+[Puzzle "310"]
+[FEN "6Q1/5P2/p6p/1p4pk/4p3/1P4RP/P4PPK/q1r5 w - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1. Rxg5+ $1 { 48...hxg5 (48...Kh4 49 g3#) 49 Qh7#. } 1-0

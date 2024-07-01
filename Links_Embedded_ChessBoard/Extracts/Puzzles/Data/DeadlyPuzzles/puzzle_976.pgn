@@ -1,0 +1,12 @@
+[Event "Khanty-Mansiisk 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Goganov"]
+[Black "N. Petrov"]
+[Result "*"]
+[Puzzle "976"]
+[FEN "3r4/P6R/8/5p2/1P3Pk1/R3K1P1/3r3P/8 b - - 0 1"]
+[PuzzleType "DeadlyPuzzles"]
+
+1... Re2+ $1 { In the game, Black played 45...Rd1?? and resigned before White could reply 46 Rh4#. } 2. Kxe2 Rd2+ $1 { If White captures the rampaging rook it is a draw by stalemate. } 3. Ke3 Re2+ 4. Kd4 Re4+ 5. Kd5 { 49 Kd3 Rd4+ 50 Kc2 Rd2+ 51 Kb3 Rb2+ 52 Kc3 Rc2+ =. } 5... Rd4+ 6. Kc5 Rd5+ 7. Kc6 Rd6+ 8. Kc7 Rc6+ 9. Kd8 Rc8+ { with a draw by repetition. } 10. Ke7 Re8+ 11. Kd7 Rd8+ *

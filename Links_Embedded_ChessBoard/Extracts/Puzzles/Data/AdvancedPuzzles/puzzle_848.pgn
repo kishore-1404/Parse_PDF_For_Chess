@@ -1,0 +1,12 @@
+[Event "Waterloo 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rodrigue-Lemieux"]
+[Black "Bosiočić"]
+[Result "0-1"]
+[Puzzle "848"]
+[FEN "r1q1k2r/p3b1pp/2p1bp2/2Ppp3/N3Pn2/1PP2N1P/P1Q2PP1/R1B1R1K1 b kq - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Nxg2 $1 { 16...Bxh3? loses to 17 Bxf4!. } 2. Kxg2 Bxh3+ 3. Kh2 Qg4 4. Rg1 Qh5 5. Rg3 Bf5+ 6. Kg1 { White has no good defence against the threat of ...f4. } 6... Bxe4 7. Qe2 f5 0-1

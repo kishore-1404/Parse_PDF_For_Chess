@@ -1,0 +1,12 @@
+[Event "Ayvalik 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gokerkan"]
+[Black "Hakemi"]
+[Result "*"]
+[Puzzle "777"]
+[FEN "4qn1k/p5p1/4rp1p/4N3/2Q2P1R/3R3P/P5PK/1r6 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Rd8 $1 Rxe5 { 39...Qxd8 40 Nf7+ Kh7 41 Nxd8+–. } 2. Rxe8 Rxe8 3. Qf7 Rbe1 4. Qxa7 *

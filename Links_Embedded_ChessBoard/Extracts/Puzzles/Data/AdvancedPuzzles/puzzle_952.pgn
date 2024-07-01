@@ -1,0 +1,12 @@
+[Event "Krakow 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "M. Jacobsen"]
+[Black "Pniaczek"]
+[Result "*"]
+[Puzzle "952"]
+[FEN "r1bqr1k1/1p3pp1/2pb1n1p/p2p2n1/3PP2B/P1NB1P1P/1PQ1N1P1/3RK2R b K - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Nfxe4 $1 { This combination is possible because of the loose bishop on h4. } 2. fxe4 Nf3+ 3. gxf3 Qxh4+ 4. Kd2 { Black develops a relentless initiative after 18 Kf1? Bxh3+ 19 Rxh3 (19 Kg1? Re6–+) 19...Qxh3+ 20 Kf2 Be7 21 e5 Bh4+ 22 Kg1 f6–+. } 4... Qg5+ 5. Ke1 { Not 19 f4? Bxf4+ 20 Nxf4 Qxf4+ 21 Ke2 dxe4–+. Now Black should play } 5... Qh4+ { with a draw by repetition. In the game Black had insufficient compensation for the piece after 19...Qg2? 20 Rf1 Bxh3 21 Rf2 Qg5 22 e5 Be7 23 f4+–. } *

@@ -1,0 +1,12 @@
+[Event "US Open, Rancho Mirage 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nyzhnyk"]
+[Black "Schmakel"]
+[Result "1-0"]
+[Puzzle "192"]
+[FEN "r5k1/4qppp/4p3/pbrpP1PP/1p3Q2/3B1P2/PPP5/1K4RR w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Bxh7+ $1 Kxh7 2. g6+ Kg8 { 27...fxg6 28 hxg6++ Kg8 29 Rg5 mates. } 3. h6 { White’s kingside pawns supported by his rooks rip open Black’s kingside. } 3... fxg6 4. Rxg6 Rf8 { 29...Rc4 30 Qh2+–. } 5. Qg4 Rf7 6. hxg7 Rxg7 7. Qh3 { Black is mated after 32...Kf7 33 Rxg7+ Kxg7 34 Rg1+ Kf7 35 Qh5+ Kf8 36 Qh8+ Kf7 37 Qg8#. } 1-0

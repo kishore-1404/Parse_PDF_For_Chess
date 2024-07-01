@@ -1,0 +1,12 @@
+[Event "Maia 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Perez Candelario"]
+[Black "Portela Peleteiro"]
+[Result "*"]
+[Puzzle "886"]
+[FEN "1r6/4kp1R/2pp1p1b/4pP1P/p3P3/P1N1q3/1PP3r1/KR1Q4 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Qf1 $1 { White takes advantage of Black’s weakness on the light squares. } 1... Rxc2 2. Qc4 d5 { 36...Rf8 37 Qe6+ Kd8 38 Qxd6+ Kc8 39 Qxc6+ Kb8 40 Qxf6+–. } 3. Qxc6 { The game continuation was also good enough: 37 Nxd5+ cxd5 38 Qxc2 Rb7 39 Qc6 1-0. } 3... Rxc3 4. Qe6+ Kd8 5. Qd6+ Kc8 6. Rh8+ { Black will be mated. } *

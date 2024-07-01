@@ -1,0 +1,12 @@
+[Event "European Over-50 Team Ch, Dresden 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Forchert"]
+[Black "J. Wallner"]
+[Result "*"]
+[Puzzle "550"]
+[FEN "6n1/3r2k1/1p3pp1/p2r4/4N3/1PQ3Pq/P7/4RRK1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Rxf6 $1 { This is the correct way to capture the f6-pawn to maintain the balance. After 32 Nxf6?? the game ended quickly as White ran out of checks: 32...Rd3! 33 Ne8++ (33 Nh5++ Kh7–+) 33...Kh6 0-1. } 1... Nxf6 2. Qxf6+ { And here White must avoid 33 Nxf6?? Rc5!–+. } 2... Kh7 { Or 33...Kh6 34 Qh8+ Rh7 35 Qf8+ Rg7 36 Qh8+ Rh7 37 Qf8+ = with a draw by repetition. } 3. Ng5+ Rxg5 4. Qxg5 *

@@ -1,0 +1,12 @@
+[Event "Warsaw rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fiszer"]
+[Black "Kowalski"]
+[Result "*"]
+[Puzzle "537"]
+[FEN "r3k2r/1bpq2b1/1n1pp1p1/6Bp/1n2P2P/N1N2PP1/1PPQ2B1/1K1R3R b kq - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Rxa3 $1 2. bxa3 Nc4 3. Qc1 { 22 axb4 Nxd2+ 23 Bxd2 Qc6–+. } 3... Bxc3 4. Rd3 Bb2 *

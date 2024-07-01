@@ -1,0 +1,12 @@
+[Event "Delhi 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pranav"]
+[Black "M. Pranesh"]
+[Result "*"]
+[Puzzle "359"]
+[FEN "r3r1k1/1p3p1p/pnnR2p1/8/q3bB2/1NP5/P1PQBPPP/1K2R3 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bxc2+ $1 2. Kb2 { 24 Qxc2 Qxf4–+. } 2... Rxe2 $1 3. Qxe2 { 25 Rxe2 Nc4+–+. } 3... Nc4+ { Also sufficient is 25...Bxb3 26 axb3 Qxf4–+ (as played in the game) since Black’s knights are much stronger than the white rook. } 4. Kxc2 Nxd6 5. Bxd6 Qxa2+ 6. Kc1 Qxb3 *

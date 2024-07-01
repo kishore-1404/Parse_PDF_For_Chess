@@ -1,0 +1,12 @@
+[Event "Bucharest rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chirila"]
+[Black "Oparin"]
+[Result "*"]
+[Puzzle "577"]
+[FEN "3r2r1/p1pk2q1/Q1n1p3/1BPn1ppP/5P2/8/PP4N1/R4RK1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Qd4+ $1 { After 26...gxf4? 27 Bxc6+ Ke7 (as played in the game) White is able to defend his position: 28 Qe2 Ne3 29 Rxf4 Qe5 30 Rf2 Rg3 31 h6 f4 leads to sharp play and roughly equal chances, while his actual choice of 28 Bxd5 Rxd5 29 Rf2 is also playable. } 2. Rf2 { Or 27 Kh2? Rh8 28 Bxc6+ Ke7 29 Qe2 g4 30 Rae1 Rxh5+ 31 Nh4 (31 Kg3 Rh3#) 31...Rxh4+ 32 Kg2 Rh6–+. Black’s king is safe, he has an extra pawn and is threatening to capture the f4-pawn or double rooks along the h-file. } 2... Qxc5 3. Re1 Nb4 4. Bxc6+ Nxc6 5. Kf1 Ke7 { Black has an extra pawn and a decisive attack. } *

@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alekseenko"]
+[Black "Andreikin"]
+[Result "0-1"]
+[Puzzle "807"]
+[FEN "3nk2r/p2n1Np1/4p1p1/3pP3/2pP2P1/2P1B3/q2rBQ1P/5RK1 b k - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1... O-O $1 { White loses material after 25 Bxd2 Qxd2–+. } 0-1

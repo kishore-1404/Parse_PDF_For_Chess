@@ -1,0 +1,12 @@
+[Event "Budapest 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lyell"]
+[Black "Snehal"]
+[Result "1-0"]
+[Puzzle "520"]
+[FEN "3q1rk1/p1rp2p1/4p1Pp/1p1nPp2/1P6/P2R4/1BPQ2PP/1K1R4 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Rxd5 $1 exd5 2. Qxd5+ Kh8 3. e6 Qe7 { 26...d6 27 Be5 Rc8 28 Bxd6 Rf6 29 e7 Qe8 30 Bc5+–. } 4. exd7 Rd8 5. Qf7 Qxf7 6. gxf7 Kh7 7. f8=Q Rxf8 8. d8=Q 1-0

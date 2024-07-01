@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "S. Williams"]
+[Black "Paravyan"]
+[Result "0-1"]
+[Puzzle "597"]
+[FEN "rnb2rk1/pp2ppb1/6p1/q1PQN2p/4nB1P/2N1P3/PPP1BPP1/R3K2R b KQ - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... Nxc3 2. Qd2 Nc6 { Black wins material. } 0-1

@@ -1,0 +1,12 @@
+[Event "Delhi (women) 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "M. Gomes"]
+[Black "S. Salonika"]
+[Result "*"]
+[Puzzle "943"]
+[FEN "1q1r1r2/1b2n1kp/1p3pp1/1P6/2nN4/6P1/1Q3PBP/2RR2K1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Ne6+ $1 { The knight check is more forcing and far better than 25 Rxc4? Bxg2 26 Kxg2 Qe5 (as played in the game), when White has nothing better than 27 Rc2+=. } 1... Kg8 2. Qb4 Rxd1+ 3. Rxd1 Re8 4. Qxc4 { The superior scope of White’s pieces makes it possible to win Black’s b6-pawn. For example: 28...Bxg2 29 Nc7+ Bd5 30 Nxd5 Nxd5 31 Qxd5+ Kg7 32 Qd7+ Kg8 33 Qc6+–. } *

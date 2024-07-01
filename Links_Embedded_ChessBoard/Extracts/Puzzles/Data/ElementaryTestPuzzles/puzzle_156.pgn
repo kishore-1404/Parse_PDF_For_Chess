@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Giri"]
+[Black "Aronian"]
+[Result "0-1"]
+[Puzzle "156"]
+[FEN "Q4b1k/3q1rpp/1p6/p1p1R3/2Pr3N/6P1/PP2R1KP/8 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Rxh4 $1 { Black wins a piece as 34 gxh4 is met by 34...Qg4+ 35 Kh1 Rf1#. } 0-1

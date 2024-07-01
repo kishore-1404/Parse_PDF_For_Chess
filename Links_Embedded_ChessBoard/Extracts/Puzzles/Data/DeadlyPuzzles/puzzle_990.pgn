@@ -1,0 +1,12 @@
+[Event "Bialystok 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E. Bogdanov"]
+[Black "Licznerski"]
+[Result "*"]
+[Puzzle "990"]
+[FEN "r3k2r/pp2b1p1/2p1Qnnp/1b1q1N2/3P4/5N2/PP3PPP/R1B1R1K1 w kq - 0 1"]
+[PuzzleType "DeadlyPuzzles"]
+
+1. Ne5 $3 { An easy move to overlook. After 18 Nd6+? (as played in the game) Black consolidated his material advantage by 18...Kf8 19 Nh4 Nxh4 20 Qxe7+ Kg8–+. } 1... Qxe6 { Or 18...Bd3 19 Nxg7+ Kf8 20 Qxd5 Nxd5 21 Ne6+ Kg8 22 Nxd3+–. } 2. Nxg7+ Kf8 3. Nxe6+ Kg8 4. Nxg6 { White has a decisive material advantage. } *

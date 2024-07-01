@@ -1,0 +1,12 @@
+[Event "Budapest 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Priasmoro"]
+[Black "Harshavardhan"]
+[Result "*"]
+[Puzzle "453"]
+[FEN "r2r2k1/3N1ppp/p7/n3P3/3p1Q2/8/1q3PPP/2RR2K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. e6 $1 Qb3 { After 24...fxe6 (as played in the game) Black’s king is too exposed: 25 Nf6+ (the knight sacrifice works because Black’s a5-knight is out of the game; 25 Rc7 also wins) 25...gxf6 (25...Kh8 26 Qh4 h6 27 Qe4 gxf6 28 Rc7 leads to mate) 26 Rc7 Qb5 27 Qxf6! 1-0 (we may assume that 27 Qh6??, as given in Mega Database, is a data error). } 2. Qxf7+ Kh8 3. Rxd4 *

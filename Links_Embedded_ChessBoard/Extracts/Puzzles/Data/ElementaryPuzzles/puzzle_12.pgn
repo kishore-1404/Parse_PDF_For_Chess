@@ -1,0 +1,12 @@
+[Event "Santo Antonio de Jesus 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Cubas"]
+[Black "Matsuura"]
+[Result "*"]
+[Puzzle "12"]
+[FEN "5rk1/3R1p2/3Q2pb/3N1p2/3P3p/2P2P1P/6PK/2q5 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Rd8 $1 Rxd8 { After 38...Qe1 39 Nf6+ Kg7 40 Rxf8 (as played in the game) White wins material; e.g., 40...Qg3+ 41 Qxg3 hxg3+ 42 Kxg3 Kxf8 43 Nd5+–. Also hopeless is 38...Bg7 39 Nf6+ Bxf6 40 Qxf8+ Kh7 41 Qxf7+ Kh6 42 Re8 Qf4+ 43 Kg1 Qc1+ 44 Kf2+–. } 2. Qxd8+ Kh7 3. Qxh4 { White has two extra pawns and his king is safe. } *

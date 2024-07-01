@@ -1,0 +1,12 @@
+[Event "Czech Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Haba"]
+[Black "Sahidi"]
+[Result "*"]
+[Puzzle "693"]
+[FEN "4rrk1/1q1n2pp/p7/2p1b3/2Pp4/1P1N4/P2BQ1PP/R4RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Rxf8+ Kxf8 2. Rf1+ Kg8 { 23...Bf6 24 Qh5+–. } 3. Bf4 { Black is stuck in a fatal pin along the e-file. } 3... Qc7 4. Re1 Qa5 5. Bxe5 Qc3 6. Qe4 *

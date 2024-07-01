@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caruana"]
+[Black "J. van Foreest"]
+[Result "*"]
+[Puzzle "876"]
+[FEN "8/p5pk/2p4p/2Bp1p2/PP3P1Q/3q4/r7/4R1K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... d4 $1 { Black prevents White’s bishop from retreating along the g1-a7 diagonal and threatens 33...Qf3. After the immediate 32...Qf3? 33 Bf2 Rxa4 34 Re7 Ra1+ 35 Be1 d4 (as played in the game) White should have headed for a draw by 36 Rxg7+! Kxg7 37 Qe7+ Kg6 38 Qe6+ Kg7 39 Qe7+, with perpetual check. } 2. Rf1 Qe3+ 3. Rf2 Ra1+ 4. Kg2 { 35 Kh2 Qe1–+. } 4... Qe4+ 5. Rf3 Ra2+ 6. Qf2 { 37 Kg3 Qe1+ leads to mate. } 6... Rxf2+ 7. Kxf2 Qc2+ 8. Kg3 d3 *

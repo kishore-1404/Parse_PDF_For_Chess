@@ -1,0 +1,12 @@
+[Event "Austrian Team Ch 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kilgus"]
+[Black "De. Wagner"]
+[Result "0-1"]
+[Puzzle "941"]
+[FEN "5rk1/p1b2ppp/Q1p5/2P1p1q1/NP1rP3/P6P/5RP1/R5K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Qe3 $1 2. Rf1 { Both players’ minor pieces appear out of play at the moment, but Black’s next move sets up the idea of ...Bd8-h4 to win the pinned white rook. } 2... Rd2 3. Qc4 { Or 24 Nb2 Rd2 25 Nd1 Qd4 26 Qf1 Rd8–+. } 3... Rxf2 4. Rxf2 Bd8 5. Kf1 { White’s position will collapse once Black activates his bishop. For example: 25 Qxc6 Bd8–+. } 5... Bh4 6. Re2 Qxa3 7. Ra2 Qg3 8. Qe2 Qh2 { After 27 Qc3 Bg5 28 Kf1 Qxe4–+ White loses a key pawn and his knight is hopelessly out of play. } 0-1

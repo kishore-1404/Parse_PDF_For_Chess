@@ -1,0 +1,12 @@
+[Event "Pardubice 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Jedlicka"]
+[Black "Szotkowski"]
+[Result "0-1"]
+[Puzzle "71"]
+[FEN "4r1k1/1pR2pp1/p3q3/3p4/4nQp1/4P3/5PPP/5RK1 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... g5 $1 { White’s queen is trapped in the middle of the board. } 0-1

@@ -1,0 +1,12 @@
+[Event "Marianske Lazne 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chen Qi"]
+[Black "Stalmach"]
+[Result "*"]
+[Puzzle "437"]
+[FEN "3r1k2/5pn1/p2p2p1/1p1Pq1P1/5QBr/P7/1PP5/1K1R2R1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Qf2 $1 { White keeps the queens on the board to facilitate his attack. } 1... Qxg5 { 28...Rh2 29 Qb6 Re8 30 Qxa6+–. } 2. Rdf1 Qe7 3. Be6 Nf5 { 30...Nxe6 31 dxe6 Kg7 32 Qg3+–. } 4. Bxf5 gxf5 5. Qxf5 { Black has no good defence to White’s threats, which include Qg6. } *

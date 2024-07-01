@@ -1,0 +1,12 @@
+[Event "Seville 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Buscara"]
+[Black "Starostits"]
+[Result "0-1"]
+[Puzzle "188"]
+[FEN "r1b1k2r/1p2bpp1/p5n1/2pqp2p/P1N4P/2PPBNP1/1P3P2/R2Q1RK1 b kq - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Bg4 2. Nb6 { White is stuck in a terrible pin after 15 Ncd2 f5–+. } 2... Qc6 3. Nxa8 Bxf3 4. Qb3 Qc8 5. Nc7+ { 18 Nb6 Qh3 mates. } 5... Qxc7 6. Rfe1 Nxh4 7. gxh4 Qd7 { White cannot prevent the black queen from infiltrating the kingside and delivering mate. } 0-1

@@ -1,0 +1,12 @@
+[Event "Budapest 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Aveskulov"]
+[Black "Arenas Vanegas"]
+[Result "1-0"]
+[Puzzle "153"]
+[FEN "6k1/5p1p/4b1p1/2Q5/r1P5/p3RP1P/P5P1/1q3BK1 w - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1. Rxe6 $1 { White has an extra piece after 35...fxe6 36 Qc8+ Kf7 37 Qd7+ Kf6 38 Qxa4 Qxa2 39 c5+–. } 1-0

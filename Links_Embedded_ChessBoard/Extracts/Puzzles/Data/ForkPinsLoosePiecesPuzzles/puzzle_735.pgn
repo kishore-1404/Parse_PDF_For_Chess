@@ -1,0 +1,12 @@
+[Event "European Ch, Vrnjačka Banja 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Yurtseven"]
+[Black "S. Shatil"]
+[Result "*"]
+[Puzzle "735"]
+[FEN "3r2k1/pb3ppp/1p3q2/3n1N2/8/PQ6/B4PPP/3R2K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Qd3 $1 { The pin on the d-file will cost Black a piece. } 1... Ba6 { Or 27...Kf8 28 Ne3+–. } 2. Qxa6 Nc3 3. Rxd8+ Qxd8 4. Bc4 *

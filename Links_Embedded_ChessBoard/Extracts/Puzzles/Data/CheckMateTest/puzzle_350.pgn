@@ -1,0 +1,12 @@
+[Event "Shenzhen (women) rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ning Kaiyu"]
+[Black "Zhang Lanlin"]
+[Result "1-0"]
+[Puzzle "350"]
+[FEN "2rr2k1/pq3ppp/3npP2/2p1Nn2/2p2P2/P2PP3/1B2QK1P/1R4R1 w - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1. Rxg7+ $1 Nxg7 { 30...Kh8 31 Qh5 Nxg7 32 fxg7+ Kg8 33 Ng4 Nf5 34 Bf6 leads to mate. } 2. Rg1 { The sacrifice works because the knight on e5 prevents Black’s king from escaping to the queenside. } 2... Ne8 { 31...Kf8 32 Rxg7 leads to mate. } 3. Rxg7+ Nxg7 4. Qg4 Qxb2+ 5. Kg3 { Mate will follow. } 1-0

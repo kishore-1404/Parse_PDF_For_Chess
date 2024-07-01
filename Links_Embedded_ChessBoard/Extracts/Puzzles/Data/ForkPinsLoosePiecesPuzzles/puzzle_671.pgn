@@ -1,0 +1,12 @@
+[Event "Dubai 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "S. Grover"]
+[Black "S.P. Sethuraman"]
+[Result "*"]
+[Puzzle "671"]
+[FEN "1rb2r1k/6pp/pq1Npp2/2n1n3/3RPPP1/2N1Q3/BPP4P/2K3R1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Ncd3+ $1 2. Kd1 { Other moves demonstrate the looseness of White’s position: 24 cxd3 Qxb2+ 25 Kd1 Qxc3 26 fxe5 Qa1+ 27 Ke2 Qxa2+–+, 24 Rxd3 Nxd3+ 25 Qxd3 Qxg1+–+ or 24 Kd2 Nxf4–+. } 2... Nxf4 3. g5 { 25 Rg3 Nxg4! 26 Rxg4 e5 27 Nxc8 Rfxc8–+. } 3... Nf3 *

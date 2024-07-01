@@ -1,0 +1,12 @@
+[Event "Wijk aan Zee 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Warmerdam"]
+[Black "Pechač"]
+[Result "*"]
+[Puzzle "434"]
+[FEN "r4rk1/pnpb2p1/3p3q/1pbP1p1Q/7P/2B2N2/PpB2PP1/4RRK1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Re7 $1 { White homes in on the tender g7-pawn. } 1... Qxh5 2. Rxg7+ Kh8 3. Rxd7+ Rf6 { 23...Kg8 24 Rg7+ Kh8 25 Rg5+ Kh7 26 Rxh5+ Kg6 27 Rg5+ Kf7 28 Bxf5+–. } 4. Bxf6+ Kg8 5. Rg7+ Kf8 6. Ng5 { Black must give up his queen to avoid mate. } *

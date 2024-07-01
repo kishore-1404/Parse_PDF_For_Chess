@@ -1,0 +1,12 @@
+[Event "World Rapid Ch, Almaty 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Andriasian"]
+[Black "N. Petrov"]
+[Result "*"]
+[Puzzle "430"]
+[FEN "1r1r2k1/1bq2p1p/3pp1p1/1p6/1n2PP1R/1NN1Q3/1PP3PP/3R2K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. f5 { White can ignore the c2-pawn because Black has no pieces defending his kingside. } 1... exf5 2. Qh6 Qb6+ 3. Nd4 Nxc2 4. Qxh7+ Kf8 5. exf5 *

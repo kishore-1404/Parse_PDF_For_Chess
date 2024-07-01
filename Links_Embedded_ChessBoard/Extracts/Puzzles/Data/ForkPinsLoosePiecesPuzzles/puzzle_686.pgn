@@ -1,0 +1,12 @@
+[Event "Sant Boi 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nijboer"]
+[Black "Safarli"]
+[Result "*"]
+[Puzzle "686"]
+[FEN "r4rk1/1p3ppp/2npb3/1q2p3/4P3/1NBP4/PP3PPP/R2Q1R1K b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Rxa2 $1 2. Rxa2 Bxb3 3. Qb1 Bxa2 4. Qxa2 Qxd3 { Black has an extra pawn and good chances to win. } *

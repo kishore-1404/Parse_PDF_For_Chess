@@ -1,0 +1,12 @@
+[Event "Montevideo 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "R. Miranda"]
+[Black "Lopez Azambuja"]
+[Result "*"]
+[Puzzle "498"]
+[FEN "2n3k1/1b1r1ppp/p3p3/1pR1P3/1P1pNP2/P2P4/qB2Q1PP/6K1 w - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1. Nf6+ $1 { The knight sacrifice is effective because Black’s queen is far away from the kingside. } 1... gxf6 2. Qg4+ { 31 exf6 Kf8 32 Qg4 transposes to the game. } 2... Kf8 3. exf6 Re7 { Black gives up his rook to prevent mate. The game ended instead 32...Rd5 33 Rc7 1-0. } 4. Qg7+ Ke8 5. Qh8+ Kd7 6. fxe7 Nxe7 7. Qxd4+ { White has a decisive plus. } *

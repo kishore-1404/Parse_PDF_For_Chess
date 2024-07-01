@@ -1,0 +1,12 @@
+[Event "Czech Team Ch 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Souček"]
+[Black "Ludvik"]
+[Result "*"]
+[Puzzle "929"]
+[FEN "1b2r1k1/1p1nqppp/p3b3/3p2n1/3N4/1PN1P2P/PB3PP1/1BQR2K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Nxh3+ $1 2. Kf1 { White’s king is too exposed after 24 gxh3? Bxh3 25 f4 Qh4 26 Qc2 Nf6 27 Qf2 Qg4+ 28 Kh1 Qh5–+. } 2... Nxf2 $1 { This knight sacrifice works because White has a lack of pieces defending his kingside. } 3. Qc2 { In the game, 25 Kxf2?! Qh4+ 26 Ke2 Bg4+ 27 Kd3 Qf2–+ gave Black a decisive attack. } 3... Nf6 4. Kxf2 { 26 Qxf2? Ng4 27 Qe1 Qf6+ 28 Nf3 Qh6–+. } 4... Ng4+ 5. Ke2 g6 { Black has a strong attack for a small material investment. } *

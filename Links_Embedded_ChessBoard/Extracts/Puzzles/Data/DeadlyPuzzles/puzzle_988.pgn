@@ -1,0 +1,12 @@
+[Event "World Rapid Team Ch, Jerusalem 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ivanchuk"]
+[Black "J. van Foreest"]
+[Result "*"]
+[Puzzle "988"]
+[FEN "1n1q2k1/2r1rp1p/pp1b1np1/3pN3/3P4/BP4PB/P1R2P1P/2R2QK1 w - - 0 1"]
+[PuzzleType "DeadlyPuzzles"]
+
+1. Nd7 $3 { A fantastic idea to exploit White’s control over the c8-square. } 1... Rexd7 { Other moves are no help; for example, 26...Nbxd7 27 Rxc7 Bxc7 28 Bxe7 Qxe7 29 Rxc7+–, 26...Rcxd7 27 Bxd6 Rxd6 28 Rc8+– or 26...Rxc2 27 Nxf6+ Kg7 28 Rxc2 Bxa3 (White wins the black queen after 28...Kxf6 29 Rc8 Qxc8 30 Bxc8 Bxa3 31 Bxa6+–) 29 Rc8 Qd6 30 Ne8+ Rxe8 31 Rxe8+–. } 2. Bxd6 Rxc2 3. Rxc2 Rxd6 4. Rc8 Qxc8 5. Bxc8 *

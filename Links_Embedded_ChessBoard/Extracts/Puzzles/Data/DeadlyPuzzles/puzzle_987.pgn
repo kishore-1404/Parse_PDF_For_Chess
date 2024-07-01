@@ -1,0 +1,12 @@
+[Event "USA Ch, Saint Louis 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Shankland"]
+[Black "Moradiabadi"]
+[Result "*"]
+[Puzzle "987"]
+[FEN "6k1/4R2p/3p4/1p1PbPp1/1Br3P1/2P5/6K1/8 w - - 0 1"]
+[PuzzleType "DeadlyPuzzles"]
+
+1. Rxe5 $1 { A beautiful liquidation. White has accurately calculated the ensuing pawn ending. } 1... Rxg4+ { 41...dxe5 42 d6 Re4 43 Kf2+–. } 2. Kf3 Rxb4 3. cxb4 dxe5 4. d6 Kf7 5. Ke4 { This king and pawn endgame is winning for White, via a transition to a queen ending. } 5... g4 6. Kd5 g3 7. d7 g2 { 47...Ke7 48 Kc6 g2 49 f6+ Ke6 50 d8Q g1Q 51 Qe7+ Kf5 52 f7+–. } 8. d8=Q g1=Q 9. Qc7+ Kg8 10. Ke6 h6 { After 50...h5 51 Qf7+ Kh8 52 Qxh5+ Kg8 53 Qe8+ Kh7 54 Qg6+ Qxg6+ 55 fxg6+ Kxg6 56 Kxe5+– we have a new king and pawn ending, that White again wins! } 11. Qf7+ Kh8 12. Qe8+ Kh7 13. Qd7+ Kh8 14. f6 *

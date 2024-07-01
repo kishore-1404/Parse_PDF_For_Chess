@@ -1,0 +1,12 @@
+[Event "Bucharest rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Serban"]
+[Black "Ponomariov"]
+[Result "*"]
+[Puzzle "786"]
+[FEN "1q2r3/3b4/1p4pk/p1pNN1np/P1P1P3/1P4QP/4B1P1/6K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Ne7 $1 { After 31 Nc7?? (as played in the game) Black could have won material with 31...Rxe5! 32 Qxe5 Ne6! (backwards knight moves based around a pin can be easy to overlook) 33 Bxh5 Qxc7 34 Qh8+ Kg5 35 Bf3 Qd6–+. } 1... Rxe7 { 31...Qb7 32 h4!+–. } 2. Nf7+ Rxf7 3. Qxb8 *

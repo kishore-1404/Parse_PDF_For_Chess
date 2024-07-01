@@ -1,0 +1,12 @@
+[Event "World Under-14 Ch, Mamaia 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Magold"]
+[Black "Ilamparthi"]
+[Result "*"]
+[Puzzle "530"]
+[FEN "5rk1/pb1R2pp/2p5/2Q5/1PP2p2/4q3/5RPP/4rBK1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Bc8 $1 { After 30...Ba6? (as played in the game) White would have been OK after 31 Qd4! =. } 2. Rd2 { 31 Rxa7 Rf5–+. } 2... Re8 { Black is threatening 32...Rxf1+ 33 Kxf1 Qe1#. } 3. g4 Bxg4 *

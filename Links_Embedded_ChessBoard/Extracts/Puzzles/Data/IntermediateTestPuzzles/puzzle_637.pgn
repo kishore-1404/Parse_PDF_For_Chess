@@ -1,0 +1,12 @@
+[Event "Cheliabinsk 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "S. Volkov"]
+[Black "Tsydypov"]
+[Result "0-1"]
+[Puzzle "637"]
+[FEN "5bk1/2Q2p1p/3B2p1/4P3/r4P2/1q2P3/3rB1PP/5R1K b - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... Qd5 $1 2. Bf3 $2 { 29 Qb8 Ra8 30 Qb5 Qxb5 31 Bxb5 Bxd6 32 exd6 Rxd6 –/+. } 2... Qd3 3. Rc1 { 30 Qc1 Bxd6 31 exd6 Rc4 32 Qe1 Qxd6–+. } 3... Rc2 $1 4. Rd1 { 31 Qxc2 Qxc2 32 Rxc2 Ra1+ 33 Rc1 Rxc1+ 34 Bd1 Rxd1#. } 4... Qxd1+ 5. Bxd1 Rxc7 { 33 Bxc7 Ra1–+. } 0-1

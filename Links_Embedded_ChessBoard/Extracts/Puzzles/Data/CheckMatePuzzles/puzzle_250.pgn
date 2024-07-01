@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "R. Terry"]
+[Black "Dubov"]
+[Result "0-1"]
+[Puzzle "250"]
+[FEN "4r1k1/3R1ppp/p1p5/1r4qn/4P3/Q2N1P2/P5PP/2R3K1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Qe3+ 2. Kh1 { White must give up his queen to prevent mate after 31 Kf1 Ng3+ (or 31...Nf4 32 Re1 Rb1–+) 32 hxg3 Rh5 33 Nf2 Qxa3–+. } 2... Ng3+ $1 { 32 hxg3 Rh5#. } 0-1

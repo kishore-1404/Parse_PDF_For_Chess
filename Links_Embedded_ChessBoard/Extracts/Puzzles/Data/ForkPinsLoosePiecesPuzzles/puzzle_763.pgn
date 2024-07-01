@@ -1,0 +1,12 @@
+[Event "Belgrade 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B. Dimitrijeski"]
+[Black "Mijailović"]
+[Result "0-1"]
+[Puzzle "763"]
+[FEN "3q3k/pp4pp/3n4/3NQ3/8/2P3P1/P5KP/8 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Nc4 $1 { Black wins a piece after 36 Qd4 Qxd5+ 37 Qxd5 Ne3+ 38 Kf3 Nxd5–+. } 0-1

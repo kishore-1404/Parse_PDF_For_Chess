@@ -1,0 +1,12 @@
+[Event "Valencia 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pulvett Marin"]
+[Black "Macias Pino"]
+[Result "*"]
+[Puzzle "185"]
+[FEN "2b1kb1r/r4pp1/p1P4p/3pN2B/7B/8/5PPP/R5K1 w k - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Nxf7 $1 g5 { Black is caught in a nasty pin after 25...Rxf7 26 Re1++– or 25...g6 26 Nxh8 gxh5 27 Re1+ Be7 28 Ng6+–. } 2. Nxg5+ Ke7 { The game ended with a surprising and attractive checkmate: 26...Kd8 27 Ne6# (1-0). } 3. Nf7+ Ke6 4. Re1+ Kf5 5. Re5+ Kf4 6. Bg3# { Or 30 g3#. Three of Black’s pieces never moved from their original squares. } *

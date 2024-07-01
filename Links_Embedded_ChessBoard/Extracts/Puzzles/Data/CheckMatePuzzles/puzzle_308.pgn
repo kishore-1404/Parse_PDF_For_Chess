@@ -1,0 +1,12 @@
+[Event "Dubai 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "S. Grover"]
+[Black "Ajay Krishna"]
+[Result "*"]
+[Puzzle "308"]
+[FEN "r1b1r1k1/p4pp1/2p4p/2qp1p1Q/5B2/7R/P1P2PPP/5RK1 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Bxh6 $1 { The sacrifice works because Black’s kingside has no defenders. After 23 Rg3? Black can defend with 23...Re6 24 Bxh6 g6 or counterattack by 23...Qc4 24 Bxh6 Qxf1+!. } 1... gxh6 { 23...Qc4 24 Be3 Kf8 25 Rh4+–. } 2. Qxh6 Qd4 3. Rg3+ Qg4 4. h3 Qxg3 5. fxg3 *

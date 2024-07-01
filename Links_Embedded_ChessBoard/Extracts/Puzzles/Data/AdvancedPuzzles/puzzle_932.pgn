@@ -1,0 +1,12 @@
+[Event "Mitropa Cup, Mali Lošinj 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Mladek"]
+[Black "Hagner"]
+[Result "*"]
+[Puzzle "932"]
+[FEN "2rqr3/pb2b1pp/1p2Q2k/4nP2/3Pp3/4P1B1/PP2N1PP/2R2RK1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Bf6 $1 2. Bf4+ g5 $1 3. fxg6+ Kg7 $1 { 24...Kxg6?? 25 Qh3+– gives White a decisive attack. } 4. Qh3 { In the game, the immediate capture of the knight by 25 Bh6+? Kxh6 26 Qh3+ Bh4–+ left White too much material down. } 4... Nxg6 5. Bh6+ Kh8 { Black has a piece for two pawns and good chances to win. } *

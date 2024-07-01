@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "D. Anton"]
+[Black "L. van Foreest"]
+[Result "*"]
+[Puzzle "707"]
+[FEN "8/6pk/p2q2np/4bQ2/2P5/1P6/P6P/6RK w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. h4 $1 { White exploits the pin on the knight. After 38 Qe4? (as played in the game) Black can hold the balance: 38...Qf6 (38...Bxh2? 39 c5!+– was the game continuation) 39 c5 Bb8 40 b4 h5 41 a4 Kh6 42 b5 axb5 43 axb5 Ne5 with equal chances. } 1... Qc6+ 2. Rg2 Qf6 3. Qxf6 gxf6 { 40...Bxf6 41 b4+–. } 4. c5 { White has two potential passed pawns and good chances to win. } *

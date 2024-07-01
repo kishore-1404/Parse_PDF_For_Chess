@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Esipenko"]
+[Black "Xu Yinglun"]
+[Result "*"]
+[Puzzle "917"]
+[FEN "5rk1/4bppp/Qn2p3/8/1pqPPB2/1Nn2BP1/5P1P/5RK1 w - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1. Qxb6 Qxb3 2. Qb7 Re8 { The game ended 23...Bf6 24 Bd6 Bxd4 (24...Rd8 25 e5+–) 25 Bxf8 Kxf8 26 Qd7 1-0. } 3. Ra1 Na2 4. Kg2 { White’s pair of bishops and potential passed d-pawn will prevail. } 4... Qb2 5. Qd7 Kf8 6. Rf1 Qc3 7. Bc7 b3 8. d5 *

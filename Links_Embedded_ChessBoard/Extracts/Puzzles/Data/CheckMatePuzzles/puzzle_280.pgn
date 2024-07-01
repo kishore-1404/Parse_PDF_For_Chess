@@ -1,0 +1,12 @@
+[Event "Women’s Olympiad, Chennai 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Forgas Moreno"]
+[Black "Nakhbayeva"]
+[Result "0-1"]
+[Puzzle "280"]
+[FEN "8/4ppk1/6p1/p7/P4PK1/3P2Pp/2Qb1B1P/7q b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... f5+ $1 2. Kh4 { White’s king also runs into trouble after 43 Kxh3 Qf1+ 44 Kh4 Qxf2 45 Qb2+ Kh7 followed by mate. } 2... Qf3 3. Bd4+ Kh6 4. Kxh3 Qf1+ { 46 Kh4 g5+ 47 fxg5+ Bxg5#. } 0-1

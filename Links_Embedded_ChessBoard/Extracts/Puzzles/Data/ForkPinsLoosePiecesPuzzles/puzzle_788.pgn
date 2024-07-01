@@ -1,0 +1,12 @@
+[Event "Bucharest rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Magold"]
+[Black "Costachi"]
+[Result "*"]
+[Puzzle "788"]
+[FEN "2r3k1/1pn1q3/n2p1r1b/3Pp2p/1P2PppP/3B2P1/3BQP1N/R4RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Nxg4 $1 hxg4 { 29...Rg6 30 Nxh6+ Rxh6 31 Qf3+–. } 2. Qxg4+ Kh7 3. Qxc8 *

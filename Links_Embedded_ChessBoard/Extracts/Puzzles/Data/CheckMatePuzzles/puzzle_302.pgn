@@ -1,0 +1,12 @@
+[Event "North Macedonian Ch, Skopje 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Risteski"]
+[Black "Stanojoski"]
+[Result "0-1"]
+[Puzzle "302"]
+[FEN "r2r2k1/5pb1/2p3p1/p3p3/Q7/1P1BqP2/bBPR2P1/2K4R b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Bxb3 $1 2. Qxb3 { 24 Qe4 Qc5–+ gives Black two extra pawns and an ongoing attack. } 2... Rab8 3. Qc3 Rxb2 $1 { Black uses his powerful dark-squared bishop to launch a mating attack. } 4. Qxb2 e4 5. Qb7 { Black exploit White’s exposed king after 27...exd3 28 Qc7 Qd4–+. } 0-1

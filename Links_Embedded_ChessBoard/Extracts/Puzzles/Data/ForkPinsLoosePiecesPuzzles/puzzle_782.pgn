@@ -1,0 +1,12 @@
+[Event "Swiss Team Ch 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bauer"]
+[Black "D. Asllani"]
+[Result "*"]
+[Puzzle "782"]
+[FEN "1r6/p2rnpk1/1p4pp/2p1n3/P1B1P3/3P4/2PB2PP/1R3RK1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1. Bc3 $1 Nc6 { Black is hopelessly tied up after 24...f6 25 Bxe5 fxe5 26 Rf7+ Kh8 27 Rbf1 Rg8 28 g4+–. } 2. Bb5 Nd4 3. Bxd7 Ne2+ 4. Kf2 Nxc3 5. Rb3 *

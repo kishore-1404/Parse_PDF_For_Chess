@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Robson"]
+[Black "Caruana"]
+[Result "0-1"]
+[Puzzle "151"]
+[FEN "5k2/pp2r3/1bn2r1p/3p2p1/8/3B1N1P/PPR2PP1/4R1K1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Rxf3 $1 2. Rxe7 Rxf2 $1 { Black wins a rook after 25 Rxb7 Rxc2+ 26 Rxb6 Rc1+ 27 Kf2 axb6–+. } 0-1

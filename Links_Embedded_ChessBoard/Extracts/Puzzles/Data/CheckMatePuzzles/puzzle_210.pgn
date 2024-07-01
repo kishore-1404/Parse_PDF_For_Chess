@@ -1,0 +1,12 @@
+[Event "Internet rapid 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Abdusattorov"]
+[Black "Mamedyarov"]
+[Result "1-0"]
+[Puzzle "210"]
+[FEN "r1b2k2/1p3rn1/p4qBQ/8/2pN2p1/6P1/PP3P1P/3R1K2 w - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1. Qh8+ $1 Ke7 2. Nc6+ $1 Ke6 { Black’s queenside pieces are unable to assist and he is mated after 34...bxc6? 35 Qd8+ Ke6 36 Qd6# or 34...Qxc6? 35 Qd8+ Ke6 36 Re1+ Qe4 37 Rxe4#. } 3. Nd8+ Ke7 4. Nxf7 Qxg6 5. Ne5 Qf6 6. Qd8+ { 38...Ke6 39 Rd6+ Kxe5 40 Qxf6+ Ke4 41 Rd4# (or 41 Qf4#). } 1-0

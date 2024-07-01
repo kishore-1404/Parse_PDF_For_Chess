@@ -1,0 +1,12 @@
+[Event "Kragerø 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Urkedal"]
+[Black "Ohanyan"]
+[Result "*"]
+[Puzzle "247"]
+[FEN "2kr4/pb5q/2pBp2r/1p4p1/2PPP1p1/2NQ1p1P/P4PP1/R2R2K1 b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Rxh3 $1 2. gxh3 Qxh3 3. Qf1 Qh5 4. Be5 Rd7 { The black rook heads for the h-file. } 5. Rd3 Rh7 { White has a large material advantage but he is unable to defend the h1-square. } 6. Qg2 fxg2 7. Kxg2 bxc4 *

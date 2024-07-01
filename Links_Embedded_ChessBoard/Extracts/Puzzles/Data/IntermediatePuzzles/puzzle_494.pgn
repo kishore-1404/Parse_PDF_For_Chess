@@ -1,0 +1,12 @@
+[Event "Serbian Team Ch, Vrnjačka Banja 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Desnica"]
+[Black "Kopasz"]
+[Result "*"]
+[Puzzle "494"]
+[FEN "r1bq3k/1pp3rp/p1nb2P1/3Q4/2Bp4/P3P3/1P1B1PP1/R3K2R b KQ - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... Be5 $1 { Black must stay alert; after 19...Bd7? (as played in the game) White exposed Black’s king and created mating threats: 20 gxh7 (threatening 21 Qg8+ followed by mate) 20...Rxh7 21 Rxh7+ Kxh7 22 Qf7+ Kh8 (22...Kh6 23 Bd3 leads to mate) 23 0-0-0 Qh4 24 Qxd7 Ne5 25 Qe6 1-0. } 2. Qxd8+ { White has insufficient compensation for the piece after 20 Rxh7+ Rxh7 21 gxh7 Qxd5 22 Bxd5 dxe3 23 Bxe3 Bf5–+. } 2... Nxd8 3. exd4 Bf6 { White’s attack is over and Black’s extra piece is decisive. } *

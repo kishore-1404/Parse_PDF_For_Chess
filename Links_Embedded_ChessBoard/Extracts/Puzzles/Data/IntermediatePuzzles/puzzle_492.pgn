@@ -1,0 +1,12 @@
+[Event "Nakhchivan 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "P. Gasimov"]
+[Black "S. Mammadov"]
+[Result "*"]
+[Puzzle "492"]
+[FEN "5r1k/pb4p1/4p2p/1B1pqp2/8/1PRQPP2/P5PP/6K1 b - - 0 1"]
+[PuzzleType "IntermediatePuzzles"]
+
+1... d4 $1 { The pawn-thrust exploits the lack of harmony among White’s pieces. } 2. f4 { Black obtains a decisive extra pawn after 29 Rc1 dxe3 30 Re1 (the game ended 30 Rc3? e2 0-1) 30...f4–+. } 2... Qd5 3. Rc2 dxe3 4. Qxd5 Bxd5 5. Re2 g5 $1 6. fxg5 { White loses his f4-pawn after 33 g3 gxf4 34 gxf4 Rg8+ 35 Kf1 Rg4–+. } 6... f4 7. gxh6 Rc8 *

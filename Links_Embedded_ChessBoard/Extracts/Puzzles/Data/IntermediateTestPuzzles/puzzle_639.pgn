@@ -1,0 +1,12 @@
+[Event "Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dziuba"]
+[Black "Shirov"]
+[Result "*"]
+[Puzzle "639"]
+[FEN "r6k/pb5p/1p6/3N4/2QP1r1q/8/PP4P1/2R2RK1 b - - 0 1"]
+[PuzzleType "IntermediateTestPuzzles"]
+
+1... Rg4 $1 { In the game 24...Rxf1+? allowed White to fend off the attack by 25 Rxf1 Rc8 26 Qb3 Qxd4+ 27 Ne3, when the chances were equal. } 2. Ne3 { 25 Qe2 Qg5 26 Ne3 Rg3–+. } 2... Qg3 $1 3. Qc3 { 26 Nxg4? Qxg2#. } 3... Bxg2 4. d5+ Rg7 5. Nf5 Qxc3 6. Rxc3 Rg5 *

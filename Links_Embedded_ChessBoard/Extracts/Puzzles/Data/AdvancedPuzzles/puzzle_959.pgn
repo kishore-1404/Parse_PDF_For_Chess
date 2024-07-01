@@ -1,0 +1,12 @@
+[Event "Buenos Aires 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ocampos"]
+[Black "Belmonte"]
+[Result "*"]
+[Puzzle "959"]
+[FEN "1k6/pp3q2/7p/3p1nN1/2pPb3/2P1Q1bB/P1P1R1P1/6K1 b - - 0 1"]
+[PuzzleType "AdvancedPuzzles"]
+
+1... Bh2+ $1 2. Kh1 { 41 Kxh2 Qc7+ 42 Kg1 Nxe3 43 Nxe4 dxe4 44 Rxe3 Qf4–+. } 2... Qh5 $1 { In the game Black went astray with 41...hxg5??, and White consolidated his material advantage by 42 Qxg5 Bc7 43 Rf2+–. } 3. Qc1 { 42 Qf2 Bg3–+. } 3... Bd6 4. Nxe4 dxe4 5. Re3 { White’s king is in a mating-net after 44 Re1 Ng3+ 45 Kg1 Ne2+ 46 Rxe2 Qxe2–+. } 5... Nxe3 6. Qxe3 Qd1+ 7. Qg1 Qxc2 *

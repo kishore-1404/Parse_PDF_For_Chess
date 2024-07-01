@@ -1,0 +1,12 @@
+[Event "Internet rapid 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Arjun"]
+[Black "Swiercz"]
+[Result "0-1"]
+[Puzzle "122"]
+[FEN "2r2kr1/1p1qn2p/pB1pbb2/4pp1B/2P2P2/1P6/P1N3PP/R2Q1RK1 b - - 0 1"]
+[PuzzleType "ElementaryTestPuzzles"]
+
+1... Qc6 $1 { White must give up the bishop on b6 to prevent mate on g2. } 0-1

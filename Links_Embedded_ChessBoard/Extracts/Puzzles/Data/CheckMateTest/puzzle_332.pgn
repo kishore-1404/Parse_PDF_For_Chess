@@ -1,0 +1,12 @@
+[Event "Commonwealth Ch, Waskaduwa 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E. Hossain"]
+[Black "Iniyan"]
+[Result "0-1"]
+[Puzzle "332"]
+[FEN "7r/5pk1/3p1b2/nP1q1R2/8/p1PB4/1P2Q3/1K1R4 b - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1... a2+ $1 2. Ka1 { 36 Kc2 Qb3+ 37 Kd2 Qxb2+ 38 Ke3 Re8+ 39 Kf3 Rxe2–+. } 2... Nb3+ 3. Kxa2 Nd2+ { 38 Rxd5 Ra8# or 38 b3 Qxb3+ 39 Ka1 Bxc3#. } 0-1

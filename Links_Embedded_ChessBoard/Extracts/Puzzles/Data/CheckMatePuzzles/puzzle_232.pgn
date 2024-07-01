@@ -1,0 +1,12 @@
+[Event "Wijk aan Zee 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gukesh"]
+[Black "Maghsoodloo"]
+[Result "*"]
+[Puzzle "232"]
+[FEN "1Q6/5pk1/P6p/5np1/8/6PP/2r2qB1/6RK b - - 0 1"]
+[PuzzleType "CheckMatePuzzles"]
+
+1... Nxg3+ $1 { It’s important for Black to remove White’s g3-pawn. Black missed this in the game, playing 41...Ra2? 42 Qe5+ and after 42...Kg6?? (42...Kg8 43 Qe8+ Kg7 44 Qe5+ = is a draw by repetition) 43 g4! Ne3 (43...Ng3+ 44 Qxg3 Qxg3 45 Be4++–) 44 Be4+ f5 45 Qd6++– White even went on to win. } 2. Kh2 Nf5 3. a7 { White loses his a-pawn after 43 Qe5+ Kg6 44 Kh1 Ra2–+. } 3... Ra2 4. a8=Q Rxa8 5. Qxa8 $2 { Now White gets mated, but 45 Qe5+ f6! 46 Qc7+ Kg6! 47 Rf1 Qb2 offers White no hope. } 5... Qf4+ 6. Kh1 Ng3+ 7. Kh2 Nf1+ { Or 47...Ne4+ 48 Kh1 Nf2#. } 8. Kh1 Qh2# *

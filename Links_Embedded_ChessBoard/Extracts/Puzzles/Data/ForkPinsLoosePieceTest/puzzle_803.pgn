@@ -1,0 +1,12 @@
+[Event "2nd Bundesliga 2022/3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Weishäutel"]
+[Black "Pezelj"]
+[Result "1-0"]
+[Puzzle "803"]
+[FEN "6k1/p3qpp1/1p4bp/3rp3/1PB1n3/P3P1QP/1B3PP1/2R3K1 w - - 0 1"]
+[PuzzleType "ForkPinsLoosePieceTest"]
+
+1. Qxg6 $1 fxg6 2. Bxd5+ Kh7 3. Bxe4 1-0

@@ -1,0 +1,12 @@
+[Event "Jakarta Zonal 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "E. Mohamad"]
+[Black "Tan Jun"]
+[Result "*"]
+[Puzzle "107"]
+[FEN "4r2r/kp3n1p/8/2p2R1Q/3pP2n/1R1P3q/PNPB3b/4K3 w - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1. Qxf7 $1 Re7 { In the game White resigned here, but it is a draw after... } 2. Qxe7 Bg3+ 3. Kd1 Qh1+ 4. Ke2 Qg2+ 5. Kd1 Qh1+ { 32...Bg3+ 33 Kd1 Re7 34 Qxe7 transposes to the main line. } *

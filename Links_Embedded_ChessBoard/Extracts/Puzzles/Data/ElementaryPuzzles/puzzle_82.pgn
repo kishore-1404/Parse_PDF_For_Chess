@@ -1,0 +1,12 @@
+[Event "Gijon 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Prado Lobo"]
+[Black "Soham"]
+[Result "*"]
+[Puzzle "82"]
+[FEN "6k1/2p5/b2b2p1/3q4/P1p1N3/4R3/2Q2PPP/3rN1K1 b - - 0 1"]
+[PuzzleType "ElementaryPuzzles"]
+
+1... Qd3 $1 { In the game, Black lost after 38...Be5?? 39 Nf6+ Bxf6 40 Qxg6+ Kf8 41 Re8# (1-0). } 2. Qc3 { 39 Qa2 Bb4–+ catches White in a fatal pin. } 2... Qxc3 3. Nxc3 Rc1 4. Kf1 Bf4 5. Re6 Bd2 { The pin on the e1-knight is decisive. } *

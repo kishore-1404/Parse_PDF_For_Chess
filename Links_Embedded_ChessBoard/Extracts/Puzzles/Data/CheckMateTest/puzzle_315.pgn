@@ -1,0 +1,12 @@
+[Event "Polish Ch, Warsaw 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gajewski"]
+[Black "Licznerski"]
+[Result "*"]
+[Puzzle "315"]
+[FEN "2r2k2/1rq2p1Q/4pb1p/pp1p3P/2n3R1/2PB2P1/KP2R3/8 w - - 0 1"]
+[PuzzleType "CheckMateTest"]
+
+1. Rxe6 $1 Bg5 2. Qh8# { The game continuation 34 Rxg5 was good enough after 34...Qe5 35 Qg8# (1-0). } *

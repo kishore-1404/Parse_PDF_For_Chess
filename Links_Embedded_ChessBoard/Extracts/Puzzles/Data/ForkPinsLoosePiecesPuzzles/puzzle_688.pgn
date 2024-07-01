@@ -1,0 +1,12 @@
+[Event "New York 2023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kaliksteyn"]
+[Black "Kantor"]
+[Result "*"]
+[Puzzle "688"]
+[FEN "r2q1rk1/pp5p/2nb4/3p1ppb/3P1n2/1Q3NB1/PP3PPP/1BR1RNK1 b - - 0 1"]
+[PuzzleType "ForkPinsLoosePiecesPuzzles"]
+
+1... Bxf3 $1 2. Qxf3 Nxd4 3. Qd1 Nde2+ 4. Rxe2 Nxe2+ 5. Qxe2 { Black will capture White’s dark-squared bishop, with good chances to win. } 5... f4 6. Qh5 Rf7 *

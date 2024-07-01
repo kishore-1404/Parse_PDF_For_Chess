@@ -1,0 +1,12 @@
+[Event "European Rapid Ch, Katowice 2022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "An. Kozak"]
+[Black "Lagarde"]
+[Result "*"]
+[Puzzle "977"]
+[FEN "r5k1/p3q2p/4b1p1/1Qp1b2B/3pP3/1P4PP/PNP4K/3RR3 b - - 0 1"]
+[PuzzleType "DeadlyPuzzles"]
+
+1... Qh4 $1 2. Qe2 $6 { 23 Qd3 is more resilient, but Black has a decisive attack after 23...Qxh3+ 24 Kg1 Bxg3 (Black threatens 25...Qh2+ followed by mate) 25 Re2 Qxh5 26 Rf1 Bf4 27 Nd1 (27 Qf3 Qxf3 28 Rxf3 Bg4 leads to a bad endgame for White) 27...Rf8–+. } 2... Bxg3+ 3. Kg1 gxh5 4. Qa6 { 25 Rf1 Bxh3 26 Rf5 Kh8 27 Qxh5 Bf2+ 28 Kh1 Qxe4+ 29 Qf3 Bxf5–+. } 4... Bf2+ 5. Kf1 Qxh3+ 6. Ke2 { 27 Kxf2 Qh2+ 28 Kf3 Rf8#. } 6... Qe3+ 7. Kf1 Bh3# *
